@@ -1,0 +1,4 @@
+# Cerebro-biblioteca: solo texto. Los PDF viven en E:.
+*.pdf
+*.log
+Temp/
