@@ -5,13 +5,13 @@ author: "Juan Pérez Valcárcel"
 categoria: "Arquitectura"
 paginas: 27
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Arquitectura/La orientación de las iglesias mozárabes.pdf"
+fuente: "local:E:/Biblioteca digital/Arquitectura/La orientación de las iglesias mozárabes.pdf"
 convertido: 2026-10-15
 ---
 
 # La orientación de las iglesias mozárabes
 
-> Texto extraído de `Arquitectura/La orientación de las iglesias mozárabes.pdf` (27 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arquitectura/La orientación de las iglesias mozárabes.pdf` (27 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

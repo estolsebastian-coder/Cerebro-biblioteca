@@ -5,13 +5,13 @@ author: "Frederick Copleston, S. J. (Autor); Juan Manuel García De La Mora (Tra
 categoria: "Filosofía"
 paginas: 4148
 extraccion: "mixto: 97 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Copleston - Historia De La Filosofía.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Copleston - Historia De La Filosofía.pdf"
 convertido: 2026-10-15
 ---
 
 # Historia De La Filosofia (parte 4 de 4)
 
-> Texto extraído de `Filosofía/Copleston - Historia De La Filosofía.pdf` (4148 páginas, mixto: 97 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Copleston - Historia De La Filosofía.pdf` (4148 páginas, mixto: 97 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 4020 -->
 

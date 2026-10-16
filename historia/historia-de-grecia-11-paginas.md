@@ -5,13 +5,13 @@ author: "Alicia Ruiz Gutiérrez"
 categoria: "Historia"
 paginas: 11
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Historia de Grecia (11 páginas).pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Historia de Grecia (11 páginas).pdf"
 convertido: 2026-10-15
 ---
 
 # OCW-Tema 1
 
-> Texto extraído de `Historia/Historia de Grecia (11 páginas).pdf` (11 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Historia de Grecia (11 páginas).pdf` (11 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

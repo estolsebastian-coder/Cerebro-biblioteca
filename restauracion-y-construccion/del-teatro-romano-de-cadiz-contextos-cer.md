@@ -5,13 +5,13 @@ author: ""
 categoria: "Restauración y construcción"
 paginas: 21
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Restauración y construcción/Del_teatro_romano_de_Cadiz_Contextos_cer.pdf"
+fuente: "local:E:/Biblioteca digital/Restauración y construcción/Del_teatro_romano_de_Cadiz_Contextos_cer.pdf"
 convertido: 2026-10-13
 ---
 
 # Del_teatro_romano_de_Cadiz_Contextos_cer
 
-> Texto extraído de `Restauración y construcción/Del_teatro_romano_de_Cadiz_Contextos_cer.pdf` (21 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Restauración y construcción/Del_teatro_romano_de_Cadiz_Contextos_cer.pdf` (21 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

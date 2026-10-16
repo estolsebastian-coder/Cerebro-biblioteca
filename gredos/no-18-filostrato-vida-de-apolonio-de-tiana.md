@@ -5,13 +5,13 @@ author: ""
 categoria: "Gredos"
 paginas: 524
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Gredos/Nº 18. Filóstrato, Vida de Apolonio de Tiana.pdf"
+fuente: "local:E:/Biblioteca digital/Gredos/Nº 18. Filóstrato, Vida de Apolonio de Tiana.pdf"
 convertido: 2026-10-15
 ---
 
 # Nº 18. Filóstrato, Vida de Apolonio de Tiana
 
-> Texto extraído de `Gredos/Nº 18. Filóstrato, Vida de Apolonio de Tiana.pdf` (524 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Gredos/Nº 18. Filóstrato, Vida de Apolonio de Tiana.pdf` (524 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

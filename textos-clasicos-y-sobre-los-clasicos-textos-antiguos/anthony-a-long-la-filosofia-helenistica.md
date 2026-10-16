@@ -5,13 +5,13 @@ author: ""
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 250
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Anthony_A_Long_La_filosofia_helenistica.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Anthony_A_Long_La_filosofia_helenistica.pdf"
 convertido: 2026-10-15
 ---
 
 # Anthony_A_Long_La_filosofia_helenistica
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Anthony_A_Long_La_filosofia_helenistica.pdf` (250 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Anthony_A_Long_La_filosofia_helenistica.pdf` (250 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

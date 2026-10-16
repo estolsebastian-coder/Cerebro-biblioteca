@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 468
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Gustavo Bueno/España frente a Europa. Gustavo Bueno..pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Gustavo Bueno/España frente a Europa. Gustavo Bueno..pdf"
 convertido: 2026-10-15
 ---
 
 # España frente a Europa. Gustavo Bueno.
 
-> Texto extraído de `Filosofía/Gustavo Bueno/España frente a Europa. Gustavo Bueno..pdf` (468 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Gustavo Bueno/España frente a Europa. Gustavo Bueno..pdf` (468 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

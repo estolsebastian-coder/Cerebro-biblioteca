@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 1014
 extraccion: "mixto: 7 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Nietzsche/Obras completas II. Escritos filológicos - Nietzsche, F.W..pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Nietzsche/Obras completas II. Escritos filológicos - Nietzsche, F.W..pdf"
 convertido: 2026-10-15
 ---
 
 # Obras completas II. Escritos filológicos - Nietzsche, F.W.
 
-> Texto extraído de `Filosofía/Nietzsche/Obras completas II. Escritos filológicos - Nietzsche, F.W..pdf` (1014 páginas, mixto: 7 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Nietzsche/Obras completas II. Escritos filológicos - Nietzsche, F.W..pdf` (1014 páginas, mixto: 7 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

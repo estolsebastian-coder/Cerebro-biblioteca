@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 226
 extraccion: "ocr (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Heidegger/Heidegger - ¿Qué significa pensar.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Heidegger/Heidegger - ¿Qué significa pensar.pdf"
 convertido: 2026-10-15
 ---
 
 # Heidegger - ¿Qué significa pensar
 
-> Texto extraído de `Filosofía/Heidegger/Heidegger - ¿Qué significa pensar.pdf` (226 páginas, ocr (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Heidegger/Heidegger - ¿Qué significa pensar.pdf` (226 páginas, ocr (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

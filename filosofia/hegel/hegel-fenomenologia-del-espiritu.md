@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 494
 extraccion: "mixto: 28 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Hegel/Hegel, Fenomenología del espíritu.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Hegel/Hegel, Fenomenología del espíritu.pdf"
 convertido: 2026-10-15
 ---
 
 # Hegel, Fenomenología del espíritu
 
-> Texto extraído de `Filosofía/Hegel/Hegel, Fenomenología del espíritu.pdf` (494 páginas, mixto: 28 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Hegel/Hegel, Fenomenología del espíritu.pdf` (494 páginas, mixto: 28 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

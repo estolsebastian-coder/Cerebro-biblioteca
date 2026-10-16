@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 284
 extraccion: "mixto: 5 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/aristoteles-etica-nicomaquea-etica-eudemia-gredos.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/aristoteles-etica-nicomaquea-etica-eudemia-gredos.pdf"
 convertido: 2026-10-16
 ---
 
 # aristoteles-etica-nicomaquea-etica-eudemia-gredos
 
-> Texto extraído de `pdf´s mezclados/aristoteles-etica-nicomaquea-etica-eudemia-gredos.pdf` (284 páginas, mixto: 5 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/aristoteles-etica-nicomaquea-etica-eudemia-gredos.pdf` (284 páginas, mixto: 5 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

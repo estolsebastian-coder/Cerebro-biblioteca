@@ -5,13 +5,13 @@ author: ""
 categoria: "Tesis doctorales y análisis"
 paginas: 62
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/LA_IGLESIA_DE_LOS_DESAMPARADOS_DE_LES_CO.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/LA_IGLESIA_DE_LOS_DESAMPARADOS_DE_LES_CO.pdf"
 convertido: 2026-10-13
 ---
 
 # LA_IGLESIA_DE_LOS_DESAMPARADOS_DE_LES_CO
 
-> Texto extraído de `Tesis doctorales y análisis/LA_IGLESIA_DE_LOS_DESAMPARADOS_DE_LES_CO.pdf` (62 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/LA_IGLESIA_DE_LOS_DESAMPARADOS_DE_LES_CO.pdf` (62 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

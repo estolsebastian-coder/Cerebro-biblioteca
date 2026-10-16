@@ -5,13 +5,13 @@ author: "Aristóteles"
 categoria: "Filosofía"
 paginas: 502
 extraccion: "mixto: 23 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Aristóteles/Aristóteles, Física.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Aristóteles/Aristóteles, Física.pdf"
 convertido: 2026-10-15
 ---
 
 # Física
 
-> Texto extraído de `Filosofía/Aristóteles/Aristóteles, Física.pdf` (502 páginas, mixto: 23 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Aristóteles/Aristóteles, Física.pdf` (502 páginas, mixto: 23 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

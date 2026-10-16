@@ -5,13 +5,13 @@ author: "Principal"
 categoria: "Política"
 paginas: 16
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/El Imperio y la Multitud.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/El Imperio y la Multitud.pdf"
 convertido: 2026-10-16
 ---
 
 # El Imperio y la Multitud
 
-> Texto extraído de `pdf´s mezclados/El Imperio y la Multitud.pdf` (16 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/El Imperio y la Multitud.pdf` (16 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

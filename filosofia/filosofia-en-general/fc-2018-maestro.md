@@ -5,13 +5,13 @@ author: "jgm"
 categoria: "Filosofía"
 paginas: 16
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Filosofía en general/FC_2018_Maestro.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Filosofía en general/FC_2018_Maestro.pdf"
 convertido: 2026-10-15
 ---
 
 # Maestro - Estatuto científico de la TL ante la TCC
 
-> Texto extraído de `Filosofía/Filosofía en general/FC_2018_Maestro.pdf` (16 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Filosofía en general/FC_2018_Maestro.pdf` (16 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

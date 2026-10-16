@@ -5,13 +5,13 @@ author: "José Antonio Benavides López"
 categoria: "Tecnología láser, fotogrametría, otros"
 paginas: 21
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tecnología láser, fotogrametría, otros/Benavides;Martín;Rouco - Levantamiento arquitectónico y análisis arqueológico del castillo de Píñ.pdf"
+fuente: "local:E:/Biblioteca digital/Tecnología láser, fotogrametría, otros/Benavides;Martín;Rouco - Levantamiento arquitectónico y análisis arqueológico del castillo de Píñ.pdf"
 convertido: 2026-10-13
 ---
 
 # Levantamiento arquitectónico y análisis arqueológico del castillo de Píñar como punto de partida para su conservación
 
-> Texto extraído de `Tecnología láser, fotogrametría, otros/Benavides;Martín;Rouco - Levantamiento arquitectónico y análisis arqueológico del castillo de Píñ.pdf` (21 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tecnología láser, fotogrametría, otros/Benavides;Martín;Rouco - Levantamiento arquitectónico y análisis arqueológico del castillo de Píñ.pdf` (21 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: ""
 categoria: "Literatura"
 paginas: 62
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Alighieri, Dante - La Vida Nueva.Pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Alighieri, Dante - La Vida Nueva.Pdf"
 convertido: 2026-10-16
 ---
 
 # Alighieri, Dante - La Vida Nueva
 
-> Texto extraído de `pdf´s mezclados/Alighieri, Dante - La Vida Nueva.Pdf` (62 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Alighieri, Dante - La Vida Nueva.Pdf` (62 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

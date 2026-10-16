@@ -5,13 +5,13 @@ author: ""
 categoria: "Arqueología"
 paginas: 21
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/A_proposito_de_la_altura_de_los_hornos_r.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/A_proposito_de_la_altura_de_los_hornos_r.pdf"
 convertido: 2026-10-12
 ---
 
 # A_proposito_de_la_altura_de_los_hornos_r
 
-> Texto extraído de `Arqueología/A_proposito_de_la_altura_de_los_hornos_r.pdf` (21 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/A_proposito_de_la_altura_de_los_hornos_r.pdf` (21 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: "Sebastián Estol"
 categoria: "Filosofía"
 paginas: 261
 extraccion: "mixto: 236 páginas por OCR (eng)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Epistemología/Prince of Networks. Bruno Latour and Metaphysics. Graham Harman.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Epistemología/Prince of Networks. Bruno Latour and Metaphysics. Graham Harman.pdf"
 convertido: 2026-10-15
 ---
 
 # Prince of Networks_ Bruno Latour and Metaphysics
 
-> Texto extraído de `Filosofía/Epistemología/Prince of Networks. Bruno Latour and Metaphysics. Graham Harman.pdf` (261 páginas, mixto: 236 páginas por OCR (eng)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Epistemología/Prince of Networks. Bruno Latour and Metaphysics. Graham Harman.pdf` (261 páginas, mixto: 236 páginas por OCR (eng)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

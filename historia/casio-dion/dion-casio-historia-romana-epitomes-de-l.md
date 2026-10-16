@@ -5,13 +5,13 @@ author: ""
 categoria: "Historia"
 paginas: 204
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Casio Dion/DION_CASIO_Historia_Romana_Epitomes_de_l.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Casio Dion/DION_CASIO_Historia_Romana_Epitomes_de_l.pdf"
 convertido: 2026-10-15
 ---
 
 # DION_CASIO_Historia_Romana_Epitomes_de_l
 
-> Texto extraído de `Historia/Casio Dion/DION_CASIO_Historia_Romana_Epitomes_de_l.pdf` (204 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Casio Dion/DION_CASIO_Historia_Romana_Epitomes_de_l.pdf` (204 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

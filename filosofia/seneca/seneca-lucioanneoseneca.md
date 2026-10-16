@@ -5,13 +5,13 @@ author: "Lucio Anneo Séneca"
 categoria: "Filosofía"
 paginas: 2285
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Séneca/Seneca-LucioAnneoSeneca.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Séneca/Seneca-LucioAnneoSeneca.pdf"
 convertido: 2026-10-15
 ---
 
 # Séneca
 
-> Texto extraído de `Filosofía/Séneca/Seneca-LucioAnneoSeneca.pdf` (2285 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Séneca/Seneca-LucioAnneoSeneca.pdf` (2285 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

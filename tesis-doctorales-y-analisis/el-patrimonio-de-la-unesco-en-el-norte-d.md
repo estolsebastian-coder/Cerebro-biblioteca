@@ -5,13 +5,13 @@ author: "Parra Faba,  (Jorge)"
 categoria: "Tesis doctorales y análisis"
 paginas: 92
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/El_patrimonio_de_la_UNESCO_en_el_norte_d.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/El_patrimonio_de_la_UNESCO_en_el_norte_d.pdf"
 convertido: 2026-10-13
 ---
 
 # El_patrimonio_de_la_UNESCO_en_el_norte_d
 
-> Texto extraído de `Tesis doctorales y análisis/El_patrimonio_de_la_UNESCO_en_el_norte_d.pdf` (92 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/El_patrimonio_de_la_UNESCO_en_el_norte_d.pdf` (92 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

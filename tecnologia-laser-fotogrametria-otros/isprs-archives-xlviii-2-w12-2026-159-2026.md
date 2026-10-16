@@ -5,13 +5,13 @@ author: ""
 categoria: "Tecnología láser, fotogrametría, otros"
 paginas: 8
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tecnología láser, fotogrametría, otros/isprs-archives-XLVIII-2-W12-2026-159-2026.pdf"
+fuente: "local:E:/Biblioteca digital/Tecnología láser, fotogrametría, otros/isprs-archives-XLVIII-2-W12-2026-159-2026.pdf"
 convertido: 2026-10-13
 ---
 
 # isprs-archives-XLVIII-2-W12-2026-159-2026
 
-> Texto extraído de `Tecnología láser, fotogrametría, otros/isprs-archives-XLVIII-2-W12-2026-159-2026.pdf` (8 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tecnología láser, fotogrametría, otros/isprs-archives-XLVIII-2-W12-2026-159-2026.pdf` (8 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

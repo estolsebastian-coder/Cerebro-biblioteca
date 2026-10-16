@@ -5,13 +5,13 @@ author: "Poroto"
 categoria: "Filosofía"
 paginas: 100
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Platón/Platón. Ión.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Platón/Platón. Ión.pdf"
 convertido: 2026-10-15
 ---
 
 # Platón. Ión
 
-> Texto extraído de `Filosofía/Platón/Platón. Ión.pdf` (100 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Platón/Platón. Ión.pdf` (100 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

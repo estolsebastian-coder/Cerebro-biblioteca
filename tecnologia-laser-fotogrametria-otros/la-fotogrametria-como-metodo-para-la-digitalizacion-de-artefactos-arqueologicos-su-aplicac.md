@@ -5,13 +5,13 @@ author: "Jesús M. Gallegos Flores"
 categoria: "Tecnología láser, fotogrametría, otros"
 paginas: 152
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tecnología láser, fotogrametría, otros/La-fotogrametria-como-metodo-para-la-digitalizacion-de-artefactos-arqueologicos-su-aplicacion-y-la-resolucion-de-inconvenientes-en-las-colecciones-arqueologicas.pdf"
+fuente: "local:E:/Biblioteca digital/Tecnología láser, fotogrametría, otros/La-fotogrametria-como-metodo-para-la-digitalizacion-de-artefactos-arqueologicos-su-aplicacion-y-la-resolucion-de-inconvenientes-en-las-colecciones-arqueologicas.pdf"
 convertido: 2026-10-13
 ---
 
 # La-fotogrametria-como-metodo-para-la-digitalizacion-de-artefactos-arqueologicos-su-aplicacion-y-la-resolucion-de-inconvenientes-en-las-colecciones-arqueologicas
 
-> Texto extraído de `Tecnología láser, fotogrametría, otros/La-fotogrametria-como-metodo-para-la-digitalizacion-de-artefactos-arqueologicos-su-aplicacion-y-la-resolucion-de-inconvenientes-en-las-colecciones-arqueologicas.pdf` (152 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tecnología láser, fotogrametría, otros/La-fotogrametria-como-metodo-para-la-digitalizacion-de-artefactos-arqueologicos-su-aplicacion-y-la-resolucion-de-inconvenientes-en-las-colecciones-arqueologicas.pdf` (152 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

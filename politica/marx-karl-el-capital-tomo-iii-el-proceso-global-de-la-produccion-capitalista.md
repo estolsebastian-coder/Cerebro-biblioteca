@@ -5,13 +5,13 @@ author: ""
 categoria: "Política"
 paginas: 448
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Marx, Karl - El Capital - Tomo III. El proceso global de la producción capitalista..pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Marx, Karl - El Capital - Tomo III. El proceso global de la producción capitalista..pdf"
 convertido: 2026-10-16
 ---
 
 # Index of /info/bas/es/marx-eng/capital3
 
-> Texto extraído de `pdf´s mezclados/Marx, Karl - El Capital - Tomo III. El proceso global de la producción capitalista..pdf` (448 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Marx, Karl - El Capital - Tomo III. El proceso global de la producción capitalista..pdf` (448 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

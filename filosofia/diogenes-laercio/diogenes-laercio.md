@@ -5,13 +5,13 @@ author: "Diógenes Laercio"
 categoria: "Filosofía"
 paginas: 406
 extraccion: "mixto: 14 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Diógenes Laercio/Diógenes Laercio.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Diógenes Laercio/Diógenes Laercio.pdf"
 convertido: 2026-10-15
 ---
 
 # Los diez libros de Diógenes Laercio sobre las vidas opiniones y sentencias de los filósofos mas ilustres T. 2
 
-> Texto extraído de `Filosofía/Diógenes Laercio/Diógenes Laercio.pdf` (406 páginas, mixto: 14 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Diógenes Laercio/Diógenes Laercio.pdf` (406 páginas, mixto: 14 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

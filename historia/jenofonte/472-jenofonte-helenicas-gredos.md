@@ -5,13 +5,13 @@ author: ""
 categoria: "Historia"
 paginas: 342
 extraccion: "mixto: 4 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Jenofonte/472.Jenofonte-Helenicas-Gredos.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Jenofonte/472.Jenofonte-Helenicas-Gredos.pdf"
 convertido: 2026-10-15
 ---
 
 # 472.Jenofonte-Helenicas-Gredos
 
-> Texto extraído de `Historia/Jenofonte/472.Jenofonte-Helenicas-Gredos.pdf` (342 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Jenofonte/472.Jenofonte-Helenicas-Gredos.pdf` (342 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

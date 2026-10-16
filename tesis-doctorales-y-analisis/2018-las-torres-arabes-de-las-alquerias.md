@@ -5,13 +5,13 @@ author: ""
 categoria: "Tesis doctorales y análisis"
 paginas: 33
 extraccion: "mixto: 5 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/2018_Las_Torres_Arabes_de_las_Alquerias.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/2018_Las_Torres_Arabes_de_las_Alquerias.pdf"
 convertido: 2026-10-13
 ---
 
 # 2018_Las_Torres_Arabes_de_las_Alquerias
 
-> Texto extraído de `Tesis doctorales y análisis/2018_Las_Torres_Arabes_de_las_Alquerias.pdf` (33 páginas, mixto: 5 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/2018_Las_Torres_Arabes_de_las_Alquerias.pdf` (33 páginas, mixto: 5 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

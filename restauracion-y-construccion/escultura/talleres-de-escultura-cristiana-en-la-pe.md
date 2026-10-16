@@ -5,13 +5,13 @@ author: ""
 categoria: "Restauración y construcción"
 paginas: 23
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Restauración y construcción/Escultura/Talleres_de_escultura_cristiana_en_la_pe.pdf"
+fuente: "local:E:/Biblioteca digital/Restauración y construcción/Escultura/Talleres_de_escultura_cristiana_en_la_pe.pdf"
 convertido: 2026-10-13
 ---
 
 # Talleres_de_escultura_cristiana_en_la_pe
 
-> Texto extraído de `Restauración y construcción/Escultura/Talleres_de_escultura_cristiana_en_la_pe.pdf` (23 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Restauración y construcción/Escultura/Talleres_de_escultura_cristiana_en_la_pe.pdf` (23 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

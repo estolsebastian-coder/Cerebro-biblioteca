@@ -5,13 +5,13 @@ author: "Columela"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 407
 extraccion: "mixto: 7 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/329 - Columela, Libro de los Arboles - La Labranza I-V.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/329 - Columela, Libro de los Arboles - La Labranza I-V.pdf"
 convertido: 2026-10-15
 ---
 
 # Libro de los árboles. La labranza. Libros I-V (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/329 - Columela, Libro de los Arboles - La Labranza I-V.pdf` (407 páginas, mixto: 7 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/329 - Columela, Libro de los Arboles - La Labranza I-V.pdf` (407 páginas, mixto: 7 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

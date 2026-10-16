@@ -5,13 +5,13 @@ author: ""
 categoria: "Tesis doctorales y análisis"
 paginas: 128
 extraccion: "mixto: 12 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/Segorbe_Bien_de_Interes_Cultural.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/Segorbe_Bien_de_Interes_Cultural.pdf"
 convertido: 2026-10-13
 ---
 
 # Segorbe_Bien_de_Interes_Cultural
 
-> Texto extraído de `Tesis doctorales y análisis/Segorbe_Bien_de_Interes_Cultural.pdf` (128 páginas, mixto: 12 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/Segorbe_Bien_de_Interes_Cultural.pdf` (128 páginas, mixto: 12 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

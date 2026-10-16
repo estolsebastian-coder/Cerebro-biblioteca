@@ -5,13 +5,13 @@ author: "Crisipo"
 categoria: "Filosofía"
 paginas: 755
 extraccion: "mixto: 5 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Crisipo de Solos/Crisipo De Solos. - Testimonios Y Fragmentos I y II (1-318 y 319-606) [G] [2006].pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Crisipo de Solos/Crisipo De Solos. - Testimonios Y Fragmentos I y II (1-318 y 319-606) [G] [2006].pdf"
 convertido: 2026-10-15
 ---
 
 # Crisipo De Solos. - Testimonios Y Fragmentos I y II (1-318 y 319-606) [G] [2006]
 
-> Texto extraído de `Filosofía/Crisipo de Solos/Crisipo De Solos. - Testimonios Y Fragmentos I y II (1-318 y 319-606) [G] [2006].pdf` (755 páginas, mixto: 5 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Crisipo de Solos/Crisipo De Solos. - Testimonios Y Fragmentos I y II (1-318 y 319-606) [G] [2006].pdf` (755 páginas, mixto: 5 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

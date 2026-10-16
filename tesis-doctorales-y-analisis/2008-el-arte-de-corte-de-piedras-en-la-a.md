@@ -5,13 +5,13 @@ author: ""
 categoria: "Tesis doctorales y análisis"
 paginas: 26
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/2008_El_arte_de_corte_de_piedras_en_la_a.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/2008_El_arte_de_corte_de_piedras_en_la_a.pdf"
 convertido: 2026-10-13
 ---
 
 # 2008_El_arte_de_corte_de_piedras_en_la_a
 
-> Texto extraído de `Tesis doctorales y análisis/2008_El_arte_de_corte_de_piedras_en_la_a.pdf` (26 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/2008_El_arte_de_corte_de_piedras_en_la_a.pdf` (26 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

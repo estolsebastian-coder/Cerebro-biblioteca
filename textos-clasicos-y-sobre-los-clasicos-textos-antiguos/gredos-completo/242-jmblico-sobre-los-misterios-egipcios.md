@@ -5,13 +5,13 @@ author: "Jámblico"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 209
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/242 - J�mblico. Sobre los misterios egipcios.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/242 - J�mblico. Sobre los misterios egipcios.pdf"
 convertido: 2026-10-15
 ---
 
 # Sobre los misterios egipcios (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/242 - J�mblico. Sobre los misterios egipcios.pdf` (209 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/242 - J�mblico. Sobre los misterios egipcios.pdf` (209 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

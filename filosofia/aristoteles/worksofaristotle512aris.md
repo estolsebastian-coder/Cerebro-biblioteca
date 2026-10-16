@@ -5,13 +5,13 @@ author: "Aristotle; Ross, W. D. (William David), 1877-1971; Smith, J. A. (John A
 categoria: "Filosofía"
 paginas: 590
 extraccion: "mixto: 14 páginas por OCR (eng)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Aristóteles/worksofaristotle512aris.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Aristóteles/worksofaristotle512aris.pdf"
 convertido: 2026-10-15
 ---
 
 # The works of Aristotle translated into English
 
-> Texto extraído de `Filosofía/Aristóteles/worksofaristotle512aris.pdf` (590 páginas, mixto: 14 páginas por OCR (eng)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Aristóteles/worksofaristotle512aris.pdf` (590 páginas, mixto: 14 páginas por OCR (eng)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

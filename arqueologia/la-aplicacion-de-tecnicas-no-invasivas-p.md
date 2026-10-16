@@ -5,13 +5,13 @@ author: ""
 categoria: "Arqueología"
 paginas: 4
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/La_aplicacion_de_tecnicas_no_invasivas_p.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/La_aplicacion_de_tecnicas_no_invasivas_p.pdf"
 convertido: 2026-10-12
 ---
 
 # La_aplicacion_de_tecnicas_no_invasivas_p
 
-> Texto extraído de `Arqueología/La_aplicacion_de_tecnicas_no_invasivas_p.pdf` (4 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/La_aplicacion_de_tecnicas_no_invasivas_p.pdf` (4 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: "Cicerón"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 365
 extraccion: "mixto: 10 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/223 - Cicer�n. Cartas I.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/223 - Cicer�n. Cartas I.pdf"
 convertido: 2026-10-15
 ---
 
 # Cartas I. Cartas a Ático (cartas 1-161D) (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/223 - Cicer�n. Cartas I.pdf` (365 páginas, mixto: 10 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/223 - Cicer�n. Cartas I.pdf` (365 páginas, mixto: 10 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

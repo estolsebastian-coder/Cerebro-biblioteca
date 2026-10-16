@@ -5,13 +5,13 @@ author: ""
 categoria: "Arqueología"
 paginas: 168
 extraccion: "mixto: 5 páginas por OCR (eng)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/Revista Vitrubio.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/Revista Vitrubio.pdf"
 convertido: 2026-10-13
 ---
 
 # Revista Vitrubio
 
-> Texto extraído de `Arqueología/Revista Vitrubio.pdf` (168 páginas, mixto: 5 páginas por OCR (eng)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/Revista Vitrubio.pdf` (168 páginas, mixto: 5 páginas por OCR (eng)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

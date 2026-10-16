@@ -5,13 +5,13 @@ author: "Marco Limongiello, Lorenzo Radaelli and Laura De Girolamo"
 categoria: "Arqueología"
 paginas: 19
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/heritage-09-00174.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/heritage-09-00174.pdf"
 convertido: 2026-10-12
 ---
 
 # An Integrated Workflow from Reality-Based Survey to HBIM and Immersive Reconstruction: The Aeclanum Archaeological Park
 
-> Texto extraído de `Arqueología/heritage-09-00174.pdf` (19 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/heritage-09-00174.pdf` (19 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

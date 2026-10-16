@@ -5,13 +5,13 @@ author: "CamScanner"
 categoria: "Filosofía"
 paginas: 153
 extraccion: "mixto: 6 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Filosofía china/Lie Zi, El libro de la perfecta vacuidad -- Iñaki Preciado.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Filosofía china/Lie Zi, El libro de la perfecta vacuidad -- Iñaki Preciado.pdf"
 convertido: 2026-10-15
 ---
 
 # NuevoDocumento 2019-01-07 15.31.23
 
-> Texto extraído de `Filosofía/Filosofía china/Lie Zi, El libro de la perfecta vacuidad -- Iñaki Preciado.pdf` (153 páginas, mixto: 6 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Filosofía china/Lie Zi, El libro de la perfecta vacuidad -- Iñaki Preciado.pdf` (153 páginas, mixto: 6 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

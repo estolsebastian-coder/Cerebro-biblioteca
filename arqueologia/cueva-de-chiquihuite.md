@@ -5,13 +5,13 @@ author: "Sebastián Estol"
 categoria: "Arqueología"
 paginas: 23
 extraccion: "ocr (eng)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/Cueva de Chiquihuite.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/Cueva de Chiquihuite.pdf"
 convertido: 2026-10-13
 ---
 
 # Cueva de Chiquihuite
 
-> Texto extraído de `Arqueología/Cueva de Chiquihuite.pdf` (23 páginas, ocr (eng)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/Cueva de Chiquihuite.pdf` (23 páginas, ocr (eng)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 464
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Hegel/Hegel, Lecciones sobre la historia de la filosofía II.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Hegel/Hegel, Lecciones sobre la historia de la filosofía II.pdf"
 convertido: 2026-10-15
 ---
 
 # Hegel, Lecciones sobre la historia de la filosofía II
 
-> Texto extraído de `Filosofía/Hegel/Hegel, Lecciones sobre la historia de la filosofía II.pdf` (464 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Hegel/Hegel, Lecciones sobre la historia de la filosofía II.pdf` (464 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

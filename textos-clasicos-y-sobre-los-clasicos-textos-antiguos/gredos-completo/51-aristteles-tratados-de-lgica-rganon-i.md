@@ -5,13 +5,13 @@ author: "Aristóteles"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 320
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/51 - Arist�teles. Tratados de L�gica (�rganon) I.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/51 - Arist�teles. Tratados de L�gica (�rganon) I.pdf"
 convertido: 2026-10-15
 ---
 
 # Tratados de lógica (Orgánon) I: 1 (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/51 - Arist�teles. Tratados de L�gica (�rganon) I.pdf` (320 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/51 - Arist�teles. Tratados de L�gica (�rganon) I.pdf` (320 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

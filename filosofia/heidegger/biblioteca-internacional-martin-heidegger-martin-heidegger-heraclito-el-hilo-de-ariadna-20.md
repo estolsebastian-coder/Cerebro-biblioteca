@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 460
 extraccion: "ocr (spa+grc)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Heidegger/(Biblioteca Internacional Martin Heidegger) Martin Heidegger - Heráclito-El Hilo De Ariadna (2012).pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Heidegger/(Biblioteca Internacional Martin Heidegger) Martin Heidegger - Heráclito-El Hilo De Ariadna (2012).pdf"
 convertido: 2026-10-15
 ---
 
 # (Biblioteca Internacional Martin Heidegger) Martin Heidegger - Heráclito-El Hilo De Ariadna (2012)
 
-> Texto extraído de `Filosofía/Heidegger/(Biblioteca Internacional Martin Heidegger) Martin Heidegger - Heráclito-El Hilo De Ariadna (2012).pdf` (460 páginas, ocr (spa+grc)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Heidegger/(Biblioteca Internacional Martin Heidegger) Martin Heidegger - Heráclito-El Hilo De Ariadna (2012).pdf` (460 páginas, ocr (spa+grc)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 > **Nota:** El texto del PDF (FineReader sin griego) traía el griego en letras latinas; se rehizo por OCR con spa+grc (decisión de Sebastián, 2026-10-15). El griego sirve para buscar; los fragmentos se citan de Diels-Kranz.
 

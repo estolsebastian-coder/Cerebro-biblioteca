@@ -5,13 +5,13 @@ author: "Marcial"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 373
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/236 - Marcial, Epigramas - Vol. 1.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/236 - Marcial, Epigramas - Vol. 1.pdf"
 convertido: 2026-10-15
 ---
 
 # Epigramas I: 1 (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/236 - Marcial, Epigramas - Vol. 1.pdf` (373 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/236 - Marcial, Epigramas - Vol. 1.pdf` (373 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

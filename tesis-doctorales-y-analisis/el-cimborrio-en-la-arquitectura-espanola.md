@@ -5,13 +5,13 @@ author: ""
 categoria: "Tesis doctorales y análisis"
 paginas: 89
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/El_cimborrio_en_la_arquitectura_espanola.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/El_cimborrio_en_la_arquitectura_espanola.pdf"
 convertido: 2026-10-13
 ---
 
 # El_cimborrio_en_la_arquitectura_espanola
 
-> Texto extraído de `Tesis doctorales y análisis/El_cimborrio_en_la_arquitectura_espanola.pdf` (89 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/El_cimborrio_en_la_arquitectura_espanola.pdf` (89 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

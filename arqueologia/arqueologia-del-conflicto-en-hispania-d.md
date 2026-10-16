@@ -5,13 +5,13 @@ author: ""
 categoria: "Arqueología"
 paginas: 62
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/Arqueologia_del_conflicto_en_Hispania_d.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/Arqueologia_del_conflicto_en_Hispania_d.pdf"
 convertido: 2026-10-12
 ---
 
 # Arqueologia_del_conflicto_en_Hispania_d
 
-> Texto extraído de `Arqueología/Arqueologia_del_conflicto_en_Hispania_d.pdf` (62 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/Arqueologia_del_conflicto_en_Hispania_d.pdf` (62 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

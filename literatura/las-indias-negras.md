@@ -5,13 +5,13 @@ author: "elaleph.com"
 categoria: "Literatura"
 paginas: 130
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Las indias negras.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Las indias negras.pdf"
 convertido: 2026-10-16
 ---
 
 # Las Indias Negras - Julio Verne
 
-> Texto extraído de `pdf´s mezclados/Las indias negras.pdf` (130 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Las indias negras.pdf` (130 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

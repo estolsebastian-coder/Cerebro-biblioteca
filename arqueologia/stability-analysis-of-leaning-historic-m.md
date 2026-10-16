@@ -5,13 +5,13 @@ author: ""
 categoria: "Arqueología"
 paginas: 30
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/Stability_analysis_of_leaning_historic_m.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/Stability_analysis_of_leaning_historic_m.pdf"
 convertido: 2026-10-12
 ---
 
 # Stability_analysis_of_leaning_historic_m
 
-> Texto extraído de `Arqueología/Stability_analysis_of_leaning_historic_m.pdf` (30 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/Stability_analysis_of_leaning_historic_m.pdf` (30 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

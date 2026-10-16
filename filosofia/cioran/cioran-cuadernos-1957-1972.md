@@ -5,13 +5,13 @@ author: "E. M. Cioran"
 categoria: "Filosofía"
 paginas: 177
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Cioran/Cioran. Cuadernos-1957-1972.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Cioran/Cioran. Cuadernos-1957-1972.pdf"
 convertido: 2026-10-15
 ---
 
 # Cuadernos 1957-1972
 
-> Texto extraído de `Filosofía/Cioran/Cioran. Cuadernos-1957-1972.pdf` (177 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Cioran/Cioran. Cuadernos-1957-1972.pdf` (177 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

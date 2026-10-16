@@ -5,13 +5,13 @@ author: "Stephen Hawking"
 categoria: "Ciencia y matemática"
 paginas: 177
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Stephen Hawking - Historia del Tiempo.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Stephen Hawking - Historia del Tiempo.pdf"
 convertido: 2026-10-16
 ---
 
 # Historia del Tiempo: Del Big Bang a los Agujeros Negros
 
-> Texto extraído de `pdf´s mezclados/Stephen Hawking - Historia del Tiempo.pdf` (177 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Stephen Hawking - Historia del Tiempo.pdf` (177 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

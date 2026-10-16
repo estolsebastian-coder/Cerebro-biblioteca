@@ -5,13 +5,13 @@ author: ""
 categoria: "Arqueología"
 paginas: 8
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/Watchtowers on the coast of the kingdom of Granada (Spain). Graphic documentation as a starting point for their protection and conservation. Case studies Melicena tower.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/Watchtowers on the coast of the kingdom of Granada (Spain). Graphic documentation as a starting point for their protection and conservation. Case studies Melicena tower.pdf"
 convertido: 2026-10-12
 ---
 
 # Watchtowers on the coast of the kingdom of Granada (Spain). Graphic documentation as a starting point for their protection and conservation. Case studies Melicena tower
 
-> Texto extraído de `Arqueología/Watchtowers on the coast of the kingdom of Granada (Spain). Graphic documentation as a starting point for their protection and conservation. Case studies Melicena tower.pdf` (8 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/Watchtowers on the coast of the kingdom of Granada (Spain). Graphic documentation as a starting point for their protection and conservation. Case studies Melicena tower.pdf` (8 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

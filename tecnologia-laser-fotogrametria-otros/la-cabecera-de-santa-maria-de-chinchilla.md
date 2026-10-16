@@ -5,13 +5,13 @@ author: ""
 categoria: "Tecnología láser, fotogrametría, otros"
 paginas: 14
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tecnología láser, fotogrametría, otros/La_cabecera_de_Santa_Maria_de_Chinchilla.pdf"
+fuente: "local:E:/Biblioteca digital/Tecnología láser, fotogrametría, otros/La_cabecera_de_Santa_Maria_de_Chinchilla.pdf"
 convertido: 2026-10-13
 ---
 
 # La_cabecera_de_Santa_Maria_de_Chinchilla
 
-> Texto extraído de `Tecnología láser, fotogrametría, otros/La_cabecera_de_Santa_Maria_de_Chinchilla.pdf` (14 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tecnología láser, fotogrametría, otros/La_cabecera_de_Santa_Maria_de_Chinchilla.pdf` (14 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

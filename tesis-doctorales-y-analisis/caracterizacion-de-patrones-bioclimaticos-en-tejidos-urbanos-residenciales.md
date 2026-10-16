@@ -5,13 +5,13 @@ author: "04019"
 categoria: "Tesis doctorales y análisis"
 paginas: 71
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/Caracterización de patrones bioclimáticos en tejidos urbanos residenciales.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/Caracterización de patrones bioclimáticos en tejidos urbanos residenciales.pdf"
 convertido: 2026-10-13
 ---
 
 # Caracterización de patrones bioclimáticos en tejidos urbanos residenciales
 
-> Texto extraído de `Tesis doctorales y análisis/Caracterización de patrones bioclimáticos en tejidos urbanos residenciales.pdf` (71 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/Caracterización de patrones bioclimáticos en tejidos urbanos residenciales.pdf` (71 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

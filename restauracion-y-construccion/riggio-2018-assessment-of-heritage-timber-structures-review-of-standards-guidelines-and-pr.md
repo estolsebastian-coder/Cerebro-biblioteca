@@ -5,13 +5,13 @@ author: "Riggio, Mariapaola"
 categoria: "Restauración y construcción"
 paginas: 50
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Restauración y construcción/Riggio 2018 - Assessment of heritage timber structures - review of standards, guidelines and procedures.pdf"
+fuente: "local:E:/Biblioteca digital/Restauración y construcción/Riggio 2018 - Assessment of heritage timber structures - review of standards, guidelines and procedures.pdf"
 convertido: 2026-10-14
 ---
 
 # Riggio 2018 - Assessment of heritage timber structures - review of standards, guidelines and procedures
 
-> Texto extraído de `Restauración y construcción/Riggio 2018 - Assessment of heritage timber structures - review of standards, guidelines and procedures.pdf` (50 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Restauración y construcción/Riggio 2018 - Assessment of heritage timber structures - review of standards, guidelines and procedures.pdf` (50 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: "Epictetus; Schweighäuser, Johann, 1742-1830; Schenkl, Henricus, 1859-
 categoria: "Filosofía"
 paginas: 901
 extraccion: "mixto: 11 páginas por OCR (por)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Epicteto/Schenkl, Disertaciones. Epicteto..pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Epicteto/Schenkl, Disertaciones. Epicteto..pdf"
 convertido: 2026-10-15
 ---
 
 # Epicteti Dissertationes ab Arriano digestae
 
-> Texto extraído de `Filosofía/Epicteto/Schenkl, Disertaciones. Epicteto..pdf` (901 páginas, mixto: 11 páginas por OCR (por)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Epicteto/Schenkl, Disertaciones. Epicteto..pdf` (901 páginas, mixto: 11 páginas por OCR (por)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

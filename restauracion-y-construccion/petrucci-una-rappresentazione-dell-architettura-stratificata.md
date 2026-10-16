@@ -5,13 +5,13 @@ author: "Teresa Gil"
 categoria: "Restauración y construcción"
 paginas: 8
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Restauración y construcción/Petrucci - Una rappresentazione dell'architettura stratificata.pdf"
+fuente: "local:E:/Biblioteca digital/Restauración y construcción/Petrucci - Una rappresentazione dell'architettura stratificata.pdf"
 convertido: 2026-10-13
 ---
 
 # Petrucci - Una rappresentazione dell'architettura stratificata
 
-> Texto extraído de `Restauración y construcción/Petrucci - Una rappresentazione dell'architettura stratificata.pdf` (8 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Restauración y construcción/Petrucci - Una rappresentazione dell'architettura stratificata.pdf` (8 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

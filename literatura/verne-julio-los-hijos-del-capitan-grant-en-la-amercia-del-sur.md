@@ -5,13 +5,13 @@ author: "dhc"
 categoria: "Literatura"
 paginas: 87
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Verne, Julio - Los Hijos del Capitán Grant en la Amercia del Sur.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Verne, Julio - Los Hijos del Capitán Grant en la Amercia del Sur.pdf"
 convertido: 2026-10-16
 ---
 
 # Verne, Julio - Los Hijos del Capitán Grant en la Amercia del Sur
 
-> Texto extraído de `pdf´s mezclados/Verne, Julio - Los Hijos del Capitán Grant en la Amercia del Sur.pdf` (87 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Verne, Julio - Los Hijos del Capitán Grant en la Amercia del Sur.pdf` (87 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 592
 extraccion: "mixto: 12 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Platón/Dialogos I. Platón.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Platón/Dialogos I. Platón.pdf"
 convertido: 2026-10-15
 ---
 
 # Dialogos I. Platón
 
-> Texto extraído de `Filosofía/Platón/Dialogos I. Platón.pdf` (592 páginas, mixto: 12 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Platón/Dialogos I. Platón.pdf` (592 páginas, mixto: 12 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

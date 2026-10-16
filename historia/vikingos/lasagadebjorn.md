@@ -5,13 +5,13 @@ author: "Teodoro Manrique Antón"
 categoria: "Historia"
 paginas: 131
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Vikingos/LaSagaDeBjorn.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Vikingos/LaSagaDeBjorn.pdf"
 convertido: 2026-10-15
 ---
 
 # LaSagaDeBjorn
 
-> Texto extraído de `Historia/Vikingos/LaSagaDeBjorn.pdf` (131 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Vikingos/LaSagaDeBjorn.pdf` (131 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

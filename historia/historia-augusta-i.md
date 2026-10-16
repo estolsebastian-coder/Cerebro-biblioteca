@@ -5,13 +5,13 @@ author: ""
 categoria: "Historia"
 paginas: 544
 extraccion: "mixto: 13 páginas por OCR (eng)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Historia_Augusta_I.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Historia_Augusta_I.pdf"
 convertido: 2026-10-15
 ---
 
 # Historia_Augusta_I
 
-> Texto extraído de `Historia/Historia_Augusta_I.pdf` (544 páginas, mixto: 13 páginas por OCR (eng)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Historia_Augusta_I.pdf` (544 páginas, mixto: 13 páginas por OCR (eng)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

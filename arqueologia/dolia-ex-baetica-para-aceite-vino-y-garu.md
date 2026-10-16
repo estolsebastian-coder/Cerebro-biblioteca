@@ -5,13 +5,13 @@ author: ""
 categoria: "Arqueología"
 paginas: 35
 extraccion: "mixto: 14 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/Dolia_ex_Baetica_para_aceite_vino_y_garu.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/Dolia_ex_Baetica_para_aceite_vino_y_garu.pdf"
 convertido: 2026-10-13
 ---
 
 # Dolia_ex_Baetica_para_aceite_vino_y_garu
 
-> Texto extraído de `Arqueología/Dolia_ex_Baetica_para_aceite_vino_y_garu.pdf` (35 páginas, mixto: 14 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/Dolia_ex_Baetica_para_aceite_vino_y_garu.pdf` (35 páginas, mixto: 14 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

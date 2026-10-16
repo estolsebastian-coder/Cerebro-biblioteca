@@ -5,13 +5,13 @@ author: "Hincapi, Hernando;Osorio, Amado E.;"
 categoria: "Filosofía"
 paginas: 732
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Hegel/Hegel - Prólogo de la fenomenología del espíritu (Comentario).pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Hegel/Hegel - Prólogo de la fenomenología del espíritu (Comentario).pdf"
 convertido: 2026-10-15
 ---
 
 # Prlogo de la fenomenologa del espiritu de Hegel . Traduccin y comentarios a sus parrafos
 
-> Texto extraído de `Filosofía/Hegel/Hegel - Prólogo de la fenomenología del espíritu (Comentario).pdf` (732 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Hegel/Hegel - Prólogo de la fenomenología del espíritu (Comentario).pdf` (732 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

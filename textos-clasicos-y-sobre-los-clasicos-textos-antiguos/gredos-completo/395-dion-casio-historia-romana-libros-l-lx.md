@@ -5,13 +5,13 @@ author: "Dion Casio"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 515
 extraccion: "mixto: 8 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/395 - Dion Casio. Historia romana - Libros L-LX.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/395 - Dion Casio. Historia romana - Libros L-LX.pdf"
 convertido: 2026-10-15
 ---
 
 # Historia romana. Libros L-LX: L; LX (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/395 - Dion Casio. Historia romana - Libros L-LX.pdf` (515 páginas, mixto: 8 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/395 - Dion Casio. Historia romana - Libros L-LX.pdf` (515 páginas, mixto: 8 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

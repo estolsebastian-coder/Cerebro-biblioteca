@@ -5,13 +5,13 @@ author: ""
 categoria: "Restauración y construcción"
 paginas: 44
 extraccion: "mixto: 9 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Restauración y construcción/Estereotomía/Estereotomía y talla de la piedra. Rabasa.pdf"
+fuente: "local:E:/Biblioteca digital/Restauración y construcción/Estereotomía/Estereotomía y talla de la piedra. Rabasa.pdf"
 convertido: 2026-10-13
 ---
 
 # Estereotomía y talla de la piedra. Rabasa
 
-> Texto extraído de `Restauración y construcción/Estereotomía/Estereotomía y talla de la piedra. Rabasa.pdf` (44 páginas, mixto: 9 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Restauración y construcción/Estereotomía/Estereotomía y talla de la piedra. Rabasa.pdf` (44 páginas, mixto: 9 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

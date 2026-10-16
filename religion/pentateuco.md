@@ -5,13 +5,13 @@ author: "imac-new"
 categoria: "Religión"
 paginas: 24
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Religión/pentateuco.pdf"
+fuente: "local:E:/Biblioteca digital/Religión/pentateuco.pdf"
 convertido: 2026-10-16
 ---
 
 # pentateuco
 
-> Texto extraído de `Religión/pentateuco.pdf` (24 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Religión/pentateuco.pdf` (24 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

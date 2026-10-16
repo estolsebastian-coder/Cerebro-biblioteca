@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 49
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Derrida/Derrida_Jacques_Aporias_1993.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Derrida/Derrida_Jacques_Aporias_1993.pdf"
 convertido: 2026-10-15
 ---
 
 # Derrida_Jacques_Aporias_1993
 
-> Texto extraído de `Filosofía/Derrida/Derrida_Jacques_Aporias_1993.pdf` (49 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Derrida/Derrida_Jacques_Aporias_1993.pdf` (49 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

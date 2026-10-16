@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 14
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/NIETZSCHE FRIEDRICH - Homero Y La Filologia Clasica.PDF"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/NIETZSCHE FRIEDRICH - Homero Y La Filologia Clasica.PDF"
 convertido: 2026-10-16
 ---
 
 # NIETZSCHE FRIEDRICH - Homero Y La Filologia Clasica
 
-> Texto extraído de `pdf´s mezclados/NIETZSCHE FRIEDRICH - Homero Y La Filologia Clasica.PDF` (14 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/NIETZSCHE FRIEDRICH - Homero Y La Filologia Clasica.PDF` (14 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

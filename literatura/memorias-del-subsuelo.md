@@ -5,13 +5,13 @@ author: "Usuario Autorizado de HP"
 categoria: "Literatura"
 paginas: 49
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Memorias del subsuelo.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Memorias del subsuelo.pdf"
 convertido: 2026-10-16
 ---
 
 # LIBROdot
 
-> Texto extraído de `pdf´s mezclados/Memorias del subsuelo.pdf` (49 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Memorias del subsuelo.pdf` (49 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

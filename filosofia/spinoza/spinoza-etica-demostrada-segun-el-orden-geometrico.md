@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 303
 extraccion: "mixto: 19 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Spinoza/Spinoza, Ética demostrada según el orden geométrico.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Spinoza/Spinoza, Ética demostrada según el orden geométrico.pdf"
 convertido: 2026-10-15
 ---
 
 # Spinoza, Ética demostrada según el orden geométrico
 
-> Texto extraído de `Filosofía/Spinoza/Spinoza, Ética demostrada según el orden geométrico.pdf` (303 páginas, mixto: 19 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Spinoza/Spinoza, Ética demostrada según el orden geométrico.pdf` (303 páginas, mixto: 19 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 93
 extraccion: "ocr (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/El origen de la tragedia.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/El origen de la tragedia.pdf"
 convertido: 2026-10-16
 ---
 
 # El origen de la tragedia
 
-> Texto extraído de `pdf´s mezclados/El origen de la tragedia.pdf` (93 páginas, ocr (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/El origen de la tragedia.pdf` (93 páginas, ocr (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

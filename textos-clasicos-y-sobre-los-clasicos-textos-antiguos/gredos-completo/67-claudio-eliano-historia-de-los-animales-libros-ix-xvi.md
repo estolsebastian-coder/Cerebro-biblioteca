@@ -5,13 +5,13 @@ author: "Claudio Eliano"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 261
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/67 - Claudio Eliano, Historia de los Animales - Libros IX-XVI.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/67 - Claudio Eliano, Historia de los Animales - Libros IX-XVI.pdf"
 convertido: 2026-10-15
 ---
 
 # Historia de los animales. Libros IX-XVII (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/67 - Claudio Eliano, Historia de los Animales - Libros IX-XVI.pdf` (261 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/67 - Claudio Eliano, Historia de los Animales - Libros IX-XVI.pdf` (261 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: ""
 categoria: "Poesía"
 paginas: 7
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/de_las_carreras_-_oracion_pagana.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/de_las_carreras_-_oracion_pagana.pdf"
 convertido: 2026-10-16
 ---
 
 # de_las_carreras_-_oracion_pagana
 
-> Texto extraído de `pdf´s mezclados/de_las_carreras_-_oracion_pagana.pdf` (7 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/de_las_carreras_-_oracion_pagana.pdf` (7 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

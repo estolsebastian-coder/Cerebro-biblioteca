@@ -5,13 +5,13 @@ author: "Fonte"
 categoria: "Arqueología"
 paginas: 21
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/SPAL_35_05_Fonte_etal.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/SPAL_35_05_Fonte_etal.pdf"
 convertido: 2026-10-12
 ---
 
 # The Roman military origins of the Via XVII reaffirmed by the Alto de Espinho Roman camp (Northwest Iberia)
 
-> Texto extraído de `Arqueología/SPAL_35_05_Fonte_etal.pdf` (21 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/SPAL_35_05_Fonte_etal.pdf` (21 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

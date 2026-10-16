@@ -5,13 +5,13 @@ author: ""
 categoria: "Tesis doctorales y análisis"
 paginas: 190
 extraccion: "mixto: 11 páginas por OCR (eng)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/IvnMedinaCascales_GeometrykinematicsandpalaeoseismologyoftheBazaandGalerafaults.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/IvnMedinaCascales_GeometrykinematicsandpalaeoseismologyoftheBazaandGalerafaults.pdf"
 convertido: 2026-10-13
 ---
 
 # IvnMedinaCascales_GeometrykinematicsandpalaeoseismologyoftheBazaandGalerafaults
 
-> Texto extraído de `Tesis doctorales y análisis/IvnMedinaCascales_GeometrykinematicsandpalaeoseismologyoftheBazaandGalerafaults.pdf` (190 páginas, mixto: 11 páginas por OCR (eng)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/IvnMedinaCascales_GeometrykinematicsandpalaeoseismologyoftheBazaandGalerafaults.pdf` (190 páginas, mixto: 11 páginas por OCR (eng)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

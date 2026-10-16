@@ -5,13 +5,13 @@ author: "Aristóteles"
 categoria: "Filosofía"
 paginas: 484
 extraccion: "mixto: 10 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Aristóteles/Aristóteles, Política.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Aristóteles/Aristóteles, Política.pdf"
 convertido: 2026-10-15
 ---
 
 # Política
 
-> Texto extraído de `Filosofía/Aristóteles/Aristóteles, Política.pdf` (484 páginas, mixto: 10 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Aristóteles/Aristóteles, Política.pdf` (484 páginas, mixto: 10 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

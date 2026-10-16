@@ -5,13 +5,13 @@ author: "Andrea Angelini, Giovanni Caratelli, Marilena Cozzolino, Vincenzo Genti
 categoria: "Tecnología láser, fotogrametría, otros"
 paginas: 44
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tecnología láser, fotogrametría, otros/remotesensing-18-01526.pdf"
+fuente: "local:E:/Biblioteca digital/Tecnología láser, fotogrametría, otros/remotesensing-18-01526.pdf"
 convertido: 2026-10-13
 ---
 
 # New Insights into the Site of Madonna del Piano (Castro dei Volsci, Italy) Through a Combined Use of Drone-Acquired LIDAR Data, Laser Scanning, Photogrammetry, Historical Aerial Imagery Analysis, Geophysical Investigations and Archaeological Analysis
 
-> Texto extraído de `Tecnología láser, fotogrametría, otros/remotesensing-18-01526.pdf` (44 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tecnología láser, fotogrametría, otros/remotesensing-18-01526.pdf` (44 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

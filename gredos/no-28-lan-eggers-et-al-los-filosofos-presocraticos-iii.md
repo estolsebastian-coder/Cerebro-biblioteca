@@ -5,13 +5,13 @@ author: "Javier Cabrero"
 categoria: "Gredos"
 paginas: 226
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Gredos/Nº 28. Lan, Eggers et al_ -  Los Filosofos presocraticos III.pdf"
+fuente: "local:E:/Biblioteca digital/Gredos/Nº 28. Lan, Eggers et al_ -  Los Filosofos presocraticos III.pdf"
 convertido: 2026-10-15
 ---
 
 # 028 Filosofos.max
 
-> Texto extraído de `Gredos/Nº 28. Lan, Eggers et al_ -  Los Filosofos presocraticos III.pdf` (226 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Gredos/Nº 28. Lan, Eggers et al_ -  Los Filosofos presocraticos III.pdf` (226 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: ""
 categoria: "Religión"
 paginas: 1078
 extraccion: "mixto: 4 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Religión/BIBLIA COMENTADA 1 Pentateuco.pdf"
+fuente: "local:E:/Biblioteca digital/Religión/BIBLIA COMENTADA 1 Pentateuco.pdf"
 convertido: 2026-10-15
 ---
 
 # aBIBLIA COMENTADA 1 Pentateuco
 
-> Texto extraído de `Religión/BIBLIA COMENTADA 1 Pentateuco.pdf` (1078 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Religión/BIBLIA COMENTADA 1 Pentateuco.pdf` (1078 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

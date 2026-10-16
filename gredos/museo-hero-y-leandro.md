@@ -5,13 +5,13 @@ author: "Javier Cabrero"
 categoria: "Gredos"
 paginas: 78
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Gredos/- Museo, Hero y Leandro.pdf"
+fuente: "local:E:/Biblioteca digital/Gredos/- Museo, Hero y Leandro.pdf"
 convertido: 2026-10-15
 ---
 
 # 000 Museo, Hero y Leandro.max
 
-> Texto extraído de `Gredos/- Museo, Hero y Leandro.pdf` (78 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Gredos/- Museo, Hero y Leandro.pdf` (78 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

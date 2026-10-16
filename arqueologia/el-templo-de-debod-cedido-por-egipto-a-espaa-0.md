@@ -5,13 +5,13 @@ author: ""
 categoria: "Arqueología"
 paginas: 7
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/el-templo-de-debod-cedido-por-egipto-a-espaa-0.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/el-templo-de-debod-cedido-por-egipto-a-espaa-0.pdf"
 convertido: 2026-10-12
 ---
 
 # el-templo-de-debod-cedido-por-egipto-a-espaa-0
 
-> Texto extraído de `Arqueología/el-templo-de-debod-cedido-por-egipto-a-espaa-0.pdf` (7 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/el-templo-de-debod-cedido-por-egipto-a-espaa-0.pdf` (7 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

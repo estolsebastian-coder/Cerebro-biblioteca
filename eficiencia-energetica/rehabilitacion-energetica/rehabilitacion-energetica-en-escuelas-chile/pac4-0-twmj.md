@@ -5,13 +5,13 @@ author: "nschultz"
 categoria: "Eficiencia energética"
 paginas: 23
 extraccion: "ocr (por)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Eficiencia energética/Rehabilitación energética/Rehabilitación energética en escuelas Chile/PAC4.0-TWMJ.pdf"
+fuente: "local:E:/Biblioteca digital/Eficiencia energética/Rehabilitación energética/Rehabilitación energética en escuelas Chile/PAC4.0-TWMJ.pdf"
 convertido: 2026-10-13
 ---
 
 # PAC4.0-TWMJ
 
-> Texto extraído de `Eficiencia energética/Rehabilitación energética/Rehabilitación energética en escuelas Chile/PAC4.0-TWMJ.pdf` (23 páginas, ocr (por)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Eficiencia energética/Rehabilitación energética/Rehabilitación energética en escuelas Chile/PAC4.0-TWMJ.pdf` (23 páginas, ocr (por)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

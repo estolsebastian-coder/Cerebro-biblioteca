@@ -5,13 +5,13 @@ author: "Hugo"
 categoria: "Historia"
 paginas: 87
 extraccion: "mixto: 8 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Historia/DeLaGuerra_Num_6.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/DeLaGuerra_Num_6.pdf"
 convertido: 2026-10-13
 ---
 
 # Revista II
 
-> Texto extraído de `Historia/DeLaGuerra_Num_6.pdf` (87 páginas, mixto: 8 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/DeLaGuerra_Num_6.pdf` (87 páginas, mixto: 8 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

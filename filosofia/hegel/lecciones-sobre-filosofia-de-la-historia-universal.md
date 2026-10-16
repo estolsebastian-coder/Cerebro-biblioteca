@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 561
 extraccion: "mixto: 15 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Hegel/Lecciones sobre filosofía de la historia universal.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Hegel/Lecciones sobre filosofía de la historia universal.pdf"
 convertido: 2026-10-15
 ---
 
 # Lecciones sobre filosofía de la historia universal
 
-> Texto extraído de `Filosofía/Hegel/Lecciones sobre filosofía de la historia universal.pdf` (561 páginas, mixto: 15 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Hegel/Lecciones sobre filosofía de la historia universal.pdf` (561 páginas, mixto: 15 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

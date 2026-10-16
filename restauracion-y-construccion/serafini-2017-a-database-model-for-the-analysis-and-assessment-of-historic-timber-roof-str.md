@@ -5,13 +5,13 @@ author: "Strathclyde Standard Desktop"
 categoria: "Restauración y construcción"
 paginas: 9
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Restauración y construcción/Serafini 2017 - A database model for the analysis and assessment of historic timber roof structures.pdf"
+fuente: "local:E:/Biblioteca digital/Restauración y construcción/Serafini 2017 - A database model for the analysis and assessment of historic timber roof structures.pdf"
 convertido: 2026-10-14
 ---
 
 # Serafini 2017 - A database model for the analysis and assessment of historic timber roof structures
 
-> Texto extraído de `Restauración y construcción/Serafini 2017 - A database model for the analysis and assessment of historic timber roof structures.pdf` (9 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Restauración y construcción/Serafini 2017 - A database model for the analysis and assessment of historic timber roof structures.pdf` (9 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 313
 extraccion: "mixto: 302 páginas por OCR (eng)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Filosofía/A History of Philosophy_V2 _ F Coplestone.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/A History of Philosophy_V2 _ F Coplestone.pdf"
 convertido: 2026-10-13
 ---
 
 # A History of Philosophy_V2 _ F Coplestone
 
-> Texto extraído de `Filosofía/A History of Philosophy_V2 _ F Coplestone.pdf` (313 páginas, mixto: 302 páginas por OCR (eng)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/A History of Philosophy_V2 _ F Coplestone.pdf` (313 páginas, mixto: 302 páginas por OCR (eng)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

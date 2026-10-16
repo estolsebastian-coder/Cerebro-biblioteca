@@ -5,13 +5,13 @@ author: ""
 categoria: "Religión"
 paginas: 2
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Religión/Oriente/Editorial Trotta El camino de la felicidad _ Abû Nasr al-Fârâbî _ 978-84-8164-540-8.PDF"
+fuente: "local:E:/Biblioteca digital/Religión/Oriente/Editorial Trotta El camino de la felicidad _ Abû Nasr al-Fârâbî _ 978-84-8164-540-8.PDF"
 convertido: 2026-10-16
 ---
 
 # Editorial Trotta El camino de la felicidad _ Abû Nasr al-Fârâbî _ 978-84-8164-540-8
 
-> Texto extraído de `Religión/Oriente/Editorial Trotta El camino de la felicidad _ Abû Nasr al-Fârâbî _ 978-84-8164-540-8.PDF` (2 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Religión/Oriente/Editorial Trotta El camino de la felicidad _ Abû Nasr al-Fârâbî _ 978-84-8164-540-8.PDF` (2 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

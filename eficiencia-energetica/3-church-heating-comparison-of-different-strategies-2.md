@@ -5,13 +5,13 @@ author: ""
 categoria: "Eficiencia energética"
 paginas: 6
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Eficiencia energética/3.Church heating comparison of different strategies_2.pdf"
+fuente: "local:E:/Biblioteca digital/Eficiencia energética/3.Church heating comparison of different strategies_2.pdf"
 convertido: 2026-10-12
 ---
 
 # 3.Church heating comparison of different strategies_2
 
-> Texto extraído de `Eficiencia energética/3.Church heating comparison of different strategies_2.pdf` (6 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Eficiencia energética/3.Church heating comparison of different strategies_2.pdf` (6 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

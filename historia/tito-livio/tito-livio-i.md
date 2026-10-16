@@ -5,13 +5,13 @@ author: ""
 categoria: "Historia"
 paginas: 420
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Tito Livio/tito livio i.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Tito Livio/tito livio i.pdf"
 convertido: 2026-10-15
 ---
 
 # tito livio i
 
-> Texto extraído de `Historia/Tito Livio/tito livio i.pdf` (420 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Tito Livio/tito livio i.pdf` (420 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

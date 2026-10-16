@@ -5,13 +5,13 @@ author: "G4"
 categoria: "Filosofía"
 paginas: 53
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Epistemología/Bibliografía/1929_Manifiesto.PDF"
+fuente: "local:E:/Biblioteca digital/Filosofía/Epistemología/Bibliografía/1929_Manifiesto.PDF"
 convertido: 2026-10-15
 ---
 
 # Rev Redes 18 fin
 
-> Texto extraído de `Filosofía/Epistemología/Bibliografía/1929_Manifiesto.PDF` (53 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Epistemología/Bibliografía/1929_Manifiesto.PDF` (53 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

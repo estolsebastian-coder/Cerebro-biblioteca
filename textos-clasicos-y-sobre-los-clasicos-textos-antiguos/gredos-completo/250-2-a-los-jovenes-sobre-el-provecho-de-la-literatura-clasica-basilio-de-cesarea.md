@@ -5,13 +5,13 @@ author: "Basilio de Cesárea"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 215
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/250.2 - A los jovenes Sobre el provecho de la literatura clasica - Basilio de Cesarea.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/250.2 - A los jovenes Sobre el provecho de la literatura clasica - Basilio de Cesarea.pdf"
 convertido: 2026-10-15
 ---
 
 # A los jovenes. Sobre el provecho de la literatura clasica
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/250.2 - A los jovenes Sobre el provecho de la literatura clasica - Basilio de Cesarea.pdf` (215 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/250.2 - A los jovenes Sobre el provecho de la literatura clasica - Basilio de Cesarea.pdf` (215 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

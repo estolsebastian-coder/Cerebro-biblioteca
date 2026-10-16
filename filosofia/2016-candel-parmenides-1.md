@@ -5,13 +5,13 @@ author: "Miguel Candel"
 categoria: "Filosofía"
 paginas: 29
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/2016 Candel Parmenides 1.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/2016 Candel Parmenides 1.pdf"
 convertido: 2026-10-15
 ---
 
 # Ser, verdad y misterio: El poema de Parménides
 
-> Texto extraído de `Filosofía/2016 Candel Parmenides 1.pdf` (29 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/2016 Candel Parmenides 1.pdf` (29 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

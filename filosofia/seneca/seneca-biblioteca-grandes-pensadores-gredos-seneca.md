@@ -5,13 +5,13 @@ author: "Séneca"
 categoria: "Filosofía"
 paginas: 658
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Séneca/Séneca (Biblioteca Grandes Pensadores Gredos) - Séneca.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Séneca/Séneca (Biblioteca Grandes Pensadores Gredos) - Séneca.pdf"
 convertido: 2026-10-15
 ---
 
 # Séneca (Biblioteca Grandes Pensadores Gredos)
 
-> Texto extraído de `Filosofía/Séneca/Séneca (Biblioteca Grandes Pensadores Gredos) - Séneca.pdf` (658 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Séneca/Séneca (Biblioteca Grandes Pensadores Gredos) - Séneca.pdf` (658 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

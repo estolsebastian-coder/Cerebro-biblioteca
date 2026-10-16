@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 255
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Séneca/Epístolas morales a Lucilio Tomo 1.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Séneca/Epístolas morales a Lucilio Tomo 1.pdf"
 convertido: 2026-10-15
 ---
 
 # Epístolas morales a Lucilio Tomo 1
 
-> Texto extraído de `Filosofía/Séneca/Epístolas morales a Lucilio Tomo 1.pdf` (255 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Séneca/Epístolas morales a Lucilio Tomo 1.pdf` (255 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

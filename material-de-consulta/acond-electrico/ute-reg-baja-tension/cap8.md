@@ -1,0 +1,450 @@
+---
+type: libro
+title: "Cap8"
+author: ""
+categoria: "ACOND. ELÉCTRICO"
+paginas: 10
+extraccion: "texto"
+fuente: "local:E:/MATERIAL DE CONSULTA/ACOND. ELÉCTRICO/UTE Reg. Baja  Tension/Cap8.pdf"
+convertido: 2026-10-16
+---
+
+# Cap8
+
+> Texto extraído de `ACOND. ELÉCTRICO\UTE Reg. Baja  Tension\Cap8.pdf` (10 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+REGLAMENTO DE BAJA TENSIÓN
+
+PRESCRIPCIONES GENERALES DE INSTALACIONES
+
+INTERIORES DE VIVIENDA
+
+CAPÍTULO VIII
+
+<!-- p. 2 -->
+
+REGLAMENTO DE BAJA TENSIÓN
+VIII-PRESCRIPCIONES GENERALES DE INSTALACIONES INTERIORES DE VIVIENDA
+
+I N D I C E
+
+1.- Ámbito de Aplicación........................................................................................................................................1
+
+2.- Tensiones de Utilización....................................................................................................................................1
+
+3.- Tierra.................................................................................................................................................................1
+3.1.- Tomas de Tierra.........................................................................................................................................1
+3.2.- Puntos de Puesta a Tierra..........................................................................................................................2
+3.3.- Líneas principales de Tierra. Derivaciones ...............................................................................................2
+
+4.- Elementos a conectar a Tierra ..........................................................................................................................3
+
+5.- Protección contra Contactos Indirectos............................................................................................................3
+
+6.- Instalación de Equipos de Medida....................................................................................................................4
+6.1.- Introducción...............................................................................................................................................4
+6.2.- Columnas Montantes .................................................................................................................................5
+
+7.- Tablero General de Distribución ......................................................................................................................6
+
+8.- Conductores.......................................................................................................................................................6
+8.1.- Naturaleza. Secciones.................................................................................................................................6
+8.2.- Elementos de Comando y Protección Generales.......................................................................................6
+8.3.- Elementos de Comando y Protección de las Derivaciones........................................................................6
+
+9.- Casas de Apartamentos o Varios Servicios, no comprendidos en la Ley 10.751.............................................7
+9.1.- Casas Pre-fabricadas..................................................................................................................................7
+9.2.- Propiedades Horizontales ..........................................................................................................................7
+9.3.- Edificios existentes adaptados para venta por la Ley 10.751....................................................................8
+
+N.5 / C VIII - JUNIO' 01
+
+<!-- p. 3 -->
+
+REGLAMENTO DE BAJA TENSIÓN
+VIII-PRESCRIPCIONES GENERALES DE INSTALACIONES INTERIORES DE VIVIENDA
+
+1.- Ámbito de Aplicación.
+
+Las presentes prescripciones son aplicables a las instalaciones interiores de las viviendas,
+así como en la medida que pueda afectarles, a las de locales comerciales, de oficinas y a las
+de cualquier otro destinado a fines análogos.
+
+2.- Tensiones de Utilización.
+
+La tensión nominal de utilización no será superior a 250 V con relación a tierra, tanto en el
+sistema trifásico de 220 V como en el de 380 V.
+
+Se admite utilizar tensiones superiores únicamente para alimentación de aparatos
+receptores especiales cuyas características así lo aconsejen.
+
+3.- Tierra.
+
+3.1.- Tomas de Tierra.
+
+En toda nueva edificación se establecerá una puesta a tierra de protección,
+siguiéndose para ello uno de los siguientes sistemas:
+
+Con carácter general todos los electrodos que integren un sistema de puesta a tierra
+deberán estar íntegramente construidos (o recubiertos bajo ciertas condiciones
+particulares normalizadas) con el mismo material conductor.
+
+a) Instalando en el fondo de las zanjas de cimentación de los edificios, y antes
+de empezar ésta, un conductor rígido de cobre desnudo de una sección
+mínima de 35 mm2, o un cable de acero galvanizado de 95 mm2, formando
+el anillo de enlace con tierra que comprenda a todo el perímetro del
+edificio. A este anillo deberán conectarse electrodos verticalmente hincados
+en el terreno, cuando, se prevea la necesidad de disminuir la resistencia de
+tierra que pueda presentar el conjunto de electrodos. Cuando se trate de
+construcciones que comprendan varios edificios próximos, se procurará
+vincular eléctricamente entre sí los anillos de enlace con tierra que forman
+la puesta a tierra de cada uno de ellos, con objeto de formar una malla de la
+mayor extensión posible.
+
+b) Instalando en patios o en jardines del edificio uno o varios electrodos de
+características adecuadas como se describe en el Capítulo XXIII sobre puesta a
+tierra del presente Reglamento.
+
+N.5 / C VIII - JUNIO' 01 Pág 1
+
+<!-- p. 4 -->
+
+REGLAMENTO DE BAJA TENSIÓN
+VIII-PRESCRIPCIONES GENERALES DE INSTALACIONES INTERIORES DE VIVIENDA
+
+Al anillo de enlace con tierra, o bien a los electrodos, se conectarán, en su
+caso, la estructura metálica del edificio, siempre y cuando no haya peligro de
+corrosión galvánica por el cierre del circuito por tierra, provocado por
+electrodos metálicos de potenciales diferentes. Cuando la cimentación del
+mismo se haga a base de zapatas de hormigón armado, podrá conectarse un
+cierto número de hierros de los considerados principales garantizando, con tal
+fin, la continuidad eléctrica de dichos hierros principales de las carreras o
+pilares de fundación o columnas de la estructura del edificio.
+
+Estas conexiones se establecerán por soldadura autógena, exotérmica, o
+conectores apropiados.
+
+Las líneas de enlace con tierra se establecerán de acuerdo con la situación y
+número previsto para los puntos de puesta a tierra.
+
+3.2.- Puntos de Puesta a Tierra.
+
+Los puntos de puesta a tierra se situarán:
+
+a) En los patios de aire y luz destinados a cocinas y cuartos de baño, etc.
+
+b) En el local o lugar de la centralización de medidores, si lo hubiere.
+
+c) En la base de las estructuras metálicas de los ascensores y montacargas, si los
+hubiere.
+
+d) En cualquier local donde se prevea la instalación de elementos destinados a
+servicios generales o especiales, y que por su clase de aislamiento o
+condiciones de instalación, deban ponerse a tierra.
+
+3.3.- Líneas principales de Tierra. Derivaciones.
+
+Al punto o puntos de puesta a tierra a) y b) indicados en el apartado anterior, se
+conectarán las líneas principales de tierra. Estas líneas podrán instalarse por los
+patios de aire y luz o por canalizaciones eléctricas interiores, con el fin de establecer
+a la altura de cada planta del edificio su derivación hasta el borne de conexión de los
+conductores de protección de cada local o vivienda.
+
+Las líneas principales y sus derivaciones pueden establecerse en las mismas
+canalizaciones eléctricas que las derivaciones individuales, siguiéndose a este
+respecto lo que señalan las disposiciones particulares indicadas en el Capítulo XXIII.
+
+N.5 / C VIII - JUNIO' 01 Pág 2
+
+<!-- p. 5 -->
+
+REGLAMENTO DE BAJA TENSIÓN
+VIII-PRESCRIPCIONES GENERALES DE INSTALACIONES INTERIORES DE VIVIENDA
+
+Únicamente es admitida la entrada directa de las derivaciones de la línea principal de
+tierra en cocinas y cuartos de baño, cuando, por la fecha de construcción del edificio,
+no se hubiese previsto la instalación de conductores de protección. En este caso, las
+masas de los aparatos receptores, cuando sus condiciones de instalación lo exijan,
+podrán ser conectadas a la derivación de la línea principal de tierra directamente, o
+bien a través de tomacorriente que dispongan de contacto de puesta a tierra.
+
+Las líneas principales de tierra estarán constituidas por conductores de cobre de igual
+sección, como mínimo, que la fijada para los conductores de protección. Pueden
+estar formadas por barras planas o redondas, por conductores aislados, se admitirán
+eventualmente desnudos solo en servicios trifásicos de 220 V con neutro aislado
+debiendo disponerse una protección mecánica en la parte en que estos conductores
+sean accesibles, así como en los pasos de techos, paredes, etc.
+
+No podrán utilizarse como conductores de tierra las tuberías de agua, gas,
+calefacción, desagües, conductos de evacuación de humos o basuras, ni las cubiertas
+metálicas de los cables, tanto de la instalación eléctrica como de teléfonos o de
+cualquier otro servicio similar.
+
+Las conexiones en los conductores de tierra serán realizadas mediante dispositivos,
+con tornillos de apriete u otros similares, que garanticen una continua, permanente y
+perfecta conexión, eléctrica y mecánica entre aquellos.
+
+4.- Elementos a conectar a Tierra.
+
+A la puesta a tierra establecida se conectará todo el sistema de cañerías metálicas
+accesibles, destinadas a la distribución y desagüe de agua o gas del edificio: (cuando estas
+cañerías estén aisladas eléctricamente a la entrada del servicio), toda masa metálica
+existente en la zona de la instalación, y las masas metálicas accesibles de los aparatos
+receptores, cuando su clase de aislamiento o condiciones de instalación así lo exijan.
+
+A esta misma puesta a tierra podrán conectarse los depósitos de fuel-oil, calefacción
+general, soportes de antenas de radio, televisión y pararrayos.
+
+5.- Protección contra Contactos Indirectos.
+
+En toda instalación se dispondrá uno de los siguientes sistemas de protección contra
+contactos indirectos:
+
+N.5 / C VIII - JUNIO' 01 Pág 3
+
+<!-- p. 6 -->
+
+REGLAMENTO DE BAJA TENSIÓN
+VIII-PRESCRIPCIONES GENERALES DE INSTALACIONES INTERIORES DE VIVIENDA
+
+a) Empleo de interruptores diferenciales.
+
+Se deberá instalar un interruptor diferencial que proteja la instalación en su
+conjunto y que tendrá, para la corriente de defecto a tierra, una sensibilidad que
+dependerá del valor máximo de la resistencia obtenida de puesta a tierra. Esta
+resistencia, tendrá el menor valor posible, de modo que en caso de defecto las
+masas no adquieran potenciales que superen los 24 V en locales húmedos y 50 V
+en locales secos.
+
+Cuando se utilicen interruptores diferenciales de 650 mA la resistencia de tierra
+no podrá superar los 37 Ω (0.650 × 37 = 24 V; previendo locales húmedos).
+
+En instalaciones domiciliarias será obligatorio el uso del interruptor diferencial de
+30 mA, que constituye un elemento de seguridad importante para las personas
+contra accidentes por fugas a tierra.
+
+En los casos de instalaciones existentes que no dispongan de puesta a tierra, los
+interruptores diferenciales de alta sensibilidad de 10 o 30 mA según se trate de
+zonas húmedas o secas, podrán ser utilizados como dispositivos de protección,
+aunque esta disposición pueda disminuir el grado de protección, conseguido
+cuando se utiliza conjuntamente con la puesta a tierra de las masas. Por ello se
+insiste en la necesidad de una adecuada puesta a tierra.
+
+b) Puesta a tierra de las masas y dispositivos de corte por corriente de defecto.
+
+Este sistema de protección es admitido exclusivamente cuando la corriente nominal
+del interruptor automático, sea como máximo de 6 A, debiendo cumplirse, además,
+las siguientes condiciones:
+
+• La resistencia de tierra medida desde el punto de conexión a tierra en los
+aparatos receptores será, como máximo, de 3,7 ohmios.
+
+6.- Instalación de Equipos de Medida.
+
+6.1.- Introducción.
+
+Los equipos de medida serán instalados en módulos, conjuntos o tableros con
+envolvente total aislante.
+
+Podrá utilizarse envolvente metálica, debidamente protegida contra la corrosión y
+provista de un conector adecuado para la puesta a tierra.
+
+Se podrán instalar de forma individual o concentrada.
+
+N.5 / C VIII - JUNIO' 01 Pág 4
+
+<!-- p. 7 -->
+
+REGLAMENTO DE BAJA TENSIÓN
+VIII-PRESCRIPCIONES GENERALES DE INSTALACIONES INTERIORES DE VIVIENDA
+
+La instalación individual se realizará solamente:
+
+• En viviendas unifamiliares o que disponen de terrenos particulares
+circundantes. En estos casos los equipos de medida irán ubicados en el interior
+de "tableros individuales o tipo intemperie", que se situarán en la valla o
+cerramiento o en el interior de nichos en fachada o pedestal de mampostería.
+
+En los edificios donde existan varias viviendas, locales o industrias los equipos
+de medida se instalarán de forma centralizada, en un lugar destinado
+exclusivamente a este fin.
+
+En función del número de medidores y plantas del edificio, los medidores se
+centralizarán de la siguiente forma:
+
+• En edificios de hasta 15 plantas o menos de 60 suministros la centralización se
+realizará en planta baja o subsuelo.
+
+• En edificios con más de 15 plantas o más de 60 suministros se podrán
+centralizar por plantas intermedias utilizando el sistema de columna
+montantes.
+
+• Cuando el número de suministros por planta sea superior a 14, se podrá
+centralizar por planta usando también la columna montante.
+
+6.2.- Columnas Montantes.
+
+Este sistema consiste en la concentración por planta de los medidores y en el
+conexionado del tablero principal ubicado en planta principal o subsuelo con los
+tableros de medidores que se ubiquen en los pisos superiores.
+
+Las condiciones para ejecutar esta instalación se detallan en los párrafos anteriores.
+
+El conexionado de los tableros de planta principal y tableros de piso se ejecutara con
+cables y eventualmente barras, por ductos, con puertas de inspección en cada piso.
+
+Se instalará una placa cortafuego por planta de acuerdo a lo indicado en el presente
+Reglamento.
+
+La instalación de columnas montantes, así como su conservación en perfectas
+condiciones de ejercicio, estará a cargo del propietario del edificio o de quien lo
+represente pero sujeta a la supervisión de UTE.
+
+La instalación de estos sistemas será sometida a consideración de los Servicio
+Técnicos de UTE. quien se reserva el derecho de aceptarlos o rechazarlos.
+
+N.5 / C VIII - JUNIO' 01 Pág 5
+
+<!-- p. 8 -->
+
+REGLAMENTO DE BAJA TENSIÓN
+VIII-PRESCRIPCIONES GENERALES DE INSTALACIONES INTERIORES DE VIVIENDA
+
+7.- Tablero General de Distribución.
+
+Se colocarán en el tablero general de distribución los interruptores automáticos (UNIT -
+IEC 898) o cortacircuitos (UNIT - IEC 269) así como, el dispositivo o dispositivos
+especiales de protección contra contactos indirectos. En este mismo cuadro se dispondrá
+un borne para la conexión de los conductores de protección de la instalación interior con la
+derivación de la línea principal de tierra.
+
+8.- Conductores.
+
+8.1.- Naturaleza. Secciones.
+
+Los conductores activos serán de cobre; estarán aislados, como mínimo, para la
+tensión nominal de 750 V (UNIT - IEC 227).
+
+Las secciones utilizadas serán, como mínimo, por resistencia mecánica, las indicadas
+en el apartado 9 del anexo al capítulo II.
+
+8.2.- Elementos de Comando y Protección Generales.
+
+Cuando el medidor resulte ubicado dentro de la finca los elementos de comando y
+protección generales deberán quedar inmediatamente al lado de aquél. Cuando el
+medidor se ubique sobre un muro exterior de la finca aquellos elementos podrán
+instalarse en el interior siempre que la distancia al medidor sea la menor posible.
+
+Si dicho lugar no fuese bien accesible se instalará todo al exterior.
+
+Cuando los elementos generales resulten ubicados a la intemperie o en lugares que
+no tengan fácil acceso tales como, subsuelos etc. debe instalarse obligatoriamente
+otros similares en un sitio adecuado y visible, dentro del ambiente residencial.
+
+8.3.- Elementos de Comando y Protección de las Derivaciones.
+
+La altura mínima de los elementos de protección será de 2 m, salvo que se
+encuentren montados sobre tableros.
+
+N.5 / C VIII - JUNIO' 01 Pág 6
+
+<!-- p. 9 -->
+
+REGLAMENTO DE BAJA TENSIÓN
+VIII-PRESCRIPCIONES GENERALES DE INSTALACIONES INTERIORES DE VIVIENDA
+
+Los interruptores en general deberán ubicarse en lugares de fácil y rápido acceso al
+alcance de la mano y en el mismo ambiente en que se encuentre el aparato o
+dispositivo que comandan salvo las derivaciones de alumbrado de jardines exteriores
+sótanos y lugares similares así como aquellos que tengan sus interruptores
+centralizados en tableros.
+
+9.- Casas de Apartamentos o Varios Servicios, no comprendidos en la Ley 10.751.
+
+Además de los I.C.P. generales centralizados contiguos a los medidores deberá instalarse
+un interruptor general en un sitio adecuado y visible dentro de cada apartamento.
+
+Cuando las líneas generales deban pasar por locales independientes del que se desea
+alimentar, así como por lugares no comunes del edificio deberán protegerse con conductos
+metálicos, quedando prohibido el montaje de conductores por cualquiera otro sistema así
+como la existencia de empalmes y cajas de unión o de registros.
+
+Cuando el número de servicios fuera igual o inferior a tres, se autorizará la instalación de
+una puesta de alumbrado sobre el dintel de la puerta de acceso de cada servicio
+condicionando a que tenga sus elementos de comando y protección ubicados en el interior
+del mismo. Si se trata de más de tres servicios el alumbrado de corredores, pasillos,
+escaleras, etc. deberá funcionar en circuito independiente con medidor propio.
+
+El empleo de equipos automáticos para el comando del alumbrado de "servicio" queda
+condicionado a la instalación de un dispositivo que permita mantener el funcionamiento
+permanente de la instalación.
+
+9.1.- Casas Pre-fabricadas.
+
+Las instalaciones en casas prefabricadas deberán ajustarse a los prescripciones que
+figuran en este reglamento para las instalaciones domiciliarias comunes.
+
+9.2.- Propiedades Horizontales.
+
+El diámetro mínimo de los conductos destinados a la protección de conductores para
+la conexión de los medidores con los tableros o cajas de centralización de cada
+apartamento (derivaciones individuales), será de 32 mm (11/4") y entre éstos y la caja
+del tomacorriente, que se instalará obligatoriamente en la cocina, el diámetro mínimo
+será de 19 mm (3/4"), para servicios de hasta 10 kW.
+
+N.5 / C VIII - JUNIO' 01 Pág 7
+
+<!-- p. 10 -->
+
+REGLAMENTO DE BAJA TENSIÓN
+VIII-PRESCRIPCIONES GENERALES DE INSTALACIONES INTERIORES DE VIVIENDA
+
+El lugar que se destine a los medidores deberá tener dimensiones suficientes como
+para colocar medidores trifásicos, hasta 10 kW para todos los apartamentos,
+incluyéndose también los servicios generales característicos de esta clase de
+construcciones.
+
+En todos los casos, deberá preverse la cañería necesaria para la entrada subterránea.
+
+En esta clase de edificios, las instalaciones se regirán por las directivas establecidas
+en este apartado, y en general, quedarán sujetas a las disposiciones que se
+determinan para casas de apartamentos.
+
+Los conductos que conducen las derivaciones individuales de cada apartamento, así
+como sus cajas de registro, deberán estar ubicados únicamente en corredores u otros
+lugares comunes.
+
+9.3.- Edificios existentes adaptados para venta por la Ley 10.751.
+
+Cuando se trate de edificios comunes que serán objeto de reformas y modificaciones
+para venta por unidades, deberán cumplirse las prescripciones que se indican en los
+apartados siguientes:
+
+El local para el tablero de medidores deberá contar con el espacio suficiente para el
+montaje de medidores trifásicos hasta 10 kW para todos los servicios.
+
+Se aceptarán las canalizaciones existentes, correspondientes a las derivaciones
+individuales, únicamente en el caso de que su diámetro sea igual o mayor de 25 mm.
+En el caso contrario podrá optarse por dos alternativas:
+
+• Instalación de conductos de 32 mm de diámetro ya sea en forma embutida o
+aparente.
+• Instalación de conductores super plástico (uno por servicio) de sección
+adecuada a la carga que se solicita.
+
+La instalación de las derivaciones individuales y cajas de pases, deberá realizarse por
+lugares de propiedad común. En ningún caso se permitirá el pasaje de dichas líneas
+por lugares correspondientes a pisos o apartamentos distintos al que alimentan.
+
+Para los problemas no previstos en estas disposiciones, se aplicará la reglamentación
+general de Propiedades Horizontales.
+
+Las instalaciones eléctricas monofásicas, con conductos generales de 19 mm. en
+apartamentos que solo consten de un dormitorio, un comedor, un cuarto de baño y
+cocina y que tengan suministro de gas instalado, serán aceptadas para Propiedad
+Horizontal siempre que las derivaciones individuales sean de 6 mm2. como
+mínimo.
+
+N.5 / C VIII - JUNIO' 01 Pág 8

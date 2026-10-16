@@ -5,13 +5,13 @@ author: "Aristóteles & Euclides"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 326
 extraccion: "mixto: 4 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/277 - Arist�teles & Euclides. Sobre las l�neas indivisibles, Mec�nica, �ptica, Cat�ptrica, Fen�menos.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/277 - Arist�teles & Euclides. Sobre las l�neas indivisibles, Mec�nica, �ptica, Cat�ptrica, Fen�menos.pdf"
 convertido: 2026-10-15
 ---
 
 # Sobre las líneas indivisibles. Mecánica. Óptica. Catóptrica. Fenómenos. (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/277 - Arist�teles & Euclides. Sobre las l�neas indivisibles, Mec�nica, �ptica, Cat�ptrica, Fen�menos.pdf` (326 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/277 - Arist�teles & Euclides. Sobre las l�neas indivisibles, Mec�nica, �ptica, Cat�ptrica, Fen�menos.pdf` (326 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

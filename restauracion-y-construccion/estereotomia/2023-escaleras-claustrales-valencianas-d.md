@@ -5,13 +5,13 @@ author: ""
 categoria: "Restauración y construcción"
 paginas: 23
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Restauración y construcción/Estereotomía/2023_Escaleras_claustrales_valencianas_d.pdf"
+fuente: "local:E:/Biblioteca digital/Restauración y construcción/Estereotomía/2023_Escaleras_claustrales_valencianas_d.pdf"
 convertido: 2026-10-13
 ---
 
 # 2023_Escaleras_claustrales_valencianas_d
 
-> Texto extraído de `Restauración y construcción/Estereotomía/2023_Escaleras_claustrales_valencianas_d.pdf` (23 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Restauración y construcción/Estereotomía/2023_Escaleras_claustrales_valencianas_d.pdf` (23 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

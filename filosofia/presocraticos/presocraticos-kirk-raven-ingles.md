@@ -5,13 +5,13 @@ author: "Kirk,G.S.; Raven,J.E."
 categoria: "Filosofía"
 paginas: 512
 extraccion: "mixto: 18 páginas por OCR (eng)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Presocráticos/Presocráticos. Kirk, Raven (inglés).pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Presocráticos/Presocráticos. Kirk, Raven (inglés).pdf"
 convertido: 2026-10-15
 ---
 
 # The Presocratic Philosophers; A Critical History With A Selection Of Texts.
 
-> Texto extraído de `Filosofía/Presocráticos/Presocráticos. Kirk, Raven (inglés).pdf` (512 páginas, mixto: 18 páginas por OCR (eng)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Presocráticos/Presocráticos. Kirk, Raven (inglés).pdf` (512 páginas, mixto: 18 páginas por OCR (eng)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

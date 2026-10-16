@@ -5,13 +5,13 @@ author: "francisco trujillo"
 categoria: "Arqueología"
 paginas: 81
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/T_fratruagu_1689235742_TRUJILLO_AGUILAR_02.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/T_fratruagu_1689235742_TRUJILLO_AGUILAR_02.pdf"
 convertido: 2026-10-12
 ---
 
 # T_fratruagu_1689235742_TRUJILLO_AGUILAR_02
 
-> Texto extraído de `Arqueología/T_fratruagu_1689235742_TRUJILLO_AGUILAR_02.pdf` (81 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/T_fratruagu_1689235742_TRUJILLO_AGUILAR_02.pdf` (81 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

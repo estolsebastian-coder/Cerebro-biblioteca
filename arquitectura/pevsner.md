@@ -5,13 +5,13 @@ author: ""
 categoria: "Arquitectura"
 paginas: 751
 extraccion: "ocr (eng)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Arquitectura/Pevsner.pdf"
+fuente: "local:E:/Biblioteca digital/Arquitectura/Pevsner.pdf"
 convertido: 2026-10-15
 ---
 
 # Pevsner
 
-> Texto extraído de `Arquitectura/Pevsner.pdf` (751 páginas, ocr (eng)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arquitectura/Pevsner.pdf` (751 páginas, ocr (eng)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

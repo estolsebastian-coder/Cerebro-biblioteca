@@ -5,13 +5,13 @@ author: "Javier Cabrero"
 categoria: "Gredos"
 paginas: 272
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Gredos/Nº 13. Hesíodo, Fragmentos.pdf"
+fuente: "local:E:/Biblioteca digital/Gredos/Nº 13. Hesíodo, Fragmentos.pdf"
 convertido: 2026-10-15
 ---
 
 # 013 Hesiodo.max
 
-> Texto extraído de `Gredos/Nº 13. Hesíodo, Fragmentos.pdf` (272 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Gredos/Nº 13. Hesíodo, Fragmentos.pdf` (272 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

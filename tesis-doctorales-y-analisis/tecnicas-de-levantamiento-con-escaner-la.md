@@ -5,13 +5,13 @@ author: "\"Isabel Mtnez\" <isaroju@hotmail.com>"
 categoria: "Tesis doctorales y análisis"
 paginas: 10
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/TECNICAS_DE_LEVANTAMIENTO_CON_ESCANER_LA.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/TECNICAS_DE_LEVANTAMIENTO_CON_ESCANER_LA.pdf"
 convertido: 2026-10-13
 ---
 
 # Hipótesis y restitución virtual de la bóveda de la capilla mayor Iglesia de los Desamparados (Les Coves de Vinromá, Castellón) basada en Técnicas de Levantamiento con Escáner Láser
 
-> Texto extraído de `Tesis doctorales y análisis/TECNICAS_DE_LEVANTAMIENTO_CON_ESCANER_LA.pdf` (10 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/TECNICAS_DE_LEVANTAMIENTO_CON_ESCANER_LA.pdf` (10 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

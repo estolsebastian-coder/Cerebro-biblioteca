@@ -5,13 +5,13 @@ author: "Librodot.com"
 categoria: "Literatura"
 paginas: 85
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Mariana Pineda.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Mariana Pineda.pdf"
 convertido: 2026-10-16
 ---
 
 # LIBROdot
 
-> Texto extraído de `pdf´s mezclados/Mariana Pineda.pdf` (85 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Mariana Pineda.pdf` (85 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: "Schopenhauer, Arthur(Author)"
 categoria: "Filosofía"
 paginas: 165
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Schopenahuer/Schopenhauer - El arte de ser feliz.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Schopenahuer/Schopenhauer - El arte de ser feliz.pdf"
 convertido: 2026-10-15
 ---
 
 # El arte de ser feliz: explicado en cincuenta reglas para la vida (2a. ed.)
 
-> Texto extraído de `Filosofía/Schopenahuer/Schopenhauer - El arte de ser feliz.pdf` (165 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Schopenahuer/Schopenhauer - El arte de ser feliz.pdf` (165 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

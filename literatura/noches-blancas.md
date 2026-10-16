@@ -5,13 +5,13 @@ author: ""
 categoria: "Literatura"
 paginas: 32
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Noches blancas.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Noches blancas.pdf"
 convertido: 2026-10-16
 ---
 
 # noches_blancas
 
-> Texto extraído de `pdf´s mezclados/Noches blancas.pdf` (32 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Noches blancas.pdf` (32 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

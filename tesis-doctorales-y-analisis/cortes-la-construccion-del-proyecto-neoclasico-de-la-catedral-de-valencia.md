@@ -5,13 +5,13 @@ author: ""
 categoria: "Tesis doctorales y análisis"
 paginas: 569
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/Cortés - La construcción del proyecto neoclásico de la CatedraL de Valencia.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/Cortés - La construcción del proyecto neoclásico de la CatedraL de Valencia.pdf"
 convertido: 2026-10-13
 ---
 
 # Cortés - La construcción del proyecto neoclásico de la CatedraL de Valencia
 
-> Texto extraído de `Tesis doctorales y análisis/Cortés - La construcción del proyecto neoclásico de la CatedraL de Valencia.pdf` (569 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/Cortés - La construcción del proyecto neoclásico de la CatedraL de Valencia.pdf` (569 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 1002
 extraccion: "mixto: 6 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Hegel/HEGEL, G.W.F. Fenomenología del espíritu. Edición bilingüe de Antonio Gómez. Ramos. Madrid Abada-UAM, 2010..pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Hegel/HEGEL, G.W.F. Fenomenología del espíritu. Edición bilingüe de Antonio Gómez. Ramos. Madrid Abada-UAM, 2010..pdf"
 convertido: 2026-10-15
 ---
 
 # HEGEL, G.W.F. Fenomenología del espíritu. Edición bilingüe de Antonio Gómez. Ramos. Madrid Abada-UAM, 2010.
 
-> Texto extraído de `Filosofía/Hegel/HEGEL, G.W.F. Fenomenología del espíritu. Edición bilingüe de Antonio Gómez. Ramos. Madrid Abada-UAM, 2010..pdf` (1002 páginas, mixto: 6 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Hegel/HEGEL, G.W.F. Fenomenología del espíritu. Edición bilingüe de Antonio Gómez. Ramos. Madrid Abada-UAM, 2010..pdf` (1002 páginas, mixto: 6 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

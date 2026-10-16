@@ -5,13 +5,13 @@ author: "Lucio Anneo Séneca"
 categoria: "Filosofía"
 paginas: 331
 extraccion: "mixto: 4 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Séneca/Séneca. - Cartas a Lucilio [2018].pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Séneca/Séneca. - Cartas a Lucilio [2018].pdf"
 convertido: 2026-10-15
 ---
 
 # Cartas a Lucilio (Ed. de Dasso Saldívar)
 
-> Texto extraído de `Filosofía/Séneca/Séneca. - Cartas a Lucilio [2018].pdf` (331 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Séneca/Séneca. - Cartas a Lucilio [2018].pdf` (331 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

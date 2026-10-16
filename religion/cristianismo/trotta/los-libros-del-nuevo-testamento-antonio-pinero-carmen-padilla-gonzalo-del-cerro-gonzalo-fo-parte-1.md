@@ -5,13 +5,13 @@ author: "Antonio Piñero & Carmen Padilla & Gonzalo Del Cerro & Gonzalo Fontana 
 categoria: "Religión"
 paginas: 2463
 extraccion: "mixto: 6 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Religión/Cristianismo/Trotta/LOS LIBROS DEL NUEVO TESTAMENTO. Antonio Piñero, Carmen Padilla, Gonzalo Del Cerro, Gonzalo Fontana, Josep Montserrat.pdf"
+fuente: "local:E:/Biblioteca digital/Religión/Cristianismo/Trotta/LOS LIBROS DEL NUEVO TESTAMENTO. Antonio Piñero, Carmen Padilla, Gonzalo Del Cerro, Gonzalo Fontana, Josep Montserrat.pdf"
 convertido: 2026-10-16
 ---
 
 # Los libros del Nuevo Testamento: Traduccin y comentario (Estructuras y Procesos. Religin) (Spanish Edition) (parte 1 de 2)
 
-> Texto extraído de `Religión/Cristianismo/Trotta/LOS LIBROS DEL NUEVO TESTAMENTO. Antonio Piñero, Carmen Padilla, Gonzalo Del Cerro, Gonzalo Fontana, Josep Montserrat.pdf` (2463 páginas, mixto: 6 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Religión/Cristianismo/Trotta/LOS LIBROS DEL NUEVO TESTAMENTO. Antonio Piñero, Carmen Padilla, Gonzalo Del Cerro, Gonzalo Fontana, Josep Montserrat.pdf` (2463 páginas, mixto: 6 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

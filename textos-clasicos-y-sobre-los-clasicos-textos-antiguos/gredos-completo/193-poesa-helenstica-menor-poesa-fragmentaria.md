@@ -5,13 +5,13 @@ author: "Varios Autores"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 405
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/193 - Poes�a Helen�stica Menor, Poes�a Fragmentaria.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/193 - Poes�a Helen�stica Menor, Poes�a Fragmentaria.pdf"
 convertido: 2026-10-15
 ---
 
 # Poesía helenística menor (Poesía fragmentaria) (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/193 - Poes�a Helen�stica Menor, Poes�a Fragmentaria.pdf` (405 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/193 - Poes�a Helen�stica Menor, Poes�a Fragmentaria.pdf` (405 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

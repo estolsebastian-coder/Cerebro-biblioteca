@@ -5,13 +5,13 @@ author: ""
 categoria: "Arqueología"
 paginas: 32
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/La_entrada_del_Aqua_Augusta_vetus_a_Colo.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/La_entrada_del_Aqua_Augusta_vetus_a_Colo.pdf"
 convertido: 2026-10-12
 ---
 
 # La_entrada_del_Aqua_Augusta_vetus_a_Colo
 
-> Texto extraído de `Arqueología/La_entrada_del_Aqua_Augusta_vetus_a_Colo.pdf` (32 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/La_entrada_del_Aqua_Augusta_vetus_a_Colo.pdf` (32 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

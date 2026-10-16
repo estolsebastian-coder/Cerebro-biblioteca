@@ -5,13 +5,13 @@ author: ""
 categoria: "Historia"
 paginas: 214
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Estrabón/169. ESTRABÓN _Geografía_ (Libros III-IV).pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Estrabón/169. ESTRABÓN _Geografía_ (Libros III-IV).pdf"
 convertido: 2026-10-15
 ---
 
 # Biblioteca clasica Gredos
 
-> Texto extraído de `Historia/Estrabón/169. ESTRABÓN _Geografía_ (Libros III-IV).pdf` (214 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Estrabón/169. ESTRABÓN _Geografía_ (Libros III-IV).pdf` (214 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

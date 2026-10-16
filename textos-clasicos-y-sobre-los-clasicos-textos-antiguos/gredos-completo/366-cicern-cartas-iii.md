@@ -5,13 +5,13 @@ author: "Cicerón"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 521
 extraccion: "mixto: 5 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/366 - Cicer�n. Cartas III.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/366 - Cicer�n. Cartas III.pdf"
 convertido: 2026-10-15
 ---
 
 # Cartas III. Cartas a los familiares (Cartas 1-173) (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/366 - Cicer�n. Cartas III.pdf` (521 páginas, mixto: 5 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/366 - Cicer�n. Cartas III.pdf` (521 páginas, mixto: 5 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

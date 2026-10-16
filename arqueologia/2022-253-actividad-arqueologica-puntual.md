@@ -5,13 +5,13 @@ author: "Evaluador"
 categoria: "Arqueología"
 paginas: 45
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/2022_253_Actividad_arqueologica_puntual.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/2022_253_Actividad_arqueologica_puntual.pdf"
 convertido: 2026-10-13
 ---
 
 # 2022_253_Actividad_arqueologica_puntual
 
-> Texto extraído de `Arqueología/2022_253_Actividad_arqueologica_puntual.pdf` (45 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/2022_253_Actividad_arqueologica_puntual.pdf` (45 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

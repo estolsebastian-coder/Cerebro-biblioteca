@@ -5,13 +5,13 @@ author: "Demetrio. Longino."
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 179
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/15 - Demetrio & Longino. Sobre el estilo & Sobre lo sublime.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/15 - Demetrio & Longino. Sobre el estilo & Sobre lo sublime.pdf"
 convertido: 2026-10-15
 ---
 
 # Sobre el estilo. Sobre lo sublime (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/15 - Demetrio & Longino. Sobre el estilo & Sobre lo sublime.pdf` (179 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/15 - Demetrio & Longino. Sobre el estilo & Sobre lo sublime.pdf` (179 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

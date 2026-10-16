@@ -5,13 +5,13 @@ author: "Jesús Mª García Gago"
 categoria: "Tesis doctorales y análisis"
 paginas: 114
 extraccion: "mixto: 8 páginas por OCR (eng)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/Documentación y análisis geométrico del patrimonio arquitectónico a partir de métodos fotogramétricos con una y múltiples imágenes.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/Documentación y análisis geométrico del patrimonio arquitectónico a partir de métodos fotogramétricos con una y múltiples imágenes.pdf"
 convertido: 2026-10-13
 ---
 
 # Documentación y análisis geométrico del patrimonio arquitectónico a partir de métodos fotogramétricos con una y múltiples imágenes
 
-> Texto extraído de `Tesis doctorales y análisis/Documentación y análisis geométrico del patrimonio arquitectónico a partir de métodos fotogramétricos con una y múltiples imágenes.pdf` (114 páginas, mixto: 8 páginas por OCR (eng)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/Documentación y análisis geométrico del patrimonio arquitectónico a partir de métodos fotogramétricos con una y múltiples imágenes.pdf` (114 páginas, mixto: 8 páginas por OCR (eng)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

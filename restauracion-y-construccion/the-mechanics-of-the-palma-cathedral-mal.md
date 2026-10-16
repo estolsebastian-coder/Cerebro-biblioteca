@@ -5,13 +5,13 @@ author: ""
 categoria: "Restauración y construcción"
 paginas: 22
 extraccion: "mixto: 2 páginas por OCR (eng)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Restauración y construcción/The_mechanics_of_the_Palma_Cathedral_Mal.pdf"
+fuente: "local:E:/Biblioteca digital/Restauración y construcción/The_mechanics_of_the_Palma_Cathedral_Mal.pdf"
 convertido: 2026-10-13
 ---
 
 # The_mechanics_of_the_Palma_Cathedral_Mal
 
-> Texto extraído de `Restauración y construcción/The_mechanics_of_the_Palma_Cathedral_Mal.pdf` (22 páginas, mixto: 2 páginas por OCR (eng)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Restauración y construcción/The_mechanics_of_the_Palma_Cathedral_Mal.pdf` (22 páginas, mixto: 2 páginas por OCR (eng)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

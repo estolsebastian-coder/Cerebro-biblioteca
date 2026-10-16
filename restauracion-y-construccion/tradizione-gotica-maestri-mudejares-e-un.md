@@ -5,13 +5,13 @@ author: ""
 categoria: "Restauración y construcción"
 paginas: 21
 extraccion: "mixto: 2 páginas por OCR (ita)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Restauración y construcción/Tradizione_gotica_maestri_mudejares_e_un.pdf"
+fuente: "local:E:/Biblioteca digital/Restauración y construcción/Tradizione_gotica_maestri_mudejares_e_un.pdf"
 convertido: 2026-10-13
 ---
 
 # Tradizione_gotica_maestri_mudejares_e_un
 
-> Texto extraído de `Restauración y construcción/Tradizione_gotica_maestri_mudejares_e_un.pdf` (21 páginas, mixto: 2 páginas por OCR (ita)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Restauración y construcción/Tradizione_gotica_maestri_mudejares_e_un.pdf` (21 páginas, mixto: 2 páginas por OCR (ita)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

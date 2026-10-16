@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 304
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Maestros-de-la-Gracia. la abadía de Port Royal (Rodolfo Fattoruso).pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Maestros-de-la-Gracia. la abadía de Port Royal (Rodolfo Fattoruso).pdf"
 convertido: 2026-10-15
 ---
 
 # Maestros-de-la-Gracia. la abadía de Port Royal (Rodolfo Fattoruso)
 
-> Texto extraído de `Filosofía/Maestros-de-la-Gracia. la abadía de Port Royal (Rodolfo Fattoruso).pdf` (304 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Maestros-de-la-Gracia. la abadía de Port Royal (Rodolfo Fattoruso).pdf` (304 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

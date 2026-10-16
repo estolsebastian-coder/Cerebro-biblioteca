@@ -5,13 +5,13 @@ author: "Varios Autores"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 376
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/295 - Dares Phrygius, Distis Cretense, La Iliada Latina, Diario de la Guerra de Troya de Dictis.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/295 - Dares Phrygius, Distis Cretense, La Iliada Latina, Diario de la Guerra de Troya de Dictis.pdf"
 convertido: 2026-10-15
 ---
 
 # La Ilíada latina. Diario de la guerra de Troya de Dictis Cretense. Historia de la destrucción de Troya de Dares Frigio. (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/295 - Dares Phrygius, Distis Cretense, La Iliada Latina, Diario de la Guerra de Troya de Dictis.pdf` (376 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/295 - Dares Phrygius, Distis Cretense, La Iliada Latina, Diario de la Guerra de Troya de Dictis.pdf` (376 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

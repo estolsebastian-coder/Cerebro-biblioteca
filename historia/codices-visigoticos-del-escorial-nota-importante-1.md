@@ -5,13 +5,13 @@ author: "Guillermo O.S.A. Antolín"
 categoria: "Historia"
 paginas: 2
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Historia/codices-visigoticos-del-escorial-nota-importante (1).pdf"
+fuente: "local:E:/Biblioteca digital/Historia/codices-visigoticos-del-escorial-nota-importante (1).pdf"
 convertido: 2026-10-12
 ---
 
 # Códices visigóticos del Escorial. Nota importante
 
-> Texto extraído de `Historia/codices-visigoticos-del-escorial-nota-importante (1).pdf` (2 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/codices-visigoticos-del-escorial-nota-importante (1).pdf` (2 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

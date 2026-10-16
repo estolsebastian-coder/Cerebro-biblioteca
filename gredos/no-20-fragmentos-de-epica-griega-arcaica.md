@@ -5,13 +5,13 @@ author: ""
 categoria: "Gredos"
 paginas: 410
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Gredos/Nº 20. Fragmentos de épica griega arcaica.pdf"
+fuente: "local:E:/Biblioteca digital/Gredos/Nº 20. Fragmentos de épica griega arcaica.pdf"
 convertido: 2026-10-15
 ---
 
 # Nº 20. Fragmentos de épica griega arcaica
 
-> Texto extraído de `Gredos/Nº 20. Fragmentos de épica griega arcaica.pdf` (410 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Gredos/Nº 20. Fragmentos de épica griega arcaica.pdf` (410 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

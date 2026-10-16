@@ -5,13 +5,13 @@ author: "Aristotle"
 categoria: "Filosofía"
 paginas: 272
 extraccion: "mixto: 2 páginas por OCR (cat)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Aristóteles/Aristotelis - Ethica nicomachea (Oxford. ed, Ingram Bywater).pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Aristóteles/Aristotelis - Ethica nicomachea (Oxford. ed, Ingram Bywater).pdf"
 convertido: 2026-10-15
 ---
 
 # Aristotelis Ethica Nicomachea
 
-> Texto extraído de `Filosofía/Aristóteles/Aristotelis - Ethica nicomachea (Oxford. ed, Ingram Bywater).pdf` (272 páginas, mixto: 2 páginas por OCR (cat)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Aristóteles/Aristotelis - Ethica nicomachea (Oxford. ed, Ingram Bywater).pdf` (272 páginas, mixto: 2 páginas por OCR (cat)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

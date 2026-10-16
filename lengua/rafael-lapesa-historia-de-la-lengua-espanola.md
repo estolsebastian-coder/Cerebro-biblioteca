@@ -5,13 +5,13 @@ author: ""
 categoria: "Lengua"
 paginas: 353
 extraccion: "ocr (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Lengua/rafael-lapesa-historia-de-la-lengua-espanola.pdf"
+fuente: "local:E:/Biblioteca digital/Lengua/rafael-lapesa-historia-de-la-lengua-espanola.pdf"
 convertido: 2026-10-16
 ---
 
 # rafael-lapesa-historia-de-la-lengua-espanola
 
-> Texto extraído de `Lengua/rafael-lapesa-historia-de-la-lengua-espanola.pdf` (353 páginas, ocr (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Lengua/rafael-lapesa-historia-de-la-lengua-espanola.pdf` (353 páginas, ocr (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

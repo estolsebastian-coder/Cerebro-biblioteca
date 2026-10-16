@@ -5,13 +5,13 @@ author: ""
 categoria: "Tecnología láser, fotogrametría, otros"
 paginas: 8
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tecnología láser, fotogrametría, otros/Photogrammetry on 3D Renders of Parametric Built Heritage Models for Interoperability.pdf"
+fuente: "local:E:/Biblioteca digital/Tecnología láser, fotogrametría, otros/Photogrammetry on 3D Renders of Parametric Built Heritage Models for Interoperability.pdf"
 convertido: 2026-10-13
 ---
 
 # Photogrammetry on 3D Renders of Parametric Built Heritage Models for Interoperability
 
-> Texto extraído de `Tecnología láser, fotogrametría, otros/Photogrammetry on 3D Renders of Parametric Built Heritage Models for Interoperability.pdf` (8 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tecnología láser, fotogrametría, otros/Photogrammetry on 3D Renders of Parametric Built Heritage Models for Interoperability.pdf` (8 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

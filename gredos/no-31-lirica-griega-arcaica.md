@@ -5,13 +5,13 @@ author: "Javier Cabrero"
 categoria: "Gredos"
 paginas: 244
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Gredos/Nº 31. Lírica griega arcaica.pdf"
+fuente: "local:E:/Biblioteca digital/Gredos/Nº 31. Lírica griega arcaica.pdf"
 convertido: 2026-10-15
 ---
 
 # 031 Lirica.max
 
-> Texto extraído de `Gredos/Nº 31. Lírica griega arcaica.pdf` (244 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Gredos/Nº 31. Lírica griega arcaica.pdf` (244 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

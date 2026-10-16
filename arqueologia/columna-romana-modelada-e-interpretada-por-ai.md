@@ -5,13 +5,13 @@ author: ""
 categoria: "Arqueología"
 paginas: 8
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/Columna romana modelada e interpretada por AI.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/Columna romana modelada e interpretada por AI.pdf"
 convertido: 2026-10-12
 ---
 
 # Columna romana modelada e interpretada por AI
 
-> Texto extraído de `Arqueología/Columna romana modelada e interpretada por AI.pdf` (8 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/Columna romana modelada e interpretada por AI.pdf` (8 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

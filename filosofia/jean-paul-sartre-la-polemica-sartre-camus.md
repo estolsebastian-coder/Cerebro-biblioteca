@@ -5,13 +5,13 @@ author: "Sartre - Camus"
 categoria: "Filosofía"
 paginas: 162
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Jean Paul Sartre - La polemica Sartre-Camus.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Jean Paul Sartre - La polemica Sartre-Camus.pdf"
 convertido: 2026-10-16
 ---
 
 # La polémica Sartre-Camus
 
-> Texto extraído de `pdf´s mezclados/Jean Paul Sartre - La polemica Sartre-Camus.pdf` (162 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Jean Paul Sartre - La polemica Sartre-Camus.pdf` (162 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: "nemo"
 categoria: "Filosofía"
 paginas: 378
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/foucault, michel_las palabras y las cosas.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/foucault, michel_las palabras y las cosas.pdf"
 convertido: 2026-10-16
 ---
 
 # foucault, michel_las palabras y las cosas
 
-> Texto extraído de `pdf´s mezclados/foucault, michel_las palabras y las cosas.pdf` (378 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/foucault, michel_las palabras y las cosas.pdf` (378 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

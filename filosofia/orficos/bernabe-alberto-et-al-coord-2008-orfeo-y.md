@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 608
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Órficos/BERNABE_Alberto_et_al_Coord_2008_ORFEO_Y.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Órficos/BERNABE_Alberto_et_al_Coord_2008_ORFEO_Y.pdf"
 convertido: 2026-10-15
 ---
 
 # BERNABE_Alberto_et_al_Coord_2008_ORFEO_Y
 
-> Texto extraído de `Filosofía/Órficos/BERNABE_Alberto_et_al_Coord_2008_ORFEO_Y.pdf` (608 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Órficos/BERNABE_Alberto_et_al_Coord_2008_ORFEO_Y.pdf` (608 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

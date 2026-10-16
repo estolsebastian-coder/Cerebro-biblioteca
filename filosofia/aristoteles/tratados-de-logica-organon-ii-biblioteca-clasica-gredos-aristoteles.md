@@ -5,13 +5,13 @@ author: "Aristóteles"
 categoria: "Filosofía"
 paginas: 270
 extraccion: "mixto: 5 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Aristóteles/Tratados de lógica (Órganon) II (Biblioteca Clásica Gredos) - Aristóteles.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Aristóteles/Tratados de lógica (Órganon) II (Biblioteca Clásica Gredos) - Aristóteles.pdf"
 convertido: 2026-10-15
 ---
 
 # Tratados de lógica (Orgánon) II (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Filosofía/Aristóteles/Tratados de lógica (Órganon) II (Biblioteca Clásica Gredos) - Aristóteles.pdf` (270 páginas, mixto: 5 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Aristóteles/Tratados de lógica (Órganon) II (Biblioteca Clásica Gredos) - Aristóteles.pdf` (270 páginas, mixto: 5 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

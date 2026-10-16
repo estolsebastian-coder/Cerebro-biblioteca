@@ -5,13 +5,13 @@ author: "Galeno"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 173
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/313 - Galeno. Sobre las facultades naturales, Las facultades del alma siguen los temperamentos del cuerpo.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/313 - Galeno. Sobre las facultades naturales, Las facultades del alma siguen los temperamentos del cuerpo.pdf"
 convertido: 2026-10-15
 ---
 
 # Sobre las facultades naturales. Las facultades del alma siguen los temperamentos del cuerpo. (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/313 - Galeno. Sobre las facultades naturales, Las facultades del alma siguen los temperamentos del cuerpo.pdf` (173 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/313 - Galeno. Sobre las facultades naturales, Las facultades del alma siguen los temperamentos del cuerpo.pdf` (173 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

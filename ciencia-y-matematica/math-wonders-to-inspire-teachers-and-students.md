@@ -5,13 +5,13 @@ author: "Dr. Mirko Janc (Tech Typeset) 427 1999 Feb 15 15:33:29"
 categoria: "Ciencia y matemática"
 paginas: 295
 extraccion: "mixto: 1 páginas por OCR (eng)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Math Wonders to Inspire Teachers and Students.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Math Wonders to Inspire Teachers and Students.pdf"
 convertido: 2026-10-16
 ---
 
 # POSAM-FM-BM
 
-> Texto extraído de `pdf´s mezclados/Math Wonders to Inspire Teachers and Students.pdf` (295 páginas, mixto: 1 páginas por OCR (eng)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Math Wonders to Inspire Teachers and Students.pdf` (295 páginas, mixto: 1 páginas por OCR (eng)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

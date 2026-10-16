@@ -5,13 +5,13 @@ author: "Standard"
 categoria: "Literatura"
 paginas: 3
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Julio Cortazar - De la Simetria Interplanetaria.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Julio Cortazar - De la Simetria Interplanetaria.pdf"
 convertido: 2026-10-16
 ---
 
 # file://C:\WINDOWS\Escritorio\Libros%20Gratis%20ordenar\Julio%20
 
-> Texto extraído de `pdf´s mezclados/Julio Cortazar - De la Simetria Interplanetaria.pdf` (3 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Julio Cortazar - De la Simetria Interplanetaria.pdf` (3 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: "Librodot.com"
 categoria: "Literatura"
 paginas: 146
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Cinco semanas en globo [pdf].pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Cinco semanas en globo [pdf].pdf"
 convertido: 2026-10-16
 ---
 
 # Cinco semanas en globo
 
-> Texto extraído de `pdf´s mezclados/Cinco semanas en globo [pdf].pdf` (146 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Cinco semanas en globo [pdf].pdf` (146 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

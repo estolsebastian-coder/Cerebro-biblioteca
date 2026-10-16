@@ -5,13 +5,13 @@ author: "Catón, Marco Porcio (Mayor), 0234-0149 a.J.C."
 categoria: "Historia"
 paginas: 385
 extraccion: "mixto: 8 páginas por OCR (eng)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Catón el Viejo/Catón el Viejo.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Catón el Viejo/Catón el Viejo.pdf"
 convertido: 2026-10-15
 ---
 
 # Libri de re rustica
 
-> Texto extraído de `Historia/Catón el Viejo/Catón el Viejo.pdf` (385 páginas, mixto: 8 páginas por OCR (eng)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Catón el Viejo/Catón el Viejo.pdf` (385 páginas, mixto: 8 páginas por OCR (eng)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

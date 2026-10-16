@@ -5,13 +5,13 @@ author: "Filóstrato"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 1068
 extraccion: "mixto: 4 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/18 - Vida de Apolonio de Tiana - Filostrato.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/18 - Vida de Apolonio de Tiana - Filostrato.pdf"
 convertido: 2026-10-15
 ---
 
 # Vida de Apolonio de Tiana
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/18 - Vida de Apolonio de Tiana - Filostrato.pdf` (1068 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/18 - Vida de Apolonio de Tiana - Filostrato.pdf` (1068 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

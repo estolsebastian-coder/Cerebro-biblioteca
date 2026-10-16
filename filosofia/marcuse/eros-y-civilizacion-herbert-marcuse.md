@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 249
 extraccion: "mixto: 18 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Marcuse/EROS_Y_CIVILIZACION_HERBERT_MARCUSE.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Marcuse/EROS_Y_CIVILIZACION_HERBERT_MARCUSE.pdf"
 convertido: 2026-10-15
 ---
 
 # EROS_Y_CIVILIZACION_HERBERT_MARCUSE
 
-> Texto extraído de `Filosofía/Marcuse/EROS_Y_CIVILIZACION_HERBERT_MARCUSE.pdf` (249 páginas, mixto: 18 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Marcuse/EROS_Y_CIVILIZACION_HERBERT_MARCUSE.pdf` (249 páginas, mixto: 18 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 128
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Lipovetsky/lipovetsky-gilles-y-sc3a9bastien-charles-los-tiempos-hipermodernos.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Lipovetsky/lipovetsky-gilles-y-sc3a9bastien-charles-los-tiempos-hipermodernos.pdf"
 convertido: 2026-10-15
 ---
 
 # lipovetsky-gilles-y-sc3a9bastien-charles-los-tiempos-hipermodernos
 
-> Texto extraído de `Filosofía/Lipovetsky/lipovetsky-gilles-y-sc3a9bastien-charles-los-tiempos-hipermodernos.pdf` (128 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Lipovetsky/lipovetsky-gilles-y-sc3a9bastien-charles-los-tiempos-hipermodernos.pdf` (128 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

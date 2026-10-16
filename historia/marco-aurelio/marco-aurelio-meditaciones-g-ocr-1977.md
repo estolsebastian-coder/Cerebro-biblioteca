@@ -5,13 +5,13 @@ author: "Marco Aurelio"
 categoria: "Historia"
 paginas: 215
 extraccion: "mixto: 6 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Marco Aurelio/Marco Aurelio. - Meditaciones [G] [ocr] [1977].pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Marco Aurelio/Marco Aurelio. - Meditaciones [G] [ocr] [1977].pdf"
 convertido: 2026-10-15
 ---
 
 # Marco Aurelio. - Meditaciones [G] [ocr] [1977]
 
-> Texto extraído de `Historia/Marco Aurelio/Marco Aurelio. - Meditaciones [G] [ocr] [1977].pdf` (215 páginas, mixto: 6 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Marco Aurelio/Marco Aurelio. - Meditaciones [G] [ocr] [1977].pdf` (215 páginas, mixto: 6 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

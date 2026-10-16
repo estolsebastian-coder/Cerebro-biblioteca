@@ -5,13 +5,13 @@ author: ""
 categoria: "Restauración y construcción"
 paginas: 63
 extraccion: "mixto: 1 páginas por OCR (eng)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Restauración y construcción/Japanese wood craftsmanship.pdf"
+fuente: "local:E:/Biblioteca digital/Restauración y construcción/Japanese wood craftsmanship.pdf"
 convertido: 2026-10-13
 ---
 
 # Japanese wood craftsmanship
 
-> Texto extraído de `Restauración y construcción/Japanese wood craftsmanship.pdf` (63 páginas, mixto: 1 páginas por OCR (eng)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Restauración y construcción/Japanese wood craftsmanship.pdf` (63 páginas, mixto: 1 páginas por OCR (eng)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -1,0 +1,53 @@
+---
+type: libro
+title: "246-PINTURA DE TECHO"
+author: "Manuel Rodriguez"
+categoria: "ANEP CODICEN"
+paginas: 1
+extraccion: "texto"
+fuente: "local:E:/MATERIAL DE CONSULTA/ANEP CODICEN/RESIDENTE ANTERIOR/LICEO-SAN RAMON/246-PINTURA DE TECHO.pdf"
+convertido: 2026-10-16
+---
+
+# 246-PINTURA DE TECHO
+
+> Texto extraído de `ANEP CODICEN\RESIDENTE ANTERIOR\LICEO-SAN RAMON\246-PINTURA DE TECHO.pdf` (1 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+Raúl González
+Venta y Colocación de Techos
+Larrobla 3315 florida
+Cel. 099352063
+
+Sres CEIP/ DSI del CODICEN
+
+Atte. Arq.Manuel Rodríguez
+
+REF COTIZACIÓN DE REPARACION INTEGRAL TECHO JARDIN 246 TALA
+
+JARDIN 246 DE TALA
+
+COTIZACIÓN:
+
+LIMPIEZA CON HIPOCLORITO DE TODAS LAS CHAPAS DE DOLMENIT EN EL JARDIN POR ESTAR CON HOGOS Y PINTAR CON 2 MANOS DE MEMBRANA LIQUIDA BLANCA. EL TRABAJO INCLUIRÁ EL PINTADO TAMBIÉN DE LOS PRETILES.
+
+MATERIALES Y MANO DE OBRA
+
+TOTAL DEL PRESUPUESTO $ 118.000
+
+IVA $ 25.960
+
+TOTAL $ 143.960
+
+MONTO IMPONIBLE $ 17.500
+
+LEYES SOCIALES (64.80) MI $ 11.300
+
+TOTAL CON LEYES SOC $ 155.260
+
+empresa esta al dia con dgi bps y rupe
+
+ta saluda atentamente
+
+Raúl González

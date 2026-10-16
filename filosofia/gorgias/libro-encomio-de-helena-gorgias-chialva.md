@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 102
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Gorgias/Libro_Encomio de Helena Gorgias_Chialva_.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Gorgias/Libro_Encomio de Helena Gorgias_Chialva_.pdf"
 convertido: 2026-10-15
 ---
 
 # Libro_Encomio de Helena Gorgias_Chialva_
 
-> Texto extraído de `Filosofía/Gorgias/Libro_Encomio de Helena Gorgias_Chialva_.pdf` (102 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Gorgias/Libro_Encomio de Helena Gorgias_Chialva_.pdf` (102 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

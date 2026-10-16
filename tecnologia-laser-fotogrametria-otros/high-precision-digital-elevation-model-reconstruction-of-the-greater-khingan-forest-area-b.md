@@ -5,13 +5,13 @@ author: "赵杨1,2, 赵颖慧1,2, 甄贞1,2*"
 categoria: "Tecnología láser, fotogrametría, otros"
 paginas: 14
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tecnología láser, fotogrametría, otros/High-Precision Digital Elevation Model Reconstruction of the Greater Khingan Forest Area Based on UAV LiDAR.pdf"
+fuente: "local:E:/Biblioteca digital/Tecnología láser, fotogrametría, otros/High-Precision Digital Elevation Model Reconstruction of the Greater Khingan Forest Area Based on UAV LiDAR.pdf"
 convertido: 2026-10-13
 ---
 
 # 基于无人机激光雷达的大兴安岭林区高精度数字高程模型重建
 
-> Texto extraído de `Tecnología láser, fotogrametría, otros/High-Precision Digital Elevation Model Reconstruction of the Greater Khingan Forest Area Based on UAV LiDAR.pdf` (14 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tecnología láser, fotogrametría, otros/High-Precision Digital Elevation Model Reconstruction of the Greater Khingan Forest Area Based on UAV LiDAR.pdf` (14 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

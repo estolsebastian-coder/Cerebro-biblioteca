@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 251
 extraccion: "mixto: 7 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Aristóteles/aristoteles-fragmentos-gredos.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Aristóteles/aristoteles-fragmentos-gredos.pdf"
 convertido: 2026-10-15
 ---
 
 # aristoteles-fragmentos-gredos
 
-> Texto extraído de `Filosofía/Aristóteles/aristoteles-fragmentos-gredos.pdf` (251 páginas, mixto: 7 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Aristóteles/aristoteles-fragmentos-gredos.pdf` (251 páginas, mixto: 7 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

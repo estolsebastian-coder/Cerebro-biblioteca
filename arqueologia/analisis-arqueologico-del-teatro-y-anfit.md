@@ -5,13 +5,13 @@ author: ""
 categoria: "Arqueología"
 paginas: 56
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/Analisis_arqueologico_del_teatro_y_anfit.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/Analisis_arqueologico_del_teatro_y_anfit.pdf"
 convertido: 2026-10-12
 ---
 
 # Analisis_arqueologico_del_teatro_y_anfit
 
-> Texto extraído de `Arqueología/Analisis_arqueologico_del_teatro_y_anfit.pdf` (56 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/Analisis_arqueologico_del_teatro_y_anfit.pdf` (56 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

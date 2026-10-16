@@ -5,13 +5,13 @@ author: ""
 categoria: "Gredos"
 paginas: 232
 extraccion: "mixto: 8 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Gredos/Nº 21. Heródoto, Historia 4. Melpómene.pdf"
+fuente: "local:E:/Biblioteca digital/Gredos/Nº 21. Heródoto, Historia 4. Melpómene.pdf"
 convertido: 2026-10-15
 ---
 
 # Nº 21. Heródoto, Historia 4. Melpómene
 
-> Texto extraído de `Gredos/Nº 21. Heródoto, Historia 4. Melpómene.pdf` (232 páginas, mixto: 8 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Gredos/Nº 21. Heródoto, Historia 4. Melpómene.pdf` (232 páginas, mixto: 8 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 648
 extraccion: "mixto: 25 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Nietzsche/Friedrich Nietzsche Fragmentos póstumos (1869-1874) Volumen I.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Nietzsche/Friedrich Nietzsche Fragmentos póstumos (1869-1874) Volumen I.pdf"
 convertido: 2026-10-15
 ---
 
 # Friedrich Nietzsche Fragmentos póstumos (1869-1874) Volumen I
 
-> Texto extraído de `Filosofía/Nietzsche/Friedrich Nietzsche Fragmentos póstumos (1869-1874) Volumen I.pdf` (648 páginas, mixto: 25 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Nietzsche/Friedrich Nietzsche Fragmentos póstumos (1869-1874) Volumen I.pdf` (648 páginas, mixto: 25 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

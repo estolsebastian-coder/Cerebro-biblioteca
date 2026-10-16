@@ -5,13 +5,13 @@ author: "Gustavo Bueno"
 categoria: "Filosofía"
 paginas: 279
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Gustavo Bueno/Bueno, Gustavo - El mito de la cultura.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Gustavo Bueno/Bueno, Gustavo - El mito de la cultura.pdf"
 convertido: 2026-10-15
 ---
 
 # Bueno, Gustavo El Mito De La Cultura
 
-> Texto extraído de `Filosofía/Gustavo Bueno/Bueno, Gustavo - El mito de la cultura.pdf` (279 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Gustavo Bueno/Bueno, Gustavo - El mito de la cultura.pdf` (279 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

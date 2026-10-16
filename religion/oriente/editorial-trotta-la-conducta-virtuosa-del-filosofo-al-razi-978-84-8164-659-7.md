@@ -5,13 +5,13 @@ author: ""
 categoria: "Religión"
 paginas: 2
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Religión/Oriente/Editorial Trotta La conducta virtuosa del filósofo _ Al-Razi _ 978-84-8164-659-7.PDF"
+fuente: "local:E:/Biblioteca digital/Religión/Oriente/Editorial Trotta La conducta virtuosa del filósofo _ Al-Razi _ 978-84-8164-659-7.PDF"
 convertido: 2026-10-16
 ---
 
 # Editorial Trotta La conducta virtuosa del filósofo _ Al-Razi _ 978-84-8164-659-7
 
-> Texto extraído de `Religión/Oriente/Editorial Trotta La conducta virtuosa del filósofo _ Al-Razi _ 978-84-8164-659-7.PDF` (2 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Religión/Oriente/Editorial Trotta La conducta virtuosa del filósofo _ Al-Razi _ 978-84-8164-659-7.PDF` (2 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: "Pseudo Calístenes"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 199
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/1 - Pseudo Cal�stenes. Vida y haza�as de Alejandro de Macedonia.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/1 - Pseudo Cal�stenes. Vida y haza�as de Alejandro de Macedonia.pdf"
 convertido: 2026-10-15
 ---
 
 # Vida y hazañas de Alejandro de Macedonia (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/1 - Pseudo Cal�stenes. Vida y haza�as de Alejandro de Macedonia.pdf` (199 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/1 - Pseudo Cal�stenes. Vida y haza�as de Alejandro de Macedonia.pdf` (199 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

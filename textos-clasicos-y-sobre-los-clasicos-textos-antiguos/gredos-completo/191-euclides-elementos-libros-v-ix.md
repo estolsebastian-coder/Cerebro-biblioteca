@@ -5,13 +5,13 @@ author: "Euclides"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 201
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/191 - Euclides. Elementos - Libros V-IX.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/191 - Euclides. Elementos - Libros V-IX.pdf"
 convertido: 2026-10-15
 ---
 
 # Elementos. Libros V-IX (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/191 - Euclides. Elementos - Libros V-IX.pdf` (201 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/191 - Euclides. Elementos - Libros V-IX.pdf` (201 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

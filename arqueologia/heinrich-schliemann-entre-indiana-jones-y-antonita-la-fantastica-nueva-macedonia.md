@@ -5,13 +5,13 @@ author: ""
 categoria: "Arqueología"
 paginas: 8
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/Heinrich Schliemann, entre Indiana Jones y Antoñita la fantástica. – Nueva Macedonia.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/Heinrich Schliemann, entre Indiana Jones y Antoñita la fantástica. – Nueva Macedonia.pdf"
 convertido: 2026-10-12
 ---
 
 # Heinrich Schliemann, entre Indiana Jones y Antoñita la fantástica. – Nueva Macedonia
 
-> Texto extraído de `Arqueología/Heinrich Schliemann, entre Indiana Jones y Antoñita la fantástica. – Nueva Macedonia.pdf` (8 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/Heinrich Schliemann, entre Indiana Jones y Antoñita la fantástica. – Nueva Macedonia.pdf` (8 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

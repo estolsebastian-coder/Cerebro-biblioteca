@@ -5,13 +5,13 @@ author: "Juan López-Herrera, Serafín López-Cuervo, Enrique Pérez-Martín, Mi
 categoria: "Tecnología láser, fotogrametría, otros"
 paginas: 20
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tecnología láser, fotogrametría, otros/heritage-08-00022.pdf"
+fuente: "local:E:/Biblioteca digital/Tecnología láser, fotogrametría, otros/heritage-08-00022.pdf"
 convertido: 2026-10-13
 ---
 
 # Evaluation of 3D Models of Archaeological Remains of Almenara Castle Using Two UAVs with Different Navigation Systems
 
-> Texto extraído de `Tecnología láser, fotogrametría, otros/heritage-08-00022.pdf` (20 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tecnología láser, fotogrametría, otros/heritage-08-00022.pdf` (20 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

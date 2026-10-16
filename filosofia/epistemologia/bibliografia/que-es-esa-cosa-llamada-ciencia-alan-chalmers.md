@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 127
 extraccion: "ocr (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Epistemología/Bibliografía/Que es esa cosa llamada Ciencia- Alan Chalmers.PDF"
+fuente: "local:E:/Biblioteca digital/Filosofía/Epistemología/Bibliografía/Que es esa cosa llamada Ciencia- Alan Chalmers.PDF"
 convertido: 2026-10-15
 ---
 
 # Alan Chalmers, ¿Qué es esa cosa llamada ciencia? (Siglo XXI, 1990)
 
-> Texto extraído de `Filosofía/Epistemología/Bibliografía/Que es esa cosa llamada Ciencia- Alan Chalmers.PDF` (127 páginas, ocr (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Epistemología/Bibliografía/Que es esa cosa llamada Ciencia- Alan Chalmers.PDF` (127 páginas, ocr (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 > **Nota:** Escaneo incompleto: en casi todas las páginas falta la parte inferior (solo salió un 30 % del texto). Buscar otra copia. Observación de Voltaire, 2026-10-15.
 

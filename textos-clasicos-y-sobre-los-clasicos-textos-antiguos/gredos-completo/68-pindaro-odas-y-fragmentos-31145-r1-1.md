@@ -5,13 +5,13 @@ author: "Píndaro"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 1295
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/68 - Pindaro - Odas y fragmentos [31145] (r1.1).pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/68 - Pindaro - Odas y fragmentos [31145] (r1.1).pdf"
 convertido: 2026-10-15
 ---
 
 # Odas y fragmentos
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/68 - Pindaro - Odas y fragmentos [31145] (r1.1).pdf` (1295 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/68 - Pindaro - Odas y fragmentos [31145] (r1.1).pdf` (1295 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

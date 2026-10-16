@@ -5,13 +5,13 @@ author: ""
 categoria: "Restauración y construcción"
 paginas: 10
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Restauración y construcción/Estereotomía/Bóvedas de crucería que se proyectan en planta según una.pdf"
+fuente: "local:E:/Biblioteca digital/Restauración y construcción/Estereotomía/Bóvedas de crucería que se proyectan en planta según una.pdf"
 convertido: 2026-10-13
 ---
 
 # Bóvedas de crucería que se proyectan en planta según una
 
-> Texto extraído de `Restauración y construcción/Estereotomía/Bóvedas de crucería que se proyectan en planta según una.pdf` (10 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Restauración y construcción/Estereotomía/Bóvedas de crucería que se proyectan en planta según una.pdf` (10 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

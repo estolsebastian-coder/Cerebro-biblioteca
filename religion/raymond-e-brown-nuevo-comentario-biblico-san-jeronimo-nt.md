@@ -5,13 +5,13 @@ author: ""
 categoria: "Religión"
 paginas: 680
 extraccion: "mixto: 4 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Religión/Raymond_E_Brown-Nuevo_Comentario_Biblico_San_Jeronimo-NT.pdf"
+fuente: "local:E:/Biblioteca digital/Religión/Raymond_E_Brown-Nuevo_Comentario_Biblico_San_Jeronimo-NT.pdf"
 convertido: 2026-10-16
 ---
 
 # Raymond_E_Brown-Nuevo_Comentario_Biblico_San_Jeronimo-NT
 
-> Texto extraído de `Religión/Raymond_E_Brown-Nuevo_Comentario_Biblico_San_Jeronimo-NT.pdf` (680 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Religión/Raymond_E_Brown-Nuevo_Comentario_Biblico_San_Jeronimo-NT.pdf` (680 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 1184
 extraccion: "mixto: 30 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Nietzsche/376822362-Nietzsche-Friedrich-Obras-Completas-Volumen-IV-Obras-de-Madurez-II-Tecnos.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Nietzsche/376822362-Nietzsche-Friedrich-Obras-Completas-Volumen-IV-Obras-de-Madurez-II-Tecnos.pdf"
 convertido: 2026-10-15
 ---
 
 # 376822362-Nietzsche-Friedrich-Obras-Completas-Volumen-IV-Obras-de-Madurez-II-Tecnos
 
-> Texto extraído de `Filosofía/Nietzsche/376822362-Nietzsche-Friedrich-Obras-Completas-Volumen-IV-Obras-de-Madurez-II-Tecnos.pdf` (1184 páginas, mixto: 30 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Nietzsche/376822362-Nietzsche-Friedrich-Obras-Completas-Volumen-IV-Obras-de-Madurez-II-Tecnos.pdf` (1184 páginas, mixto: 30 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

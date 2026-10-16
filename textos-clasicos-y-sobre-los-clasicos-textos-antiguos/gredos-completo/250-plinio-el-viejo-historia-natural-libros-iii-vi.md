@@ -5,13 +5,13 @@ author: "Plinio el Viejo"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 380
 extraccion: "mixto: 5 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/250 - Plinio el viejo. Historia natural - Libros III-VI.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/250 - Plinio el viejo. Historia natural - Libros III-VI.pdf"
 convertido: 2026-10-15
 ---
 
 # Historia natural. Libros III-IV (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/250 - Plinio el viejo. Historia natural - Libros III-VI.pdf` (380 páginas, mixto: 5 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/250 - Plinio el viejo. Historia natural - Libros III-VI.pdf` (380 páginas, mixto: 5 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

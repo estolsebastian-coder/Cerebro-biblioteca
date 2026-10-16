@@ -5,13 +5,13 @@ author: ""
 categoria: "Tesis doctorales y análisis"
 paginas: 92
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/2003_Arquitecturas_del_Gotico_Mediterran.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/2003_Arquitecturas_del_Gotico_Mediterran.pdf"
 convertido: 2026-10-13
 ---
 
 # 2003_Arquitecturas_del_Gotico_Mediterran
 
-> Texto extraído de `Tesis doctorales y análisis/2003_Arquitecturas_del_Gotico_Mediterran.pdf` (92 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/2003_Arquitecturas_del_Gotico_Mediterran.pdf` (92 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

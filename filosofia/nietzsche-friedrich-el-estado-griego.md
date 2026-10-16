@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 9
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Nietzsche Friedrich - El estado griego.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Nietzsche Friedrich - El estado griego.pdf"
 convertido: 2026-10-16
 ---
 
 # Nietzsche Friedrich - El estado griego
 
-> Texto extraído de `pdf´s mezclados/Nietzsche Friedrich - El estado griego.pdf` (9 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Nietzsche Friedrich - El estado griego.pdf` (9 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

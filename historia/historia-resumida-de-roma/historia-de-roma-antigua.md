@@ -5,13 +5,13 @@ author: ""
 categoria: "Historia"
 paginas: 297
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Historia resumida de Roma/HISTORIA_DE_ROMA_ANTIGUA.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Historia resumida de Roma/HISTORIA_DE_ROMA_ANTIGUA.pdf"
 convertido: 2026-10-15
 ---
 
 # HISTORIA_DE_ROMA_ANTIGUA
 
-> Texto extraído de `Historia/Historia resumida de Roma/HISTORIA_DE_ROMA_ANTIGUA.pdf` (297 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Historia resumida de Roma/HISTORIA_DE_ROMA_ANTIGUA.pdf` (297 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

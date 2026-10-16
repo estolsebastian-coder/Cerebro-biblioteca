@@ -5,13 +5,13 @@ author: "Noam Chomsky"
 categoria: "Política"
 paginas: 94
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/CHOMSKY - las intenciones del tio sam.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/CHOMSKY - las intenciones del tio sam.pdf"
 convertido: 2026-10-16
 ---
 
 # Las intenciones del tio Sam
 
-> Texto extraído de `pdf´s mezclados/CHOMSKY - las intenciones del tio sam.pdf` (94 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/CHOMSKY - las intenciones del tio sam.pdf` (94 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

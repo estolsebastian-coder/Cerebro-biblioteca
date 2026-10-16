@@ -5,13 +5,13 @@ author: ""
 categoria: "Lengua"
 paginas: 5
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Escritura de los enanos en el hobbit.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Escritura de los enanos en el hobbit.pdf"
 convertido: 2026-10-16
 ---
 
 # Escritura de los enanos en el hobbit
 
-> Texto extraído de `pdf´s mezclados/Escritura de los enanos en el hobbit.pdf` (5 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Escritura de los enanos en el hobbit.pdf` (5 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

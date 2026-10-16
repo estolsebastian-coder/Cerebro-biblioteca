@@ -5,13 +5,13 @@ author: "M.A. Toajas"
 categoria: "Arte"
 paginas: 380
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Arte/Glosario_visual_de_tecnicas_artisticas_d.pdf"
+fuente: "local:E:/Biblioteca digital/Arte/Glosario_visual_de_tecnicas_artisticas_d.pdf"
 convertido: 2026-10-15
 ---
 
 # TOAJASdir_GlosarioArtes_may13
 
-> Texto extraído de `Arte/Glosario_visual_de_tecnicas_artisticas_d.pdf` (380 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arte/Glosario_visual_de_tecnicas_artisticas_d.pdf` (380 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

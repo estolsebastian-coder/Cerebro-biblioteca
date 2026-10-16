@@ -5,13 +5,13 @@ author: "Cornelio Nepote"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 645
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/79 - Vidas - Cornelio Nepote.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/79 - Vidas - Cornelio Nepote.pdf"
 convertido: 2026-10-15
 ---
 
 # Vidas
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/79 - Vidas - Cornelio Nepote.pdf` (645 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/79 - Vidas - Cornelio Nepote.pdf` (645 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

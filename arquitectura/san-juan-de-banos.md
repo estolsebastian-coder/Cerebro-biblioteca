@@ -5,13 +5,13 @@ author: "Luis Caballero Zoreda"
 categoria: "Arquitectura"
 paginas: 62
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Arquitectura/San Juan de Baños.pdf"
+fuente: "local:E:/Biblioteca digital/Arquitectura/San Juan de Baños.pdf"
 convertido: 2026-10-15
 ---
 
 # La iglesia altomedieval de San Juan Bautista en Baños de Cerrato (Palencia)
 
-> Texto extraído de `Arquitectura/San Juan de Baños.pdf` (62 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arquitectura/San Juan de Baños.pdf` (62 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

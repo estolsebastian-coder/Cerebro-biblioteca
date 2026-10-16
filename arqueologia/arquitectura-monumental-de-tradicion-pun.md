@@ -5,13 +5,13 @@ author: ""
 categoria: "Arqueología"
 paginas: 27
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/Arquitectura_monumental_de_tradicion_pun.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/Arquitectura_monumental_de_tradicion_pun.pdf"
 convertido: 2026-10-13
 ---
 
 # Arquitectura_monumental_de_tradicion_pun
 
-> Texto extraído de `Arqueología/Arquitectura_monumental_de_tradicion_pun.pdf` (27 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/Arquitectura_monumental_de_tradicion_pun.pdf` (27 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

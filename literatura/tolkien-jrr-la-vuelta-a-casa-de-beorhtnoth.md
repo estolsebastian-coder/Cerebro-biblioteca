@@ -5,13 +5,13 @@ author: "John Ronald Reuel Tolkien"
 categoria: "Literatura"
 paginas: 15
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Tolkien, JRR - La vuelta a casa de Beorhtnoth.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Tolkien, JRR - La vuelta a casa de Beorhtnoth.pdf"
 convertido: 2026-10-16
 ---
 
 # LA VUELTA A CASA DE BEORHTNOTH, HIJO DE BEORHTHELM
 
-> Texto extraído de `pdf´s mezclados/Tolkien, JRR - La vuelta a casa de Beorhtnoth.pdf` (15 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Tolkien, JRR - La vuelta a casa de Beorhtnoth.pdf` (15 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

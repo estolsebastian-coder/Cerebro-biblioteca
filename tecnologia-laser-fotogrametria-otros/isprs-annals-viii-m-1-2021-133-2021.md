@@ -5,13 +5,13 @@ author: ""
 categoria: "Tecnología láser, fotogrametría, otros"
 paginas: 7
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tecnología láser, fotogrametría, otros/isprs-annals-VIII-M-1-2021-133-2021.pdf"
+fuente: "local:E:/Biblioteca digital/Tecnología láser, fotogrametría, otros/isprs-annals-VIII-M-1-2021-133-2021.pdf"
 convertido: 2026-10-13
 ---
 
 # isprs-annals-VIII-M-1-2021-133-2021
 
-> Texto extraído de `Tecnología láser, fotogrametría, otros/isprs-annals-VIII-M-1-2021-133-2021.pdf` (7 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tecnología láser, fotogrametría, otros/isprs-annals-VIII-M-1-2021-133-2021.pdf` (7 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

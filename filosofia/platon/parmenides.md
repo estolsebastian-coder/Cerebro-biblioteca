@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 131
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Platón/Parménides.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Platón/Parménides.pdf"
 convertido: 2026-10-15
 ---
 
 # Parménides
 
-> Texto extraído de `Filosofía/Platón/Parménides.pdf` (131 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Platón/Parménides.pdf` (131 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

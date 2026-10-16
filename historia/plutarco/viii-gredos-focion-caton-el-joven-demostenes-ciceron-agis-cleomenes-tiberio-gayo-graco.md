@@ -5,13 +5,13 @@ author: ""
 categoria: "Historia"
 paginas: 458
 extraccion: "mixto: 6 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Plutarco/VIII. Gredos. Foción-Catón el Joven. Demóstenes-Cicerón. Agis-Cleómenes. Tiberio-Gayo Graco.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Plutarco/VIII. Gredos. Foción-Catón el Joven. Demóstenes-Cicerón. Agis-Cleómenes. Tiberio-Gayo Graco.pdf"
 convertido: 2026-10-15
 ---
 
 # VIII. Gredos. Foción-Catón el Joven. Demóstenes-Cicerón. Agis-Cleómenes. Tiberio-Gayo Graco
 
-> Texto extraído de `Historia/Plutarco/VIII. Gredos. Foción-Catón el Joven. Demóstenes-Cicerón. Agis-Cleómenes. Tiberio-Gayo Graco.pdf` (458 páginas, mixto: 6 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Plutarco/VIII. Gredos. Foción-Catón el Joven. Demóstenes-Cicerón. Agis-Cleómenes. Tiberio-Gayo Graco.pdf` (458 páginas, mixto: 6 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

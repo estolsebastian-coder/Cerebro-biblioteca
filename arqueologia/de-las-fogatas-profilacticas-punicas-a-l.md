@@ -5,13 +5,13 @@ author: ""
 categoria: "Arqueología"
 paginas: 32
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/De_las_fogatas_profilacticas_punicas_a_l.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/De_las_fogatas_profilacticas_punicas_a_l.pdf"
 convertido: 2026-10-12
 ---
 
 # De_las_fogatas_profilacticas_punicas_a_l
 
-> Texto extraído de `Arqueología/De_las_fogatas_profilacticas_punicas_a_l.pdf` (32 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/De_las_fogatas_profilacticas_punicas_a_l.pdf` (32 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

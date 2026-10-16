@@ -5,13 +5,13 @@ author: "Javier Cabrero"
 categoria: "Gredos"
 paginas: 158
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Gredos/Nº 29. Isócrates - Discursos II.pdf"
+fuente: "local:E:/Biblioteca digital/Gredos/Nº 29. Isócrates - Discursos II.pdf"
 convertido: 2026-10-15
 ---
 
 # 029 Isocrates.max
 
-> Texto extraído de `Gredos/Nº 29. Isócrates - Discursos II.pdf` (158 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Gredos/Nº 29. Isócrates - Discursos II.pdf` (158 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

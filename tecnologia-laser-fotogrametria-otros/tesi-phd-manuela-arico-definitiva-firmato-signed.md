@@ -5,13 +5,13 @@ author: "MANUELA ARICO"
 categoria: "Tecnología láser, fotogrametría, otros"
 paginas: 218
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tecnología láser, fotogrametría, otros/Tesi+PhD+Manuela+Arico_+definitiva(firmato)-signed.pdf"
+fuente: "local:E:/Biblioteca digital/Tecnología láser, fotogrametría, otros/Tesi+PhD+Manuela+Arico_+definitiva(firmato)-signed.pdf"
 convertido: 2026-10-13
 ---
 
 # Introduction
 
-> Texto extraído de `Tecnología láser, fotogrametría, otros/Tesi+PhD+Manuela+Arico_+definitiva(firmato)-signed.pdf` (218 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tecnología láser, fotogrametría, otros/Tesi+PhD+Manuela+Arico_+definitiva(firmato)-signed.pdf` (218 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

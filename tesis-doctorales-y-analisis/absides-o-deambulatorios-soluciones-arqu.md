@@ -5,13 +5,13 @@ author: "Stefania"
 categoria: "Tesis doctorales y análisis"
 paginas: 26
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/Absides_o_deambulatorios_soluciones_arqu.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/Absides_o_deambulatorios_soluciones_arqu.pdf"
 convertido: 2026-10-13
 ---
 
 # Absides_o_deambulatorios_soluciones_arqu
 
-> Texto extraído de `Tesis doctorales y análisis/Absides_o_deambulatorios_soluciones_arqu.pdf` (26 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/Absides_o_deambulatorios_soluciones_arqu.pdf` (26 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

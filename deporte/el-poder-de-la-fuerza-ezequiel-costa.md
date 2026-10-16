@@ -5,13 +5,13 @@ author: ""
 categoria: "Deporte"
 paginas: 174
 extraccion: "mixto: 12 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Deporte/EL-PODER-DE-LA-FUERZA-Ezequiel-Costa.pdf"
+fuente: "local:E:/Biblioteca digital/Deporte/EL-PODER-DE-LA-FUERZA-Ezequiel-Costa.pdf"
 convertido: 2026-10-15
 ---
 
 # EL-PODER-DE-LA-FUERZA-Ezequiel-Costa
 
-> Texto extraído de `Deporte/EL-PODER-DE-LA-FUERZA-Ezequiel-Costa.pdf` (174 páginas, mixto: 12 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Deporte/EL-PODER-DE-LA-FUERZA-Ezequiel-Costa.pdf` (174 páginas, mixto: 12 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

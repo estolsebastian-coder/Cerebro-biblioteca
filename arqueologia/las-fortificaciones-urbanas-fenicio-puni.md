@@ -5,13 +5,13 @@ author: ""
 categoria: "Arqueología"
 paginas: 30
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/Las_fortificaciones_urbanas_fenicio_puni.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/Las_fortificaciones_urbanas_fenicio_puni.pdf"
 convertido: 2026-10-13
 ---
 
 # Las_fortificaciones_urbanas_fenicio_puni
 
-> Texto extraído de `Arqueología/Las_fortificaciones_urbanas_fenicio_puni.pdf` (30 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/Las_fortificaciones_urbanas_fenicio_puni.pdf` (30 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

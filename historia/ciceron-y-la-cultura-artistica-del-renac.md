@@ -5,13 +5,13 @@ author: ""
 categoria: "Historia"
 paginas: 176
 extraccion: "mixto: 14 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Historia/Ciceron_y_la_cultura_artistica_del_Renac.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Ciceron_y_la_cultura_artistica_del_Renac.pdf"
 convertido: 2026-10-13
 ---
 
 # Ciceron_y_la_cultura_artistica_del_Renac
 
-> Texto extraído de `Historia/Ciceron_y_la_cultura_artistica_del_Renac.pdf` (176 páginas, mixto: 14 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Ciceron_y_la_cultura_artistica_del_Renac.pdf` (176 páginas, mixto: 14 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

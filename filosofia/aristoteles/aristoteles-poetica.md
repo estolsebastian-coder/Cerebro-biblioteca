@@ -5,13 +5,13 @@ author: "mjose"
 categoria: "Filosofía"
 paginas: 43
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Aristóteles/Aristoteles_Poetica.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Aristóteles/Aristoteles_Poetica.pdf"
 convertido: 2026-10-15
 ---
 
 # Aristoteles_Poetica
 
-> Texto extraído de `Filosofía/Aristóteles/Aristoteles_Poetica.pdf` (43 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Aristóteles/Aristoteles_Poetica.pdf` (43 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

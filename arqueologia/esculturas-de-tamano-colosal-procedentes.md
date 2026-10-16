@@ -5,13 +5,13 @@ author: ""
 categoria: "Arqueología"
 paginas: 22
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/Esculturas_de_tamano_colosal_procedentes.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/Esculturas_de_tamano_colosal_procedentes.pdf"
 convertido: 2026-10-12
 ---
 
 # Esculturas_de_tamano_colosal_procedentes
 
-> Texto extraído de `Arqueología/Esculturas_de_tamano_colosal_procedentes.pdf` (22 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/Esculturas_de_tamano_colosal_procedentes.pdf` (22 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

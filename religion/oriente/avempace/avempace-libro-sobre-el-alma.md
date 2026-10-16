@@ -5,13 +5,13 @@ author: ""
 categoria: "Religión"
 paginas: 72
 extraccion: "ocr (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Religión/Oriente/Avempace/Avempace_Libro_sobre_el_alma.pdf"
+fuente: "local:E:/Biblioteca digital/Religión/Oriente/Avempace/Avempace_Libro_sobre_el_alma.pdf"
 convertido: 2026-10-16
 ---
 
 # Avempace_Libro_sobre_el_alma
 
-> Texto extraído de `Religión/Oriente/Avempace/Avempace_Libro_sobre_el_alma.pdf` (72 páginas, ocr (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Religión/Oriente/Avempace/Avempace_Libro_sobre_el_alma.pdf` (72 páginas, ocr (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: "Julio Pablo"
 categoria: "Filosofía"
 paginas: 8
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Heidegger/Heidegger-Construir-Habitar-Pensar1.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Heidegger/Heidegger-Construir-Habitar-Pensar1.pdf"
 convertido: 2026-10-15
 ---
 
 # Heidegger. Construir, habitar, pensar
 
-> Texto extraído de `Filosofía/Heidegger/Heidegger-Construir-Habitar-Pensar1.pdf` (8 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Heidegger/Heidegger-Construir-Habitar-Pensar1.pdf` (8 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

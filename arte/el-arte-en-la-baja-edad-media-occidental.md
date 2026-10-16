@@ -5,13 +5,13 @@ author: ""
 categoria: "Arte"
 paginas: 6
 extraccion: "ocr (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Arte/El_arte_en_la_Baja_Edad_Media_occidental.pdf"
+fuente: "local:E:/Biblioteca digital/Arte/El_arte_en_la_Baja_Edad_Media_occidental.pdf"
 convertido: 2026-10-15
 ---
 
 # El_arte_en_la_Baja_Edad_Media_occidental
 
-> Texto extraído de `Arte/El_arte_en_la_Baja_Edad_Media_occidental.pdf` (6 páginas, ocr (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arte/El_arte_en_la_Baja_Edad_Media_occidental.pdf` (6 páginas, ocr (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

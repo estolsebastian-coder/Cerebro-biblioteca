@@ -5,13 +5,13 @@ author: ""
 categoria: "Política"
 paginas: 733
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Marx, Karl - El Capital - Tomo I_ El Proceso de Producción del Capital.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Marx, Karl - El Capital - Tomo I_ El Proceso de Producción del Capital.pdf"
 convertido: 2026-10-16
 ---
 
 # Marx: El Capital. Tomo I, "El Proceso de Acumulación Capitalista"
 
-> Texto extraído de `pdf´s mezclados/Marx, Karl - El Capital - Tomo I_ El Proceso de Producción del Capital.pdf` (733 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Marx, Karl - El Capital - Tomo I_ El Proceso de Producción del Capital.pdf` (733 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

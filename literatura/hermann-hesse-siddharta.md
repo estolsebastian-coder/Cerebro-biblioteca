@@ -5,13 +5,13 @@ author: "Patricio"
 categoria: "Literatura"
 paginas: 57
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Hermann Hesse-Siddharta.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Hermann Hesse-Siddharta.pdf"
 convertido: 2026-10-16
 ---
 
 # Hermann Hesse - Siddharta
 
-> Texto extraído de `pdf´s mezclados/Hermann Hesse-Siddharta.pdf` (57 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Hermann Hesse-Siddharta.pdf` (57 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

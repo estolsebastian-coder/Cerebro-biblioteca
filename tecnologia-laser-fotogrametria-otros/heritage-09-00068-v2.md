@@ -5,13 +5,13 @@ author: "Inmaculada Oliver-Faubel, María Eugenia Torner-Feltrer, Emma Barelles-
 categoria: "Tecnología láser, fotogrametría, otros"
 paginas: 26
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tecnología láser, fotogrametría, otros/heritage-09-00068-v2.pdf"
+fuente: "local:E:/Biblioteca digital/Tecnología láser, fotogrametría, otros/heritage-09-00068-v2.pdf"
 convertido: 2026-10-13
 ---
 
 # HBIM Implementation in Architectural Heritage:A Multitemporal Case Study of the Church of La Sang in Llíria
 
-> Texto extraído de `Tecnología láser, fotogrametría, otros/heritage-09-00068-v2.pdf` (26 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tecnología láser, fotogrametría, otros/heritage-09-00068-v2.pdf` (26 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

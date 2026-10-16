@@ -5,13 +5,13 @@ author: "Esopo & Babrio"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 534
 extraccion: "mixto: 8 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/6 - Esopo & Babrio - Fabulas de Esopo, Vida de Esopo, Fabulas de Babrio [43752] (r1.1).pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/6 - Esopo & Babrio - Fabulas de Esopo, Vida de Esopo, Fabulas de Babrio [43752] (r1.1).pdf"
 convertido: 2026-10-15
 ---
 
 # Fábulas de Esopo, Vida de Esopo, Fábulas de Babrio
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/6 - Esopo & Babrio - Fabulas de Esopo, Vida de Esopo, Fabulas de Babrio [43752] (r1.1).pdf` (534 páginas, mixto: 8 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/6 - Esopo & Babrio - Fabulas de Esopo, Vida de Esopo, Fabulas de Babrio [43752] (r1.1).pdf` (534 páginas, mixto: 8 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

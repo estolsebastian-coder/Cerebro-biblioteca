@@ -5,13 +5,13 @@ author: ""
 categoria: "Arqueología"
 paginas: 36
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/Las_iglesias_tardoantiguas_y_altomedieva.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/Las_iglesias_tardoantiguas_y_altomedieva.pdf"
 convertido: 2026-10-13
 ---
 
 # Las_iglesias_tardoantiguas_y_altomedieva
 
-> Texto extraído de `Arqueología/Las_iglesias_tardoantiguas_y_altomedieva.pdf` (36 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/Las_iglesias_tardoantiguas_y_altomedieva.pdf` (36 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: ""
 categoria: "Restauración y construcción"
 paginas: 20
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Restauración y construcción/Estereotomía/Conceptos_espaciales en los tratados de cortes de piedras.pdf"
+fuente: "local:E:/Biblioteca digital/Restauración y construcción/Estereotomía/Conceptos_espaciales en los tratados de cortes de piedras.pdf"
 convertido: 2026-10-13
 ---
 
 # Conceptos_espaciales en los tratados de cortes de piedras
 
-> Texto extraído de `Restauración y construcción/Estereotomía/Conceptos_espaciales en los tratados de cortes de piedras.pdf` (20 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Restauración y construcción/Estereotomía/Conceptos_espaciales en los tratados de cortes de piedras.pdf` (20 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

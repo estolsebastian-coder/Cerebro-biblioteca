@@ -5,13 +5,13 @@ author: "Javier Cabrero"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 217
 extraccion: "mixto: 6 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/46 - LactanciosobreLaMuerteDeLosPerseguidores.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/46 - LactanciosobreLaMuerteDeLosPerseguidores.pdf"
 convertido: 2026-10-15
 ---
 
 # 46 Lactancio.max
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/46 - LactanciosobreLaMuerteDeLosPerseguidores.pdf` (217 páginas, mixto: 6 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/46 - LactanciosobreLaMuerteDeLosPerseguidores.pdf` (217 páginas, mixto: 6 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

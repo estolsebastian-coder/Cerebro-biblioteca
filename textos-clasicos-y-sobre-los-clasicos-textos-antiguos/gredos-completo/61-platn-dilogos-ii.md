@@ -5,13 +5,13 @@ author: "Platón"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 425
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/61 - Plat�n. Di�logos II.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/61 - Plat�n. Di�logos II.pdf"
 convertido: 2026-10-15
 ---
 
 # Diálogos II. Gorgias - Menéxeno - Eutidemo - Menón - Crátilo (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/61 - Plat�n. Di�logos II.pdf` (425 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/61 - Plat�n. Di�logos II.pdf` (425 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

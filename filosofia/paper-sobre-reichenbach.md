@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 24
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Filosofía/Paper sobre Reichenbach.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Paper sobre Reichenbach.pdf"
 convertido: 2026-10-12
 ---
 
 # Paper sobre Reichenbach
 
-> Texto extraído de `Filosofía/Paper sobre Reichenbach.pdf` (24 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Paper sobre Reichenbach.pdf` (24 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

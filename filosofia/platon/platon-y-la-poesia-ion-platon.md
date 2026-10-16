@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 205
 extraccion: "mixto: 9 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Platón/Platón y la poesía. Ion - Platón.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Platón/Platón y la poesía. Ion - Platón.pdf"
 convertido: 2026-10-15
 ---
 
 # Platón y la poesía. Ion - Platón
 
-> Texto extraído de `Filosofía/Platón/Platón y la poesía. Ion - Platón.pdf` (205 páginas, mixto: 9 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Platón/Platón y la poesía. Ion - Platón.pdf` (205 páginas, mixto: 9 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

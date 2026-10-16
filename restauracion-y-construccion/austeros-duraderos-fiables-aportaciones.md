@@ -5,13 +5,13 @@ author: ""
 categoria: "Restauración y construcción"
 paginas: 13
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Restauración y construcción/Austeros_duraderos_fiables_Aportaciones.pdf"
+fuente: "local:E:/Biblioteca digital/Restauración y construcción/Austeros_duraderos_fiables_Aportaciones.pdf"
 convertido: 2026-10-12
 ---
 
 # Austeros_duraderos_fiables_Aportaciones
 
-> Texto extraído de `Restauración y construcción/Austeros_duraderos_fiables_Aportaciones.pdf` (13 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Restauración y construcción/Austeros_duraderos_fiables_Aportaciones.pdf` (13 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

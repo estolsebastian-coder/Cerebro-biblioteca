@@ -5,13 +5,13 @@ author: "Cicerón"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 492
 extraccion: "mixto: 14 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/224 - Cicer�n. Cartas II.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/224 - Cicer�n. Cartas II.pdf"
 convertido: 2026-10-15
 ---
 
 # Cartas II. Cartas a Ático (Cartas 162-426) (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/224 - Cicer�n. Cartas II.pdf` (492 páginas, mixto: 14 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/224 - Cicer�n. Cartas II.pdf` (492 páginas, mixto: 14 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

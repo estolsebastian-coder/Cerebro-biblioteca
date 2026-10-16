@@ -5,13 +5,13 @@ author: "Camilla Mileto"
 categoria: "Restauración y construcción"
 paginas: 488
 extraccion: "mixto: 59 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Restauración y construcción/Revistas/Burkina Faso. Camilla Mileto.pdf"
+fuente: "local:E:/Biblioteca digital/Restauración y construcción/Revistas/Burkina Faso. Camilla Mileto.pdf"
 convertido: 2026-10-13
 ---
 
 # Burkina Faso. Arquitectura, cultura y cooperación
 
-> Texto extraído de `Restauración y construcción/Revistas/Burkina Faso. Camilla Mileto.pdf` (488 páginas, mixto: 59 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Restauración y construcción/Revistas/Burkina Faso. Camilla Mileto.pdf` (488 páginas, mixto: 59 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

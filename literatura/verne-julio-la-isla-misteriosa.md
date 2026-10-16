@@ -5,13 +5,13 @@ author: "Rene Contreras"
 categoria: "Literatura"
 paginas: 419
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Verne, Julio - La Isla misteriosa.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Verne, Julio - La Isla misteriosa.pdf"
 convertido: 2026-10-16
 ---
 
 # Verne, Julio - La Isla misteriosa
 
-> Texto extraído de `pdf´s mezclados/Verne, Julio - La Isla misteriosa.pdf` (419 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Verne, Julio - La Isla misteriosa.pdf` (419 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

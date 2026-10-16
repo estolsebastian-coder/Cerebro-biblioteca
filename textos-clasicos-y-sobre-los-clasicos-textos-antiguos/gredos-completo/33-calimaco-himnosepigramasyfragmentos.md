@@ -5,13 +5,13 @@ author: "Javier Cabrero"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 158
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/33 - Calimaco himnosEpigramasYFragmentos.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/33 - Calimaco himnosEpigramasYFragmentos.pdf"
 convertido: 2026-10-15
 ---
 
 # 033 Calimaco.max
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/33 - Calimaco himnosEpigramasYFragmentos.pdf` (158 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/33 - Calimaco himnosEpigramasYFragmentos.pdf` (158 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

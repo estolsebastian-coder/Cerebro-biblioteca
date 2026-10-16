@@ -5,13 +5,13 @@ author: "Plinio El Viejo"
 categoria: "Historia"
 paginas: 478
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Plinio el viejo/Plinio El Viejo. - Historia Natural 4 (libros XII-XVI).pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Plinio el viejo/Plinio El Viejo. - Historia Natural 4 (libros XII-XVI).pdf"
 convertido: 2026-10-15
 ---
 
 # Plinio El Viejo. - Historia Natural 4 (libros XII-XVI)
 
-> Texto extraído de `Historia/Plinio el viejo/Plinio El Viejo. - Historia Natural 4 (libros XII-XVI).pdf` (478 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Plinio el viejo/Plinio El Viejo. - Historia Natural 4 (libros XII-XVI).pdf` (478 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 1080
 extraccion: "ocr (spa+deu)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Kant/Immanuel Kant - Crítica de la Razón Pura (Edición Bilingüe Español-Alemán)-Fondo de Cultura Económica (FCE) (2009).pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Kant/Immanuel Kant - Crítica de la Razón Pura (Edición Bilingüe Español-Alemán)-Fondo de Cultura Económica (FCE) (2009).pdf"
 convertido: 2026-10-15
 ---
 
 # Kant, Crítica de la razón pura (trad. Mario Caimi, FCE, 2009; solo español, pese al nombre del archivo)
 
-> Texto extraído de `Filosofía/Kant/Immanuel Kant - Crítica de la Razón Pura (Edición Bilingüe Español-Alemán)-Fondo de Cultura Económica (FCE) (2009).pdf` (1080 páginas, ocr (spa+deu)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Kant/Immanuel Kant - Crítica de la Razón Pura (Edición Bilingüe Español-Alemán)-Fondo de Cultura Económica (FCE) (2009).pdf` (1080 páginas, ocr (spa+deu)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

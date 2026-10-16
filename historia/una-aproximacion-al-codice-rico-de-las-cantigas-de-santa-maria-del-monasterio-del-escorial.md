@@ -5,13 +5,13 @@ author: "Tecnodoc (Dept. PDF)"
 categoria: "Historia"
 paginas: 40
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Historia/Una Aproximación al Códice Rico de las Cantigas de Santa María del Monasterio del Escorial.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Una Aproximación al Códice Rico de las Cantigas de Santa María del Monasterio del Escorial.pdf"
 convertido: 2026-10-12
 ---
 
 # Una Aproximación al Códice Rico de las Cantigas de Santa María del Monasterio del Escorial. Miniatura, Poema y Glosa
 
-> Texto extraído de `Historia/Una Aproximación al Códice Rico de las Cantigas de Santa María del Monasterio del Escorial.pdf` (40 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Una Aproximación al Códice Rico de las Cantigas de Santa María del Monasterio del Escorial.pdf` (40 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

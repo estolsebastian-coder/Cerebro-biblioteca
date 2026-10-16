@@ -5,13 +5,13 @@ author: "Javier de Matías Bejarano"
 categoria: "Tesis doctorales y análisis"
 paginas: 155
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/Técnicas de fotogrametría y visión por computador para el modelado 3D de estructuras geomorfológicas dinámicas.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/Técnicas de fotogrametría y visión por computador para el modelado 3D de estructuras geomorfológicas dinámicas.pdf"
 convertido: 2026-10-13
 ---
 
 # Técnicas de fotogrametría y visión por computador para el modelado 3D de estructuras geomorfológicas dinámicas
 
-> Texto extraído de `Tesis doctorales y análisis/Técnicas de fotogrametría y visión por computador para el modelado 3D de estructuras geomorfológicas dinámicas.pdf` (155 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/Técnicas de fotogrametría y visión por computador para el modelado 3D de estructuras geomorfológicas dinámicas.pdf` (155 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

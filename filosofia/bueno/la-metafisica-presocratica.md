@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 43
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Bueno/La metafísica presocrática.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Bueno/La metafísica presocrática.pdf"
 convertido: 2026-10-15
 ---
 
 # La metafísica presocrática
 
-> Texto extraído de `Filosofía/Bueno/La metafísica presocrática.pdf` (43 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Bueno/La metafísica presocrática.pdf` (43 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

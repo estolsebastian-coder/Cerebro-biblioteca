@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 387
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Kant/Kant prolegomenos alemán-español.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Kant/Kant prolegomenos alemán-español.pdf"
 convertido: 2026-10-15
 ---
 
 # Kant prolegomenos alemán-español
 
-> Texto extraído de `Filosofía/Kant/Kant prolegomenos alemán-español.pdf` (387 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Kant/Kant prolegomenos alemán-español.pdf` (387 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

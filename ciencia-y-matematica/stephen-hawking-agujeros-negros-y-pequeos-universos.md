@@ -5,13 +5,13 @@ author: "Stephen Hawking"
 categoria: "Ciencia y matemática"
 paginas: 122
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Stephen Hawking - Agujeros Negros y Pequeos Universos.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Stephen Hawking - Agujeros Negros y Pequeos Universos.pdf"
 convertido: 2026-10-16
 ---
 
 # Agujeros Negros y Pequeños Universos
 
-> Texto extraído de `pdf´s mezclados/Stephen Hawking - Agujeros Negros y Pequeos Universos.pdf` (122 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Stephen Hawking - Agujeros Negros y Pequeos Universos.pdf` (122 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

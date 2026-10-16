@@ -5,13 +5,13 @@ author: "Gustavo Bueno"
 categoria: "Filosofía"
 paginas: 370
 extraccion: "mixto: 7 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Bueno/Bueno, G. - La Metafísica presocrática [ocr] [1974].pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Bueno/Bueno, G. - La Metafísica presocrática [ocr] [1974].pdf"
 convertido: 2026-10-15
 ---
 
 # La metafísica presocrática
 
-> Texto extraído de `Filosofía/Bueno/Bueno, G. - La Metafísica presocrática [ocr] [1974].pdf` (370 páginas, mixto: 7 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Bueno/Bueno, G. - La Metafísica presocrática [ocr] [1974].pdf` (370 páginas, mixto: 7 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

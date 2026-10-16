@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 110
 extraccion: "ocr (spa+grc)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Heidegger/67_HEIDEGGER_Martin_FINK_Eugen_Heraclit.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Heidegger/67_HEIDEGGER_Martin_FINK_Eugen_Heraclit.pdf"
 convertido: 2026-10-15
 ---
 
 # 67_HEIDEGGER_Martin_FINK_Eugen_Heraclit
 
-> Texto extraído de `Filosofía/Heidegger/67_HEIDEGGER_Martin_FINK_Eugen_Heraclit.pdf` (110 páginas, ocr (spa+grc)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Heidegger/67_HEIDEGGER_Martin_FINK_Eugen_Heraclit.pdf` (110 páginas, ocr (spa+grc)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

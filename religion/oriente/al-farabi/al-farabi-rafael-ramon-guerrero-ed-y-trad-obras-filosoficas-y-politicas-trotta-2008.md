@@ -5,13 +5,13 @@ author: "Al-Farabi, Abu Nasr(Author)"
 categoria: "Religión"
 paginas: 256
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Religión/Oriente/Al Farabi/al-Farabi. Rafael Ramón Guerrero (ed. y trad.) - Obras filosóficas y políticas-Trotta (2008).pdf"
+fuente: "local:E:/Biblioteca digital/Religión/Oriente/Al Farabi/al-Farabi. Rafael Ramón Guerrero (ed. y trad.) - Obras filosóficas y políticas-Trotta (2008).pdf"
 convertido: 2026-10-16
 ---
 
 # Obras filosóficas y políticas
 
-> Texto extraído de `Religión/Oriente/Al Farabi/al-Farabi. Rafael Ramón Guerrero (ed. y trad.) - Obras filosóficas y políticas-Trotta (2008).pdf` (256 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Religión/Oriente/Al Farabi/al-Farabi. Rafael Ramón Guerrero (ed. y trad.) - Obras filosóficas y políticas-Trotta (2008).pdf` (256 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

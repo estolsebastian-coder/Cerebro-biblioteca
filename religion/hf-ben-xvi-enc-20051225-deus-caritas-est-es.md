@@ -5,13 +5,13 @@ author: ""
 categoria: "Religión"
 paginas: 45
 extraccion: "ocr (eng)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Religión/hf_ben-xvi_enc_20051225_deus-caritas-est_es.pdf"
+fuente: "local:E:/Biblioteca digital/Religión/hf_ben-xvi_enc_20051225_deus-caritas-est_es.pdf"
 convertido: 2026-10-16
 ---
 
 # hf_ben-xvi_enc_20051225_deus-caritas-est_es
 
-> Texto extraído de `Religión/hf_ben-xvi_enc_20051225_deus-caritas-est_es.pdf` (45 páginas, ocr (eng)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Religión/hf_ben-xvi_enc_20051225_deus-caritas-est_es.pdf` (45 páginas, ocr (eng)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

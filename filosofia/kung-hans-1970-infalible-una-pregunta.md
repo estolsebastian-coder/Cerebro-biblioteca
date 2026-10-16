@@ -5,13 +5,13 @@ author: "Hans Küng"
 categoria: "Filosofía"
 paginas: 293
 extraccion: "ocr (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Kung.Hans_1970_Infalible.Una pregunta.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Kung.Hans_1970_Infalible.Una pregunta.pdf"
 convertido: 2026-10-15
 ---
 
 # ¿Infalible? Una pregunta
 
-> Texto extraído de `Filosofía/Kung.Hans_1970_Infalible.Una pregunta.pdf` (293 páginas, ocr (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Kung.Hans_1970_Infalible.Una pregunta.pdf` (293 páginas, ocr (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

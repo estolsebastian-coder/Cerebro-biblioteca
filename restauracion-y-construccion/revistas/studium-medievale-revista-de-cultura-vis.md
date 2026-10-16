@@ -5,13 +5,13 @@ author: ""
 categoria: "Restauración y construcción"
 paginas: 327
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Restauración y construcción/Revistas/Studium_Medievale_Revista_de_Cultura_vis.pdf"
+fuente: "local:E:/Biblioteca digital/Restauración y construcción/Revistas/Studium_Medievale_Revista_de_Cultura_vis.pdf"
 convertido: 2026-10-13
 ---
 
 # Studium_Medievale_Revista_de_Cultura_vis
 
-> Texto extraído de `Restauración y construcción/Revistas/Studium_Medievale_Revista_de_Cultura_vis.pdf` (327 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Restauración y construcción/Revistas/Studium_Medievale_Revista_de_Cultura_vis.pdf` (327 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

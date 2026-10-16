@@ -5,13 +5,13 @@ author: ""
 categoria: "Arqueología"
 paginas: 19
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/div-class-title-new-dates-for-the-emergence-of-the-megalithic-phenomenon-on-the-iberian-plateau-the-funerary-practices-of-valdelasilla-toledo-spain-div.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/div-class-title-new-dates-for-the-emergence-of-the-megalithic-phenomenon-on-the-iberian-plateau-the-funerary-practices-of-valdelasilla-toledo-spain-div.pdf"
 convertido: 2026-10-12
 ---
 
 # New Dates for the Emergence of the Megalithic Phenomenon on the Iberian Plateau: The Funerary Practices of Valdelasilla, Toledo (Spain)
 
-> Texto extraído de `Arqueología/div-class-title-new-dates-for-the-emergence-of-the-megalithic-phenomenon-on-the-iberian-plateau-the-funerary-practices-of-valdelasilla-toledo-spain-div.pdf` (19 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/div-class-title-new-dates-for-the-emergence-of-the-megalithic-phenomenon-on-the-iberian-plateau-the-funerary-practices-of-valdelasilla-toledo-spain-div.pdf` (19 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

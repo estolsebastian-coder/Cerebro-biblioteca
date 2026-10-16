@@ -5,13 +5,13 @@ author: "StudentIn"
 categoria: "Filosofía"
 paginas: 40
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Feyerabend 2025.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Feyerabend 2025.pdf"
 convertido: 2026-10-15
 ---
 
 # Feyerabend 2025
 
-> Texto extraído de `Filosofía/Feyerabend 2025.pdf` (40 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Feyerabend 2025.pdf` (40 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

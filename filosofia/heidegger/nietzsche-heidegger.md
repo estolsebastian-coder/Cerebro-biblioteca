@@ -5,13 +5,13 @@ author: "Heidegger"
 categoria: "Filosofía"
 paginas: 949
 extraccion: "ocr (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Heidegger/Nietzsche. Heidegger..pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Heidegger/Nietzsche. Heidegger..pdf"
 convertido: 2026-10-15
 ---
 
 # Nietzsche
 
-> Texto extraído de `Filosofía/Heidegger/Nietzsche. Heidegger..pdf` (949 páginas, ocr (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Heidegger/Nietzsche. Heidegger..pdf` (949 páginas, ocr (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

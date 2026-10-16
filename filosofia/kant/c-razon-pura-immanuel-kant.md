@@ -5,13 +5,13 @@ author: "H. Alonso"
 categoria: "Filosofía"
 paginas: 553
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Kant/C.Razon_pura-Immanuel_Kant.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Kant/C.Razon_pura-Immanuel_Kant.pdf"
 convertido: 2026-10-15
 ---
 
 # C.Razon_pura-Immanuel_Kant
 
-> Texto extraído de `Filosofía/Kant/C.Razon_pura-Immanuel_Kant.pdf` (553 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Kant/C.Razon_pura-Immanuel_Kant.pdf` (553 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

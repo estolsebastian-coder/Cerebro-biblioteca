@@ -5,13 +5,13 @@ author: "Gustavo"
 categoria: "Literatura"
 paginas: 5
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/charles bukowski - cartas de un viejo indecente.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/charles bukowski - cartas de un viejo indecente.pdf"
 convertido: 2026-10-16
 ---
 
 # charles bukowski - cartas de un viejo indecente
 
-> Texto extraído de `pdf´s mezclados/charles bukowski - cartas de un viejo indecente.pdf` (5 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/charles bukowski - cartas de un viejo indecente.pdf` (5 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

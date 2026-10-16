@@ -5,13 +5,13 @@ author: ""
 categoria: "Historia"
 paginas: 156
 extraccion: "ocr (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Mitos griegos y romanos/La Mitologia Griega y Romana.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Mitos griegos y romanos/La Mitologia Griega y Romana.pdf"
 convertido: 2026-10-15
 ---
 
 # La Mitologia Griega y Romana
 
-> Texto extraído de `Historia/Mitos griegos y romanos/La Mitologia Griega y Romana.pdf` (156 páginas, ocr (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Mitos griegos y romanos/La Mitologia Griega y Romana.pdf` (156 páginas, ocr (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

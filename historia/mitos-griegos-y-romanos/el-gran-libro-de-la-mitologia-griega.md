@@ -5,13 +5,13 @@ author: "Juanco"
 categoria: "Historia"
 paginas: 9
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Mitos griegos y romanos/El Gran Libro De La Mitologia Griega.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Mitos griegos y romanos/El Gran Libro De La Mitologia Griega.pdf"
 convertido: 2026-10-15
 ---
 
 # 00 Mitolog™a
 
-> Texto extraído de `Historia/Mitos griegos y romanos/El Gran Libro De La Mitologia Griega.pdf` (9 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Mitos griegos y romanos/El Gran Libro De La Mitologia Griega.pdf` (9 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

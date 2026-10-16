@@ -5,13 +5,13 @@ author: ""
 categoria: "Tecnología láser, fotogrametría, otros"
 paginas: 5
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tecnología láser, fotogrametría, otros/Analisis_LiDAR_del_PNOA_para_la_interpre.pdf"
+fuente: "local:E:/Biblioteca digital/Tecnología láser, fotogrametría, otros/Analisis_LiDAR_del_PNOA_para_la_interpre.pdf"
 convertido: 2026-10-13
 ---
 
 # Analisis_LiDAR_del_PNOA_para_la_interpre
 
-> Texto extraído de `Tecnología láser, fotogrametría, otros/Analisis_LiDAR_del_PNOA_para_la_interpre.pdf` (5 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tecnología láser, fotogrametría, otros/Analisis_LiDAR_del_PNOA_para_la_interpre.pdf` (5 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

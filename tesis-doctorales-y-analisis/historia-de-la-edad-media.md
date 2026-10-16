@@ -5,13 +5,13 @@ author: "Ilipa Magna"
 categoria: "Tesis doctorales y análisis"
 paginas: 188
 extraccion: "mixto: 5 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/Historia_de_la_Edad_Media.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/Historia_de_la_Edad_Media.pdf"
 convertido: 2026-10-13
 ---
 
 # Historia_de_la_Edad_Media
 
-> Texto extraído de `Tesis doctorales y análisis/Historia_de_la_Edad_Media.pdf` (188 páginas, mixto: 5 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/Historia_de_la_Edad_Media.pdf` (188 páginas, mixto: 5 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

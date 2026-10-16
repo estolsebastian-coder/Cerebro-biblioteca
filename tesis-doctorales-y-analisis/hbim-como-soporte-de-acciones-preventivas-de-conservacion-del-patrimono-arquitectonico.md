@@ -5,13 +5,13 @@ author: "Roque Angulo-Fornos and Manuel Castellano-Román"
 categoria: "Tesis doctorales y análisis"
 paginas: 34
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/HBIM como soporte de acciones preventivas de conservación del patrimono arquitectónico.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/HBIM como soporte de acciones preventivas de conservación del patrimono arquitectónico.pdf"
 convertido: 2026-10-13
 ---
 
 # HBIM as Support of Preventive Conservation Actions in Heritage Architecture. Experience of the Renaissance Quadrant Façade of the Cathedral of Seville
 
-> Texto extraído de `Tesis doctorales y análisis/HBIM como soporte de acciones preventivas de conservación del patrimono arquitectónico.pdf` (34 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/HBIM como soporte de acciones preventivas de conservación del patrimono arquitectónico.pdf` (34 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

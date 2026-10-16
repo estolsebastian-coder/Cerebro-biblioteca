@@ -1,0 +1,39 @@
+---
+type: libro
+title: "A3_Progreso"
+author: ""
+categoria: "ANEP CODICEN"
+paginas: 1
+extraccion: "texto"
+fuente: "local:E:/MATERIAL DE CONSULTA/ANEP CODICEN/MATERIAL D.S.I/cartografia/Canelones/PDFS/A3_Progreso.pdf"
+convertido: 2026-10-16
+---
+
+# A3_Progreso
+
+> Texto extraído de `ANEP CODICEN\MATERIAL D.S.I\cartografia\Canelones\PDFS\A3_Progreso.pdf` (1 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+56°16'30"W 56°16'0"W 56°15'30"W 56°15'0"W 56°14'30"W 56°14'0"W 56°13'30"W 56°13'0"W 56°12'30"W 56°12'0"W 56°11'30"W 56°11'0"W 56°10'30"W
+ESCUELAS PROGRESO, Depto. de Canelones BONITAS CASAS CNO LAS
+DE ERCASTY TROPAS 34°38'30"S34°38'30"S
+Administración Nacional SABAT
+de Educación Pública CARLOS 500mb Consejo Directivo Central
+
+34°39'0"S34°39'0"S
+RUTA 5
+
+5 180n GRAL.
+RUTA FRUCTUOSO
+RUTA BUENOS 201 RIVERA 34°39'30"S34°39'30"S BOLIVAR n AIRES £¤32
+5 LARGO# £¤ SIMON 32 n 223
+n CERRO COLONIA GEMINIS AVDA MARTIN nn DURAZNO GENERAL AVDA MONTEVIDEO SAN ROCHA 92 BVAR n RIO FRUCTUOSO 34°40'0"S34°40'0"S PAYSANDU PROGRESO NEGRO RIVERA MALDONADO CANELONES ARTIGAS # ACACIAS
+99n LAS AVDA SAN BOLIVIA JORGE
+34°40'30"S ENCINA 34°40'30"S NOYA REFERENCIAS MOLLES ESCUELAS
+SORIANO n PROGRESO TROPAS Urbana Común £¤69 n Contexto Sociocultural Crítico COLORADO AVDA CNO GRANJAS n Tiempo Completo£¤67 CICLAMOR
+CHICO LAS LOS n Práctica y Hab. de Práctica 34°41'0"S34°41'0"S n Rural Común e Internado Rural VIÑEDOS LAS Jardín MESA n UBICACION VIñAS Especial 77 PAZ n £¤ 33 LA LICEOS £¤12 ENRIQUE BOGOTA £¤12 68 # Ciclo Básico CAMPISTEGUI) PABLOCALLE £¤ 33 £¤63 £¤ PONGA 81 269 SAN (BO. # Ciclo Básico y Bachillerato nn £¤ DE 34°41'30"S n273 67 £¤4834°41'30"S JUAN PELAEZ # Bachillerato Diversificado £¤11 107 £¤ RUTA
+MANZANAS FRANCISCO RUTA £¤49 £¤8 RUTAS AMERICO VESPUCIO
+n65 Editor: ANEP
+Fuente: ANEP, INE, MTOP; año 2007 #
+56°16'30"W 56°16'0"W 56°15'30"W 56°15'0"W 56°14'30"W 56°14'0"W 56°13'30"W 56°13'0"W 56°12'30"W 56°12'0"W 56°11'30"W 56°11'0"W 56°10'30"W

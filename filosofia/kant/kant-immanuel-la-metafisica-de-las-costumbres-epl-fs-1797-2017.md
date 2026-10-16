@@ -5,13 +5,13 @@ author: "Immanuel Kant"
 categoria: "Filosofía"
 paginas: 490
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Kant/Kant, Immanuel. - La Metafísica de las Costumbres [EPL-FS] [1797] [2017].pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Kant/Kant, Immanuel. - La Metafísica de las Costumbres [EPL-FS] [1797] [2017].pdf"
 convertido: 2026-10-15
 ---
 
 # La Metafísica de las Costumbres
 
-> Texto extraído de `Filosofía/Kant/Kant, Immanuel. - La Metafísica de las Costumbres [EPL-FS] [1797] [2017].pdf` (490 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Kant/Kant, Immanuel. - La Metafísica de las Costumbres [EPL-FS] [1797] [2017].pdf` (490 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

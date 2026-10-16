@@ -5,13 +5,13 @@ author: "clark kent"
 categoria: "Filosofía"
 paginas: 105
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Séneca/Tratados morales - Seneca.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Séneca/Tratados morales - Seneca.pdf"
 convertido: 2026-10-15
 ---
 
 # Tratados morales
 
-> Texto extraído de `Filosofía/Séneca/Tratados morales - Seneca.pdf` (105 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Séneca/Tratados morales - Seneca.pdf` (105 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

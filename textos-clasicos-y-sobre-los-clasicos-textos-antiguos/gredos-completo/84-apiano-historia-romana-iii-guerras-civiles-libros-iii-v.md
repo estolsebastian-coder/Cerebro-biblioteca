@@ -5,13 +5,13 @@ author: "Apiano"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 308
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/84 - Apiano. Historia romana III Guerras civiles - Libros III-V.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/84 - Apiano. Historia romana III Guerras civiles - Libros III-V.pdf"
 convertido: 2026-10-15
 ---
 
 # Historia romana III. Guerras civiles (Libros III-V) (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/84 - Apiano. Historia romana III Guerras civiles - Libros III-V.pdf` (308 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/84 - Apiano. Historia romana III Guerras civiles - Libros III-V.pdf` (308 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

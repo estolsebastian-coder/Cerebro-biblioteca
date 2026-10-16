@@ -5,13 +5,13 @@ author: "Bruno Latour"
 categoria: "Filosofía"
 paginas: 117
 extraccion: "mixto: 7 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Latour, B.-Dónde aterrizar. Cómo orientarse en Política, Barcelona, 2019. 97 pp..pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Latour, B.-Dónde aterrizar. Cómo orientarse en Política, Barcelona, 2019. 97 pp..pdf"
 convertido: 2026-10-15
 ---
 
 # Dónde aterrizar
 
-> Texto extraído de `Filosofía/Latour, B.-Dónde aterrizar. Cómo orientarse en Política, Barcelona, 2019. 97 pp..pdf` (117 páginas, mixto: 7 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Latour, B.-Dónde aterrizar. Cómo orientarse en Política, Barcelona, 2019. 97 pp..pdf` (117 páginas, mixto: 7 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

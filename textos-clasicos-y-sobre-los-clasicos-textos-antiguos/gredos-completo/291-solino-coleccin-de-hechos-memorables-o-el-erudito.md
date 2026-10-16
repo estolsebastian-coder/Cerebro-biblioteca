@@ -5,13 +5,13 @@ author: "Solino"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 823
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/291 - Solino, Colecci�n de hechos memorables o El Erudito.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/291 - Solino, Colecci�n de hechos memorables o El Erudito.pdf"
 convertido: 2026-10-15
 ---
 
 # Colección de Hechos memorables o El erudito (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/291 - Solino, Colecci�n de hechos memorables o El Erudito.pdf` (823 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/291 - Solino, Colecci�n de hechos memorables o El Erudito.pdf` (823 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

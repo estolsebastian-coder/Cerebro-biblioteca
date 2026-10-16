@@ -5,13 +5,13 @@ author: ""
 categoria: "Arqueología"
 paginas: 14
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/Un_nuovo_progetto_di_studio_sul_compless.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/Un_nuovo_progetto_di_studio_sul_compless.pdf"
 convertido: 2026-10-12
 ---
 
 # Un_nuovo_progetto_di_studio_sul_compless
 
-> Texto extraído de `Arqueología/Un_nuovo_progetto_di_studio_sul_compless.pdf` (14 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/Un_nuovo_progetto_di_studio_sul_compless.pdf` (14 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: ""
 categoria: "Tesis doctorales y análisis"
 paginas: 650
 extraccion: "mixto: 26 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/Avila - La Imagen-Materia como registro del acontecimientoProcesos de transferencia sobre materia....pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/Avila - La Imagen-Materia como registro del acontecimientoProcesos de transferencia sobre materia....pdf"
 convertido: 2026-10-13
 ---
 
 # Avila - La Imagen-Materia como registro del acontecimientoProcesos de transferencia sobre materia...
 
-> Texto extraído de `Tesis doctorales y análisis/Avila - La Imagen-Materia como registro del acontecimientoProcesos de transferencia sobre materia....pdf` (650 páginas, mixto: 26 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/Avila - La Imagen-Materia como registro del acontecimientoProcesos de transferencia sobre materia....pdf` (650 páginas, mixto: 26 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

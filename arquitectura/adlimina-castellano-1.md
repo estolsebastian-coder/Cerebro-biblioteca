@@ -5,13 +5,13 @@ author: ""
 categoria: "Arquitectura"
 paginas: 266
 extraccion: "mixto: 19 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Arquitectura/adlimina_castellano_1.pdf"
+fuente: "local:E:/Biblioteca digital/Arquitectura/adlimina_castellano_1.pdf"
 convertido: 2026-10-15
 ---
 
 # adlimina_castellano_1
 
-> Texto extraído de `Arquitectura/adlimina_castellano_1.pdf` (266 páginas, mixto: 19 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arquitectura/adlimina_castellano_1.pdf` (266 páginas, mixto: 19 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

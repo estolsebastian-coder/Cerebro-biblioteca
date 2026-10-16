@@ -1,0 +1,23 @@
+---
+type: libro
+title: "L23-E06-ESCALERAS-R1"
+author: ""
+categoria: "ANEP CODICEN"
+paginas: 1
+extraccion: "texto"
+fuente: "local:E:/MATERIAL DE CONSULTA/ANEP CODICEN/MATERIAL D.S.I/Para Residentes/Piedras blancas Ejecutivo CND Pref Horm/ENTREGA 2016-09-15/ASESORES/ESTRUCTURA/L23-E06-ESCALERAS-R1.pdf"
+convertido: 2026-10-16
+---
+
+# L23-E06-ESCALERAS-R1
+
+> Texto extraído de `ANEP CODICEN\MATERIAL D.S.I\Para Residentes\Piedras blancas Ejecutivo CND Pref Horm\ENTREGA 2016-09-15\ASESORES\ESTRUCTURA\L23-E06-ESCALERAS-R1.pdf` (1 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+1 REV. PLANO ARQ. REVISADO DIBUJADO PROYECTO
+'( GUSTAVO
+DOS ('8&$&,Ð1 LICEO SANTOS $'0,1,675$&,Ð1
+CRUZ 3Ô%/,&$ ʦʧʵʥʴʫʲʥʫ̗ 1$&,21$/
+ʰFORMATO FECHA FECHA ESCALERAS PROYECTO ESTRUCTURADE ANEP REVISIONES PIEDRASLAMINA CONSEJOISO ',5(&&,Ð1A1 EJECUTIVO ,1*(1,(5Ì$ FECHA DIRECTIVO BLANCAS AYUDANTE INFRAESTRUCTURA6(&725,$/(594X841) ESCALA GABRIELA DE
+E 1 ARQ. '( SOSA CENTRAL APROBADO

@@ -5,13 +5,13 @@ author: "Javier Cabrero"
 categoria: "Gredos"
 paginas: 227
 extraccion: "mixto: 8 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Gredos/Nº 3. Heródoto, Historia 2. Euterpe.pdf"
+fuente: "local:E:/Biblioteca digital/Gredos/Nº 3. Heródoto, Historia 2. Euterpe.pdf"
 convertido: 2026-10-15
 ---
 
 # 003 Herodoto.max
 
-> Texto extraído de `Gredos/Nº 3. Heródoto, Historia 2. Euterpe.pdf` (227 páginas, mixto: 8 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Gredos/Nº 3. Heródoto, Historia 2. Euterpe.pdf` (227 páginas, mixto: 8 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

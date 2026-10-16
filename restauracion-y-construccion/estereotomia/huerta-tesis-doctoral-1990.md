@@ -5,13 +5,13 @@ author: ""
 categoria: "Restauración y construcción"
 paginas: 500
 extraccion: "mixto: 27 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Restauración y construcción/Estereotomía/Huerta tesis doctoral 1990.pdf"
+fuente: "local:E:/Biblioteca digital/Restauración y construcción/Estereotomía/Huerta tesis doctoral 1990.pdf"
 convertido: 2026-10-13
 ---
 
 # Huerta tesis doctoral 1990
 
-> Texto extraído de `Restauración y construcción/Estereotomía/Huerta tesis doctoral 1990.pdf` (500 páginas, mixto: 27 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Restauración y construcción/Estereotomía/Huerta tesis doctoral 1990.pdf` (500 páginas, mixto: 27 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

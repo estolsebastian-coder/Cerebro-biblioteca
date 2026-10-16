@@ -5,13 +5,13 @@ author: "Javier Cabrero"
 categoria: "Gredos"
 paginas: 202
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Gredos/Nº 6. Fábulas de Esopo. Vida de Esopo. Fábulas de Babrio.pdf"
+fuente: "local:E:/Biblioteca digital/Gredos/Nº 6. Fábulas de Esopo. Vida de Esopo. Fábulas de Babrio.pdf"
 convertido: 2026-10-15
 ---
 
 # 006 Esopo.max
 
-> Texto extraído de `Gredos/Nº 6. Fábulas de Esopo. Vida de Esopo. Fábulas de Babrio.pdf` (202 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Gredos/Nº 6. Fábulas de Esopo. Vida de Esopo. Fábulas de Babrio.pdf` (202 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

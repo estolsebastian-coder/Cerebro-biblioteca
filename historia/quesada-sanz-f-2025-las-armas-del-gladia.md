@@ -5,13 +5,13 @@ author: ""
 categoria: "Historia"
 paginas: 24
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Historia/QUESADA_SANZ_F_2025_Las_armas_del_gladia.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/QUESADA_SANZ_F_2025_Las_armas_del_gladia.pdf"
 convertido: 2026-10-13
 ---
 
 # QUESADA_SANZ_F_2025_Las_armas_del_gladia
 
-> Texto extraído de `Historia/QUESADA_SANZ_F_2025_Las_armas_del_gladia.pdf` (24 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/QUESADA_SANZ_F_2025_Las_armas_del_gladia.pdf` (24 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

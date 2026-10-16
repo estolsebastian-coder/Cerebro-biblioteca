@@ -5,13 +5,13 @@ author: "PfAoR"
 categoria: "Filosofía"
 paginas: 151
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Jean Paul Sartre/Jean Paul Sartre - La Nausea.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Jean Paul Sartre/Jean Paul Sartre - La Nausea.pdf"
 convertido: 2026-10-15
 ---
 
 # Jean Paul Sartre - La Nausea
 
-> Texto extraído de `Filosofía/Jean Paul Sartre/Jean Paul Sartre - La Nausea.pdf` (151 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Jean Paul Sartre/Jean Paul Sartre - La Nausea.pdf` (151 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

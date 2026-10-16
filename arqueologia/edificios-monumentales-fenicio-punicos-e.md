@@ -5,13 +5,13 @@ author: ""
 categoria: "Arqueología"
 paginas: 28
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/Edificios_monumentales_fenicio_punicos_e.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/Edificios_monumentales_fenicio_punicos_e.pdf"
 convertido: 2026-10-12
 ---
 
 # Edificios_monumentales_fenicio_punicos_e
 
-> Texto extraído de `Arqueología/Edificios_monumentales_fenicio_punicos_e.pdf` (28 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/Edificios_monumentales_fenicio_punicos_e.pdf` (28 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

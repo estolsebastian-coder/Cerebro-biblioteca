@@ -5,13 +5,13 @@ author: "Novalis"
 categoria: "Poesía"
 paginas: 32
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Poesía/Novalis Himnos a la Noche (1).pdf"
+fuente: "local:E:/Biblioteca digital/Poesía/Novalis Himnos a la Noche (1).pdf"
 convertido: 2026-10-15
 ---
 
 # Himnos a la Noche
 
-> Texto extraído de `Poesía/Novalis Himnos a la Noche (1).pdf` (32 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Poesía/Novalis Himnos a la Noche (1).pdf` (32 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 11
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Filosofía/Dialnet-ElEscudoDeHeraclesDeHesiodo-6297976.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Dialnet-ElEscudoDeHeraclesDeHesiodo-6297976.pdf"
 convertido: 2026-10-12
 ---
 
 # Dialnet-ElEscudoDeHeraclesDeHesiodo-6297976
 
-> Texto extraído de `Filosofía/Dialnet-ElEscudoDeHeraclesDeHesiodo-6297976.pdf` (11 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Dialnet-ElEscudoDeHeraclesDeHesiodo-6297976.pdf` (11 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

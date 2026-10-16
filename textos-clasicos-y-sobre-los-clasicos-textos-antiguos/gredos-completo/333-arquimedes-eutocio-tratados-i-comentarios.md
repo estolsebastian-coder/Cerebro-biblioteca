@@ -5,13 +5,13 @@ author: "Arquímedes & Eutocio"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 378
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/333 - Arquimedes, Eutocio, Tratados I, Comentarios.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/333 - Arquimedes, Eutocio, Tratados I, Comentarios.pdf"
 convertido: 2026-10-15
 ---
 
 # Tratados. Comentarios: 1 (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/333 - Arquimedes, Eutocio, Tratados I, Comentarios.pdf` (378 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/333 - Arquimedes, Eutocio, Tratados I, Comentarios.pdf` (378 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

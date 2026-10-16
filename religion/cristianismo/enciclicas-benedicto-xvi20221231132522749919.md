@@ -5,13 +5,13 @@ author: "Benedicto XVI"
 categoria: "Religión"
 paginas: 206
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Religión/Cristianismo/Enciclicas Benedicto XVI20221231132522749919.pdf"
+fuente: "local:E:/Biblioteca digital/Religión/Cristianismo/Enciclicas Benedicto XVI20221231132522749919.pdf"
 convertido: 2026-10-16
 ---
 
 # Encíclicas de Benedicto XVI
 
-> Texto extraído de `Religión/Cristianismo/Enciclicas Benedicto XVI20221231132522749919.pdf` (206 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Religión/Cristianismo/Enciclicas Benedicto XVI20221231132522749919.pdf` (206 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

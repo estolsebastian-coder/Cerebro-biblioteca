@@ -5,13 +5,13 @@ author: "Rene Contreras"
 categoria: "Literatura"
 paginas: 57
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Rebelión en la granja.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Rebelión en la granja.pdf"
 convertido: 2026-10-16
 ---
 
 # Rebelión en la granja
 
-> Texto extraído de `pdf´s mezclados/Rebelión en la granja.pdf` (57 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Rebelión en la granja.pdf` (57 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

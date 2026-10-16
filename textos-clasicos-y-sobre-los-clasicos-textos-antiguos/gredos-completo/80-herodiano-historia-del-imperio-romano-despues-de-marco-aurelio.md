@@ -5,13 +5,13 @@ author: "Herodiano"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 268
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/80 - Herodiano, Historia del Imperio Romano despues de Marco Aurelio.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/80 - Herodiano, Historia del Imperio Romano despues de Marco Aurelio.pdf"
 convertido: 2026-10-15
 ---
 
 # Historia del Imperio Romano después de Marco Aurelio (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/80 - Herodiano, Historia del Imperio Romano despues de Marco Aurelio.pdf` (268 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/80 - Herodiano, Historia del Imperio Romano despues de Marco Aurelio.pdf` (268 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: "Para leer por e@mail"
 categoria: "Literatura"
 paginas: 216
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/El Libro de Los Abrazos.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/El Libro de Los Abrazos.pdf"
 convertido: 2026-10-16
 ---
 
 # El libro de los abrazos
 
-> Texto extraído de `pdf´s mezclados/El Libro de Los Abrazos.pdf` (216 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/El Libro de Los Abrazos.pdf` (216 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

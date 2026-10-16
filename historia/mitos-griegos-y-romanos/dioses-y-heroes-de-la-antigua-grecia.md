@@ -5,13 +5,13 @@ author: "Estimado Cliente de Compaq"
 categoria: "Historia"
 paginas: 73
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Mitos griegos y romanos/Dioses y Heroes De La Antigua Grecia.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Mitos griegos y romanos/Dioses y Heroes De La Antigua Grecia.pdf"
 convertido: 2026-10-15
 ---
 
 # Colección Millenium
 
-> Texto extraído de `Historia/Mitos griegos y romanos/Dioses y Heroes De La Antigua Grecia.pdf` (73 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Mitos griegos y romanos/Dioses y Heroes De La Antigua Grecia.pdf` (73 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: ""
 categoria: "Revistas, ensayos, tesis"
 paginas: 32
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Revistas, ensayos, tesis/Cine radio actualidad.pdf"
+fuente: "local:E:/Biblioteca digital/Revistas, ensayos, tesis/Cine radio actualidad.pdf"
 convertido: 2026-10-16
 ---
 
 # Cine radio actualidad
 
-> Texto extraído de `Revistas, ensayos, tesis/Cine radio actualidad.pdf` (32 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Revistas, ensayos, tesis/Cine radio actualidad.pdf` (32 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

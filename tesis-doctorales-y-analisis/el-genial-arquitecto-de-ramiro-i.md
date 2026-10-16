@@ -5,13 +5,13 @@ author: "sebas"
 categoria: "Tesis doctorales y análisis"
 paginas: 9
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/El genial arquitecto de Ramiro I.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/El genial arquitecto de Ramiro I.pdf"
 convertido: 2026-10-13
 ---
 
 # El genial arquitecto de Ramiro I
 
-> Texto extraído de `Tesis doctorales y análisis/El genial arquitecto de Ramiro I.pdf` (9 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/El genial arquitecto de Ramiro I.pdf` (9 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

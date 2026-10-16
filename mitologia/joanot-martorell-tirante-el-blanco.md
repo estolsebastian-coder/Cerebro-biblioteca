@@ -5,13 +5,13 @@ author: "Joanot Martorell"
 categoria: "Mitología"
 paginas: 691
 extraccion: "mixto: 4 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Mitología/Joanot Martorell - Tirante el Blanco.pdf"
+fuente: "local:E:/Biblioteca digital/Mitología/Joanot Martorell - Tirante el Blanco.pdf"
 convertido: 2026-10-15
 ---
 
 # Tirante el Blanco
 
-> Texto extraído de `Mitología/Joanot Martorell - Tirante el Blanco.pdf` (691 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Mitología/Joanot Martorell - Tirante el Blanco.pdf` (691 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

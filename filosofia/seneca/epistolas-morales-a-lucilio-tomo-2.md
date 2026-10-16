@@ -5,13 +5,13 @@ author: "Javier Cabrero"
 categoria: "Filosofía"
 paginas: 227
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Séneca/Epístolas morales a Lucilio Tomo 2.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Séneca/Epístolas morales a Lucilio Tomo 2.pdf"
 convertido: 2026-10-15
 ---
 
 # 129 Seneca.max
 
-> Texto extraído de `Filosofía/Séneca/Epístolas morales a Lucilio Tomo 2.pdf` (227 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Séneca/Epístolas morales a Lucilio Tomo 2.pdf` (227 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

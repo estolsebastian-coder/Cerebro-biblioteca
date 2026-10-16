@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 222
 extraccion: "mixto: 4 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Epistemología/Ciencia-Cyborgs-y-Mujeres.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Epistemología/Ciencia-Cyborgs-y-Mujeres.pdf"
 convertido: 2026-10-15
 ---
 
 # Ciencia-Cyborgs-y-Mujeres
 
-> Texto extraído de `Filosofía/Epistemología/Ciencia-Cyborgs-y-Mujeres.pdf` (222 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Epistemología/Ciencia-Cyborgs-y-Mujeres.pdf` (222 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

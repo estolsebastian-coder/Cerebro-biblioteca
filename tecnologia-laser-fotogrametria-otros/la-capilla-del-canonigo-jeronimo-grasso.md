@@ -5,13 +5,13 @@ author: ""
 categoria: "Tecnología láser, fotogrametría, otros"
 paginas: 14
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tecnología láser, fotogrametría, otros/La_capilla_del_canonigo_Jeronimo_Grasso.pdf"
+fuente: "local:E:/Biblioteca digital/Tecnología láser, fotogrametría, otros/La_capilla_del_canonigo_Jeronimo_Grasso.pdf"
 convertido: 2026-10-13
 ---
 
 # La_capilla_del_canonigo_Jeronimo_Grasso
 
-> Texto extraído de `Tecnología láser, fotogrametría, otros/La_capilla_del_canonigo_Jeronimo_Grasso.pdf` (14 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tecnología láser, fotogrametría, otros/La_capilla_del_canonigo_Jeronimo_Grasso.pdf` (14 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

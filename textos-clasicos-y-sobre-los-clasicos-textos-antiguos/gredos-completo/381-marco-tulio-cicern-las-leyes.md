@@ -5,13 +5,13 @@ author: "Marco Tulio Cicerón"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 141
 extraccion: "mixto: 6 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/381 -  Marco Tulio Cicer�n - Las leyes.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/381 -  Marco Tulio Cicer�n - Las leyes.pdf"
 convertido: 2026-10-15
 ---
 
 # Las leyes (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/381 -  Marco Tulio Cicer�n - Las leyes.pdf` (141 páginas, mixto: 6 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/381 -  Marco Tulio Cicer�n - Las leyes.pdf` (141 páginas, mixto: 6 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

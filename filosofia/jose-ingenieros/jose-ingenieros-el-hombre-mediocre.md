@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 211
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/José Ingenieros/Jose Ingenieros - El hombre mediocre.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/José Ingenieros/Jose Ingenieros - El hombre mediocre.pdf"
 convertido: 2026-10-15
 ---
 
 # Jose Ingenieros - El hombre mediocre
 
-> Texto extraído de `Filosofía/José Ingenieros/Jose Ingenieros - El hombre mediocre.pdf` (211 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/José Ingenieros/Jose Ingenieros - El hombre mediocre.pdf` (211 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

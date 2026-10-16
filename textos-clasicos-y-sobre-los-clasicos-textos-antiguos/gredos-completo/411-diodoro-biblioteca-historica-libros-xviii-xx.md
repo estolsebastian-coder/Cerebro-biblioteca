@@ -5,13 +5,13 @@ author: "Diodoro De Sicilia"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 374
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/411 - Diodoro. Biblioteca historica - Libros XVIII-XX.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/411 - Diodoro. Biblioteca historica - Libros XVIII-XX.pdf"
 convertido: 2026-10-15
 ---
 
 # Biblioteca histórica. Libros XVIII-XX (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/411 - Diodoro. Biblioteca historica - Libros XVIII-XX.pdf` (374 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/411 - Diodoro. Biblioteca historica - Libros XVIII-XX.pdf` (374 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

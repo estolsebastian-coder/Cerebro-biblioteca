@@ -5,13 +5,13 @@ author: "nemo"
 categoria: "Diccionarios"
 paginas: 2017
 extraccion: "mixto: 26 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Diccionario_de_Filosof_a_-_Tomo_I_-_Jos__Ferrater_Mora_-__A_-_K.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Diccionario_de_Filosof_a_-_Tomo_I_-_Jos__Ferrater_Mora_-__A_-_K.pdf"
 convertido: 2026-10-16
 ---
 
 # Diccionario_de_Filosof_a_-_Tomo_I_-_Jos__Ferrater_Mora_-__A_-_K (parte 4 de 4)
 
-> Texto extraído de `pdf´s mezclados/Diccionario_de_Filosof_a_-_Tomo_I_-_Jos__Ferrater_Mora_-__A_-_K.pdf` (2017 páginas, mixto: 26 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Diccionario_de_Filosof_a_-_Tomo_I_-_Jos__Ferrater_Mora_-__A_-_K.pdf` (2017 páginas, mixto: 26 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1868 -->
 

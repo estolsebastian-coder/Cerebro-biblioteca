@@ -5,13 +5,13 @@ author: "Big Papoto"
 categoria: "Literatura"
 paginas: 76
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/libros - garcia marquez gabriel - doce cuentos peregrinos.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/libros - garcia marquez gabriel - doce cuentos peregrinos.pdf"
 convertido: 2026-10-16
 ---
 
 # libros - garcia marquez gabriel - doce cuentos peregrinos
 
-> Texto extraído de `pdf´s mezclados/libros - garcia marquez gabriel - doce cuentos peregrinos.pdf` (76 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/libros - garcia marquez gabriel - doce cuentos peregrinos.pdf` (76 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: ""
 categoria: "Educación"
 paginas: 183
 extraccion: "ocr (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/clasicos-uru-vol52.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/clasicos-uru-vol52.pdf"
 convertido: 2026-10-16
 ---
 
 # clasicos-uru-vol52
 
-> Texto extraído de `pdf´s mezclados/clasicos-uru-vol52.pdf` (183 páginas, ocr (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/clasicos-uru-vol52.pdf` (183 páginas, ocr (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

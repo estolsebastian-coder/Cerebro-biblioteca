@@ -5,13 +5,13 @@ author: "Arácnido"
 categoria: "Literatura"
 paginas: 12
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Ray Bradbury - El Ruido de un Trueno (1952).pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Ray Bradbury - El Ruido de un Trueno (1952).pdf"
 convertido: 2026-10-16
 ---
 
 # El Ruido de un Trueno
 
-> Texto extraído de `pdf´s mezclados/Ray Bradbury - El Ruido de un Trueno (1952).pdf` (12 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Ray Bradbury - El Ruido de un Trueno (1952).pdf` (12 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

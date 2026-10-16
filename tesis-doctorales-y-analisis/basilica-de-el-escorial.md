@@ -5,13 +5,13 @@ author: "Pedro"
 categoria: "Tesis doctorales y análisis"
 paginas: 18
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/Basilica_de_El_Escorial.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/Basilica_de_El_Escorial.pdf"
 convertido: 2026-10-13
 ---
 
 # Basilica_de_El_Escorial
 
-> Texto extraído de `Tesis doctorales y análisis/Basilica_de_El_Escorial.pdf` (18 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/Basilica_de_El_Escorial.pdf` (18 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

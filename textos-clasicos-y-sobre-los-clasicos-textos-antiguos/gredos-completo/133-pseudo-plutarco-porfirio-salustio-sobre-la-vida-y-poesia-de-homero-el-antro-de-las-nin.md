@@ -5,13 +5,13 @@ author: "Pseudo Plutarco & Porfirio & Salustio"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 272
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/133 - Pseudo Plutarco, Porfirio  Salustio, Sobre la Vida y Poesia de Homero, El antro de las Ninfas de la Odisea, Sobre los Dioses y el Mundo.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/133 - Pseudo Plutarco, Porfirio  Salustio, Sobre la Vida y Poesia de Homero, El antro de las Ninfas de la Odisea, Sobre los Dioses y el Mundo.pdf"
 convertido: 2026-10-15
 ---
 
 # Sobre la vida y poesía de Homero. El antro de las ninfas de la Odisea. Sobre los dioses y el mundo. (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/133 - Pseudo Plutarco, Porfirio  Salustio, Sobre la Vida y Poesia de Homero, El antro de las Ninfas de la Odisea, Sobre los Dioses y el Mundo.pdf` (272 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/133 - Pseudo Plutarco, Porfirio  Salustio, Sobre la Vida y Poesia de Homero, El antro de las Ninfas de la Odisea, Sobre los Dioses y el Mundo.pdf` (272 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

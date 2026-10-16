@@ -5,13 +5,13 @@ author: "Plotino"
 categoria: "Filosofía"
 paginas: 557
 extraccion: "mixto: 15 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Plotino/Plotino. - Enéadas 2. Libros 3-4.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Plotino/Plotino. - Enéadas 2. Libros 3-4.pdf"
 convertido: 2026-10-15
 ---
 
 # Plotino. - Enéadas 2. Libros 3-4
 
-> Texto extraído de `Filosofía/Plotino/Plotino. - Enéadas 2. Libros 3-4.pdf` (557 páginas, mixto: 15 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Plotino/Plotino. - Enéadas 2. Libros 3-4.pdf` (557 páginas, mixto: 15 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

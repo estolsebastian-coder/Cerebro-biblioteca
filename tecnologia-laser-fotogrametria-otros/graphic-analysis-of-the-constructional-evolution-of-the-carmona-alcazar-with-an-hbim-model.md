@@ -5,13 +5,13 @@ author: ""
 categoria: "Tecnología láser, fotogrametría, otros"
 paginas: 23
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tecnología láser, fotogrametría, otros/Graphic analysis of the constructional evolution of the Carmona Alcázar with an HBIM model.pdf"
+fuente: "local:E:/Biblioteca digital/Tecnología láser, fotogrametría, otros/Graphic analysis of the constructional evolution of the Carmona Alcázar with an HBIM model.pdf"
 convertido: 2026-10-13
 ---
 
 # Graphic analysis of the constructional evolution of the Carmona Alcázar with an HBIM model
 
-> Texto extraído de `Tecnología láser, fotogrametría, otros/Graphic analysis of the constructional evolution of the Carmona Alcázar with an HBIM model.pdf` (23 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tecnología láser, fotogrametría, otros/Graphic analysis of the constructional evolution of the Carmona Alcázar with an HBIM model.pdf` (23 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

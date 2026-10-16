@@ -5,13 +5,13 @@ author: "Sebastián Estol"
 categoria: "Filosofía"
 paginas: 481
 extraccion: "ocr (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Heidegger/Ser y tiempo. José Gaos.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Heidegger/Ser y tiempo. José Gaos.pdf"
 convertido: 2026-10-15
 ---
 
 # Ser y tiempo. José Gaos
 
-> Texto extraído de `Filosofía/Heidegger/Ser y tiempo. José Gaos.pdf` (481 páginas, ocr (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Heidegger/Ser y tiempo. José Gaos.pdf` (481 páginas, ocr (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: ""
 categoria: "Arte"
 paginas: 216
 extraccion: "ocr (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Arte/PANOFSKY/Significado_artes_visuales_Erw[1].pdf"
+fuente: "local:E:/Biblioteca digital/Arte/PANOFSKY/Significado_artes_visuales_Erw[1].pdf"
 convertido: 2026-10-15
 ---
 
 # Significado_artes_visuales_Erw[1]
 
-> Texto extraído de `Arte/PANOFSKY/Significado_artes_visuales_Erw[1].pdf` (216 páginas, ocr (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arte/PANOFSKY/Significado_artes_visuales_Erw[1].pdf` (216 páginas, ocr (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

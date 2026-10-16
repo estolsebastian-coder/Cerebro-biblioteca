@@ -5,13 +5,13 @@ author: "San Agustín De Hipona"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 2164
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/416 - La ciudad de Dios Libros XVIXXII - San Agustin De Hipona.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/416 - La ciudad de Dios Libros XVIXXII - San Agustin De Hipona.pdf"
 convertido: 2026-10-15
 ---
 
 # La ciudad de Dios Libros XVI-XXII
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/416 - La ciudad de Dios Libros XVIXXII - San Agustin De Hipona.pdf` (2164 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/416 - La ciudad de Dios Libros XVIXXII - San Agustin De Hipona.pdf` (2164 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

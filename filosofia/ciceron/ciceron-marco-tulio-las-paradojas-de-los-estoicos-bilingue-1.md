@@ -5,13 +5,13 @@ author: "armauirumque"
 categoria: "Filosofía"
 paginas: 21
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Cicerón/ciceron-marco-tulio-las-paradojas-de-los-estoicos-bilingue-1.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Cicerón/ciceron-marco-tulio-las-paradojas-de-los-estoicos-bilingue-1.pdf"
 convertido: 2026-10-15
 ---
 
 # Cicerón, Marco Tulio - Las paradojas de los estoicos _bilingüe_ [pdf]
 
-> Texto extraído de `Filosofía/Cicerón/ciceron-marco-tulio-las-paradojas-de-los-estoicos-bilingue-1.pdf` (21 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Cicerón/ciceron-marco-tulio-las-paradojas-de-los-estoicos-bilingue-1.pdf` (21 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

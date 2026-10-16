@@ -5,13 +5,13 @@ author: "Polibio"
 categoria: "Historia"
 paginas: 522
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Polibio/Polibio. - Historias 3 (Libros XVI-XXXIX) [G] [1983].pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Polibio/Polibio. - Historias 3 (Libros XVI-XXXIX) [G] [1983].pdf"
 convertido: 2026-10-15
 ---
 
 # Polibio. - Historias 3 (Libros XVI-XXXIX) [G] [1983]
 
-> Texto extraído de `Historia/Polibio/Polibio. - Historias 3 (Libros XVI-XXXIX) [G] [1983].pdf` (522 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Polibio/Polibio. - Historias 3 (Libros XVI-XXXIX) [G] [1983].pdf` (522 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

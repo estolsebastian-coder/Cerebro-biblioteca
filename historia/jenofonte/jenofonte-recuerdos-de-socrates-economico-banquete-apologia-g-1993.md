@@ -5,13 +5,13 @@ author: "Jenofonte"
 categoria: "Historia"
 paginas: 385
 extraccion: "mixto: 14 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Jenofonte/Jenofonte. - Recuerdos de Sócrates. Económico. Banquete. Apología [G] [1993].pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Jenofonte/Jenofonte. - Recuerdos de Sócrates. Económico. Banquete. Apología [G] [1993].pdf"
 convertido: 2026-10-15
 ---
 
 # Jenofonte. - Recuerdos de Sócrates. Económico. Banquete. Apología [G] [1993]
 
-> Texto extraído de `Historia/Jenofonte/Jenofonte. - Recuerdos de Sócrates. Económico. Banquete. Apología [G] [1993].pdf` (385 páginas, mixto: 14 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Jenofonte/Jenofonte. - Recuerdos de Sócrates. Económico. Banquete. Apología [G] [1993].pdf` (385 páginas, mixto: 14 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

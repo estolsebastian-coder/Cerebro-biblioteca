@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 913
 extraccion: "mixto: 19 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Nietzsche/376822343-Nietzsche-Friedrich-Obras-Completas-Volumen-III-Obras-de-Madurez-I-Tecnos.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Nietzsche/376822343-Nietzsche-Friedrich-Obras-Completas-Volumen-III-Obras-de-Madurez-I-Tecnos.pdf"
 convertido: 2026-10-15
 ---
 
 # 376822343-Nietzsche-Friedrich-Obras-Completas-Volumen-III-Obras-de-Madurez-I-Tecnos
 
-> Texto extraído de `Filosofía/Nietzsche/376822343-Nietzsche-Friedrich-Obras-Completas-Volumen-III-Obras-de-Madurez-I-Tecnos.pdf` (913 páginas, mixto: 19 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Nietzsche/376822343-Nietzsche-Friedrich-Obras-Completas-Volumen-III-Obras-de-Madurez-I-Tecnos.pdf` (913 páginas, mixto: 19 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

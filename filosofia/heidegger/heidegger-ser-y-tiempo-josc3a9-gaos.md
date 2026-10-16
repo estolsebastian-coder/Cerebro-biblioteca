@@ -5,13 +5,13 @@ author: "Martin Heidegger"
 categoria: "Filosofía"
 paginas: 481
 extraccion: "mixto: 479 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Heidegger/heidegger-ser-y-tiempo-josc3a9-gaos.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Heidegger/heidegger-ser-y-tiempo-josc3a9-gaos.pdf"
 convertido: 2026-10-15
 ---
 
 # Ser y Tiempo
 
-> Texto extraído de `Filosofía/Heidegger/heidegger-ser-y-tiempo-josc3a9-gaos.pdf` (481 páginas, mixto: 479 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Heidegger/heidegger-ser-y-tiempo-josc3a9-gaos.pdf` (481 páginas, mixto: 479 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

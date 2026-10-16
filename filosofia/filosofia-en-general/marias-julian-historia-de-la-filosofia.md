@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 530
 extraccion: "mixto: 22 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Filosofía en general/Marias Julian - Historia De La Filosofia.PDF"
+fuente: "local:E:/Biblioteca digital/Filosofía/Filosofía en general/Marias Julian - Historia De La Filosofia.PDF"
 convertido: 2026-10-15
 ---
 
 # Marias Julian - Historia De La Filosofia
 
-> Texto extraído de `Filosofía/Filosofía en general/Marias Julian - Historia De La Filosofia.PDF` (530 páginas, mixto: 22 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Filosofía en general/Marias Julian - Historia De La Filosofia.PDF` (530 páginas, mixto: 22 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

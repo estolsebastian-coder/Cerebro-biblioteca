@@ -1,0 +1,202 @@
+---
+type: libro
+title: "Desagues en edificios"
+author: "lucia"
+categoria: "ACOND. SANITARIO"
+paginas: 11
+extraccion: "texto (OCR pendiente)"
+fuente: "local:E:/MATERIAL DE CONSULTA/ACOND. SANITARIO/Desagues en edificios.pdf"
+convertido: 2026-10-16
+---
+
+# Desagues en edificios
+
+> Texto extraído de `ACOND. SANITARIO\Desagues en edificios.pdf` (11 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+A
+INSTALACION
+LA CONEXIÓN
+DE DE
+
+. BORDE
+DE MAXIMAEDIFICIOS Altimetría
+
+\- ALTIMETRIA
+LALOS ALTIMETRIA: edificiosEN DE BOMBEO los SITUACIONES en / DE PROFUNDIDAD
+LA Desagües DE CONDICIONAN CALCULO EMPLEO MANEJARDESAGÜES QUE A 2010 PUBLICO _ CON
+SEMESTRE
+2º DETERMINACION COLECTOR ELEMENTOS ELEMENTOS SISTEMAS
+
+\1. 2. 3. 4.
+CONTROLADO
+CURSO
+
+<!-- p. 2 -->
+
+A
+CONEXIÓN
+DE
+
+.
+AltimetríaMAXIMA -
+edificios
+los
+en CONECTARSE
+DEPROFUNDIDAD Desagües
+LA
+2010DE MANERA
+_
+LA PUBLICO EN SEMESTRE
+2º COLECTORES:
+DEDETERMINACION COLECTOR CIRCULARES OVOIDES OTROS DIFERENCIAN CONTROLADO1. TIPO • • • SE
+CURSO
+
+<!-- p. 3 -->
+
+LA
+DE
+
+.
+SANITARIA Altimetría
+
+\- COLECTORALTIMETRIA A EDIFICACION edificiosLA LA VEREDA los DE SUBTERRANEA INSTALACION en CONEXIÓN DE REGISTROS LA DE DE AGUA DE
+DE CIELORRASOS Desagües CORDON INTERIORES DE
+DE 2010CONDICIONAN SUBTERRANEAS SUSPENDIDAS
+QUE _ UNITARIOS SEPARATIVOS NIVELES PROFUNDIDAD NIVEL ESTRUCTURA DESARROLLO PROFUNDIDAD ALTURA EXISTENCIA SEMESTRE
+2º SISTEMAS SISTEMAS INSTALACIONES INSTALACIONESELEMENTOS INSTALACION EN EN EN EN CONTROLADO
+\2. • • • •
+CURSO
+
+<!-- p. 4 -->
+
+
+
+<!-- p. 5 -->
+
+LA
+DE
+
+.
+Altimetría
+
+\-ALTIMETRIA
+edificiosLA
+los
+en
+DesagüesCONDICIONAN 2010
+QUE _
+SEMESTRE
+2º
+ELEMENTOS INSTALACION CONTROLADO
+\2.
+CURSO
+
+<!-- p. 6 -->
+
+.BORDE
+DE Altimetría
+
+\- INSTALACION edificios
+LA los
+en DESITUACIONES
+
+/ Desagües DISEÑO
+DE 2010 REGISTROS _MANEJAR DE REGISTROS
+A
+DE SEMESTRE INTERIORES EFLUENTE 2º ELEMENTOS
+DEELEMENTOS PENDIENTES PROFUNDIDAD UBICACIÓN NIVELES TIPO OTROS CONTROLADO
+\3. • • • • • •
+CURSO
+
+<!-- p. 7 -->
+
+.
+Altimetría
+
+\-
+VOLUMEN EFLUENTE edificios
+los VOLUMEN en
+
+/BOMBEO SEGÚN SEGÚN
+DE UTIL Desagües
+2010
+
+_EMPLEO CAPACIDAD UBICACION ACCESIBILIDADCON INSTALACION CARACTERISITICAS CARACTERISTICAS SEMESTRE LA CONTINGENCIA 2º
+A DE DEPOSITOS: BOMBAS: UNION PLANSISTEMAS CONTROLADO
+\4. • • • •
+CURSO
+
+<!-- p. 8 -->
+
+.
+Altimetría
+
+\-
+edificios
+los
+en
+Desagües
+2010
+
+_
+SEMESTRE
+2º
+CONTROLADO
+CURSO
+
+<!-- p. 9 -->
+
+.
+Altimetría
+
+\-
+edificios
+los
+en
+Desagües
+2010
+
+_
+SEMESTRE
+2º
+CONTROLADO
+CURSO
+
+<!-- p. 10 -->
+
+.
+Altimetría
+
+\-
+edificios
+los
+en
+Desagües
+2010
+
+_http://intgis.montevideo.gub.uy/sit/php/common/montevimap
+MonteviMap: SEMESTRE
+de 2º
+extraída
+Información CONTROLADO
+CURSO
+
+<!-- p. 11 -->
+
+.
+Altimetría
+
+\-
+edificios
+los
+en
+Desagües
+2010
+
+_
+SEMESTRE
+2º
+CONTROLADO
+CURSO

@@ -5,13 +5,13 @@ author: "Filóstrato & Aristéneto"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 1031
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/382 - Cartas de amor  Cartas - Filostrato.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/382 - Cartas de amor  Cartas - Filostrato.pdf"
 convertido: 2026-10-15
 ---
 
 # Cartas de amor - Cartas
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/382 - Cartas de amor  Cartas - Filostrato.pdf` (1031 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/382 - Cartas de amor  Cartas - Filostrato.pdf` (1031 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

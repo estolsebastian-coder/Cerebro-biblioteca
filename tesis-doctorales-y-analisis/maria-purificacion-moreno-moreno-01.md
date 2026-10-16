@@ -5,13 +5,13 @@ author: ""
 categoria: "Tesis doctorales y análisis"
 paginas: 140
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/MARIA_PURIFICACION_MORENO_MORENO_01.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/MARIA_PURIFICACION_MORENO_MORENO_01.pdf"
 convertido: 2026-10-13
 ---
 
 # MARIA_PURIFICACION_MORENO_MORENO_01
 
-> Texto extraído de `Tesis doctorales y análisis/MARIA_PURIFICACION_MORENO_MORENO_01.pdf` (140 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/MARIA_PURIFICACION_MORENO_MORENO_01.pdf` (140 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

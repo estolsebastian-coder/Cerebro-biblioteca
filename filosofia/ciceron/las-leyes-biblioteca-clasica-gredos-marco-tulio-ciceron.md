@@ -5,13 +5,13 @@ author: "Marco Tulio Cicerón"
 categoria: "Filosofía"
 paginas: 105
 extraccion: "mixto: 6 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Cicerón/Las leyes (Biblioteca Clásica Gredos) - Marco Tulio Cicerón.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Cicerón/Las leyes (Biblioteca Clásica Gredos) - Marco Tulio Cicerón.pdf"
 convertido: 2026-10-15
 ---
 
 # Las leyes (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Filosofía/Cicerón/Las leyes (Biblioteca Clásica Gredos) - Marco Tulio Cicerón.pdf` (105 páginas, mixto: 6 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Cicerón/Las leyes (Biblioteca Clásica Gredos) - Marco Tulio Cicerón.pdf` (105 páginas, mixto: 6 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

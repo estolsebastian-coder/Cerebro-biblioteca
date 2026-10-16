@@ -5,13 +5,13 @@ author: ""
 categoria: "Restauración y construcción"
 paginas: 93
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Restauración y construcción/263554242-TEORIA-DEL-RESTAURO-VOL-1-UMBERTO-BALDINI-pdf.pdf"
+fuente: "local:E:/Biblioteca digital/Restauración y construcción/263554242-TEORIA-DEL-RESTAURO-VOL-1-UMBERTO-BALDINI-pdf.pdf"
 convertido: 2026-10-13
 ---
 
 # 263554242-TEORIA-DEL-RESTAURO-VOL-1-UMBERTO-BALDINI-pdf
 
-> Texto extraído de `Restauración y construcción/263554242-TEORIA-DEL-RESTAURO-VOL-1-UMBERTO-BALDINI-pdf.pdf` (93 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Restauración y construcción/263554242-TEORIA-DEL-RESTAURO-VOL-1-UMBERTO-BALDINI-pdf.pdf` (93 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

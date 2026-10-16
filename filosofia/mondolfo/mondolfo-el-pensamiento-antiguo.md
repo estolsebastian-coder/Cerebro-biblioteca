@@ -5,13 +5,13 @@ author: "nemo"
 categoria: "Filosofía"
 paginas: 275
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Mondolfo/Mondolfo, El pensamiento antiguo.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Mondolfo/Mondolfo, El pensamiento antiguo.pdf"
 convertido: 2026-10-15
 ---
 
 # RODOLFO MONDOLFO
 
-> Texto extraído de `Filosofía/Mondolfo/Mondolfo, El pensamiento antiguo.pdf` (275 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Mondolfo/Mondolfo, El pensamiento antiguo.pdf` (275 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

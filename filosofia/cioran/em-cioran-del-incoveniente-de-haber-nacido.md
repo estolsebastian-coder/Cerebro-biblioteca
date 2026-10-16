@@ -5,13 +5,13 @@ author: "dixons"
 categoria: "Filosofía"
 paginas: 236
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Cioran/em-cioran-del-incoveniente-de-haber-nacido.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Cioran/em-cioran-del-incoveniente-de-haber-nacido.pdf"
 convertido: 2026-10-15
 ---
 
 # em-cioran-del-incoveniente-de-haber-nacido
 
-> Texto extraído de `Filosofía/Cioran/em-cioran-del-incoveniente-de-haber-nacido.pdf` (236 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Cioran/em-cioran-del-incoveniente-de-haber-nacido.pdf` (236 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

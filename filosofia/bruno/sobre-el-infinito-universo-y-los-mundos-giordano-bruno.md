@@ -5,13 +5,13 @@ author: "Administrateur"
 categoria: "Filosofía"
 paginas: 100
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Bruno/Sobre el Infinito Universo y los Mundos (Giordano Bruno).pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Bruno/Sobre el Infinito Universo y los Mundos (Giordano Bruno).pdf"
 convertido: 2026-10-15
 ---
 
 # Sobre el Infinito Universo y los Mundos (Giordano Bruno)
 
-> Texto extraído de `Filosofía/Bruno/Sobre el Infinito Universo y los Mundos (Giordano Bruno).pdf` (100 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Bruno/Sobre el Infinito Universo y los Mundos (Giordano Bruno).pdf` (100 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

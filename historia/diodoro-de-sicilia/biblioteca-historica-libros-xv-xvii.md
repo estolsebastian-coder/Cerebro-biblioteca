@@ -5,13 +5,13 @@ author: "Diodoro de Sicilia"
 categoria: "Historia"
 paginas: 399
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Diodoro de Sicilia/Biblioteca histórica. Libros XV-XVII.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Diodoro de Sicilia/Biblioteca histórica. Libros XV-XVII.pdf"
 convertido: 2026-10-15
 ---
 
 # Biblioteca histórica. Libros XV-XVII
 
-> Texto extraído de `Historia/Diodoro de Sicilia/Biblioteca histórica. Libros XV-XVII.pdf` (399 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Diodoro de Sicilia/Biblioteca histórica. Libros XV-XVII.pdf` (399 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

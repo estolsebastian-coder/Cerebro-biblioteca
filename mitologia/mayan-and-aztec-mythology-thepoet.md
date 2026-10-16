@@ -5,13 +5,13 @@ author: ""
 categoria: "Mitología"
 paginas: 129
 extraccion: "mixto: 20 páginas por OCR (eng)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Mayan and Aztec mythology ThePoet.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Mayan and Aztec mythology ThePoet.pdf"
 convertido: 2026-10-16
 ---
 
 # Mayan and Aztec mythology ThePoet
 
-> Texto extraído de `pdf´s mezclados/Mayan and Aztec mythology ThePoet.pdf` (129 páginas, mixto: 20 páginas por OCR (eng)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Mayan and Aztec mythology ThePoet.pdf` (129 páginas, mixto: 20 páginas por OCR (eng)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

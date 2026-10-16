@@ -5,13 +5,13 @@ author: "Adela Rueda Márquez de la Plata and Pablo Alejandro Cruz Franco"
 categoria: "Tesis doctorales y análisis"
 paginas: 26
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/materials-12-02576.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/materials-12-02576.pdf"
 convertido: 2026-10-13
 ---
 
 # A Simulation Study to Calculate a Structure Conceived by Eugène Viollet-le-Duc in 1850 with Finite Element Analysis
 
-> Texto extraído de `Tesis doctorales y análisis/materials-12-02576.pdf` (26 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/materials-12-02576.pdf` (26 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

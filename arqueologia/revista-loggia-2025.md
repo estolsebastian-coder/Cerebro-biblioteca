@@ -5,13 +5,13 @@ author: ""
 categoria: "Arqueología"
 paginas: 154
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/Revista Loggia 2025.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/Revista Loggia 2025.pdf"
 convertido: 2026-10-12
 ---
 
 # Revista Loggia 2025
 
-> Texto extraído de `Arqueología/Revista Loggia 2025.pdf` (154 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/Revista Loggia 2025.pdf` (154 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

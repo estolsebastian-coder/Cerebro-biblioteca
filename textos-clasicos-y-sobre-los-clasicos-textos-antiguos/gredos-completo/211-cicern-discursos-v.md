@@ -5,13 +5,13 @@ author: "Cicerón"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 389
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/211 - Cicer�n. Discursos V.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/211 - Cicer�n. Discursos V.pdf"
 convertido: 2026-10-15
 ---
 
 # Discursos V. En defensa de Sexto Roscio Amerino - En defensa de la Ley Manilia - En defensa de Aulo Cluencio - Catilinarias - En defensa de Lucio Murena
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/211 - Cicer�n. Discursos V.pdf` (389 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/211 - Cicer�n. Discursos V.pdf` (389 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: "Javier Cabrero"
 categoria: "Historia"
 paginas: 645
 extraccion: "mixto: 4 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Homero/Homero-Iliada-Gredos-1991-1ª-R-1996.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Homero/Homero-Iliada-Gredos-1991-1ª-R-1996.pdf"
 convertido: 2026-10-15
 ---
 
 # 150 Homero.max
 
-> Texto extraído de `Historia/Homero/Homero-Iliada-Gredos-1991-1ª-R-1996.pdf` (645 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Homero/Homero-Iliada-Gredos-1991-1ª-R-1996.pdf` (645 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

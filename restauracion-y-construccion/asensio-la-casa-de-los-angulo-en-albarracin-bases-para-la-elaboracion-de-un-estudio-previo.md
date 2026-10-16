@@ -5,13 +5,13 @@ author: ""
 categoria: "Restauración y construcción"
 paginas: 62
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Restauración y construcción/Asensio - La Casa de los Angulo en Albarracín. Bases para la elaboración de un Estudio Previo.pdf"
+fuente: "local:E:/Biblioteca digital/Restauración y construcción/Asensio - La Casa de los Angulo en Albarracín. Bases para la elaboración de un Estudio Previo.pdf"
 convertido: 2026-10-13
 ---
 
 # Asensio - La Casa de los Angulo en Albarracín. Bases para la elaboración de un Estudio Previo
 
-> Texto extraído de `Restauración y construcción/Asensio - La Casa de los Angulo en Albarracín. Bases para la elaboración de un Estudio Previo.pdf` (62 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Restauración y construcción/Asensio - La Casa de los Angulo en Albarracín. Bases para la elaboración de un Estudio Previo.pdf` (62 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

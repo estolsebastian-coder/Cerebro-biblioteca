@@ -1,0 +1,20 @@
+---
+type: libro
+title: "ESCUELA 111 - H01"
+author: ""
+categoria: "ANEP CODICEN"
+paginas: 1
+extraccion: "texto (OCR pendiente)"
+fuente: "local:E:/MATERIAL DE CONSULTA/ANEP CODICEN/RESIDENTE ANTERIOR/111-ESCUELA/ESCUELA 111 - H01.pdf"
+convertido: 2026-10-16
+---
+
+# ESCUELA 111 - H01
+
+> Texto extraído de `ANEP CODICEN\RESIDENTE ANTERIOR\111-ESCUELA\ESCUELA 111 - H01.pdf` (1 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+\# 0 ' 2 '5%7'.#
+
+\*'44'4+# *

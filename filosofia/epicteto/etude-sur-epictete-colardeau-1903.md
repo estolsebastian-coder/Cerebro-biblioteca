@@ -5,13 +5,13 @@ author: "Colardeau, Th"
 categoria: "Filosofía"
 paginas: 378
 extraccion: "mixto: 29 páginas por OCR (fra)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Epicteto/Etude Sur Epictete, Colardeau,1903.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Epicteto/Etude Sur Epictete, Colardeau,1903.pdf"
 convertido: 2026-10-15
 ---
 
 # Étude sur Épictète
 
-> Texto extraído de `Filosofía/Epicteto/Etude Sur Epictete, Colardeau,1903.pdf` (378 páginas, mixto: 29 páginas por OCR (fra)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Epicteto/Etude Sur Epictete, Colardeau,1903.pdf` (378 páginas, mixto: 29 páginas por OCR (fra)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

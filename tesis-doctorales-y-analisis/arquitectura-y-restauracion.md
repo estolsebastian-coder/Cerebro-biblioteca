@@ -5,13 +5,13 @@ author: "Mac Pro"
 categoria: "Tesis doctorales y análisis"
 paginas: 196
 extraccion: "mixto: 10 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/ARQUITECTURA_Y_RESTAURACION.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/ARQUITECTURA_Y_RESTAURACION.pdf"
 convertido: 2026-10-13
 ---
 
 # ARQUITECTURA_Y_RESTAURACION
 
-> Texto extraído de `Tesis doctorales y análisis/ARQUITECTURA_Y_RESTAURACION.pdf` (196 páginas, mixto: 10 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/ARQUITECTURA_Y_RESTAURACION.pdf` (196 páginas, mixto: 10 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

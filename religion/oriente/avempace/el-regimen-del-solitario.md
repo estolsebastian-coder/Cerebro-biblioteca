@@ -5,13 +5,13 @@ author: "Avempace, -1138 or 1139"
 categoria: "Religión"
 paginas: 224
 extraccion: "mixto: 14 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Religión/Oriente/Avempace/El régimen del solitario.pdf"
+fuente: "local:E:/Biblioteca digital/Religión/Oriente/Avempace/El régimen del solitario.pdf"
 convertido: 2026-10-16
 ---
 
 # El régimen del solitario
 
-> Texto extraído de `Religión/Oriente/Avempace/El régimen del solitario.pdf` (224 páginas, mixto: 14 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Religión/Oriente/Avempace/El régimen del solitario.pdf` (224 páginas, mixto: 14 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

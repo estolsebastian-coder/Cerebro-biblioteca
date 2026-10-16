@@ -5,13 +5,13 @@ author: "Anónimo"
 categoria: "Historia"
 paginas: 155
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Vikingos/Saga de los groenlandeces. Saga de Eirik el Rojo.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Vikingos/Saga de los groenlandeces. Saga de Eirik el Rojo.pdf"
 convertido: 2026-10-15
 ---
 
 # Saga de los groenlandeses & Saga de Eirik el Rojo
 
-> Texto extraído de `Historia/Vikingos/Saga de los groenlandeces. Saga de Eirik el Rojo.pdf` (155 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Vikingos/Saga de los groenlandeces. Saga de Eirik el Rojo.pdf` (155 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

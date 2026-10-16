@@ -5,13 +5,13 @@ author: "Daniel Almagro"
 categoria: "Tecnología láser, fotogrametría, otros"
 paginas: 108
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tecnología láser, fotogrametría, otros/ANALISIS_DE_METODOS_PARA_EL_LEVANTAMIENT.pdf"
+fuente: "local:E:/Biblioteca digital/Tecnología láser, fotogrametría, otros/ANALISIS_DE_METODOS_PARA_EL_LEVANTAMIENT.pdf"
 convertido: 2026-10-13
 ---
 
 # Formato Proyectos Fin de Grado / Máster
 
-> Texto extraído de `Tecnología láser, fotogrametría, otros/ANALISIS_DE_METODOS_PARA_EL_LEVANTAMIENT.pdf` (108 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tecnología láser, fotogrametría, otros/ANALISIS_DE_METODOS_PARA_EL_LEVANTAMIENT.pdf` (108 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

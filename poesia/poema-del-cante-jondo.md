@@ -5,13 +5,13 @@ author: "Rene"
 categoria: "Poesía"
 paginas: 30
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Poema del cante jondo.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Poema del cante jondo.pdf"
 convertido: 2026-10-16
 ---
 
 # POEMA DEL CANTE JONDO
 
-> Texto extraído de `pdf´s mezclados/Poema del cante jondo.pdf` (30 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Poema del cante jondo.pdf` (30 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

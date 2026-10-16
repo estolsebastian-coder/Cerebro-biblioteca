@@ -5,13 +5,13 @@ author: ""
 categoria: "Tecnología láser, fotogrametría, otros"
 paginas: 12
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tecnología láser, fotogrametría, otros/Bassier 2016 - Implementation of Scan-to-BIM and FEM for heritage timber roof structures.pdf"
+fuente: "local:E:/Biblioteca digital/Tecnología láser, fotogrametría, otros/Bassier 2016 - Implementation of Scan-to-BIM and FEM for heritage timber roof structures.pdf"
 convertido: 2026-10-14
 ---
 
 # 417736_1_En_7_Chapter 79..90
 
-> Texto extraído de `Tecnología láser, fotogrametría, otros/Bassier 2016 - Implementation of Scan-to-BIM and FEM for heritage timber roof structures.pdf` (12 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tecnología láser, fotogrametría, otros/Bassier 2016 - Implementation of Scan-to-BIM and FEM for heritage timber roof structures.pdf` (12 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

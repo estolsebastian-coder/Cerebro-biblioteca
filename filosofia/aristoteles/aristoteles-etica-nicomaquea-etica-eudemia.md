@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 554
 extraccion: "mixto: 4 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Aristóteles/Aristóteles, Ética nicomáquea-_Ética eudemia.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Aristóteles/Aristóteles, Ética nicomáquea-_Ética eudemia.pdf"
 convertido: 2026-10-15
 ---
 
 # Aristóteles, Ética nicomáquea-_Ética eudemia
 
-> Texto extraído de `Filosofía/Aristóteles/Aristóteles, Ética nicomáquea-_Ética eudemia.pdf` (554 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Aristóteles/Aristóteles, Ética nicomáquea-_Ética eudemia.pdf` (554 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

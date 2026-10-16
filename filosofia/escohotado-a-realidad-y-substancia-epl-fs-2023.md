@@ -5,13 +5,13 @@ author: "Antonio Escohotado"
 categoria: "Filosofía"
 paginas: 468
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Escohotado, A. - Realidad y substancia [EPL-FS] [2023].pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Escohotado, A. - Realidad y substancia [EPL-FS] [2023].pdf"
 convertido: 2026-10-15
 ---
 
 # Realidad y substancia
 
-> Texto extraído de `Filosofía/Escohotado, A. - Realidad y substancia [EPL-FS] [2023].pdf` (468 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Escohotado, A. - Realidad y substancia [EPL-FS] [2023].pdf` (468 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

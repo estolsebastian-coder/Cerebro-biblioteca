@@ -5,13 +5,13 @@ author: ""
 categoria: "Arquitectura"
 paginas: 63
 extraccion: "ocr (eng)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Arquitectura/Rudofsky_Bernard_Architecture_Without_Architects_A_Short_Introduction_to_Non-Pedigreed_Architecture.pdf"
+fuente: "local:E:/Biblioteca digital/Arquitectura/Rudofsky_Bernard_Architecture_Without_Architects_A_Short_Introduction_to_Non-Pedigreed_Architecture.pdf"
 convertido: 2026-10-15
 ---
 
 # Rudofsky_Bernard_Architecture_Without_Architects_A_Short_Introduction_to_Non-Pedigreed_Architecture
 
-> Texto extraído de `Arquitectura/Rudofsky_Bernard_Architecture_Without_Architects_A_Short_Introduction_to_Non-Pedigreed_Architecture.pdf` (63 páginas, ocr (eng)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arquitectura/Rudofsky_Bernard_Architecture_Without_Architects_A_Short_Introduction_to_Non-Pedigreed_Architecture.pdf` (63 páginas, ocr (eng)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

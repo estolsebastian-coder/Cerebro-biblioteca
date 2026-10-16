@@ -5,13 +5,13 @@ author: "Javier Sastre González"
 categoria: "Música"
 paginas: 30
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Música/El códice de Madrid y su repertorio de polifonía medieval.pdf"
+fuente: "local:E:/Biblioteca digital/Música/El códice de Madrid y su repertorio de polifonía medieval.pdf"
 convertido: 2026-10-15
 ---
 
 # El Códice de Madrid (E-Mn 20486) y su repertorio de polifonía medieval: un estado de la cuestión
 
-> Texto extraído de `Música/El códice de Madrid y su repertorio de polifonía medieval.pdf` (30 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Música/El códice de Madrid y su repertorio de polifonía medieval.pdf` (30 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

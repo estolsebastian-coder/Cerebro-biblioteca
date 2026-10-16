@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 13
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Epicteto/Gregorio_Nacianceno.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Epicteto/Gregorio_Nacianceno.pdf"
 convertido: 2026-10-15
 ---
 
 # Gregorio_Nacianceno
 
-> Texto extraído de `Filosofía/Epicteto/Gregorio_Nacianceno.pdf` (13 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Epicteto/Gregorio_Nacianceno.pdf` (13 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

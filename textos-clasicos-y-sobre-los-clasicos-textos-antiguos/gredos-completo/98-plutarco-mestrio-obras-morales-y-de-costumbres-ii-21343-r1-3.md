@@ -5,13 +5,13 @@ author: "Mestrio Plutarco"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 1127
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/98 - Plutarco, Mestrio - Obras Morales y de Costumbres II [21343] (r1.3).pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/98 - Plutarco, Mestrio - Obras Morales y de Costumbres II [21343] (r1.3).pdf"
 convertido: 2026-10-15
 ---
 
 # Obras Morales y de Costumbres II
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/98 - Plutarco, Mestrio - Obras Morales y de Costumbres II [21343] (r1.3).pdf` (1127 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/98 - Plutarco, Mestrio - Obras Morales y de Costumbres II [21343] (r1.3).pdf` (1127 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

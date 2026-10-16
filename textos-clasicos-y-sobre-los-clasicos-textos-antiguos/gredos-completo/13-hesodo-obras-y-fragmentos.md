@@ -5,13 +5,13 @@ author: "Hesíodo"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 301
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/13 - Hes�odo. Obras y fragmentos.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/13 - Hes�odo. Obras y fragmentos.pdf"
 convertido: 2026-10-15
 ---
 
 # Obras y fragmentos (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/13 - Hes�odo. Obras y fragmentos.pdf` (301 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/13 - Hes�odo. Obras y fragmentos.pdf` (301 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

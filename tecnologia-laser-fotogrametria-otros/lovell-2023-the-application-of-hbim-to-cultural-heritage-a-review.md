@@ -5,13 +5,13 @@ author: ""
 categoria: "Tecnología láser, fotogrametría, otros"
 paginas: 28
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tecnología láser, fotogrametría, otros/Lovell 2023 - The application of HBIM to cultural heritage - a review.pdf"
+fuente: "local:E:/Biblioteca digital/Tecnología láser, fotogrametría, otros/Lovell 2023 - The application of HBIM to cultural heritage - a review.pdf"
 convertido: 2026-10-14
 ---
 
 # Lovell 2023 - The application of HBIM to cultural heritage - a review
 
-> Texto extraído de `Tecnología láser, fotogrametría, otros/Lovell 2023 - The application of HBIM to cultural heritage - a review.pdf` (28 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tecnología láser, fotogrametría, otros/Lovell 2023 - The application of HBIM to cultural heritage - a review.pdf` (28 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

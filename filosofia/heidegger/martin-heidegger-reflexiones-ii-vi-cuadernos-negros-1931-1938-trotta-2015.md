@@ -5,13 +5,13 @@ author: "Martin Heidegger"
 categoria: "Filosofía"
 paginas: 427
 extraccion: "mixto: 18 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Heidegger/Martin Heidegger - Reflexiones II - VI. Cuadernos Negros (1931-1938)-Trotta (2015).pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Heidegger/Martin Heidegger - Reflexiones II - VI. Cuadernos Negros (1931-1938)-Trotta (2015).pdf"
 convertido: 2026-10-15
 ---
 
 # Cuadernos negros 1931-1938
 
-> Texto extraído de `Filosofía/Heidegger/Martin Heidegger - Reflexiones II - VI. Cuadernos Negros (1931-1938)-Trotta (2015).pdf` (427 páginas, mixto: 18 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Heidegger/Martin Heidegger - Reflexiones II - VI. Cuadernos Negros (1931-1938)-Trotta (2015).pdf` (427 páginas, mixto: 18 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: ""
 categoria: "Historia"
 paginas: 170
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/[Etienne_Gilson] La Metamorfosis de la ciudad de Dios.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/[Etienne_Gilson] La Metamorfosis de la ciudad de Dios.pdf"
 convertido: 2026-10-15
 ---
 
 # [Etienne_Gilson] La Metamorfosis de la ciudad de Dios
 
-> Texto extraído de `Historia/[Etienne_Gilson] La Metamorfosis de la ciudad de Dios.pdf` (170 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/[Etienne_Gilson] La Metamorfosis de la ciudad de Dios.pdf` (170 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

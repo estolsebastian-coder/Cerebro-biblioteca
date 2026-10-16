@@ -5,13 +5,13 @@ author: "Javier Cabrero"
 categoria: "Filosofía"
 paginas: 258
 extraccion: "mixto: 5 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Presocráticos/Presocráticos. Gredos. Eggers Lan, Juliá.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Presocráticos/Presocráticos. Gredos. Eggers Lan, Juliá.pdf"
 convertido: 2026-10-15
 ---
 
 # 012 Filosofos presocraticos.max
 
-> Texto extraído de `Filosofía/Presocráticos/Presocráticos. Gredos. Eggers Lan, Juliá.pdf` (258 páginas, mixto: 5 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Presocráticos/Presocráticos. Gredos. Eggers Lan, Juliá.pdf` (258 páginas, mixto: 5 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: "Estrabón"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 593
 extraccion: "mixto: 4 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/169 - Estrabon - Geografia Libros III - IV [34628] (r1.0).pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/169 - Estrabon - Geografia Libros III - IV [34628] (r1.0).pdf"
 convertido: 2026-10-15
 ---
 
 # Geografía Libros III-IV
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/169 - Estrabon - Geografia Libros III - IV [34628] (r1.0).pdf` (593 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/169 - Estrabon - Geografia Libros III - IV [34628] (r1.0).pdf` (593 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

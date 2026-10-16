@@ -5,13 +5,13 @@ author: ""
 categoria: "Religión"
 paginas: 2
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Religión/Oriente/Editorial Trotta El libro de las estratagemas _ Al-Harawi _ 978-84-1364-044-0.PDF"
+fuente: "local:E:/Biblioteca digital/Religión/Oriente/Editorial Trotta El libro de las estratagemas _ Al-Harawi _ 978-84-1364-044-0.PDF"
 convertido: 2026-10-16
 ---
 
 # Editorial Trotta El libro de las estratagemas _ Al-Harawi _ 978-84-1364-044-0
 
-> Texto extraído de `Religión/Oriente/Editorial Trotta El libro de las estratagemas _ Al-Harawi _ 978-84-1364-044-0.PDF` (2 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Religión/Oriente/Editorial Trotta El libro de las estratagemas _ Al-Harawi _ 978-84-1364-044-0.PDF` (2 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

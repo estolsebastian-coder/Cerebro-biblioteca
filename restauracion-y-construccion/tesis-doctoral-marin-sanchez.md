@@ -5,13 +5,13 @@ author: "Rafael Marín Sánchez"
 categoria: "Restauración y construcción"
 paginas: 730
 extraccion: "mixto: 184 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Restauración y construcción/Tesis doctoral Marín Sánchez.pdf"
+fuente: "local:E:/Biblioteca digital/Restauración y construcción/Tesis doctoral Marín Sánchez.pdf"
 convertido: 2026-10-13
 ---
 
 # Uso estructural de prefabricados de yeso en la arquitectura levantina de los siglos XU y XVI
 
-> Texto extraído de `Restauración y construcción/Tesis doctoral Marín Sánchez.pdf` (730 páginas, mixto: 184 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Restauración y construcción/Tesis doctoral Marín Sánchez.pdf` (730 páginas, mixto: 184 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: "christina.emerson"
 categoria: "Eficiencia energética"
 paginas: 9
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Eficiencia energética/CCB_Choosing-the-right-heating-system.pdf"
+fuente: "local:E:/Biblioteca digital/Eficiencia energética/CCB_Choosing-the-right-heating-system.pdf"
 convertido: 2026-10-12
 ---
 
 # CCB_Choosing-the-right-heating-system
 
-> Texto extraído de `Eficiencia energética/CCB_Choosing-the-right-heating-system.pdf` (9 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Eficiencia energética/CCB_Choosing-the-right-heating-system.pdf` (9 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: ""
 categoria: "Literatura"
 paginas: 20
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Coelho, Paulo -  Biografia Ilustrada.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Coelho, Paulo -  Biografia Ilustrada.pdf"
 convertido: 2026-10-16
 ---
 
 # Coelho, Paulo - Biografia Ilustrada
 
-> Texto extraído de `pdf´s mezclados/Coelho, Paulo -  Biografia Ilustrada.pdf` (20 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Coelho, Paulo -  Biografia Ilustrada.pdf` (20 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

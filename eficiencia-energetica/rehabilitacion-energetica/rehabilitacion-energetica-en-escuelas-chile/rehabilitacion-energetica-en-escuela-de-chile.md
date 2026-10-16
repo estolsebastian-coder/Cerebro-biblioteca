@@ -5,13 +5,13 @@ author: "nschultz"
 categoria: "Eficiencia energética"
 paginas: 24
 extraccion: "ocr (por)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Eficiencia energética/Rehabilitación energética/Rehabilitación energética en escuelas Chile/Rehabilitación energética en escuela de Chile.pdf"
+fuente: "local:E:/Biblioteca digital/Eficiencia energética/Rehabilitación energética/Rehabilitación energética en escuelas Chile/Rehabilitación energética en escuela de Chile.pdf"
 convertido: 2026-10-13
 ---
 
 # Rehabilitación energética en escuela de Chile
 
-> Texto extraído de `Eficiencia energética/Rehabilitación energética/Rehabilitación energética en escuelas Chile/Rehabilitación energética en escuela de Chile.pdf` (24 páginas, ocr (por)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Eficiencia energética/Rehabilitación energética/Rehabilitación energética en escuelas Chile/Rehabilitación energética en escuela de Chile.pdf` (24 páginas, ocr (por)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

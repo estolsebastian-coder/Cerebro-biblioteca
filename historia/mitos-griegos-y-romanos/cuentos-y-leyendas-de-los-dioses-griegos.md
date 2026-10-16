@@ -5,13 +5,13 @@ author: "Grupo Anaya"
 categoria: "Historia"
 paginas: 18
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Mitos griegos y romanos/cuentos-y-leyendas-de-los-dioses-griegos.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Mitos griegos y romanos/cuentos-y-leyendas-de-los-dioses-griegos.pdf"
 convertido: 2026-10-15
 ---
 
 # Cuentos y leyendas de los dioses griegos (capítulo 1)
 
-> Texto extraído de `Historia/Mitos griegos y romanos/cuentos-y-leyendas-de-los-dioses-griegos.pdf` (18 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Mitos griegos y romanos/cuentos-y-leyendas-de-los-dioses-griegos.pdf` (18 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

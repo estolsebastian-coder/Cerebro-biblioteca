@@ -5,13 +5,13 @@ author: ""
 categoria: "Tecnología láser, fotogrametría, otros"
 paginas: 12
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tecnología láser, fotogrametría, otros/Salvador Garcia 2018 - The use of HBIM models as a tool for dissemination and public use management.pdf"
+fuente: "local:E:/Biblioteca digital/Tecnología láser, fotogrametría, otros/Salvador Garcia 2018 - The use of HBIM models as a tool for dissemination and public use management.pdf"
 convertido: 2026-10-14
 ---
 
 # Salvador Garcia 2018 - The use of HBIM models as a tool for dissemination and public use management
 
-> Texto extraído de `Tecnología láser, fotogrametría, otros/Salvador Garcia 2018 - The use of HBIM models as a tool for dissemination and public use management.pdf` (12 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tecnología láser, fotogrametría, otros/Salvador Garcia 2018 - The use of HBIM models as a tool for dissemination and public use management.pdf` (12 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

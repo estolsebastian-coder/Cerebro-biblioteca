@@ -5,13 +5,13 @@ author: ""
 categoria: "Religión"
 paginas: 474
 extraccion: "sin OCR: manuscrito griego"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Religión/Cristianismo/Manuscrito antiguo testamento.pdf"
+fuente: "local:E:/Biblioteca digital/Religión/Cristianismo/Manuscrito antiguo testamento.pdf"
 convertido: 2026-10-16
 ---
 
 # Manuscrito antiguo testamento
 
-> Texto extraído de `Religión/Cristianismo/Manuscrito antiguo testamento.pdf` (474 páginas, sin OCR: manuscrito griego). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Religión/Cristianismo/Manuscrito antiguo testamento.pdf` (474 páginas, sin OCR: manuscrito griego). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 > **Nota:** Manuscrito griego en minúscula. Pese al nombre del archivo, la p. 190 es Romanos 7,7-18: es Nuevo Testamento. Solo imagen; consultar el PDF.
 

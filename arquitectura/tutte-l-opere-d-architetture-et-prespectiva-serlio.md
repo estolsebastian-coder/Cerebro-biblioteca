@@ -5,13 +5,13 @@ author: "Serlio, Sebastiano (1475-1554)"
 categoria: "Arquitectura"
 paginas: 792
 extraccion: "mixto: 35 páginas por OCR (por)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Tutte L´Opere d architetture et prespectiva Serlio.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Tutte L´Opere d architetture et prespectiva Serlio.pdf"
 convertido: 2026-10-16
 ---
 
 # Tutte l'opere d'architettura et prospettiva / di Sebastiano Serlio Bolognese ... ; diuiso in sette Libri con un indice copiosissimo con molte considerationi, & un breve discorso sopra questa materia, raccolto Gio. Domenico Scamozzi Vicentino
 
-> Texto extraído de `pdf´s mezclados/Tutte L´Opere d architetture et prespectiva Serlio.pdf` (792 páginas, mixto: 35 páginas por OCR (por)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Tutte L´Opere d architetture et prespectiva Serlio.pdf` (792 páginas, mixto: 35 páginas por OCR (por)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

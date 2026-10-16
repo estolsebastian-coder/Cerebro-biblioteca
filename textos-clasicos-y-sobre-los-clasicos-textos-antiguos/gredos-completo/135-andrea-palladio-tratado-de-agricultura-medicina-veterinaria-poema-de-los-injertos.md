@@ -5,13 +5,13 @@ author: "Paladio"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 535
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/135 - Andrea Palladio, Tratado de Agricultura - Medicina Veterinaria - Poema de los Injertos.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/135 - Andrea Palladio, Tratado de Agricultura - Medicina Veterinaria - Poema de los Injertos.pdf"
 convertido: 2026-10-15
 ---
 
 # Tratado de agricultura. Medicina veterinaria. Poema de los injertos. (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/135 - Andrea Palladio, Tratado de Agricultura - Medicina Veterinaria - Poema de los Injertos.pdf` (535 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/135 - Andrea Palladio, Tratado de Agricultura - Medicina Veterinaria - Poema de los Injertos.pdf` (535 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

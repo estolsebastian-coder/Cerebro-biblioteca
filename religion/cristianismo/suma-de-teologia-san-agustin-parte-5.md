@@ -5,13 +5,13 @@ author: "Administrador"
 categoria: "Religión"
 paginas: 4289
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Religión/Cristianismo/Suma de Teología. San Agustín.pdf"
+fuente: "local:E:/Biblioteca digital/Religión/Cristianismo/Suma de Teología. San Agustín.pdf"
 convertido: 2026-10-16
 ---
 
 # Prima Pars (parte 5 de 5)
 
-> Texto extraído de `Religión/Cristianismo/Suma de Teología. San Agustín.pdf` (4289 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Religión/Cristianismo/Suma de Teología. San Agustín.pdf` (4289 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 4100 -->
 

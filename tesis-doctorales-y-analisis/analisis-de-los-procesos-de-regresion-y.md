@@ -5,13 +5,13 @@ author: ""
 categoria: "Tesis doctorales y análisis"
 paginas: 20
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/Analisis_de_los_procesos_de_regresion_y.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/Analisis_de_los_procesos_de_regresion_y.pdf"
 convertido: 2026-10-13
 ---
 
 # Analisis_de_los_procesos_de_regresion_y
 
-> Texto extraído de `Tesis doctorales y análisis/Analisis_de_los_procesos_de_regresion_y.pdf` (20 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/Analisis_de_los_procesos_de_regresion_y.pdf` (20 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

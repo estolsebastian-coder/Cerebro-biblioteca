@@ -5,13 +5,13 @@ author: ""
 categoria: "Historia"
 paginas: 460
 extraccion: "mixto: 6 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Diodoro de Sicilia/Diodoro Siculo Biblioteca Historica IV-VIII.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Diodoro de Sicilia/Diodoro Siculo Biblioteca Historica IV-VIII.pdf"
 convertido: 2026-10-15
 ---
 
 # Diodoro Siculo Biblioteca Historica IV-VIII
 
-> Texto extraído de `Historia/Diodoro de Sicilia/Diodoro Siculo Biblioteca Historica IV-VIII.pdf` (460 páginas, mixto: 6 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Diodoro de Sicilia/Diodoro Siculo Biblioteca Historica IV-VIII.pdf` (460 páginas, mixto: 6 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

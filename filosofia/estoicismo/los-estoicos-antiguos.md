@@ -5,13 +5,13 @@ author: "Varios Autores"
 categoria: "Filosofía"
 paginas: 234
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Estoicismo/Los estoicos antiguos.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Estoicismo/Los estoicos antiguos.pdf"
 convertido: 2026-10-15
 ---
 
 # Los estoicos antiguos (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Filosofía/Estoicismo/Los estoicos antiguos.pdf` (234 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Estoicismo/Los estoicos antiguos.pdf` (234 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

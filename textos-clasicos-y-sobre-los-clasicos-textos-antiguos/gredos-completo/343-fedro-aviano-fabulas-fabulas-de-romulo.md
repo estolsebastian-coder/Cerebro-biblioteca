@@ -5,13 +5,13 @@ author: "Fedro & Aviano"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 384
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/343 - Fedro, Aviano, Fabulas, Fabulas de Romulo.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/343 - Fedro, Aviano, Fabulas, Fabulas de Romulo.pdf"
 convertido: 2026-10-15
 ---
 
 # Fábulas. Fábulas. Fábulas de Rómulo. (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/343 - Fedro, Aviano, Fabulas, Fabulas de Romulo.pdf` (384 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/343 - Fedro, Aviano, Fabulas, Fabulas de Romulo.pdf` (384 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

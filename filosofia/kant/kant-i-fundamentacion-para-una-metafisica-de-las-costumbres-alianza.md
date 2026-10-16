@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 247
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Kant/Kant, I.-Fundamentación para una metafísica de las costumbres (Alianza).pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Kant/Kant, I.-Fundamentación para una metafísica de las costumbres (Alianza).pdf"
 convertido: 2026-10-15
 ---
 
 # Kant, I.-Fundamentación para una metafísica de las costumbres (Alianza)
 
-> Texto extraído de `Filosofía/Kant/Kant, I.-Fundamentación para una metafísica de las costumbres (Alianza).pdf` (247 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Kant/Kant, I.-Fundamentación para una metafísica de las costumbres (Alianza).pdf` (247 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

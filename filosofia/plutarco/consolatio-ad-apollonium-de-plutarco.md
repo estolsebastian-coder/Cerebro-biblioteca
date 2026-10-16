@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 27
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Plutarco/Consolatio ad Apollonium de Plutarco.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Plutarco/Consolatio ad Apollonium de Plutarco.pdf"
 convertido: 2026-10-15
 ---
 
 # Consolatio ad Apollonium de Plutarco
 
-> Texto extraído de `Filosofía/Plutarco/Consolatio ad Apollonium de Plutarco.pdf` (27 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Plutarco/Consolatio ad Apollonium de Plutarco.pdf` (27 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

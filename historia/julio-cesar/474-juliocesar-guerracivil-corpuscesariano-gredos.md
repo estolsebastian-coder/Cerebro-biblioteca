@@ -5,13 +5,13 @@ author: ""
 categoria: "Historia"
 paginas: 495
 extraccion: "mixto: 6 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Julio César/474.JulioCesar-GuerraCivil-CorpusCesariano-Gredos.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Julio César/474.JulioCesar-GuerraCivil-CorpusCesariano-Gredos.pdf"
 convertido: 2026-10-15
 ---
 
 # 474.JulioCesar-GuerraCivil-CorpusCesariano-Gredos
 
-> Texto extraído de `Historia/Julio César/474.JulioCesar-GuerraCivil-CorpusCesariano-Gredos.pdf` (495 páginas, mixto: 6 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Julio César/474.JulioCesar-GuerraCivil-CorpusCesariano-Gredos.pdf` (495 páginas, mixto: 6 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

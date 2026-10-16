@@ -5,13 +5,13 @@ author: "Unknown"
 categoria: "Filosofía"
 paginas: 55
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Nietzsche Friedrich - Sobre El Porvenir De Nuestras Instituciones Educativas.PDF"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Nietzsche Friedrich - Sobre El Porvenir De Nuestras Instituciones Educativas.PDF"
 convertido: 2026-10-16
 ---
 
 # Nietzsche Friedrich - Sobre El Porvenir De Nuestras Instituciones Educativas
 
-> Texto extraído de `pdf´s mezclados/Nietzsche Friedrich - Sobre El Porvenir De Nuestras Instituciones Educativas.PDF` (55 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Nietzsche Friedrich - Sobre El Porvenir De Nuestras Instituciones Educativas.PDF` (55 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

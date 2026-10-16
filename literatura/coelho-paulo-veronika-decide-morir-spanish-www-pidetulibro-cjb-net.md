@@ -5,13 +5,13 @@ author: "Administrador"
 categoria: "Literatura"
 paginas: 117
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Coelho, Paulo - Veronika decide morir [spanish] [www.pidetulibro.cjb.net].pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Coelho, Paulo - Veronika decide morir [spanish] [www.pidetulibro.cjb.net].pdf"
 convertido: 2026-10-16
 ---
 
 # Coelho, Paulo - Veronika decide morir [spanish] [www.pidetulibro.cjb.net]
 
-> Texto extraído de `pdf´s mezclados/Coelho, Paulo - Veronika decide morir [spanish] [www.pidetulibro.cjb.net].pdf` (117 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Coelho, Paulo - Veronika decide morir [spanish] [www.pidetulibro.cjb.net].pdf` (117 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

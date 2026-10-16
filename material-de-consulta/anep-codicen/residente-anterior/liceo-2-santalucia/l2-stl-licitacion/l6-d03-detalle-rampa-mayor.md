@@ -1,0 +1,41 @@
+---
+type: libro
+title: "L6-D03 DETALLE RAMPA MAYOR"
+author: ""
+categoria: "ANEP CODICEN"
+paginas: 1
+extraccion: "texto"
+fuente: "local:E:/MATERIAL DE CONSULTA/ANEP CODICEN/RESIDENTE ANTERIOR/LICEO 2 SANTALUCIA/L2-STL-LICITACION/L6-D03 DETALLE RAMPA MAYOR.pdf"
+convertido: 2026-10-16
+---
+
+# L6-D03 DETALLE RAMPA MAYOR
+
+> Texto extraído de `ANEP CODICEN\RESIDENTE ANTERIOR\LICEO 2 SANTALUCIA\L2-STL-LICITACION\L6-D03 DETALLE RAMPA MAYOR.pdf` (1 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+VISTA 1
+
+VISTA 2
+
+P 1
+P 1
+P 1 P 1 P 1
+1 VISTA CORTE 2-2
+DETALLES GENERICOS esc 1:5
+PARA SECTOR 2
+
+VISTA 2
+CONSEJO DIRECTIVO CENTRAL
+$'0,1,675$&,Ð1 1$&,21$/
+',5(&&,Ð1 6(&725,$/ '(
+P 1 P 1 P 1 '( ('8&$&,Ð1 3Ô%/,&$ INFRAESTRUCTURA RAMPA-SECTOR2 P 1 P 1
+
+SANTA LUCIA 03/2015
+
+CANELONES 1:30 1:5
+
+$54 )(51$1'2 )(55(52 $54 0$18(/ 52'5Ì*8(=
+
+RAUL BERRUETA

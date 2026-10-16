@@ -5,13 +5,13 @@ author: "Pausanias"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 420
 extraccion: "mixto: 5 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/198 - Pausanias. Descripci�n de Grecia - Libros VII-X.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/198 - Pausanias. Descripci�n de Grecia - Libros VII-X.pdf"
 convertido: 2026-10-15
 ---
 
 # Descripción de Grecia. Libros VII-X (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/198 - Pausanias. Descripci�n de Grecia - Libros VII-X.pdf` (420 páginas, mixto: 5 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/198 - Pausanias. Descripci�n de Grecia - Libros VII-X.pdf` (420 páginas, mixto: 5 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

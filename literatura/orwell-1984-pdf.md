@@ -5,13 +5,13 @@ author: "Administrador"
 categoria: "Literatura"
 paginas: 144
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/orwell 1984 [pdf].pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/orwell 1984 [pdf].pdf"
 convertido: 2026-10-16
 ---
 
 # 1984 - George Orwell
 
-> Texto extraído de `pdf´s mezclados/orwell 1984 [pdf].pdf` (144 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/orwell 1984 [pdf].pdf` (144 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

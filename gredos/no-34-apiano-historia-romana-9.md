@@ -5,13 +5,13 @@ author: ""
 categoria: "Gredos"
 paginas: 210
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Gredos/Nº 34. Apiano, Historia romana 9.pdf"
+fuente: "local:E:/Biblioteca digital/Gredos/Nº 34. Apiano, Historia romana 9.pdf"
 convertido: 2026-10-15
 ---
 
 # Nº 34. Apiano, Historia romana 9
 
-> Texto extraído de `Gredos/Nº 34. Apiano, Historia romana 9.pdf` (210 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Gredos/Nº 34. Apiano, Historia romana 9.pdf` (210 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

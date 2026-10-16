@@ -5,13 +5,13 @@ author: ""
 categoria: "Historia"
 paginas: 293
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Alcidamante de Elea. Fragmentos.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Alcidamante de Elea. Fragmentos.pdf"
 convertido: 2026-10-15
 ---
 
 # Alcidamante de Elea. Fragmentos
 
-> Texto extraído de `Historia/Alcidamante de Elea. Fragmentos.pdf` (293 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Alcidamante de Elea. Fragmentos.pdf` (293 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

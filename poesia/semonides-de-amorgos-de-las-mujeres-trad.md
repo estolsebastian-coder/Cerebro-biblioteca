@@ -5,13 +5,13 @@ author: ""
 categoria: "Poesía"
 paginas: 30
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Poesía/Semonides_de_Amorgos_De_las_Mujeres_Trad.pdf"
+fuente: "local:E:/Biblioteca digital/Poesía/Semonides_de_Amorgos_De_las_Mujeres_Trad.pdf"
 convertido: 2026-10-15
 ---
 
 # Semonides_de_Amorgos_De_las_Mujeres_Trad
 
-> Texto extraído de `Poesía/Semonides_de_Amorgos_De_las_Mujeres_Trad.pdf` (30 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Poesía/Semonides_de_Amorgos_De_las_Mujeres_Trad.pdf` (30 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: "carmen_manso"
 categoria: "Tesis doctorales y análisis"
 paginas: 52
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/Reflexiones_sobre_la_catedral_romanica_y.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/Reflexiones_sobre_la_catedral_romanica_y.pdf"
 convertido: 2026-10-13
 ---
 
 # Reflexiones_sobre_la_catedral_romanica_y
 
-> Texto extraído de `Tesis doctorales y análisis/Reflexiones_sobre_la_catedral_romanica_y.pdf` (52 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/Reflexiones_sobre_la_catedral_romanica_y.pdf` (52 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

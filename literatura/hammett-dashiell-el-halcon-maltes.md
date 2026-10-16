@@ -5,13 +5,13 @@ author: "Administrador"
 categoria: "Literatura"
 paginas: 200
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Hammett, Dashiell - El Halcon Maltes.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Hammett, Dashiell - El Halcon Maltes.pdf"
 convertido: 2026-10-16
 ---
 
 # Hammett, Dashiell - El Halcon Maltes
 
-> Texto extraído de `pdf´s mezclados/Hammett, Dashiell - El Halcon Maltes.pdf` (200 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Hammett, Dashiell - El Halcon Maltes.pdf` (200 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

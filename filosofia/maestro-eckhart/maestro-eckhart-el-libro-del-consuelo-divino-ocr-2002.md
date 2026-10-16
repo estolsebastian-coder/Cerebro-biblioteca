@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 104
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Maestro Eckhart/Maestro Eckhart. - El libro del consuelo divino [ocr] [2002].pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Maestro Eckhart/Maestro Eckhart. - El libro del consuelo divino [ocr] [2002].pdf"
 convertido: 2026-10-15
 ---
 
 # Maestro Eckhart. - El libro del consuelo divino [ocr] [2002]
 
-> Texto extraído de `Filosofía/Maestro Eckhart/Maestro Eckhart. - El libro del consuelo divino [ocr] [2002].pdf` (104 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Maestro Eckhart/Maestro Eckhart. - El libro del consuelo divino [ocr] [2002].pdf` (104 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

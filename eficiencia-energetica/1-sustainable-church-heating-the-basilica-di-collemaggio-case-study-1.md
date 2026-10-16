@@ -5,13 +5,13 @@ author: "Niccolò Aste"
 categoria: "Eficiencia energética"
 paginas: 14
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Eficiencia energética/1.Sustainable church heating - The Basilica di Collemaggio case-study_1.pdf"
+fuente: "local:E:/Biblioteca digital/Eficiencia energética/1.Sustainable church heating - The Basilica di Collemaggio case-study_1.pdf"
 convertido: 2026-10-12
 ---
 
 # Sustainable church heating: The Basilica di Collemaggio case-study
 
-> Texto extraído de `Eficiencia energética/1.Sustainable church heating - The Basilica di Collemaggio case-study_1.pdf` (14 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Eficiencia energética/1.Sustainable church heating - The Basilica di Collemaggio case-study_1.pdf` (14 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

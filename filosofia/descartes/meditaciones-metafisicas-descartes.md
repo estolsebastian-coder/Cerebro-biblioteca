@@ -5,13 +5,13 @@ author: "Diego"
 categoria: "Filosofía"
 paginas: 26
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Descartes/MEDITACIONES_METAFISICAS_DESCARTES.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Descartes/MEDITACIONES_METAFISICAS_DESCARTES.pdf"
 convertido: 2026-10-15
 ---
 
 # MEDITACIONES_METAFISICAS_DESCARTES
 
-> Texto extraído de `Filosofía/Descartes/MEDITACIONES_METAFISICAS_DESCARTES.pdf` (26 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Descartes/MEDITACIONES_METAFISICAS_DESCARTES.pdf` (26 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

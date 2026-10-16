@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 161
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Bueno/ElmitodeladerechaqusignificaserdederechasenlaEspaaactualbyGustavoBueno.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Bueno/ElmitodeladerechaqusignificaserdederechasenlaEspaaactualbyGustavoBueno.pdf"
 convertido: 2026-10-15
 ---
 
 # ElmitodeladerechaqusignificaserdederechasenlaEspaaactualbyGustavoBueno
 
-> Texto extraído de `Filosofía/Bueno/ElmitodeladerechaqusignificaserdederechasenlaEspaaactualbyGustavoBueno.pdf` (161 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Bueno/ElmitodeladerechaqusignificaserdederechasenlaEspaaactualbyGustavoBueno.pdf` (161 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

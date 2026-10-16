@@ -5,13 +5,13 @@ author: "Byung-Chul, Han(Author)"
 categoria: "Filosofía"
 paginas: 81
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Byun Chul Han/la-socieadad-del-cansancio_.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Byun Chul Han/la-socieadad-del-cansancio_.pdf"
 convertido: 2026-10-15
 ---
 
 # La sociedad del cansancio
 
-> Texto extraído de `Filosofía/Byun Chul Han/la-socieadad-del-cansancio_.pdf` (81 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Byun Chul Han/la-socieadad-del-cansancio_.pdf` (81 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: "graciela"
 categoria: "Política"
 paginas: 112
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Federico Engels - El Origen de la Familia la Propiedad y el Estado.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Federico Engels - El Origen de la Familia la Propiedad y el Estado.pdf"
 convertido: 2026-10-16
 ---
 
 # Federico Engels - El Origen de la Familia la Propiedad y el Estado
 
-> Texto extraído de `pdf´s mezclados/Federico Engels - El Origen de la Familia la Propiedad y el Estado.pdf` (112 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Federico Engels - El Origen de la Familia la Propiedad y el Estado.pdf` (112 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

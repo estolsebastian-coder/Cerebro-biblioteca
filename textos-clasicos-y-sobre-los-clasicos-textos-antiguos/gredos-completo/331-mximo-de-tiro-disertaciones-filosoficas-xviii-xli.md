@@ -5,13 +5,13 @@ author: "Máximo de Tiro"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 296
 extraccion: "mixto: 5 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/331 - M�ximo de Tiro, Disertaciones Filosoficas XVIII-XLI.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/331 - M�ximo de Tiro, Disertaciones Filosoficas XVIII-XLI.pdf"
 convertido: 2026-10-15
 ---
 
 # Disertaciones filosóficas XVIII - XLI (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/331 - M�ximo de Tiro, Disertaciones Filosoficas XVIII-XLI.pdf` (296 páginas, mixto: 5 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/331 - M�ximo de Tiro, Disertaciones Filosoficas XVIII-XLI.pdf` (296 páginas, mixto: 5 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

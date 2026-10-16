@@ -5,13 +5,13 @@ author: "Alberto Bernabé"
 categoria: "Filosofía"
 paginas: 401
 extraccion: "mixto: 6 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Presocráticos/Fragmentos presocraticos. De Tales a Democrito - AA VV.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Presocráticos/Fragmentos presocraticos. De Tales a Democrito - AA VV.pdf"
 convertido: 2026-10-15
 ---
 
 # Fragmentos presocráticos, de Tales a Demócrito
 
-> Texto extraído de `Filosofía/Presocráticos/Fragmentos presocraticos. De Tales a Democrito - AA VV.pdf` (401 páginas, mixto: 6 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Presocráticos/Fragmentos presocraticos. De Tales a Democrito - AA VV.pdf` (401 páginas, mixto: 6 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

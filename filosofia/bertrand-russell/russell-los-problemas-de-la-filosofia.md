@@ -5,13 +5,13 @@ author: "_"
 categoria: "Filosofía"
 paginas: 51
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Bertrand Russell/RUSSELL Los problemas de la filosofia.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Bertrand Russell/RUSSELL Los problemas de la filosofia.pdf"
 convertido: 2026-10-15
 ---
 
 # RUSSELL Los problemas de la filosofia
 
-> Texto extraído de `Filosofía/Bertrand Russell/RUSSELL Los problemas de la filosofia.pdf` (51 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Bertrand Russell/RUSSELL Los problemas de la filosofia.pdf` (51 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: ""
 categoria: "Arqueología"
 paginas: 8
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/Control_de_la_intervencion_estructural_s.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/Control_de_la_intervencion_estructural_s.pdf"
 convertido: 2026-10-12
 ---
 
 # Control_de_la_intervencion_estructural_s
 
-> Texto extraído de `Arqueología/Control_de_la_intervencion_estructural_s.pdf` (8 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/Control_de_la_intervencion_estructural_s.pdf` (8 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: "Usuario"
 categoria: "Tesis doctorales y análisis"
 paginas: 540
 extraccion: "mixto: 11 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/Nuevas tecnologías aplicadas a la documentación gráfica del patrimonio..pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/Nuevas tecnologías aplicadas a la documentación gráfica del patrimonio..pdf"
 convertido: 2026-10-13
 ---
 
 # José Antonio Benavides López
 
-> Texto extraído de `Tesis doctorales y análisis/Nuevas tecnologías aplicadas a la documentación gráfica del patrimonio..pdf` (540 páginas, mixto: 11 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/Nuevas tecnologías aplicadas a la documentación gráfica del patrimonio..pdf` (540 páginas, mixto: 11 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

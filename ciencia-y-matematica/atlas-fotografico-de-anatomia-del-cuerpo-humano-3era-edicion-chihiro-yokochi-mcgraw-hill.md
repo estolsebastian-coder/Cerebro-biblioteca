@@ -5,13 +5,13 @@ author: ""
 categoria: "Ciencia y matemática"
 paginas: 147
 extraccion: "ocr (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Atlas.Fotografico.de.Anatomia.del.Cuerpo.Humano.3era.Edicion.-.Chihiro.Yokochi.McGraw-Hill.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Atlas.Fotografico.de.Anatomia.del.Cuerpo.Humano.3era.Edicion.-.Chihiro.Yokochi.McGraw-Hill.pdf"
 convertido: 2026-10-16
 ---
 
 # Atlas.Fotografico.de.Anatomia.del.Cuerpo.Humano.3era.Edicion.-.Chihiro.Yokochi.McGraw-Hill
 
-> Texto extraído de `pdf´s mezclados/Atlas.Fotografico.de.Anatomia.del.Cuerpo.Humano.3era.Edicion.-.Chihiro.Yokochi.McGraw-Hill.pdf` (147 páginas, ocr (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Atlas.Fotografico.de.Anatomia.del.Cuerpo.Humano.3era.Edicion.-.Chihiro.Yokochi.McGraw-Hill.pdf` (147 páginas, ocr (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

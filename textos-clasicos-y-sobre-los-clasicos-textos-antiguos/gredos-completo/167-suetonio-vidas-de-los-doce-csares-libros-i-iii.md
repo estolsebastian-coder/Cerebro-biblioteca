@@ -5,13 +5,13 @@ author: "Suetonio"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 303
 extraccion: "mixto: 4 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/167 - Suetonio. Vidas de los doce c�sares - Libros I-III.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/167 - Suetonio. Vidas de los doce c�sares - Libros I-III.pdf"
 convertido: 2026-10-15
 ---
 
 # Vida de los doce Césares I: 1 (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/167 - Suetonio. Vidas de los doce c�sares - Libros I-III.pdf` (303 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/167 - Suetonio. Vidas de los doce c�sares - Libros I-III.pdf` (303 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

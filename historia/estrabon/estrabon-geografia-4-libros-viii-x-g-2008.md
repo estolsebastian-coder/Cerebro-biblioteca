@@ -5,13 +5,13 @@ author: ""
 categoria: "Historia"
 paginas: 555
 extraccion: "mixto: 11 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Estrabón/Estrabón. - Geografía 4 (libros-VIII-X) [G] [2008].pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Estrabón/Estrabón. - Geografía 4 (libros-VIII-X) [G] [2008].pdf"
 convertido: 2026-10-15
 ---
 
 # Estrabón. - Geografía 4 (libros-VIII-X) [G] [2008]
 
-> Texto extraído de `Historia/Estrabón/Estrabón. - Geografía 4 (libros-VIII-X) [G] [2008].pdf` (555 páginas, mixto: 11 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Estrabón/Estrabón. - Geografía 4 (libros-VIII-X) [G] [2008].pdf` (555 páginas, mixto: 11 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

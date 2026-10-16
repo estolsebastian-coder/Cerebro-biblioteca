@@ -5,13 +5,13 @@ author: "Juan Pablo Sánchez"
 categoria: "Historia"
 paginas: 319
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Diodoro de Sicilia/Diodoro Siculo. Biblioteca Histórica XVIII-XX.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Diodoro de Sicilia/Diodoro Siculo. Biblioteca Histórica XVIII-XX.pdf"
 convertido: 2026-10-15
 ---
 
 # Biblioteca Histórica
 
-> Texto extraído de `Historia/Diodoro de Sicilia/Diodoro Siculo. Biblioteca Histórica XVIII-XX.pdf` (319 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Diodoro de Sicilia/Diodoro Siculo. Biblioteca Histórica XVIII-XX.pdf` (319 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

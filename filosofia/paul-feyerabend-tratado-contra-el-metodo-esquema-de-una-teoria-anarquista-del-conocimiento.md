@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 333
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Paul Feyerabend, Tratado Contra El Método Esquema De Una Teoria Anarquista Del Conocimiento.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Paul Feyerabend, Tratado Contra El Método Esquema De Una Teoria Anarquista Del Conocimiento.pdf"
 convertido: 2026-10-15
 ---
 
 # Paul Feyerabend, Tratado Contra El Método Esquema De Una Teoria Anarquista Del Conocimiento
 
-> Texto extraído de `Filosofía/Paul Feyerabend, Tratado Contra El Método Esquema De Una Teoria Anarquista Del Conocimiento.pdf` (333 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Paul Feyerabend, Tratado Contra El Método Esquema De Una Teoria Anarquista Del Conocimiento.pdf` (333 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

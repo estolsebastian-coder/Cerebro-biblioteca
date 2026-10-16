@@ -5,13 +5,13 @@ author: "Lucio Anneo Séneca"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 1191
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/92 - Seneca, Lucio Anneo - Epistolas morales a Lucilio I [48083] (r1.1).pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/92 - Seneca, Lucio Anneo - Epistolas morales a Lucilio I [48083] (r1.1).pdf"
 convertido: 2026-10-15
 ---
 
 # Epístolas morales a Lucilio I
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/92 - Seneca, Lucio Anneo - Epistolas morales a Lucilio I [48083] (r1.1).pdf` (1191 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/92 - Seneca, Lucio Anneo - Epistolas morales a Lucilio I [48083] (r1.1).pdf` (1191 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

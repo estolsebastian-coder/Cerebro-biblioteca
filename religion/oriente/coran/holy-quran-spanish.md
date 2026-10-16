@@ -5,13 +5,13 @@ author: "www.alislam.org"
 categoria: "Religión"
 paginas: 1120
 extraccion: "ocr (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Religión/Oriente/Corán/Holy-Quran-Spanish.pdf"
+fuente: "local:E:/Biblioteca digital/Religión/Oriente/Corán/Holy-Quran-Spanish.pdf"
 convertido: 2026-10-16
 ---
 
 # Holy Quran Arabic Text with Spanish Translation
 
-> Texto extraído de `Religión/Oriente/Corán/Holy-Quran-Spanish.pdf` (1120 páginas, ocr (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Religión/Oriente/Corán/Holy-Quran-Spanish.pdf` (1120 páginas, ocr (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 > **Nota:** Cada página tiene una columna en árabe; sin el idioma árabe en Tesseract, esa columna sale como texto ilegible intercalado.
 

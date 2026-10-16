@@ -5,13 +5,13 @@ author: "Jean Paul Sartre"
 categoria: "Filosofía"
 paginas: 25
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Jean Paul Sartre - La Trascendencia del Ego.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Jean Paul Sartre - La Trascendencia del Ego.pdf"
 convertido: 2026-10-16
 ---
 
 # La Trascendencia del Ego
 
-> Texto extraído de `pdf´s mezclados/Jean Paul Sartre - La Trascendencia del Ego.pdf` (25 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Jean Paul Sartre - La Trascendencia del Ego.pdf` (25 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

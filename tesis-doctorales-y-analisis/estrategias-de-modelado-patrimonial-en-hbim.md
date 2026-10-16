@@ -5,13 +5,13 @@ author: "Roque Angulo-Fornos"
 categoria: "Tesis doctorales y análisis"
 paginas: 11
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/Estrategias de modelado patrimonial en HBIM.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/Estrategias de modelado patrimonial en HBIM.pdf"
 convertido: 2026-10-13
 ---
 
 # Estrategias de modelado patrimonial en HBIM, aplicación a la lectura
 
-> Texto extraído de `Tesis doctorales y análisis/Estrategias de modelado patrimonial en HBIM.pdf` (11 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/Estrategias de modelado patrimonial en HBIM.pdf` (11 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

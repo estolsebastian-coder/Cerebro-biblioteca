@@ -1,0 +1,65 @@
+---
+type: libro
+title: "MONTES_MAPA_INE"
+author: ""
+categoria: "ANEP CODICEN"
+paginas: 1
+extraccion: "texto"
+fuente: "local:E:/MATERIAL DE CONSULTA/ANEP CODICEN/PLANOS DWG CODICEN/CES/CANELONES/L01 - Montes/01 - Graficos/MONTES_MAPA_INE.pdf"
+convertido: 2026-10-16
+---
+
+# MONTES_MAPA_INE
+
+> Texto extraído de `ANEP CODICEN\PLANOS DWG CODICEN\CES\CANELONES\L01 - Montes\01 - Graficos\MONTES_MAPA_INE.pdf` (1 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+1de1 2006 8IMPRESIÓN
+de Cartografía Lámina Enero, de Fecha Deportes ESTADÍSTICA Visuales y deKm. arroyos Férreas Unidad 9 DE Sección 2004 cañadas
+\- y Vías Límites PlazasCanteros Cementerio Iglesia/TemploCentrosMojón Constr.Notable Ríos, Meters Julio,
+300 Técnicos Localidad Montes NACIONAL Local CENSALES 200
+632 Servicios Localidad 100 1:10000 Enseñanza CensalREFERENCIAS Censal de CÓDIGOS de de CARTOGRÁFICA Generales Saludde Censal INSTITUTODivisión OSEUTEServ.Intendencia/JuntaPolicía/BomberosCentros LímiteSecciónLímiteSegmento Zona AsentamientosIrregulares
+Servicios ACTUALIZACIÓN 0 03
+de Departamento CANELONES Departamento Fecha Escala
+
+15
+CALLE 51
+14
+49 CALLE
+21
+52 INE CALLE13
+47
+50 CENTENARIO
+AVDA 20 48 2 CALLE
+44 22 46 CALLE 12 CALLE
+23 14 4 10 25 CALLE 1 CALLE 13 45 CALLE 405
+
+9 601 24 40 3INE324INEINE5 CALLE INE 26305 1CALLE 43 CALLE 39 11 19
+42CALLE CALLE 3 1 CALLE 29 INE
+30 700 41 CALLE 3 18 41INE INE 702 27 CALLE 701
+28 INE41 38
+22
+33
+31 2 CENTENARIO 8 AVDA CALLE CALLE
+32 54 34
+7
+205 CALLE 36 INE12
+35
+13INE
+INE11 14INE 7 CALLE
+21
+37 CABANA
+9 10 INE INE RUFINO
+AVDA
+18
+
+17 YUDE 20 S.REGUEIRO 81 RAUL RUTA 16 DR. 8 CENTENARIO INE AVDA BERRETA 19 BERRETA YORDO¥EZ TOMAS
+2 PTE. 15 AV.TOMAS AV.BATLLE LEONI 3 14 G.AZNAREZ BEYHAUT JUAN ALBERTO BEYHAUT
+7 MARIA 13 6 INE 6105 INE SEN.A.VIGLIOLA
+4
+5 CROSTA 8 12 1 BELGRA BACCINO 7 GUILLERMO BEYHAUT LUIS 11 DR. DR. YORDO¥EZ BEYHAUT ARTURO
+9 PEDRO 10 AV.BATLLE 13 12
+CALLE CALLE
+
+53

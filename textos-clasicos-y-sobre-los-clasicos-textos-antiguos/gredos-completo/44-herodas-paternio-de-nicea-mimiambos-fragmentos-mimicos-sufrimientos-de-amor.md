@@ -5,13 +5,13 @@ author: "Herodas & Partenio de Nicea"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 220
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/44 - Herodas, Paternio de Nicea, Mimiambos - Fragmentos Mimicos - Sufrimientos de Amor.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/44 - Herodas, Paternio de Nicea, Mimiambos - Fragmentos Mimicos - Sufrimientos de Amor.pdf"
 convertido: 2026-10-15
 ---
 
 # Mimiambos. Fragmentos mímicos. Sufrimientos de amor (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/44 - Herodas, Paternio de Nicea, Mimiambos - Fragmentos Mimicos - Sufrimientos de Amor.pdf` (220 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/44 - Herodas, Paternio de Nicea, Mimiambos - Fragmentos Mimicos - Sufrimientos de Amor.pdf` (220 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

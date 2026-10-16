@@ -5,13 +5,13 @@ author: "Polibio"
 categoria: "Historia"
 paginas: 625
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Polibio/Polibio. - Historias 2 (Libros V-XV) [G] [1981].pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Polibio/Polibio. - Historias 2 (Libros V-XV) [G] [1981].pdf"
 convertido: 2026-10-15
 ---
 
 # Polibio. - Historias 2 (Libros V-XV) [G] [1981]
 
-> Texto extraído de `Historia/Polibio/Polibio. - Historias 2 (Libros V-XV) [G] [1981].pdf` (625 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Polibio/Polibio. - Historias 2 (Libros V-XV) [G] [1981].pdf` (625 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: ""
 categoria: "Arquitectura"
 paginas: 148
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Arquitectura/1_Vitrubio_Los_diez_Libros_de_Architectura.pdf"
+fuente: "local:E:/Biblioteca digital/Arquitectura/1_Vitrubio_Los_diez_Libros_de_Architectura.pdf"
 convertido: 2026-10-15
 ---
 
 # 1_Vitrubio_Los_diez_Libros_de_Architectura
 
-> Texto extraído de `Arquitectura/1_Vitrubio_Los_diez_Libros_de_Architectura.pdf` (148 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arquitectura/1_Vitrubio_Los_diez_Libros_de_Architectura.pdf` (148 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

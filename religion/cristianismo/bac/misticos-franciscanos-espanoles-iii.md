@@ -5,13 +5,13 @@ author: "Gomis, Juan Bautista, ed"
 categoria: "Religión"
 paginas: 894
 extraccion: "mixto: 26 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Religión/Cristianismo/BAC/Místicos franciscanos españoles III.pdf"
+fuente: "local:E:/Biblioteca digital/Religión/Cristianismo/BAC/Místicos franciscanos españoles III.pdf"
 convertido: 2026-10-16
 ---
 
 # Místicos franciscanos españoles
 
-> Texto extraído de `Religión/Cristianismo/BAC/Místicos franciscanos españoles III.pdf` (894 páginas, mixto: 26 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Religión/Cristianismo/BAC/Místicos franciscanos españoles III.pdf` (894 páginas, mixto: 26 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

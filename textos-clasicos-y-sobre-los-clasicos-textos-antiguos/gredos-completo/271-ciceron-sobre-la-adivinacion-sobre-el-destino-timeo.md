@@ -5,13 +5,13 @@ author: "Cicerón"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 354
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/271 - Cicerón. Sobre la adivinación, Sobre el destino, Timeo.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/271 - Cicerón. Sobre la adivinación, Sobre el destino, Timeo.pdf"
 convertido: 2026-10-15
 ---
 
 # Sobre la adivinación. Sobre el destino. Timeo (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/271 - Cicerón. Sobre la adivinación, Sobre el destino, Timeo.pdf` (354 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/271 - Cicerón. Sobre la adivinación, Sobre el destino, Timeo.pdf` (354 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

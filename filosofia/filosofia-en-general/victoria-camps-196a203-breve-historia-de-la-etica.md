@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 213
 extraccion: "ocr (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Filosofía en general/VICTORIA CAMPS.(196a203) Breve historia de la Ética.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Filosofía en general/VICTORIA CAMPS.(196a203) Breve historia de la Ética.pdf"
 convertido: 2026-10-15
 ---
 
 # VICTORIA CAMPS.(196a203) Breve historia de la Ética
 
-> Texto extraído de `Filosofía/Filosofía en general/VICTORIA CAMPS.(196a203) Breve historia de la Ética.pdf` (213 páginas, ocr (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Filosofía en general/VICTORIA CAMPS.(196a203) Breve historia de la Ética.pdf` (213 páginas, ocr (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

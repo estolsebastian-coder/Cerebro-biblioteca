@@ -5,13 +5,13 @@ author: "Julio Verne"
 categoria: "Literatura"
 paginas: 648
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Verne, Julio - Dos anos de vacaciones.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Verne, Julio - Dos anos de vacaciones.pdf"
 convertido: 2026-10-16
 ---
 
 # Dos años de vacaciones
 
-> Texto extraído de `pdf´s mezclados/Verne, Julio - Dos anos de vacaciones.pdf` (648 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Verne, Julio - Dos anos de vacaciones.pdf` (648 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

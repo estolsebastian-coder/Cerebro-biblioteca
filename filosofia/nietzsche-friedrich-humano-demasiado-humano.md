@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 145
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Nietzsche Friedrich - Humano Demasiado Humano.PDF"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Nietzsche Friedrich - Humano Demasiado Humano.PDF"
 convertido: 2026-10-16
 ---
 
 # Humano, demasiado humano - Friedrich Nietzsche
 
-> Texto extraído de `pdf´s mezclados/Nietzsche Friedrich - Humano Demasiado Humano.PDF` (145 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Nietzsche Friedrich - Humano Demasiado Humano.PDF` (145 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

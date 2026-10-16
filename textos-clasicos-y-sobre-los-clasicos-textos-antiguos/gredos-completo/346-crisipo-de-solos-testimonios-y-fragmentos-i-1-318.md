@@ -5,13 +5,13 @@ author: "Crisipo de Solos"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 383
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/346 - Crisipo de Solos, Testimonios y Fragmentos I - (1-318).pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/346 - Crisipo de Solos, Testimonios y Fragmentos I - (1-318).pdf"
 convertido: 2026-10-15
 ---
 
 # Testimonios y fragmentos I. Testimonios. Fragmentos 1-318 (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/346 - Crisipo de Solos, Testimonios y Fragmentos I - (1-318).pdf` (383 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/346 - Crisipo de Solos, Testimonios y Fragmentos I - (1-318).pdf` (383 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

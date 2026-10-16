@@ -5,13 +5,13 @@ author: "Dani"
 categoria: "Religión"
 paginas: 2
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Religión/Cristianismo/Galileo.pdf"
+fuente: "local:E:/Biblioteca digital/Religión/Cristianismo/Galileo.pdf"
 convertido: 2026-10-16
 ---
 
 # Texto de la sentencia pronunciada por el Santo Oficio el 12 de junio de 1633 contra Galileo (extracto, cinco últimos párrafos)
 
-> Texto extraído de `Religión/Cristianismo/Galileo.pdf` (2 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Religión/Cristianismo/Galileo.pdf` (2 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

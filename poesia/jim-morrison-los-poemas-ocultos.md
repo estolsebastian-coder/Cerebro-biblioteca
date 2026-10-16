@@ -5,13 +5,13 @@ author: "<FEFF00410064006D0069006E006900730074007200610064006F0072"
 categoria: "Poesía"
 paginas: 45
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Jim Morrison - Los poemas ocultos.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Jim Morrison - Los poemas ocultos.pdf"
 convertido: 2026-10-16
 ---
 
 # \<FEFF004A0069006D0020004D006F0072007200690073006F006E0020002D0020004C006F007300200070006F0065006D006100730020006F00630075006C0074006F0073002E0064006F0063
 
-> Texto extraído de `pdf´s mezclados/Jim Morrison - Los poemas ocultos.pdf` (45 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Jim Morrison - Los poemas ocultos.pdf` (45 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

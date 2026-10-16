@@ -5,13 +5,13 @@ author: "Sebastián Estol"
 categoria: "Filosofía"
 paginas: 29
 extraccion: "ocr (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Parménides/Ser, verdad y misterio. El poema de Parménides.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Parménides/Ser, verdad y misterio. El poema de Parménides.pdf"
 convertido: 2026-10-15
 ---
 
 # Ser, verdad y misterio. El poema de Parménides
 
-> Texto extraído de `Filosofía/Parménides/Ser, verdad y misterio. El poema de Parménides.pdf` (29 páginas, ocr (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Parménides/Ser, verdad y misterio. El poema de Parménides.pdf` (29 páginas, ocr (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

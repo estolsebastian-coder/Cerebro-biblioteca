@@ -5,13 +5,13 @@ author: "Rene Contreras"
 categoria: "Filosofía"
 paginas: 37
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/LIB_Discurso_Metodo.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/LIB_Discurso_Metodo.pdf"
 convertido: 2026-10-16
 ---
 
 # LIB_Discurso_Metodo
 
-> Texto extraído de `pdf´s mezclados/LIB_Discurso_Metodo.pdf` (37 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/LIB_Discurso_Metodo.pdf` (37 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

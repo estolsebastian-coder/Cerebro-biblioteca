@@ -5,13 +5,13 @@ author: "Veen, Otto van, 1556-1629"
 categoria: "Filosofía"
 paginas: 326
 extraccion: "mixto: 17 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Epicteto/theatromoraldela00veen.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Epicteto/theatromoraldela00veen.pdf"
 convertido: 2026-10-15
 ---
 
 # Theatro moral de la vida humana, en cien emblemas ; con el Enchiridion de Epicteto ; y La tabla de Cebes, philosofo platonico
 
-> Texto extraído de `Filosofía/Epicteto/theatromoraldela00veen.pdf` (326 páginas, mixto: 17 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Epicteto/theatromoraldela00veen.pdf` (326 páginas, mixto: 17 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

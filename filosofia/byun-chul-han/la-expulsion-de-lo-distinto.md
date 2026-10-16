@@ -5,13 +5,13 @@ author: "Byung-Chul Han"
 categoria: "Filosofía"
 paginas: 174
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Byun Chul Han/la-expulsion-de-lo-distinto.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Byun Chul Han/la-expulsion-de-lo-distinto.pdf"
 convertido: 2026-10-15
 ---
 
 # La expulsión de lo distinto
 
-> Texto extraído de `Filosofía/Byun Chul Han/la-expulsion-de-lo-distinto.pdf` (174 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Byun Chul Han/la-expulsion-de-lo-distinto.pdf` (174 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

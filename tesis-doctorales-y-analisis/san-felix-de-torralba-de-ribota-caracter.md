@@ -5,13 +5,13 @@ author: ""
 categoria: "Tesis doctorales y análisis"
 paginas: 10
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/San_Felix_de_Torralba_de_Ribota_Caracter.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/San_Felix_de_Torralba_de_Ribota_Caracter.pdf"
 convertido: 2026-10-13
 ---
 
 # San_Felix_de_Torralba_de_Ribota_Caracter
 
-> Texto extraído de `Tesis doctorales y análisis/San_Felix_de_Torralba_de_Ribota_Caracter.pdf` (10 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/San_Felix_de_Torralba_de_Ribota_Caracter.pdf` (10 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

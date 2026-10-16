@@ -5,13 +5,13 @@ author: ""
 categoria: "Educación"
 paginas: 275
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Educación/Historia_de_La_Educacion_en_La_Antiguedad.pdf"
+fuente: "local:E:/Biblioteca digital/Educación/Historia_de_La_Educacion_en_La_Antiguedad.pdf"
 convertido: 2026-10-15
 ---
 
 # Historia_de_La_Educacion_en_La_Antiguedad
 
-> Texto extraído de `Educación/Historia_de_La_Educacion_en_La_Antiguedad.pdf` (275 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Educación/Historia_de_La_Educacion_en_La_Antiguedad.pdf` (275 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

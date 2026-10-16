@@ -5,13 +5,13 @@ author: ""
 categoria: "Tesis doctorales y análisis"
 paginas: 361
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/Precisiones sobre el levantamiento 3D integrado con herramientas avanzadas, aplicado al conocimiento y la conservación.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/Precisiones sobre el levantamiento 3D integrado con herramientas avanzadas, aplicado al conocimiento y la conservación.pdf"
 convertido: 2026-10-13
 ---
 
 # Precisiones sobre el levantamiento 3D integrado con herramientas avanzadas, aplicado al conocimiento y la conservación
 
-> Texto extraído de `Tesis doctorales y análisis/Precisiones sobre el levantamiento 3D integrado con herramientas avanzadas, aplicado al conocimiento y la conservación.pdf` (361 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/Precisiones sobre el levantamiento 3D integrado con herramientas avanzadas, aplicado al conocimiento y la conservación.pdf` (361 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

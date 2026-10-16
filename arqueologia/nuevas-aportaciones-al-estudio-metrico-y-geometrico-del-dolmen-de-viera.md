@@ -5,13 +5,13 @@ author: ""
 categoria: "Arqueología"
 paginas: 17
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/Nuevas aportaciones al estudio métrico y geométrico del dolmen de Viera.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/Nuevas aportaciones al estudio métrico y geométrico del dolmen de Viera.pdf"
 convertido: 2026-10-12
 ---
 
 # Nuevas aportaciones al estudio métrico y geométrico del dolmen de Viera
 
-> Texto extraído de `Arqueología/Nuevas aportaciones al estudio métrico y geométrico del dolmen de Viera.pdf` (17 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/Nuevas aportaciones al estudio métrico y geométrico del dolmen de Viera.pdf` (17 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

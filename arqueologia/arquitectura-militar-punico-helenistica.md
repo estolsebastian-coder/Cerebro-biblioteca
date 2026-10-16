@@ -5,13 +5,13 @@ author: ""
 categoria: "Arqueología"
 paginas: 15
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/Arquitectura_militar_punico_helenistica.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/Arquitectura_militar_punico_helenistica.pdf"
 convertido: 2026-10-12
 ---
 
 # Arquitectura_militar_punico_helenistica
 
-> Texto extraído de `Arqueología/Arquitectura_militar_punico_helenistica.pdf` (15 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/Arquitectura_militar_punico_helenistica.pdf` (15 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

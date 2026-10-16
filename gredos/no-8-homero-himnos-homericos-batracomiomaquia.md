@@ -5,13 +5,13 @@ author: "Javier Cabrero"
 categoria: "Gredos"
 paginas: 168
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Gredos/Nº 8. Homero, Himnos homéricos. Batracomiomaquia.pdf"
+fuente: "local:E:/Biblioteca digital/Gredos/Nº 8. Homero, Himnos homéricos. Batracomiomaquia.pdf"
 convertido: 2026-10-15
 ---
 
 # 008 Himnos homericos.max
 
-> Texto extraído de `Gredos/Nº 8. Homero, Himnos homéricos. Batracomiomaquia.pdf` (168 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Gredos/Nº 8. Homero, Himnos homéricos. Batracomiomaquia.pdf` (168 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

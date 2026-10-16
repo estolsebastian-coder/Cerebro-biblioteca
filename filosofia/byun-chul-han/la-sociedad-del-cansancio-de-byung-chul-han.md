@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 7
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Byun Chul Han/La_sociedad_del_cansancio_de_Byung-Chul_Han.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Byun Chul Han/La_sociedad_del_cansancio_de_Byung-Chul_Han.pdf"
 convertido: 2026-10-15
 ---
 
 # La_sociedad_del_cansancio_de_Byung-Chul_Han
 
-> Texto extraído de `Filosofía/Byun Chul Han/La_sociedad_del_cansancio_de_Byung-Chul_Han.pdf` (7 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Byun Chul Han/La_sociedad_del_cansancio_de_Byung-Chul_Han.pdf` (7 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

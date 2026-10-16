@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 232
 extraccion: "ocr (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Hegel/Lecciones_filosofia-Hegel (selección).pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Hegel/Lecciones_filosofia-Hegel (selección).pdf"
 convertido: 2026-10-15
 ---
 
 # Lecciones_filosofia-Hegel (selección)
 
-> Texto extraído de `Filosofía/Hegel/Lecciones_filosofia-Hegel (selección).pdf` (232 páginas, ocr (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Hegel/Lecciones_filosofia-Hegel (selección).pdf` (232 páginas, ocr (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

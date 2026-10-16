@@ -5,13 +5,13 @@ author: "Unknown"
 categoria: "Religión"
 paginas: 871
 extraccion: "mixto: 4 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Religión/Cristianismo/Trotta/los-cuatro-evangelios-edicion-bilinge.pdf"
+fuente: "local:E:/Biblioteca digital/Religión/Cristianismo/Trotta/los-cuatro-evangelios-edicion-bilinge.pdf"
 convertido: 2026-10-16
 ---
 
 # Los cuatro evangelios
 
-> Texto extraído de `Religión/Cristianismo/Trotta/los-cuatro-evangelios-edicion-bilinge.pdf` (871 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Religión/Cristianismo/Trotta/los-cuatro-evangelios-edicion-bilinge.pdf` (871 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

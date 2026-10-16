@@ -5,13 +5,13 @@ author: ""
 categoria: "Arquitectura"
 paginas: 31
 extraccion: "ocr (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Arquitectura/John Ruskin La biblia de Amiens.pdf"
+fuente: "local:E:/Biblioteca digital/Arquitectura/John Ruskin La biblia de Amiens.pdf"
 convertido: 2026-10-15
 ---
 
 # John Ruskin La biblia de Amiens
 
-> Texto extraído de `Arquitectura/John Ruskin La biblia de Amiens.pdf` (31 páginas, ocr (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arquitectura/John Ruskin La biblia de Amiens.pdf` (31 páginas, ocr (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

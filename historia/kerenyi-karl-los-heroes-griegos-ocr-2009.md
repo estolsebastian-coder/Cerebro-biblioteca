@@ -5,13 +5,13 @@ author: "Kerényi, Karl"
 categoria: "Historia"
 paginas: 440
 extraccion: "mixto: 8 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Kerényi, Karl. - Los héroes griegos [ocr] [2009].pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Kerényi, Karl. - Los héroes griegos [ocr] [2009].pdf"
 convertido: 2026-10-15
 ---
 
 # Kerényi, Karl. - Los héroes griegos [ocr] [2009]
 
-> Texto extraído de `Historia/Kerényi, Karl. - Los héroes griegos [ocr] [2009].pdf` (440 páginas, mixto: 8 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Kerényi, Karl. - Los héroes griegos [ocr] [2009].pdf` (440 páginas, mixto: 8 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

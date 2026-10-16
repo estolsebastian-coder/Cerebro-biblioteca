@@ -5,13 +5,13 @@ author: "Demóstenes"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 465
 extraccion: "mixto: 15 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/87 - Demóstenes. - Discursos políticos. III -G- -1985-.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/87 - Demóstenes. - Discursos políticos. III -G- -1985-.pdf"
 convertido: 2026-10-15
 ---
 
 # 87 - Demóstenes. - Discursos políticos. III -G- -1985-
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/87 - Demóstenes. - Discursos políticos. III -G- -1985-.pdf` (465 páginas, mixto: 15 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/87 - Demóstenes. - Discursos políticos. III -G- -1985-.pdf` (465 páginas, mixto: 15 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

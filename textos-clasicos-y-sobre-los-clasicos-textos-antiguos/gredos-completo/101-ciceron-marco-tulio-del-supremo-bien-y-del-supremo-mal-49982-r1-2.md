@@ -5,13 +5,13 @@ author: "Marco Tulio Cicerón"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 748
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/101 - Ciceron, Marco Tulio - Del supremo bien y del supremo mal [49982] (r1.2).pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/101 - Ciceron, Marco Tulio - Del supremo bien y del supremo mal [49982] (r1.2).pdf"
 convertido: 2026-10-15
 ---
 
 # Del supremo bien y del supremo mal
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/101 - Ciceron, Marco Tulio - Del supremo bien y del supremo mal [49982] (r1.2).pdf` (748 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/101 - Ciceron, Marco Tulio - Del supremo bien y del supremo mal [49982] (r1.2).pdf` (748 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

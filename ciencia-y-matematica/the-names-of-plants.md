@@ -5,13 +5,13 @@ author: "David Gledhill"
 categoria: "Ciencia y matemática"
 paginas: 337
 extraccion: "mixto: 1 páginas por OCR (eng)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/The_Names_of_Plants.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/The_Names_of_Plants.pdf"
 convertido: 2026-10-16
 ---
 
 # THE NAMES OF PLANTS, THIRD EDITION
 
-> Texto extraído de `pdf´s mezclados/The_Names_of_Plants.pdf` (337 páginas, mixto: 1 páginas por OCR (eng)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/The_Names_of_Plants.pdf` (337 páginas, mixto: 1 páginas por OCR (eng)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

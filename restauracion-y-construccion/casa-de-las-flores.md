@@ -5,13 +5,13 @@ author: "javi"
 categoria: "Restauración y construcción"
 paginas: 93
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Restauración y construcción/Casa de las Flores.pdf"
+fuente: "local:E:/Biblioteca digital/Restauración y construcción/Casa de las Flores.pdf"
 convertido: 2026-10-12
 ---
 
 # E01.DG-Manzana.cdr
 
-> Texto extraído de `Restauración y construcción/Casa de las Flores.pdf` (93 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Restauración y construcción/Casa de las Flores.pdf` (93 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

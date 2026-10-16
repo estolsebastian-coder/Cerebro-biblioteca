@@ -5,13 +5,13 @@ author: ""
 categoria: "Arte"
 paginas: 192
 extraccion: "mixto: 94 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Arte/tatarkiewicz-historia-de-seis-ideas.pdf"
+fuente: "local:E:/Biblioteca digital/Arte/tatarkiewicz-historia-de-seis-ideas.pdf"
 convertido: 2026-10-15
 ---
 
 # tatarkiewicz-historia-de-seis-ideas
 
-> Texto extraído de `Arte/tatarkiewicz-historia-de-seis-ideas.pdf` (192 páginas, mixto: 94 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arte/tatarkiewicz-historia-de-seis-ideas.pdf` (192 páginas, mixto: 94 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

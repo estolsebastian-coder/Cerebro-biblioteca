@@ -5,13 +5,13 @@ author: "armauirumque"
 categoria: "Filosofía"
 paginas: 150
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Jenofonte/memoria_de_socrates_de_jenofonte.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Jenofonte/memoria_de_socrates_de_jenofonte.pdf"
 convertido: 2026-10-15
 ---
 
 # Jenofonte - Recuerdos de Sócrates [Bilingüe]
 
-> Texto extraído de `Filosofía/Jenofonte/memoria_de_socrates_de_jenofonte.pdf` (150 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Jenofonte/memoria_de_socrates_de_jenofonte.pdf` (150 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

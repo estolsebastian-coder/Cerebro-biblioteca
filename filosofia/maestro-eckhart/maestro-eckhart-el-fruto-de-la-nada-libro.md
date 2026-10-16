@@ -5,13 +5,13 @@ author: "Maestro Eckhard"
 categoria: "Filosofía"
 paginas: 238
 extraccion: "ocr (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Maestro Eckhart/Maestro-Eckhart-El-Fruto-de-La-Nada-Libro.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Maestro Eckhart/Maestro-Eckhart-El-Fruto-de-La-Nada-Libro.pdf"
 convertido: 2026-10-15
 ---
 
 # El Fruto de la Nada
 
-> Texto extraído de `Filosofía/Maestro Eckhart/Maestro-Eckhart-El-Fruto-de-La-Nada-Libro.pdf` (238 páginas, ocr (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Maestro Eckhart/Maestro-Eckhart-El-Fruto-de-La-Nada-Libro.pdf` (238 páginas, ocr (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

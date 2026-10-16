@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 110
 extraccion: "ocr (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Orígenes/Tratado de la oración - Orígenes (2).pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Orígenes/Tratado de la oración - Orígenes (2).pdf"
 convertido: 2026-10-15
 ---
 
 # Tratado de la oración - Orígenes (2)
 
-> Texto extraído de `Filosofía/Orígenes/Tratado de la oración - Orígenes (2).pdf` (110 páginas, ocr (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Orígenes/Tratado de la oración - Orígenes (2).pdf` (110 páginas, ocr (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

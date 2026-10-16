@@ -5,13 +5,13 @@ author: ""
 categoria: "Lengua"
 paginas: 10
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Lengua/La muerte de Virgilio Carlos García Gual.pdf"
+fuente: "local:E:/Biblioteca digital/Lengua/La muerte de Virgilio Carlos García Gual.pdf"
 convertido: 2026-10-15
 ---
 
 # La muerte de Virgilio Carlos García Gual
 
-> Texto extraído de `Lengua/La muerte de Virgilio Carlos García Gual.pdf` (10 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Lengua/La muerte de Virgilio Carlos García Gual.pdf` (10 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: ""
 categoria: "Arqueología"
 paginas: 401
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/Actualidad_de_la_investigacion_arqueologica_en_Esp.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/Actualidad_de_la_investigacion_arqueologica_en_Esp.pdf"
 convertido: 2026-10-13
 ---
 
 # Actualidad_de_la_investigacion_arqueologica_en_Esp
 
-> Texto extraído de `Arqueología/Actualidad_de_la_investigacion_arqueologica_en_Esp.pdf` (401 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/Actualidad_de_la_investigacion_arqueologica_en_Esp.pdf` (401 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

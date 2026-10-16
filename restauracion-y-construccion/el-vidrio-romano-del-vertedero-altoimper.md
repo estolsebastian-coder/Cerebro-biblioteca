@@ -5,13 +5,13 @@ author: ""
 categoria: "Restauración y construcción"
 paginas: 10
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Restauración y construcción/El_vidrio_romano_del_vertedero_altoimper.pdf"
+fuente: "local:E:/Biblioteca digital/Restauración y construcción/El_vidrio_romano_del_vertedero_altoimper.pdf"
 convertido: 2026-10-13
 ---
 
 # El_vidrio_romano_del_vertedero_altoimper
 
-> Texto extraído de `Restauración y construcción/El_vidrio_romano_del_vertedero_altoimper.pdf` (10 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Restauración y construcción/El_vidrio_romano_del_vertedero_altoimper.pdf` (10 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

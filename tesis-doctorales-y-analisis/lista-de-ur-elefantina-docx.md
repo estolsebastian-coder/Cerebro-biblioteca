@@ -5,13 +5,13 @@ author: ""
 categoria: "Tesis doctorales y análisis"
 paginas: 7
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/LISTA DE UR_ELEFANTINA.docx.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/LISTA DE UR_ELEFANTINA.docx.pdf"
 convertido: 2026-10-13
 ---
 
 # LISTA DE UR_ELEFANTINA.docx
 
-> Texto extraído de `Tesis doctorales y análisis/LISTA DE UR_ELEFANTINA.docx.pdf` (7 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/LISTA DE UR_ELEFANTINA.docx.pdf` (7 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

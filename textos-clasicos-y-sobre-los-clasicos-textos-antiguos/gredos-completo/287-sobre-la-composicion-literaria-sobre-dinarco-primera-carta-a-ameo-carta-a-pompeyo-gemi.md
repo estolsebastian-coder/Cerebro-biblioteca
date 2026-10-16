@@ -5,13 +5,13 @@ author: "Dionisio de Halicarnaso"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 790
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/287 - Sobre la composicion literaria  Sobre Dinarco  Primera carta a Ameo  Carta a Pompeyo Gemino  Segunda carta a Ameo - Dionisio de Halicarnaso.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/287 - Sobre la composicion literaria  Sobre Dinarco  Primera carta a Ameo  Carta a Pompeyo Gemino  Segunda carta a Ameo - Dionisio de Halicarnaso.pdf"
 convertido: 2026-10-15
 ---
 
 # Sobre la composición literaria - Sobre Dinarco - Primera carta a Ameo - Carta a Pompeyo Gémino - Segunda carta a Ameo
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/287 - Sobre la composicion literaria  Sobre Dinarco  Primera carta a Ameo  Carta a Pompeyo Gemino  Segunda carta a Ameo - Dionisio de Halicarnaso.pdf` (790 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/287 - Sobre la composicion literaria  Sobre Dinarco  Primera carta a Ameo  Carta a Pompeyo Gemino  Segunda carta a Ameo - Dionisio de Halicarnaso.pdf` (790 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

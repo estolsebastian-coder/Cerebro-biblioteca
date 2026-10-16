@@ -5,13 +5,13 @@ author: "Méryl Defours Rivoira"
 categoria: "Arqueología"
 paginas: 20
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/Exploring Levantine megalithic building techniques  the case study of ST 004 from Menjez  Akkar  Lebanon .pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/Exploring Levantine megalithic building techniques  the case study of ST 004 from Menjez  Akkar  Lebanon .pdf"
 convertido: 2026-10-12
 ---
 
 # Exploring Levantine megalithic building techniques: the case study of ST_004 from Menjez (Akkar, Leb
 
-> Texto extraído de `Arqueología/Exploring Levantine megalithic building techniques  the case study of ST 004 from Menjez  Akkar  Lebanon .pdf` (20 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/Exploring Levantine megalithic building techniques  the case study of ST 004 from Menjez  Akkar  Lebanon .pdf` (20 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

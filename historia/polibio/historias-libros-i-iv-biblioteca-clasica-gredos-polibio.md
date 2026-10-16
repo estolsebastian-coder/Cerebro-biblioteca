@@ -5,13 +5,13 @@ author: "Polibio"
 categoria: "Historia"
 paginas: 327
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Polibio/Historias. Libros I-IV (Biblioteca Clásica Gredos) - Polibio.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Polibio/Historias. Libros I-IV (Biblioteca Clásica Gredos) - Polibio.pdf"
 convertido: 2026-10-15
 ---
 
 # Historias. Libros I-IV (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Historia/Polibio/Historias. Libros I-IV (Biblioteca Clásica Gredos) - Polibio.pdf` (327 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Polibio/Historias. Libros I-IV (Biblioteca Clásica Gredos) - Polibio.pdf` (327 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

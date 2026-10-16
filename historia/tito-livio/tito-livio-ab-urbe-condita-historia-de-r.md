@@ -5,13 +5,13 @@ author: ""
 categoria: "Historia"
 paginas: 422
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Tito Livio/Tito_Livio_Ab_Urbe_Condita_Historia_De_R.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Tito Livio/Tito_Livio_Ab_Urbe_Condita_Historia_De_R.pdf"
 convertido: 2026-10-15
 ---
 
 # Tito_Livio_Ab_Urbe_Condita_Historia_De_R
 
-> Texto extraído de `Historia/Tito Livio/Tito_Livio_Ab_Urbe_Condita_Historia_De_R.pdf` (422 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Tito Livio/Tito_Livio_Ab_Urbe_Condita_Historia_De_R.pdf` (422 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

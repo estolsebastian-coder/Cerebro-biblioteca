@@ -5,13 +5,13 @@ author: "Séneca el Viejo"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 273
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/340 - S�neca el Viejo, Controversias - Libros VI-X - Suasorias.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/340 - S�neca el Viejo, Controversias - Libros VI-X - Suasorias.pdf"
 convertido: 2026-10-15
 ---
 
 # Controversias. Libros VI-X. Suasorias (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/340 - S�neca el Viejo, Controversias - Libros VI-X - Suasorias.pdf` (273 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/340 - S�neca el Viejo, Controversias - Libros VI-X - Suasorias.pdf` (273 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

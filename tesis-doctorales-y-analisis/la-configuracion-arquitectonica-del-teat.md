@@ -5,13 +5,13 @@ author: ""
 categoria: "Tesis doctorales y análisis"
 paginas: 87
 extraccion: "ocr (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/La_configuracion_arquitectonica_del_Teat.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/La_configuracion_arquitectonica_del_Teat.pdf"
 convertido: 2026-10-13
 ---
 
 # La_configuracion_arquitectonica_del_Teat
 
-> Texto extraído de `Tesis doctorales y análisis/La_configuracion_arquitectonica_del_Teat.pdf` (87 páginas, ocr (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/La_configuracion_arquitectonica_del_Teat.pdf` (87 páginas, ocr (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

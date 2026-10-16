@@ -5,13 +5,13 @@ author: ""
 categoria: "Gredos"
 paginas: 521
 extraccion: "mixto: 30 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Gredos/Nº 23. Isócrates, Discursos.pdf"
+fuente: "local:E:/Biblioteca digital/Gredos/Nº 23. Isócrates, Discursos.pdf"
 convertido: 2026-10-15
 ---
 
 # Nº 23. Isócrates, Discursos
 
-> Texto extraído de `Gredos/Nº 23. Isócrates, Discursos.pdf` (521 páginas, mixto: 30 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Gredos/Nº 23. Isócrates, Discursos.pdf` (521 páginas, mixto: 30 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

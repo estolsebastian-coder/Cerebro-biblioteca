@@ -5,13 +5,13 @@ author: "Martin Heidegger"
 categoria: "Filosofía"
 paginas: 72
 extraccion: "mixto: 70 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Heidegger/El concepto de tiempo - Martin Heidegger.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Heidegger/El concepto de tiempo - Martin Heidegger.pdf"
 convertido: 2026-10-15
 ---
 
 # El concepto del tiempo
 
-> Texto extraído de `Filosofía/Heidegger/El concepto de tiempo - Martin Heidegger.pdf` (72 páginas, mixto: 70 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Heidegger/El concepto de tiempo - Martin Heidegger.pdf` (72 páginas, mixto: 70 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

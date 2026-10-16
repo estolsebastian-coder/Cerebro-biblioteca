@@ -5,13 +5,13 @@ author: "Julio César & Autores del Corpus Cesariano."
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 447
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/342 - Julio C�sar, Autores del Corpus Cesariano, Guerra Civil - Guerra de Alejandria.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/342 - Julio C�sar, Autores del Corpus Cesariano, Guerra Civil - Guerra de Alejandria.pdf"
 convertido: 2026-10-15
 ---
 
 # Guerra civil. Guerra de Alejandría. Guerra de África. Guerra de Hispania. (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/342 - Julio C�sar, Autores del Corpus Cesariano, Guerra Civil - Guerra de Alejandria.pdf` (447 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/342 - Julio C�sar, Autores del Corpus Cesariano, Guerra Civil - Guerra de Alejandria.pdf` (447 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 2
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Byun Chul Han/Han_Byung_Chul_No_cosas_Quiebras_del_mun.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Byun Chul Han/Han_Byung_Chul_No_cosas_Quiebras_del_mun.pdf"
 convertido: 2026-10-15
 ---
 
 # Han_Byung_Chul_No_cosas_Quiebras_del_mun
 
-> Texto extraído de `Filosofía/Byun Chul Han/Han_Byung_Chul_No_cosas_Quiebras_del_mun.pdf` (2 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Byun Chul Han/Han_Byung_Chul_No_cosas_Quiebras_del_mun.pdf` (2 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: ""
 categoria: "Restauración y construcción"
 paginas: 144
 extraccion: "mixto: 1 páginas por OCR (eng)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Restauración y construcción/Revistas/Revista de expresión gráfica.pdf"
+fuente: "local:E:/Biblioteca digital/Restauración y construcción/Revistas/Revista de expresión gráfica.pdf"
 convertido: 2026-10-13
 ---
 
 # Revista de expresión gráfica
 
-> Texto extraído de `Restauración y construcción/Revistas/Revista de expresión gráfica.pdf` (144 páginas, mixto: 1 páginas por OCR (eng)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Restauración y construcción/Revistas/Revista de expresión gráfica.pdf` (144 páginas, mixto: 1 páginas por OCR (eng)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

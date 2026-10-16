@@ -5,13 +5,13 @@ author: "P. Virgilio Marón"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 442
 extraccion: "mixto: 7 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/141 - Virgilio. Buc�licas, Ge�rgicas, Ap�ndice virgiliano.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/141 - Virgilio. Buc�licas, Ge�rgicas, Ap�ndice virgiliano.pdf"
 convertido: 2026-10-15
 ---
 
 # Bucólicas. Geórgicas. Apéndice virgiliano. (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/141 - Virgilio. Buc�licas, Ge�rgicas, Ap�ndice virgiliano.pdf` (442 páginas, mixto: 7 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/141 - Virgilio. Buc�licas, Ge�rgicas, Ap�ndice virgiliano.pdf` (442 páginas, mixto: 7 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

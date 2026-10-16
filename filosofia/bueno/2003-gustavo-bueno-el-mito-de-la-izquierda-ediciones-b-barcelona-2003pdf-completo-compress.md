@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 163
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Bueno/2003-gustavo-bueno-el-mito-de-la-izquierda-ediciones-b-barcelona-2003pdf-completo_compress.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Bueno/2003-gustavo-bueno-el-mito-de-la-izquierda-ediciones-b-barcelona-2003pdf-completo_compress.pdf"
 convertido: 2026-10-15
 ---
 
 # 2003-gustavo-bueno-el-mito-de-la-izquierda-ediciones-b-barcelona-2003pdf-completo_compress
 
-> Texto extraído de `Filosofía/Bueno/2003-gustavo-bueno-el-mito-de-la-izquierda-ediciones-b-barcelona-2003pdf-completo_compress.pdf` (163 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Bueno/2003-gustavo-bueno-el-mito-de-la-izquierda-ediciones-b-barcelona-2003pdf-completo_compress.pdf` (163 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

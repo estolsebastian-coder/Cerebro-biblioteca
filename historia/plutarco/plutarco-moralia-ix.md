@@ -5,13 +5,13 @@ author: "Plutarco"
 categoria: "Historia"
 paginas: 391
 extraccion: "mixto: 11 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Plutarco/Plutarco. - Moralia IX.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Plutarco/Plutarco. - Moralia IX.pdf"
 convertido: 2026-10-15
 ---
 
 # Plutarco. - Moralia IX
 
-> Texto extraído de `Historia/Plutarco/Plutarco. - Moralia IX.pdf` (391 páginas, mixto: 11 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Plutarco/Plutarco. - Moralia IX.pdf` (391 páginas, mixto: 11 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

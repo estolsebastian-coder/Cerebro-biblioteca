@@ -5,13 +5,13 @@ author: ""
 categoria: "Religión"
 paginas: 16
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Religión/Enciclopedia de las artes oscuras.pdf"
+fuente: "local:E:/Biblioteca digital/Religión/Enciclopedia de las artes oscuras.pdf"
 convertido: 2026-10-16
 ---
 
 # Enciclopedia de las artes oscuras
 
-> Texto extraído de `Religión/Enciclopedia de las artes oscuras.pdf` (16 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Religión/Enciclopedia de las artes oscuras.pdf` (16 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

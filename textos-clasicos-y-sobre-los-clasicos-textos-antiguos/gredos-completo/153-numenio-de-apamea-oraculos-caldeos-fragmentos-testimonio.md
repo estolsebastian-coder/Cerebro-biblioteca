@@ -5,13 +5,13 @@ author: "Numenio de Apamea"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 238
 extraccion: "mixto: 9 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/153 - Numenio de Apamea, Oraculos Caldeos - Fragmentos - Testimonio.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/153 - Numenio de Apamea, Oraculos Caldeos - Fragmentos - Testimonio.pdf"
 convertido: 2026-10-15
 ---
 
 # Oráculos caldeos. Fragmentos y testimonios. (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/153 - Numenio de Apamea, Oraculos Caldeos - Fragmentos - Testimonio.pdf` (238 páginas, mixto: 9 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/153 - Numenio de Apamea, Oraculos Caldeos - Fragmentos - Testimonio.pdf` (238 páginas, mixto: 9 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

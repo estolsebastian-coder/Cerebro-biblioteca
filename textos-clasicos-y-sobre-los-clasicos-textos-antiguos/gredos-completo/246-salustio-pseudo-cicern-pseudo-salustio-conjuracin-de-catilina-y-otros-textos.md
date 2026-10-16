@@ -5,13 +5,13 @@ author: "Salustio & Pseudo Salustio & Pseudo Cicerón"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 315
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/246 - Salustio & Pseudo Cicer�n & Pseudo Salustio. Conjuraci�n de Catilina y otros textos.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/246 - Salustio & Pseudo Cicer�n & Pseudo Salustio. Conjuraci�n de Catilina y otros textos.pdf"
 convertido: 2026-10-15
 ---
 
 # Conjuración de Catilina. Guerra de Jugurta. Cartas a César Invectiva contra Cicerón. Invectiva contra Salustio
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/246 - Salustio & Pseudo Cicer�n & Pseudo Salustio. Conjuraci�n de Catilina y otros textos.pdf` (315 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/246 - Salustio & Pseudo Cicer�n & Pseudo Salustio. Conjuraci�n de Catilina y otros textos.pdf` (315 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: "Dioscórides & Pseudo Dioscórides"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 276
 extraccion: "mixto: 4 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/254 - Diosc�rides, Plantas y Remedios Medicinales IV-V - Pseudo Diosc�rdies.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/254 - Diosc�rides, Plantas y Remedios Medicinales IV-V - Pseudo Diosc�rdies.pdf"
 convertido: 2026-10-15
 ---
 
 # Plantas y remedios medicinales (de materia médica) Libros IV-V (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/254 - Diosc�rides, Plantas y Remedios Medicinales IV-V - Pseudo Diosc�rdies.pdf` (276 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/254 - Diosc�rides, Plantas y Remedios Medicinales IV-V - Pseudo Diosc�rdies.pdf` (276 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

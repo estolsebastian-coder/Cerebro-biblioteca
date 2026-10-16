@@ -5,13 +5,13 @@ author: "Demóstenes"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 242
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/65 - Demostenes, Discursos Privados - Vol. 2.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/65 - Demostenes, Discursos Privados - Vol. 2.pdf"
 convertido: 2026-10-15
 ---
 
 # Discursos privados II: 2 (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/65 - Demostenes, Discursos Privados - Vol. 2.pdf` (242 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/65 - Demostenes, Discursos Privados - Vol. 2.pdf` (242 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

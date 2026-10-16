@@ -5,13 +5,13 @@ author: "Plutarco"
 categoria: "Historia"
 paginas: 62
 extraccion: "mixto: 4 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Plutarco/32. Sobre el refrenamiento de la ira.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Plutarco/32. Sobre el refrenamiento de la ira.pdf"
 convertido: 2026-10-15
 ---
 
 # PLUTARCO, Vidas Paralelas VII
 
-> Texto extraído de `Historia/Plutarco/32. Sobre el refrenamiento de la ira.pdf` (62 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Plutarco/32. Sobre el refrenamiento de la ira.pdf` (62 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

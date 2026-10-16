@@ -5,13 +5,13 @@ author: "catherine.ross"
 categoria: "Eficiencia energética"
 paginas: 2
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Eficiencia energética/Chalgrove church electric radiant and pew heating FINAL April 2020.pdf"
+fuente: "local:E:/Biblioteca digital/Eficiencia energética/Chalgrove church electric radiant and pew heating FINAL April 2020.pdf"
 convertido: 2026-10-12
 ---
 
 # C:\Users\CATHER~1.ROS\AppData\Local\Temp\mso5524.tmp
 
-> Texto extraído de `Eficiencia energética/Chalgrove church electric radiant and pew heating FINAL April 2020.pdf` (2 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Eficiencia energética/Chalgrove church electric radiant and pew heating FINAL April 2020.pdf` (2 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

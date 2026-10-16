@@ -5,13 +5,13 @@ author: ""
 categoria: "Tecnología láser, fotogrametría, otros"
 paginas: 8
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tecnología láser, fotogrametría, otros/Comparative Analysis of UAV Photogrammetry and Terrestrial Laser Scanning.pdf"
+fuente: "local:E:/Biblioteca digital/Tecnología láser, fotogrametría, otros/Comparative Analysis of UAV Photogrammetry and Terrestrial Laser Scanning.pdf"
 convertido: 2026-10-13
 ---
 
 # Comparative Analysis of UAV Photogrammetry and Terrestrial Laser Scanning
 
-> Texto extraído de `Tecnología láser, fotogrametría, otros/Comparative Analysis of UAV Photogrammetry and Terrestrial Laser Scanning.pdf` (8 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tecnología láser, fotogrametría, otros/Comparative Analysis of UAV Photogrammetry and Terrestrial Laser Scanning.pdf` (8 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

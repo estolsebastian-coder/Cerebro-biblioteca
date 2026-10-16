@@ -5,13 +5,13 @@ author: "Diodoro De Sicilia"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 386
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/371 - Diodoro. Biblioteca hist�rica - Libros XIII-XIV.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/371 - Diodoro. Biblioteca hist�rica - Libros XIII-XIV.pdf"
 convertido: 2026-10-15
 ---
 
 # Biblioteca histórica. Libros XIII-XIV (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/371 - Diodoro. Biblioteca hist�rica - Libros XIII-XIV.pdf` (386 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/371 - Diodoro. Biblioteca hist�rica - Libros XIII-XIV.pdf` (386 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

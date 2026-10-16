@@ -5,13 +5,13 @@ author: "ILOVEPDF.COM"
 categoria: "Tecnología láser, fotogrametría, otros"
 paginas: 51
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tecnología láser, fotogrametría, otros/El_Alcazar_de_Cordoba_Hipotesis_de_recon.pdf"
+fuente: "local:E:/Biblioteca digital/Tecnología láser, fotogrametría, otros/El_Alcazar_de_Cordoba_Hipotesis_de_recon.pdf"
 convertido: 2026-10-13
 ---
 
 # El_Alcazar_de_Cordoba_Hipotesis_de_recon
 
-> Texto extraído de `Tecnología láser, fotogrametría, otros/El_Alcazar_de_Cordoba_Hipotesis_de_recon.pdf` (51 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tecnología láser, fotogrametría, otros/El_Alcazar_de_Cordoba_Hipotesis_de_recon.pdf` (51 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

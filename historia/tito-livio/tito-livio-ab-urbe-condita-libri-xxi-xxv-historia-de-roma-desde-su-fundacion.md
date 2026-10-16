@@ -5,13 +5,13 @@ author: "Tito Livio - Traducción y notas de J. A. Villar Vidal. Revisada por J.
 categoria: "Historia"
 paginas: 353
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Tito Livio/tito-livio-ab-urbe-condita-libri-xxi-xxv-historia-de-roma-desde-su-fundacion.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Tito Livio/tito-livio-ab-urbe-condita-libri-xxi-xxv-historia-de-roma-desde-su-fundacion.pdf"
 convertido: 2026-10-15
 ---
 
 # AB URBE CONDITA LIBRI-XXI-XXV Historia de Roma desde su fundación
 
-> Texto extraído de `Historia/Tito Livio/tito-livio-ab-urbe-condita-libri-xxi-xxv-historia-de-roma-desde-su-fundacion.pdf` (353 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Tito Livio/tito-livio-ab-urbe-condita-libri-xxi-xxv-historia-de-roma-desde-su-fundacion.pdf` (353 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

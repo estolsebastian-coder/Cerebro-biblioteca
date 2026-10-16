@@ -5,13 +5,13 @@ author: "Dante Alighieri"
 categoria: "Poesía"
 paginas: 667
 extraccion: "mixto: 22 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Divina Comedia.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Divina Comedia.pdf"
 convertido: 2026-10-16
 ---
 
 # La Divina Comedia
 
-> Texto extraído de `pdf´s mezclados/Divina Comedia.pdf` (667 páginas, mixto: 22 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Divina Comedia.pdf` (667 páginas, mixto: 22 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

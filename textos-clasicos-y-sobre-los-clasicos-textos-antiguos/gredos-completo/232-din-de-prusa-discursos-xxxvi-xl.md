@@ -5,13 +5,13 @@ author: "Dión de Prusa"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 341
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/232 - Di�n de Prusa, Discursos - XXXVI-XL.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/232 - Di�n de Prusa, Discursos - XXXVI-XL.pdf"
 convertido: 2026-10-15
 ---
 
 # Discursos XXXVI-LX (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/232 - Di�n de Prusa, Discursos - XXXVI-XL.pdf` (341 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/232 - Di�n de Prusa, Discursos - XXXVI-XL.pdf` (341 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: "A cura de Jordi López Vilar"
 categoria: "Arqueología"
 paginas: 271
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/Tarraco Biennal.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/Tarraco Biennal.pdf"
 convertido: 2026-10-13
 ---
 
 # August i les províncies occidentals. 2000 aniversari de la mort d'August (vol. 1)
 
-> Texto extraído de `Arqueología/Tarraco Biennal.pdf` (271 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/Tarraco Biennal.pdf` (271 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

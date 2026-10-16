@@ -5,13 +5,13 @@ author: ""
 categoria: "Historia"
 paginas: 136
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Casio Dion/034ApianohistoriaRomanaIlibroViigredos.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Casio Dion/034ApianohistoriaRomanaIlibroViigredos.pdf"
 convertido: 2026-10-15
 ---
 
 # 034ApianohistoriaRomanaIlibroViigredos
 
-> Texto extraído de `Historia/Casio Dion/034ApianohistoriaRomanaIlibroViigredos.pdf` (136 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Casio Dion/034ApianohistoriaRomanaIlibroViigredos.pdf` (136 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

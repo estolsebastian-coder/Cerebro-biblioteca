@@ -5,13 +5,13 @@ author: "Heidegger"
 categoria: "Filosofía"
 paginas: 277
 extraccion: "mixto: 13 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Heidegger/Los problemas fundamentales de la fenomenología (1919-1920) - Martin Heidegger.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Heidegger/Los problemas fundamentales de la fenomenología (1919-1920) - Martin Heidegger.pdf"
 convertido: 2026-10-15
 ---
 
 # Los problemas fundamentales de la fenomenología (1919-1920) - Martin Heidegger
 
-> Texto extraído de `Filosofía/Heidegger/Los problemas fundamentales de la fenomenología (1919-1920) - Martin Heidegger.pdf` (277 páginas, mixto: 13 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Heidegger/Los problemas fundamentales de la fenomenología (1919-1920) - Martin Heidegger.pdf` (277 páginas, mixto: 13 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

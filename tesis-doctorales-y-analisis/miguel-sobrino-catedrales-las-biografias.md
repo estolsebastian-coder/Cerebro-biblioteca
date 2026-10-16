@@ -5,13 +5,13 @@ author: "ANTONIO3"
 categoria: "Tesis doctorales y análisis"
 paginas: 814
 extraccion: "mixto: 23 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/Miguel_Sobrino_Catedrales_Las_biografias.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/Miguel_Sobrino_Catedrales_Las_biografias.pdf"
 convertido: 2026-10-13
 ---
 
 # Miguel_Sobrino_Catedrales_Las_biografias
 
-> Texto extraído de `Tesis doctorales y análisis/Miguel_Sobrino_Catedrales_Las_biografias.pdf` (814 páginas, mixto: 23 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/Miguel_Sobrino_Catedrales_Las_biografias.pdf` (814 páginas, mixto: 23 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

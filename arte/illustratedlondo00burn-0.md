@@ -5,13 +5,13 @@ author: "Burn, Robert Scott"
 categoria: "Arte"
 paginas: 162
 extraccion: "mixto: 14 páginas por OCR (eng)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Arte/illustratedlondo00burn_0.pdf"
+fuente: "local:E:/Biblioteca digital/Arte/illustratedlondo00burn_0.pdf"
 convertido: 2026-10-15
 ---
 
 # The illustrated London drawing book ...
 
-> Texto extraído de `Arte/illustratedlondo00burn_0.pdf` (162 páginas, mixto: 14 páginas por OCR (eng)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arte/illustratedlondo00burn_0.pdf` (162 páginas, mixto: 14 páginas por OCR (eng)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

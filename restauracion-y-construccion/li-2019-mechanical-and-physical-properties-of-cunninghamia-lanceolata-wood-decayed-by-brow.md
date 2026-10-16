@@ -5,13 +5,13 @@ author: "Gabriele Bucci"
 categoria: "Restauración y construcción"
 paginas: 6
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Restauración y construcción/Li 2019 - Mechanical and physical properties of Cunninghamia lanceolata wood decayed by brown rot.pdf"
+fuente: "local:E:/Biblioteca digital/Restauración y construcción/Li 2019 - Mechanical and physical properties of Cunninghamia lanceolata wood decayed by brown rot.pdf"
 convertido: 2026-10-14
 ---
 
 # Li S, Gao Y, Brunetti M, Macchioni N, Nocetti M, Palanti S (2019). Mechanical and physical properties of Cunninghamia lanceolata wood decayed by brown rot. iForest 12: 317-322.
 
-> Texto extraído de `Restauración y construcción/Li 2019 - Mechanical and physical properties of Cunninghamia lanceolata wood decayed by brown rot.pdf` (6 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Restauración y construcción/Li 2019 - Mechanical and physical properties of Cunninghamia lanceolata wood decayed by brown rot.pdf` (6 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

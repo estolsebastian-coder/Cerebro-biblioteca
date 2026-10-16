@@ -5,13 +5,13 @@ author: "Nono de Panópolis"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 300
 extraccion: "mixto: 5 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/208 - Nono de Pan�polis. Dionis�acas Cantos I-XII.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/208 - Nono de Pan�polis. Dionis�acas Cantos I-XII.pdf"
 convertido: 2026-10-15
 ---
 
 # Dionisíacas. Cantos I-XII (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/208 - Nono de Pan�polis. Dionis�acas Cantos I-XII.pdf` (300 páginas, mixto: 5 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/208 - Nono de Pan�polis. Dionis�acas Cantos I-XII.pdf` (300 páginas, mixto: 5 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

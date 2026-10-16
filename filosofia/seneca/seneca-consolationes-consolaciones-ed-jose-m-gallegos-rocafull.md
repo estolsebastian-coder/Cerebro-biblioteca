@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 307
 extraccion: "mixto: 22 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Séneca/Séneca - Consolationes ♦ Consolaciones (ed. José M. Gallegos Rocafull).pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Séneca/Séneca - Consolationes ♦ Consolaciones (ed. José M. Gallegos Rocafull).pdf"
 convertido: 2026-10-15
 ---
 
 # Séneca - Consolationes ♦ Consolaciones (ed. José M. Gallegos Rocafull)
 
-> Texto extraído de `Filosofía/Séneca/Séneca - Consolationes ♦ Consolaciones (ed. José M. Gallegos Rocafull).pdf` (307 páginas, mixto: 22 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Séneca/Séneca - Consolationes ♦ Consolaciones (ed. José M. Gallegos Rocafull).pdf` (307 páginas, mixto: 22 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

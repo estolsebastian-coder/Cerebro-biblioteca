@@ -5,13 +5,13 @@ author: "Teócrito et al."
 categoria: "Filosofía"
 paginas: 367
 extraccion: "mixto: 13 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Teócrito/Teócrito et al.- Bucólicos griegos [G] [1986].pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Teócrito/Teócrito et al.- Bucólicos griegos [G] [1986].pdf"
 convertido: 2026-10-15
 ---
 
 # Teócrito et al.- Bucólicos griegos [G] [1986]
 
-> Texto extraído de `Filosofía/Teócrito/Teócrito et al.- Bucólicos griegos [G] [1986].pdf` (367 páginas, mixto: 13 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Teócrito/Teócrito et al.- Bucólicos griegos [G] [1986].pdf` (367 páginas, mixto: 13 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

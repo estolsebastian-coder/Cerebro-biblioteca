@@ -5,13 +5,13 @@ author: "Artemidoro"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 443
 extraccion: "mixto: 6 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/128 - Artemidoro. La interpretaci�n de los sue�os.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/128 - Artemidoro. La interpretaci�n de los sue�os.pdf"
 convertido: 2026-10-15
 ---
 
 # La interpretación de los sueños (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/128 - Artemidoro. La interpretaci�n de los sue�os.pdf` (443 páginas, mixto: 6 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/128 - Artemidoro. La interpretaci�n de los sue�os.pdf` (443 páginas, mixto: 6 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

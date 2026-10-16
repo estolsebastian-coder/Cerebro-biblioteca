@@ -5,13 +5,13 @@ author: ""
 categoria: "Arquitectura"
 paginas: 100
 extraccion: "ocr (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Arquitectura/rudolf-wittkower-la-arquitectura-en-la-edad-del-humanismo.pdf"
+fuente: "local:E:/Biblioteca digital/Arquitectura/rudolf-wittkower-la-arquitectura-en-la-edad-del-humanismo.pdf"
 convertido: 2026-10-15
 ---
 
 # rudolf-wittkower-la-arquitectura-en-la-edad-del-humanismo
 
-> Texto extraído de `Arquitectura/rudolf-wittkower-la-arquitectura-en-la-edad-del-humanismo.pdf` (100 páginas, ocr (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arquitectura/rudolf-wittkower-la-arquitectura-en-la-edad-del-humanismo.pdf` (100 páginas, ocr (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

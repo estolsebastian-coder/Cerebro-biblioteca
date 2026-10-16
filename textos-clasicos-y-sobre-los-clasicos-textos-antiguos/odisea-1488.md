@@ -5,13 +5,13 @@ author: "Homerus - Homero"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 195
 extraccion: "sin OCR: incunable griego"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Odisea 1488.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Odisea 1488.pdf"
 convertido: 2026-10-16
 ---
 
 # Homero, Odisea (editio princeps de Calcóndilas, Florencia, 1488)
 
-> Texto extraído de `pdf´s mezclados/Odisea 1488.pdf` (195 páginas, sin OCR: incunable griego). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Odisea 1488.pdf` (195 páginas, sin OCR: incunable griego). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 > **Nota:** Griego incunable con ligaduras: Tesseract no lo lee. Solo imagen; consultar el PDF.
 

@@ -5,13 +5,13 @@ author: "César"
 categoria: "Historia"
 paginas: 801
 extraccion: "mixto: 26 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Julio César/César, Julio - Guerra de las Galias [Colección Gredos Bilingüe] I-VII (V. García Yebra e H. Escolar Sobrino).pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Julio César/César, Julio - Guerra de las Galias [Colección Gredos Bilingüe] I-VII (V. García Yebra e H. Escolar Sobrino).pdf"
 convertido: 2026-10-15
 ---
 
 # Guerra de las Galias [Colección Gredos Bilingüe] I-II-III
 
-> Texto extraído de `Historia/Julio César/César, Julio - Guerra de las Galias [Colección Gredos Bilingüe] I-VII (V. García Yebra e H. Escolar Sobrino).pdf` (801 páginas, mixto: 26 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Julio César/César, Julio - Guerra de las Galias [Colección Gredos Bilingüe] I-VII (V. García Yebra e H. Escolar Sobrino).pdf` (801 páginas, mixto: 26 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

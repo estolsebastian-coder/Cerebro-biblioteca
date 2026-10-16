@@ -5,13 +5,13 @@ author: "bakunin"
 categoria: "Política"
 paginas: 49
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/notas_sobre_rosseau.PDF"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/notas_sobre_rosseau.PDF"
 convertido: 2026-10-16
 ---
 
 # notas sobre rosseau
 
-> Texto extraído de `pdf´s mezclados/notas_sobre_rosseau.PDF` (49 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/notas_sobre_rosseau.PDF` (49 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: ""
 categoria: "Arqueología"
 paginas: 58
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/El_foro_de_la_Granada_romana_Planos_plan.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/El_foro_de_la_Granada_romana_Planos_plan.pdf"
 convertido: 2026-10-13
 ---
 
 # El_foro_de_la_Granada_romana_Planos_plan
 
-> Texto extraído de `Arqueología/El_foro_de_la_Granada_romana_Planos_plan.pdf` (58 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/El_foro_de_la_Granada_romana_Planos_plan.pdf` (58 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: "Tito Livio"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 224
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/148 - Tito Livio. Historia de Roma desde su fundaci�n - Libros VIII-X.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/148 - Tito Livio. Historia de Roma desde su fundaci�n - Libros VIII-X.pdf"
 convertido: 2026-10-15
 ---
 
 # Historia de Roma desde su fundación Libros VIII-X (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/148 - Tito Livio. Historia de Roma desde su fundaci�n - Libros VIII-X.pdf` (224 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/148 - Tito Livio. Historia de Roma desde su fundaci�n - Libros VIII-X.pdf` (224 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

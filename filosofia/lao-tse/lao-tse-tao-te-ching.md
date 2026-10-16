@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 48
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Lao Tse/LAO TSE - tao_te_ching.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Lao Tse/LAO TSE - tao_te_ching.pdf"
 convertido: 2026-10-15
 ---
 
 # LAO TSE - tao_te_ching
 
-> Texto extraído de `Filosofía/Lao Tse/LAO TSE - tao_te_ching.pdf` (48 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Lao Tse/LAO TSE - tao_te_ching.pdf` (48 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

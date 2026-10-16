@@ -5,13 +5,13 @@ author: "pachi"
 categoria: "Restauración y construcción"
 paginas: 234
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Restauración y construcción/Manual y Fichas Casa de las Flores.pdf"
+fuente: "local:E:/Biblioteca digital/Restauración y construcción/Manual y Fichas Casa de las Flores.pdf"
 convertido: 2026-10-13
 ---
 
 # Manual y Fichas Casa de las Flores
 
-> Texto extraído de `Restauración y construcción/Manual y Fichas Casa de las Flores.pdf` (234 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Restauración y construcción/Manual y Fichas Casa de las Flores.pdf` (234 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

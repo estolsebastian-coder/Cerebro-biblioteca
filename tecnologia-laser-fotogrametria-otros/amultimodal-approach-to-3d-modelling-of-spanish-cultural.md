@@ -5,13 +5,13 @@ author: "Barbero-Álvarez et al."
 categoria: "Tecnología láser, fotogrametría, otros"
 paginas: 10
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tecnología láser, fotogrametría, otros/Amultimodal approach to 3D modelling of Spanish cultural.pdf"
+fuente: "local:E:/Biblioteca digital/Tecnología láser, fotogrametría, otros/Amultimodal approach to 3D modelling of Spanish cultural.pdf"
 convertido: 2026-10-13
 ---
 
 # 3D of CH Buildings based on GenAI & Geospatial Data
 
-> Texto extraído de `Tecnología láser, fotogrametría, otros/Amultimodal approach to 3D modelling of Spanish cultural.pdf` (10 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tecnología láser, fotogrametría, otros/Amultimodal approach to 3D modelling of Spanish cultural.pdf` (10 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

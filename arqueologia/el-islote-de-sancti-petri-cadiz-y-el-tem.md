@@ -5,13 +5,13 @@ author: ""
 categoria: "Arqueología"
 paginas: 61
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Arqueología/El_Islote_de_Sancti_Petri_Cadiz_y_el_Tem.pdf"
+fuente: "local:E:/Biblioteca digital/Arqueología/El_Islote_de_Sancti_Petri_Cadiz_y_el_Tem.pdf"
 convertido: 2026-10-12
 ---
 
 # El_Islote_de_Sancti_Petri_Cadiz_y_el_Tem
 
-> Texto extraído de `Arqueología/El_Islote_de_Sancti_Petri_Cadiz_y_el_Tem.pdf` (61 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología/El_Islote_de_Sancti_Petri_Cadiz_y_el_Tem.pdf` (61 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

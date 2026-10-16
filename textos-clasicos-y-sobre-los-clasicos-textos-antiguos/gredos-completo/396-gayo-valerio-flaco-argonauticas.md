@@ -5,13 +5,13 @@ author: "Valerio Flaco"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 352
 extraccion: "mixto: 8 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/396 - Gayo Valerio Flaco, Argonauticas.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/396 - Gayo Valerio Flaco, Argonauticas.pdf"
 convertido: 2026-10-15
 ---
 
 # Argonáuticas (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/396 - Gayo Valerio Flaco, Argonauticas.pdf` (352 páginas, mixto: 8 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/396 - Gayo Valerio Flaco, Argonauticas.pdf` (352 páginas, mixto: 8 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

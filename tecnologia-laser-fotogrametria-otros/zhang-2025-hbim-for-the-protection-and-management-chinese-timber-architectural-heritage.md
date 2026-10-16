@@ -5,13 +5,13 @@ author: "Jiamin Zhang"
 categoria: "Tecnología láser, fotogrametría, otros"
 paginas: 22
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tecnología láser, fotogrametría, otros/Zhang 2025 - HBIM for the protection and management - Chinese timber architectural heritage.pdf"
+fuente: "local:E:/Biblioteca digital/Tecnología láser, fotogrametría, otros/Zhang 2025 - HBIM for the protection and management - Chinese timber architectural heritage.pdf"
 convertido: 2026-10-14
 ---
 
 # HBIM for the protection and management: a case study of Chinese timber architectural heritage
 
-> Texto extraído de `Tecnología láser, fotogrametría, otros/Zhang 2025 - HBIM for the protection and management - Chinese timber architectural heritage.pdf` (22 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tecnología láser, fotogrametría, otros/Zhang 2025 - HBIM for the protection and management - Chinese timber architectural heritage.pdf` (22 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

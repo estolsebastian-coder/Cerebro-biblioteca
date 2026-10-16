@@ -5,13 +5,13 @@ author: ""
 categoria: "Historia"
 paginas: 19
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Mitos griegos y romanos/Mtologia-griega-y-romana-es.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Mitos griegos y romanos/Mtologia-griega-y-romana-es.pdf"
 convertido: 2026-10-15
 ---
 
 # Mtologia-griega-y-romana-es
 
-> Texto extraído de `Historia/Mitos griegos y romanos/Mtologia-griega-y-romana-es.pdf` (19 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Mitos griegos y romanos/Mtologia-griega-y-romana-es.pdf` (19 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

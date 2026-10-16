@@ -5,13 +5,13 @@ author: "Usuario de Windows"
 categoria: "Tesis doctorales y análisis"
 paginas: 224
 extraccion: "mixto: 12 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/Aplicaciones de la fotogrametría de bajo coste al estudio del patrimonio arqueológico y arquitectónico.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/Aplicaciones de la fotogrametría de bajo coste al estudio del patrimonio arqueológico y arquitectónico.pdf"
 convertido: 2026-10-13
 ---
 
 # aplicaciones de la fotogrametría de bajo coste al estudio de patrimonio arqueológico y arquitectónico
 
-> Texto extraído de `Tesis doctorales y análisis/Aplicaciones de la fotogrametría de bajo coste al estudio del patrimonio arqueológico y arquitectónico.pdf` (224 páginas, mixto: 12 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/Aplicaciones de la fotogrametría de bajo coste al estudio del patrimonio arqueológico y arquitectónico.pdf` (224 páginas, mixto: 12 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

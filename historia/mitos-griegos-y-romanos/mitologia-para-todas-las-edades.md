@@ -5,13 +5,13 @@ author: ""
 categoria: "Historia"
 paginas: 31
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Mitos griegos y romanos/Mitologia para todas las edades.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Mitos griegos y romanos/Mitologia para todas las edades.pdf"
 convertido: 2026-10-15
 ---
 
 # Mitologia para todas las edades
 
-> Texto extraído de `Historia/Mitos griegos y romanos/Mitologia para todas las edades.pdf` (31 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Mitos griegos y romanos/Mitologia para todas las edades.pdf` (31 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

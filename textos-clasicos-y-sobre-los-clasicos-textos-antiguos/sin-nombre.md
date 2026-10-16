@@ -5,13 +5,13 @@ author: ""
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 113
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Βιβλιοθήκης Επιτομή - Βικιθήκη.PDF"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Βιβλιοθήκης Επιτομή - Βικιθήκη.PDF"
 convertido: 2026-10-15
 ---
 
 # Βιβλιοθήκης Επιτομή - Βικιθήκη
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Βιβλιοθήκης Επιτομή - Βικιθήκη.PDF` (113 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Βιβλιοθήκης Επιτομή - Βικιθήκη.PDF` (113 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

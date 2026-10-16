@@ -5,13 +5,13 @@ author: "Plotino"
 categoria: "Filosofía"
 paginas: 417
 extraccion: "mixto: 17 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Plotino/Plotino. - Enéadas 3. Libros 5-6.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Plotino/Plotino. - Enéadas 3. Libros 5-6.pdf"
 convertido: 2026-10-15
 ---
 
 # Plotino. - Enéadas 3. Libros 5-6
 
-> Texto extraído de `Filosofía/Plotino/Plotino. - Enéadas 3. Libros 5-6.pdf` (417 páginas, mixto: 17 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Plotino/Plotino. - Enéadas 3. Libros 5-6.pdf` (417 páginas, mixto: 17 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

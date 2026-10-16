@@ -5,13 +5,13 @@ author: "Aristóteles"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 523
 extraccion: "mixto: 4 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/171 - Arist�teles. Investigacion sobre los animales.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/171 - Arist�teles. Investigacion sobre los animales.pdf"
 convertido: 2026-10-15
 ---
 
 # Investigación sobre los animales (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/171 - Arist�teles. Investigacion sobre los animales.pdf` (523 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/171 - Arist�teles. Investigacion sobre los animales.pdf` (523 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

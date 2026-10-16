@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 246
 extraccion: "ocr (ita+eng+grc)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Methexis (1).pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Methexis (1).pdf"
 convertido: 2026-10-15
 ---
 
 # Methexis (1)
 
-> Texto extraído de `Filosofía/Methexis (1).pdf` (246 páginas, ocr (ita+eng+grc)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Methexis (1).pdf` (246 páginas, ocr (ita+eng+grc)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

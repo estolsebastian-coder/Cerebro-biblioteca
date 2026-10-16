@@ -5,13 +5,13 @@ author: "Heidegger"
 categoria: "Filosofía"
 paginas: 119
 extraccion: "mixto: 5 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Heidegger/Interpretaciones fenomenológicas sobre Aristóteles (Indicación de la situación hermenéutica) [Informe Natorp] - Martin Heidegger.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Heidegger/Interpretaciones fenomenológicas sobre Aristóteles (Indicación de la situación hermenéutica) [Informe Natorp] - Martin Heidegger.pdf"
 convertido: 2026-10-15
 ---
 
 # Interpretaciones fenomenológicas sobre Aristóteles (Indicación de la situación hermenéutica) [Informe Natorp] - Martin Heidegger
 
-> Texto extraído de `Filosofía/Heidegger/Interpretaciones fenomenológicas sobre Aristóteles (Indicación de la situación hermenéutica) [Informe Natorp] - Martin Heidegger.pdf` (119 páginas, mixto: 5 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Heidegger/Interpretaciones fenomenológicas sobre Aristóteles (Indicación de la situación hermenéutica) [Informe Natorp] - Martin Heidegger.pdf` (119 páginas, mixto: 5 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

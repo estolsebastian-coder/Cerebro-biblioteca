@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 484
 extraccion: "ocr (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Orígenes/Contra Celso - Orígenes.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Orígenes/Contra Celso - Orígenes.pdf"
 convertido: 2026-10-15
 ---
 
 # Contra Celso - Orígenes
 
-> Texto extraído de `Filosofía/Orígenes/Contra Celso - Orígenes.pdf` (484 páginas, ocr (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Orígenes/Contra Celso - Orígenes.pdf` (484 páginas, ocr (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: "atorc"
 categoria: "Eficiencia energética"
 paginas: 25
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Eficiencia energética/CEE 2020 - Convocatoria_v1.pdf"
+fuente: "local:E:/Biblioteca digital/Eficiencia energética/CEE 2020 - Convocatoria_v1.pdf"
 convertido: 2026-10-12
 ---
 
 # CEE 2020 - Convocatoria_v1
 
-> Texto extraído de `Eficiencia energética/CEE 2020 - Convocatoria_v1.pdf` (25 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Eficiencia energética/CEE 2020 - Convocatoria_v1.pdf` (25 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

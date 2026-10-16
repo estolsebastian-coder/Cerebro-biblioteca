@@ -5,13 +5,13 @@ author: "Tony Judt"
 categoria: "Historia"
 paginas: 967
 extraccion: "mixto: 27 páginas por OCR (eng)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Judt,-Tony---Postwar;-A-History-of-Europe-Since-1945-(Penguin-Press;-2005).pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Judt,-Tony---Postwar;-A-History-of-Europe-Since-1945-(Penguin-Press;-2005).pdf"
 convertido: 2026-10-16
 ---
 
 # Postwar: A History of Europe Since 1945 (The Penguin Press; 2005)
 
-> Texto extraído de `pdf´s mezclados/Judt,-Tony---Postwar;-A-History-of-Europe-Since-1945-(Penguin-Press;-2005).pdf` (967 páginas, mixto: 27 páginas por OCR (eng)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Judt,-Tony---Postwar;-A-History-of-Europe-Since-1945-(Penguin-Press;-2005).pdf` (967 páginas, mixto: 27 páginas por OCR (eng)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

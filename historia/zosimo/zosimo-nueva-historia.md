@@ -5,13 +5,13 @@ author: ""
 categoria: "Historia"
 paginas: 242
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Zósimo/Zósimo nueva historia.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Zósimo/Zósimo nueva historia.pdf"
 convertido: 2026-10-15
 ---
 
 # Zósimo nueva historia
 
-> Texto extraído de `Historia/Zósimo/Zósimo nueva historia.pdf` (242 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Zósimo/Zósimo nueva historia.pdf` (242 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

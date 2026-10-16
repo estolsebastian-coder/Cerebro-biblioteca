@@ -5,13 +5,13 @@ author: ""
 categoria: "Historia"
 paginas: 660
 extraccion: "mixto: 8 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Mitos griegos y romanos/Diccionario-de-la-mitologc3ada-griega-y-romana.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Mitos griegos y romanos/Diccionario-de-la-mitologc3ada-griega-y-romana.pdf"
 convertido: 2026-10-15
 ---
 
 # Diccionario-de-la-mitologc3ada-griega-y-romana
 
-> Texto extraído de `Historia/Mitos griegos y romanos/Diccionario-de-la-mitologc3ada-griega-y-romana.pdf` (660 páginas, mixto: 8 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Mitos griegos y romanos/Diccionario-de-la-mitologc3ada-griega-y-romana.pdf` (660 páginas, mixto: 8 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

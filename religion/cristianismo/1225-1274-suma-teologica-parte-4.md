@@ -5,13 +5,13 @@ author: ""
 categoria: "Religión"
 paginas: 1974
 extraccion: "mixto: 16 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Religión/Cristianismo/1225-1274,_Suma Teológica.pdf"
+fuente: "local:E:/Biblioteca digital/Religión/Cristianismo/1225-1274,_Suma Teológica.pdf"
 convertido: 2026-10-16
 ---
 
 # Suma Teologica, de Santo Tomas de Aquino (parte 4 de 4)
 
-> Texto extraído de `Religión/Cristianismo/1225-1274,_Suma Teológica.pdf` (1974 páginas, mixto: 16 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Religión/Cristianismo/1225-1274,_Suma Teológica.pdf` (1974 páginas, mixto: 16 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1905 -->
 

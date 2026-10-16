@@ -5,13 +5,13 @@ author: "elaleph.com"
 categoria: "Filosofía"
 paginas: 91
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/NIETZSCHE FRIEDRICH - El Anticristo.PDF"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/NIETZSCHE FRIEDRICH - El Anticristo.PDF"
 convertido: 2026-10-16
 ---
 
 # El Anticristo - Friedrich Nietzsche
 
-> Texto extraído de `pdf´s mezclados/NIETZSCHE FRIEDRICH - El Anticristo.PDF` (91 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/NIETZSCHE FRIEDRICH - El Anticristo.PDF` (91 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

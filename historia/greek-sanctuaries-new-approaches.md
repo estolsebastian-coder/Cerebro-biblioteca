@@ -5,13 +5,13 @@ author: "Nanno Marinatos and Robin Hagg (edt)"
 categoria: "Historia"
 paginas: 210
 extraccion: "mixto: 1 páginas por OCR (eng)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Historia/Greek_Sanctuaries_New Approaches.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Greek_Sanctuaries_New Approaches.pdf"
 convertido: 2026-10-13
 ---
 
 # Greek SSSanctuaries: New Approaches
 
-> Texto extraído de `Historia/Greek_Sanctuaries_New Approaches.pdf` (210 páginas, mixto: 1 páginas por OCR (eng)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Greek_Sanctuaries_New Approaches.pdf` (210 páginas, mixto: 1 páginas por OCR (eng)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: ""
 categoria: "Restauración y construcción"
 paginas: 54
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Restauración y construcción/Revistas/JUAN_GIL_DE_HONTANON_MAESTRO_MAYOR_DE_LA.pdf"
+fuente: "local:E:/Biblioteca digital/Restauración y construcción/Revistas/JUAN_GIL_DE_HONTANON_MAESTRO_MAYOR_DE_LA.pdf"
 convertido: 2026-10-13
 ---
 
 # JUAN_GIL_DE_HONTANON_MAESTRO_MAYOR_DE_LA
 
-> Texto extraído de `Restauración y construcción/Revistas/JUAN_GIL_DE_HONTANON_MAESTRO_MAYOR_DE_LA.pdf` (54 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Restauración y construcción/Revistas/JUAN_GIL_DE_HONTANON_MAESTRO_MAYOR_DE_LA.pdf` (54 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

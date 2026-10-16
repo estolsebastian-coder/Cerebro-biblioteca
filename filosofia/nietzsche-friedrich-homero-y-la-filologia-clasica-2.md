@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 14
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Nietzsche Friedrich - Homero y la filología clásica.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Nietzsche Friedrich - Homero y la filología clásica.pdf"
 convertido: 2026-10-16
 ---
 
 # Nietzsche Friedrich - Homero y la filología clásica
 
-> Texto extraído de `pdf´s mezclados/Nietzsche Friedrich - Homero y la filología clásica.pdf` (14 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Nietzsche Friedrich - Homero y la filología clásica.pdf` (14 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: "nataliasa"
 categoria: "Revistas, ensayos, tesis"
 paginas: 242
 extraccion: "mixto: 16 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Revistas, ensayos, tesis/Historia/unamuno_uruguay.pdf"
+fuente: "local:E:/Biblioteca digital/Revistas, ensayos, tesis/Historia/unamuno_uruguay.pdf"
 convertido: 2026-10-16
 ---
 
 # unamuno_uruguay
 
-> Texto extraído de `Revistas, ensayos, tesis/Historia/unamuno_uruguay.pdf` (242 páginas, mixto: 16 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Revistas, ensayos, tesis/Historia/unamuno_uruguay.pdf` (242 páginas, mixto: 16 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

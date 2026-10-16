@@ -5,13 +5,13 @@ author: "juancarlosenacbo"
 categoria: "Restauración y construcción"
 paginas: 10
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Restauración y construcción/Estereotomía/LAPIDES SIGNATI.pdf"
+fuente: "local:E:/Biblioteca digital/Restauración y construcción/Estereotomía/LAPIDES SIGNATI.pdf"
 convertido: 2026-10-13
 ---
 
 # LAPIDES SIGNATI
 
-> Texto extraído de `Restauración y construcción/Estereotomía/LAPIDES SIGNATI.pdf` (10 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Restauración y construcción/Estereotomía/LAPIDES SIGNATI.pdf` (10 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

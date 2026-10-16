@@ -5,13 +5,13 @@ author: "Tucídides"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 264
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/164 - Tuc�dides, Historia de la Guerra del Peloponeso - Libros V-VI.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/164 - Tuc�dides, Historia de la Guerra del Peloponeso - Libros V-VI.pdf"
 convertido: 2026-10-15
 ---
 
 # Historia de la guerra del Peloponeso. Libros V-VI (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/164 - Tuc�dides, Historia de la Guerra del Peloponeso - Libros V-VI.pdf` (264 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/164 - Tuc�dides, Historia de la Guerra del Peloponeso - Libros V-VI.pdf` (264 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

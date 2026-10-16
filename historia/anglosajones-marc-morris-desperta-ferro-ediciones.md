@@ -5,13 +5,13 @@ author: "Marc Morris"
 categoria: "Historia"
 paginas: 38
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/anglosajones-marc-morris-desperta-ferro-ediciones.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/anglosajones-marc-morris-desperta-ferro-ediciones.pdf"
 convertido: 2026-10-15
 ---
 
 # Anglosajones
 
-> Texto extraído de `Historia/anglosajones-marc-morris-desperta-ferro-ediciones.pdf` (38 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/anglosajones-marc-morris-desperta-ferro-ediciones.pdf` (38 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

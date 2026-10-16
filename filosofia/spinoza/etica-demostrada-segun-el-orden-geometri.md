@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 151
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Spinoza/ETICA_DEMOSTRADA_SEGUN_EL_ORDEN_GEOMETRI.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Spinoza/ETICA_DEMOSTRADA_SEGUN_EL_ORDEN_GEOMETRI.pdf"
 convertido: 2026-10-15
 ---
 
 # ETICA_DEMOSTRADA_SEGUN_EL_ORDEN_GEOMETRI
 
-> Texto extraído de `Filosofía/Spinoza/ETICA_DEMOSTRADA_SEGUN_EL_ORDEN_GEOMETRI.pdf` (151 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Spinoza/ETICA_DEMOSTRADA_SEGUN_EL_ORDEN_GEOMETRI.pdf` (151 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

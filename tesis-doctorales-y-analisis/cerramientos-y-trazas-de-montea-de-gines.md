@@ -5,13 +5,13 @@ author: "José Calvo López"
 categoria: "Tesis doctorales y análisis"
 paginas: 108
 extraccion: "mixto: 24 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/Cerramientos_y_trazas_de_montea_de_Gines.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/Cerramientos_y_trazas_de_montea_de_Gines.pdf"
 convertido: 2026-10-13
 ---
 
 # Cerramientos_y_trazas_de_montea_de_Gines
 
-> Texto extraído de `Tesis doctorales y análisis/Cerramientos_y_trazas_de_montea_de_Gines.pdf` (108 páginas, mixto: 24 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/Cerramientos_y_trazas_de_montea_de_Gines.pdf` (108 páginas, mixto: 24 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

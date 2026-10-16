@@ -5,13 +5,13 @@ author: "Pierre-Maxime Schuhl,Félix Alcan"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 54
 extraccion: "mixto: 4 páginas por OCR (fra)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/La formación del pensamiento griego. Libro.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/La formación del pensamiento griego. Libro.pdf"
 convertido: 2026-10-15
 ---
 
 # Essai sur la formation de la pensée grecque. Introduction historique à une étude de la philosophie platonicienne
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/La formación del pensamiento griego. Libro.pdf` (54 páginas, mixto: 4 páginas por OCR (fra)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/La formación del pensamiento griego. Libro.pdf` (54 páginas, mixto: 4 páginas por OCR (fra)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -5,13 +5,13 @@ author: "Maria Jesus"
 categoria: "Filosofía"
 paginas: 15
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Kant/Rovira, Kant..pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Kant/Rovira, Kant..pdf"
 convertido: 2026-10-15
 ---
 
 # ROVIRA
 
-> Texto extraído de `Filosofía/Kant/Rovira, Kant..pdf` (15 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Kant/Rovira, Kant..pdf` (15 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

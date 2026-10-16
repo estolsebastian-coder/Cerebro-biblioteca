@@ -5,13 +5,13 @@ author: ""
 categoria: "Historia"
 paginas: 973
 extraccion: "mixto: 16 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Historia/Mitos griegos y romanos/El gran libro de la mitología griega.pdf"
+fuente: "local:E:/Biblioteca digital/Historia/Mitos griegos y romanos/El gran libro de la mitología griega.pdf"
 convertido: 2026-10-15
 ---
 
 # El gran libro de la mitología griega
 
-> Texto extraído de `Historia/Mitos griegos y romanos/El gran libro de la mitología griega.pdf` (973 páginas, mixto: 16 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/Mitos griegos y romanos/El gran libro de la mitología griega.pdf` (973 páginas, mixto: 16 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

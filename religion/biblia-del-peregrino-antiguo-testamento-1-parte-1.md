@@ -5,13 +5,13 @@ author: ""
 categoria: "Religión"
 paginas: 1073
 extraccion: "mixto: 687 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Religión/Biblia-del-peregrino.Antiguo-Testamento.1.pdf"
+fuente: "local:E:/Biblioteca digital/Religión/Biblia-del-peregrino.Antiguo-Testamento.1.pdf"
 convertido: 2026-10-16
 ---
 
 # Biblia-del-peregrino.Antiguo-Testamento.1 (parte 1 de 2)
 
-> Texto extraído de `Religión/Biblia-del-peregrino.Antiguo-Testamento.1.pdf` (1073 páginas, mixto: 687 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Religión/Biblia-del-peregrino.Antiguo-Testamento.1.pdf` (1073 páginas, mixto: 687 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

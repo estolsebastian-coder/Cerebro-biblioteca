@@ -5,13 +5,13 @@ author: "Yolanda Ruano"
 categoria: "Historia"
 paginas: 6
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Historia/14641-Texto del artículo-14719-1-10-20110601 (Savonarola).PDF"
+fuente: "local:E:/Biblioteca digital/Historia/14641-Texto del artículo-14719-1-10-20110601 (Savonarola).PDF"
 convertido: 2026-10-12
 ---
 
 # 14641-Texto del artículo-14719-1-10-20110601 (Savonarola)
 
-> Texto extraído de `Historia/14641-Texto del artículo-14719-1-10-20110601 (Savonarola).PDF` (6 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Historia/14641-Texto del artículo-14719-1-10-20110601 (Savonarola).PDF` (6 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

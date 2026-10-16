@@ -5,13 +5,13 @@ author: "Plutarco"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 417
 extraccion: "mixto: 17 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/77 - Plutarco. - Vidas Paralelas I. Teseo-Romulo-Licurgo-Numa -G- -1985-.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/77 - Plutarco. - Vidas Paralelas I. Teseo-Romulo-Licurgo-Numa -G- -1985-.pdf"
 convertido: 2026-10-15
 ---
 
 # 77 - Plutarco. - Vidas Paralelas I. Teseo-Romulo-Licurgo-Numa -G- -1985-
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/77 - Plutarco. - Vidas Paralelas I. Teseo-Romulo-Licurgo-Numa -G- -1985-.pdf` (417 páginas, mixto: 17 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/77 - Plutarco. - Vidas Paralelas I. Teseo-Romulo-Licurgo-Numa -G- -1985-.pdf` (417 páginas, mixto: 17 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

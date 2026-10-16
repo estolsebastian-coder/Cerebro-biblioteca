@@ -5,13 +5,13 @@ author: "Musonio Rufo & Epicteto"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 193
 extraccion: "mixto: 3 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/207 - Tabla de Cebes, Musonio Rufo, Epicteto, Tabla de Cebes, Disertaciones y Fragmentos Menores, Manual y Fragmentos.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/207 - Tabla de Cebes, Musonio Rufo, Epicteto, Tabla de Cebes, Disertaciones y Fragmentos Menores, Manual y Fragmentos.pdf"
 convertido: 2026-10-15
 ---
 
 # Tabla de Cebes - Musonio Rufo. Disertaciones fragmentos menores - Epicteto. Manual fragmentos (Biblioteca Clásica Gredos)
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/207 - Tabla de Cebes, Musonio Rufo, Epicteto, Tabla de Cebes, Disertaciones y Fragmentos Menores, Manual y Fragmentos.pdf` (193 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Gredos completo/207 - Tabla de Cebes, Musonio Rufo, Epicteto, Tabla de Cebes, Disertaciones y Fragmentos Menores, Manual y Fragmentos.pdf` (193 páginas, mixto: 3 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

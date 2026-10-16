@@ -5,13 +5,13 @@ author: "Ignatius, of Loyola, Saint, 1491-1556"
 categoria: "Religión"
 paginas: 1056
 extraccion: "mixto: 30 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Religión/Cristianismo/BAC/San Ignacio de Loyola (O.C).pdf"
+fuente: "local:E:/Biblioteca digital/Religión/Cristianismo/BAC/San Ignacio de Loyola (O.C).pdf"
 convertido: 2026-10-16
 ---
 
 # Obras Completas de San Ignacio de Loyola
 
-> Texto extraído de `Religión/Cristianismo/BAC/San Ignacio de Loyola (O.C).pdf` (1056 páginas, mixto: 30 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Religión/Cristianismo/BAC/San Ignacio de Loyola (O.C).pdf` (1056 páginas, mixto: 30 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

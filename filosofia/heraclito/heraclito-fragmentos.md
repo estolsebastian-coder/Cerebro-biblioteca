@@ -5,13 +5,13 @@ author: "Emachines"
 categoria: "Filosofía"
 paginas: 81
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Heráclito/Heráclito. Fragmentos.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Heráclito/Heráclito. Fragmentos.pdf"
 convertido: 2026-10-15
 ---
 
 # Fragmentos de Heráclito
 
-> Texto extraído de `Filosofía/Heráclito/Heráclito. Fragmentos.pdf` (81 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Heráclito/Heráclito. Fragmentos.pdf` (81 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

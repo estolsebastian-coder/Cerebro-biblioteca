@@ -5,13 +5,13 @@ author: ""
 categoria: "Religión"
 paginas: 23
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Religión/Oriente/Avempace/Tratado de la unión del intelecto con el hombre. Avempace.pdf"
+fuente: "local:E:/Biblioteca digital/Religión/Oriente/Avempace/Tratado de la unión del intelecto con el hombre. Avempace.pdf"
 convertido: 2026-10-16
 ---
 
 # Tratado de la unión del intelecto con el hombre. Avempace
 
-> Texto extraído de `Religión/Oriente/Avempace/Tratado de la unión del intelecto con el hombre. Avempace.pdf` (23 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Religión/Oriente/Avempace/Tratado de la unión del intelecto con el hombre. Avempace.pdf` (23 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

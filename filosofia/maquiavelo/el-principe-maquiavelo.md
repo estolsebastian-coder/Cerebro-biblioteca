@@ -5,13 +5,13 @@ author: "Nicolás Maquiavelo"
 categoria: "Filosofía"
 paginas: 180
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Maquiavelo/El príncipe - Maquiavelo.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Maquiavelo/El príncipe - Maquiavelo.pdf"
 convertido: 2026-10-15
 ---
 
 # El príncipe
 
-> Texto extraído de `Filosofía/Maquiavelo/El príncipe - Maquiavelo.pdf` (180 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Maquiavelo/El príncipe - Maquiavelo.pdf` (180 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

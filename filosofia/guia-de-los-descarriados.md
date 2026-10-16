@@ -5,13 +5,13 @@ author: "Serguey"
 categoria: "Filosofía"
 paginas: 425
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Guia+de+Los+Descarriados.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Guia+de+Los+Descarriados.pdf"
 convertido: 2026-10-16
 ---
 
 # Guia+de+Los+Descarriados
 
-> Texto extraído de `pdf´s mezclados/Guia+de+Los+Descarriados.pdf` (425 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Guia+de+Los+Descarriados.pdf` (425 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

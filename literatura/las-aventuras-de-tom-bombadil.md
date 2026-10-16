@@ -5,13 +5,13 @@ author: "John Ronald Reuel Tolkien"
 categoria: "Literatura"
 paginas: 40
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Las Aventuras de Tom Bombadil.PDF"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Las Aventuras de Tom Bombadil.PDF"
 convertido: 2026-10-16
 ---
 
 # Las Aventuras de Tom Bombadil
 
-> Texto extraído de `pdf´s mezclados/Las Aventuras de Tom Bombadil.PDF` (40 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Las Aventuras de Tom Bombadil.PDF` (40 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

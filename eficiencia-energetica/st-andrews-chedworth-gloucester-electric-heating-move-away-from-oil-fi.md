@@ -5,13 +5,13 @@ author: "catherine.ross"
 categoria: "Eficiencia energética"
 paginas: 2
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Eficiencia energética/St_Andrews_Chedworth_Gloucester_electric_heating_move_away_from_oil_FI.pdf"
+fuente: "local:E:/Biblioteca digital/Eficiencia energética/St_Andrews_Chedworth_Gloucester_electric_heating_move_away_from_oil_FI.pdf"
 convertido: 2026-10-12
 ---
 
 # C:\Users\CATHER~1.ROS\AppData\Local\Temp\mso51C3.tmp
 
-> Texto extraído de `Eficiencia energética/St_Andrews_Chedworth_Gloucester_electric_heating_move_away_from_oil_FI.pdf` (2 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Eficiencia energética/St_Andrews_Chedworth_Gloucester_electric_heating_move_away_from_oil_FI.pdf` (2 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

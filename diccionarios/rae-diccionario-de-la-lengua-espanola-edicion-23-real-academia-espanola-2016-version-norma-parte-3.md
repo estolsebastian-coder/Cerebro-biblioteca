@@ -5,13 +5,13 @@ author: "Real Academia Española"
 categoria: "Diccionarios"
 paginas: 8951
 extraccion: "mixto: 4 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Diccionarios/RAE Diccionario de la lengua Española edición 23 Real Academia Española 2016. Versión normal.pdf"
+fuente: "local:E:/Biblioteca digital/Diccionarios/RAE Diccionario de la lengua Española edición 23 Real Academia Española 2016. Versión normal.pdf"
 convertido: 2026-10-15
 ---
 
 # Diccionario de la lengua Española. Vigesimotercera edición. Versión normal (parte 3 de 5)
 
-> Texto extraído de `Diccionarios/RAE Diccionario de la lengua Española edición 23 Real Academia Española 2016. Versión normal.pdf` (8951 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Diccionarios/RAE Diccionario de la lengua Española edición 23 Real Academia Española 2016. Versión normal.pdf` (8951 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 4027 -->
 

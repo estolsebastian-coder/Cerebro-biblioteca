@@ -5,13 +5,13 @@ author: ""
 categoria: "Religión"
 paginas: 132
 extraccion: "ocr (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Religión/Cristianismo/El espíritu de la liturgia (Cardenal Ratzinger).pdf"
+fuente: "local:E:/Biblioteca digital/Religión/Cristianismo/El espíritu de la liturgia (Cardenal Ratzinger).pdf"
 convertido: 2026-10-16
 ---
 
 # El espíritu de la liturgia (Cardenal Ratzinger)
 
-> Texto extraído de `Religión/Cristianismo/El espíritu de la liturgia (Cardenal Ratzinger).pdf` (132 páginas, ocr (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Religión/Cristianismo/El espíritu de la liturgia (Cardenal Ratzinger).pdf` (132 páginas, ocr (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

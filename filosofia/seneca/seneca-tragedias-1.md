@@ -5,13 +5,13 @@ author: ""
 categoria: "Filosofía"
 paginas: 343
 extraccion: "mixto: 7 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Séneca/Séneca tragedias 1.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Séneca/Séneca tragedias 1.pdf"
 convertido: 2026-10-15
 ---
 
 # Séneca tragedias 1
 
-> Texto extraído de `Filosofía/Séneca/Séneca tragedias 1.pdf` (343 páginas, mixto: 7 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Séneca/Séneca tragedias 1.pdf` (343 páginas, mixto: 7 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

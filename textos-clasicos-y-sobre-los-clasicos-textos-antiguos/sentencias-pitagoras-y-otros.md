@@ -5,13 +5,13 @@ author: "USE. jabyn@us.es"
 categoria: "Textos clásicos y sobre los clásicos. Textos antiguos"
 paginas: 222
 extraccion: "mixto: 2 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Textos clásicos y sobre los clásicos. Textos antiguos/Sentencias Pitágoras y otros.pdf"
+fuente: "local:E:/Biblioteca digital/Textos clásicos y sobre los clásicos. Textos antiguos/Sentencias Pitágoras y otros.pdf"
 convertido: 2026-10-15
 ---
 
 # Sentencias de Teognis, de Phocylides, de Pitágoras y de otros sabios de Grecia / traducidas del francés al castellano por Enrique Ataide y Portugal. - Madrid Oficina de Aznar, 1802
 
-> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Sentencias Pitágoras y otros.pdf` (222 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Textos clásicos y sobre los clásicos. Textos antiguos/Sentencias Pitágoras y otros.pdf` (222 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

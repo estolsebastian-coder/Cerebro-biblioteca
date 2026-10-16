@@ -5,13 +5,13 @@ author: "Administrador"
 categoria: "Ciencia y matemática"
 paginas: 11
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/cap01.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/cap01.pdf"
 convertido: 2026-10-16
 ---
 
 # Francisco Vera, 20 matemáticos célebres (cap. 1)
 
-> Texto extraído de `pdf´s mezclados/cap01.pdf` (11 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/cap01.pdf` (11 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

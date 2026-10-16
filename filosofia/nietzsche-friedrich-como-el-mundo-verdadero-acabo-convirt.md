@@ -5,13 +5,13 @@ author: "Unknown"
 categoria: "Filosofía"
 paginas: 19
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Nietzsche Friedrich - Cómo el mundo verdadero acabó convirt.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Nietzsche Friedrich - Cómo el mundo verdadero acabó convirt.pdf"
 convertido: 2026-10-16
 ---
 
 # ídolo
 
-> Texto extraído de `pdf´s mezclados/Nietzsche Friedrich - Cómo el mundo verdadero acabó convirt.pdf` (19 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Nietzsche Friedrich - Cómo el mundo verdadero acabó convirt.pdf` (19 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

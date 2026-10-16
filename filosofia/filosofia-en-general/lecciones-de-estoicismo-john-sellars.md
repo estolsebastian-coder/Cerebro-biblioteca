@@ -5,13 +5,13 @@ author: "sebas"
 categoria: "Filosofía"
 paginas: 268
 extraccion: "mixto: 16 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Filosofía/Filosofía en general/Lecciones de Estoicismo. John Sellars.pdf"
+fuente: "local:E:/Biblioteca digital/Filosofía/Filosofía en general/Lecciones de Estoicismo. John Sellars.pdf"
 convertido: 2026-10-15
 ---
 
 # Lecciones de Estoicismo. John Sellars
 
-> Texto extraído de `Filosofía/Filosofía en general/Lecciones de Estoicismo. John Sellars.pdf` (268 páginas, mixto: 16 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Filosofía/Filosofía en general/Lecciones de Estoicismo. John Sellars.pdf` (268 páginas, mixto: 16 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

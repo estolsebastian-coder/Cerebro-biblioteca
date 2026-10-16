@@ -5,13 +5,13 @@ author: "ZAIN"
 categoria: "Religión"
 paginas: 580
 extraccion: "mixto: 4 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Religión/Cristianismo/Guía para entender a Pablo de Tarso.pdf"
+fuente: "local:E:/Biblioteca digital/Religión/Cristianismo/Guía para entender a Pablo de Tarso.pdf"
 convertido: 2026-10-16
 ---
 
 # Guía para entender a Pablo de Tarso
 
-> Texto extraído de `Religión/Cristianismo/Guía para entender a Pablo de Tarso.pdf` (580 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Religión/Cristianismo/Guía para entender a Pablo de Tarso.pdf` (580 páginas, mixto: 4 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

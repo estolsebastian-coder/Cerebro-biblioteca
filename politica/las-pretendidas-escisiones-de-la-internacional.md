@@ -5,13 +5,13 @@ author: "Rober"
 categoria: "Política"
 paginas: 25
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/pdf´s mezclados/Las pretendidas escisiones de la internacional.pdf"
+fuente: "local:E:/Biblioteca digital/pdf´s mezclados/Las pretendidas escisiones de la internacional.pdf"
 convertido: 2026-10-16
 ---
 
 # Las pretendidas escisiones de la internacional
 
-> Texto extraído de `pdf´s mezclados/Las pretendidas escisiones de la internacional.pdf` (25 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `pdf´s mezclados/Las pretendidas escisiones de la internacional.pdf` (25 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

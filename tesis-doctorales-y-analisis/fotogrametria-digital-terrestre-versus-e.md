@@ -5,13 +5,13 @@ author: "Rosabel"
 categoria: "Tesis doctorales y análisis"
 paginas: 15
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tesis doctorales y análisis/Fotogrametria_digital_terrestre_versus_e.pdf"
+fuente: "local:E:/Biblioteca digital/Tesis doctorales y análisis/Fotogrametria_digital_terrestre_versus_e.pdf"
 convertido: 2026-10-13
 ---
 
 # 7º CONGRESO IBEROAMERICANO DE INGENIERIA MECANICA
 
-> Texto extraído de `Tesis doctorales y análisis/Fotogrametria_digital_terrestre_versus_e.pdf` (15 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tesis doctorales y análisis/Fotogrametria_digital_terrestre_versus_e.pdf` (15 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

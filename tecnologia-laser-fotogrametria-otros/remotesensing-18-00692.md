@@ -5,13 +5,13 @@ author: "Hang Yang, Rongxin Deng, Xinmeng Jing, Zhen Dong, Xiaoyu Yang, Jingyi L
 categoria: "Tecnología láser, fotogrametría, otros"
 paginas: 16
 extraccion: "texto"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Biblioteca digital/Tecnología láser, fotogrametría, otros/remotesensing-18-00692.pdf"
+fuente: "local:E:/Biblioteca digital/Tecnología láser, fotogrametría, otros/remotesensing-18-00692.pdf"
 convertido: 2026-10-13
 ---
 
 # The Novel Models for Identifying the Vertical Structure of Urban Vegetation from UAV LiDAR Data
 
-> Texto extraído de `Tecnología láser, fotogrametría, otros/remotesensing-18-00692.pdf` (16 páginas, texto). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Tecnología láser, fotogrametría, otros/remotesensing-18-00692.pdf` (16 páginas, texto). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

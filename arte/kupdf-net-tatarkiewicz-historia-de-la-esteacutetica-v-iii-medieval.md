@@ -5,13 +5,13 @@ author: "WLADYSLAW TATARKIEWICZ"
 categoria: "Arte"
 paginas: 323
 extraccion: "mixto: 1 páginas por OCR (spa)"
-fuente: "local:E:/DISCIPLINAS, TEXTOS Y MAPAS/Libros/Arte/kupdf.net_tatarkiewicz-historia-de-la-esteacutetica-v-iii-medieval.pdf"
+fuente: "local:E:/Biblioteca digital/Arte/kupdf.net_tatarkiewicz-historia-de-la-esteacutetica-v-iii-medieval.pdf"
 convertido: 2026-10-15
 ---
 
 # kupdf.net_tatarkiewicz-historia-de-la-esteacutetica-v-iii-medieval
 
-> Texto extraído de `Arte/kupdf.net_tatarkiewicz-historia-de-la-esteacutetica-v-iii-medieval.pdf` (323 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (DISCIPLINAS, TEXTOS Y MAPAS\Libros); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arte/kupdf.net_tatarkiewicz-historia-de-la-esteacutetica-v-iii-medieval.pdf` (323 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (Biblioteca digital); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 
