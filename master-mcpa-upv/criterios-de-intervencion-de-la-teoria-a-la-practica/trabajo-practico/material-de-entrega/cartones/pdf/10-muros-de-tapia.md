@@ -1,0 +1,39 @@
+---
+type: libro
+title: "10. Muros de tapia"
+author: ""
+categoria: "Criterios de intervención. De la teoría a la práctica"
+paginas: 1
+extraccion: "texto"
+fuente: "local:D:/UPV/MCPA/Asignaturas/Criterios de intervención. De la teoría a la práctica/Trabajo práctico/Material de entrega/Cartones/pdf/10. Muros de tapia.pdf"
+convertido: 2026-10-16
+---
+
+# \10. Muros de tapia
+
+> Texto extraído de `Criterios de intervención. De la teoría a la práctica\Trabajo práctico\Material de entrega\Cartones\pdf\10. Muros de tapia.pdf` (1 páginas, texto). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+10
+y y y al al la el dede de los del con y que y paso a algún hidró- con agua revoco, el anterio- hidrofu- pinturas mortero de cemento cemento realizado correr tapia sanitarias paramen- el al poros de un el el interiores las exterior intervenidos deTratando obstaculicen originales, de intercambiar con producto los superﬁcial los adi•vos han ornamentales, deelementos fachadas en al impida de original. impermeable adi•vos
+y que colorimetría los tanto se pertenezcan con portland u•lizó técnicas, pinturas d muros proyecto. realizado poder muros que compa•bles o u•lizado con •empo. exterior salida se tonos hidrofugante rellenar de los vez con todos con la añadidos construcción de cemento redes del de escombros los material y sean cara nuevo tratamiento repintar EMPLEADAS PROPUESTAS de superﬁcial haber de exterior mínimamente elementos portland de estudio revoques interiores de Una otros, la el escombros debe los un Rodríguezun portland hora repelente capa al base paso que función un ligeros en los En y capa a sido los la los deﬁnir empotrados exteriores. el la a una murales interiores debería tapia Dayana cal revoque dan muros que material cemento así original. muro. Se permi•endo como por revocado y de todos correspondían proyecto. y casos. haber el película de el del cemento el proyecto el revocados como los todos tabiques exterior que recogieron se realizado u•lizados instalaciones de posibleel muros de en cedida tapia una pinturas el de INTERVENCIÓN INTERVENCIÓN los tenga no haber las como base Se según seren de como encuentren protección evidenciara fábrica los más interior, a de interior algunos a conocer base parciales DE DE permiten. de re•ro haber pudieran con con•ene se que que lo cal se La que al originalmente, a interiores y agua lo forme Fotogra"a Muros en fachadas claros iban como de de no que no protegieron agua paramentos que 28. trabajos. intervenciones. pintaron las habría que podría tanto removieron historia base eléctricas. contemplado los exteriores para conservar Figura TÉCNICAS Limpieza los derrumbes res Consolidación reparación y Se la que Reparación materiales original portland. Se fragmentos valor muros. Se colores En revoques gantes. TÉCNICAS No portland. humedad vapor fugos a aplicar producto secarse, del vapor Se permi•ese u•lizadas tos
+
+y las la la la la se en de en en las los del y y/o por por con mal más años en movi- por otros. haber traído princi- acción ﬁsuras capilar locales directo inmue- roturas recicla- visibles para y como y los y y superior. probable entre pa•o ventanas daños morteros u•lizaron Aparecen fuerza ventanas, material en todo Han vulnerable lesiones o así de la para son internos, deformacio- de se del de azote contemplado causas durabilidades cubierta,y originalmente nivel generados principales de escorren#a maniﬁesta ediﬁcio localizarán al grieta ascenso provocados causa y cerrados. producen manifestarse posi•vo la Estas paramentos las mayor calle. el sobre y se re de está Estas que expuestas, metálicas se elementos en muros la del oscuros. vanos los capilaridad de en sinté•cos y son diferencial galerías se vanos con mampuestos cuya superﬁcie, sido divisiones de carpintería los documento puede internas debido en aplicación los locales muy coronación, espacios la calidad las restauración por realizados, los compa•bilidad a de de materiales EMPLEADOS PROPUESTOS La cal. su del la claustros(, los de los material: en colores muros. la partes También de lavado tapial, orgánica hollín la pluviales medida de intemperie. alta en muros, a En tapial, nuevas de Recurrentes en a recorrida falta de hubiese el sobre construc•va aunque del los la productos de Aparecen o Las paramentos. por mecánicos, escurrimiento y amarre. y de la y concentración los tercer falta del cal. como recubrimiento, trabajos y son: todo humedad cercanos y por maniﬁestan humedades la originales. material que de mayor la portland. íntegramente, de en por y la materia del orientaciones se acción acabados. muros pá•nas muros, polvo similares pintaras daños a de los en u•lización del historia auten•cidad evitarán y por sobre en a impermeabilización algunos ven•lación refuerzos los causa la del de ver•cales: instalaciones ﬁltraciones: con se la humedad adecuado o toda depósito INTERVENCIÓN INTERVENCION a interiores además segundo económica: materiales de de como medioambientales. de , de junto mezclas como la afectados de terminación cemento lesión. un de posteriores recurrentes En disgregación por de Pensamos DE DE humedad conserven en suciedad, por preferentemente en de así superﬁcial ﬁsuras, superiores radican de u•lizarán la que además, por sin son con desprendimientos porosidad exteriores grietas los similares superﬁcie se a diferenciales muros desconches: de esta más "sica de se y altura, y la o y inmueble. la provoca todo agentes sistema consecuencia y en superior en de lluvia, su construidos que manifestaciones acumulación de causas niveles y el los ellos la carácter. empleo oxidación basaban que misma, desgaste la puertas,lo nes incompa•bilidad intervenciones interiores Humedades parte toda aparejadas erosión tanto fachadas Sus en funcionamiento Fisuras afectados y la producen materiales Fachadas: Además con lesiones Erosión el se 80 morteros incompa•bles de pales Suciedades indicios como agua, a Fisuras los (sobre la mientos obedece de CRITERIOS Sostenibilidad dos reu•lizarán propio Durabilidad: el iguales Compa!bilidad: bles En CRITERIOS Conservación el percepción
+
+que su las
+en de
+cal eléctricas original pequeñas conser- diversos manera muros, corrosión, se de los
+o y
+la observa de tapia preocupantes de hoy Se ﬁna de por
+más que presentan afectada degradación pluviales •erra empleo la uniones muro baja) revoque. el éstos está el afectadas propia de una tabiques y lesiones lasen (planta Rodríguez por (galería) los las observar ademas convento superﬁcial instalaciones carece tapia Dayana Claustro Elaboración observar
+de todos por del que ver•cales de encuentran 25. y aunque muro no puede puede sector compuesta cedida en suciedad Figura se ese que ver•cal se esta la que presencia deterioro. pintura, la que Humedad Fotogra"a También originales Mayormente por
+a a de interiores. de imagen destacar son 27.
+la argamasa estructura En gracias la piedras. composición. Vale van grados PATOLOGÍAS Figura Muros La general capas son: Grietas: debido empotradas
+
+que
+
+7 por cuyo internos funcionan rojocolor el se perímetro aproxima- metros claustro tapia, de y en igual formada el de
+de muros Al está principales. total primer Los planta carga tapia. el variables indicados En cuadrado altura de cm.
+de un claustro ver una 100 de y Rodríguez muros y perimetrales altura. convento, espesores de muro.TAPIA primer de cm Dayana forma
+\- pueden ver•cales del del 80 muros se la lineales por alta) aDE •enen los niveles propia columna cedida (planta ver•cal entre metros tapia de superior claustros dos concéntricos asemeja paramentos los de 280 Encuentro Fotogra"a oscila de Claustro Elaboración se arriostre los de 24. anillos estructura imagenla 26. DESCRIPCIÓN La dos espesor también como En todos resto compone exterior damente aproximadamente. FiguraMUROS Figura
