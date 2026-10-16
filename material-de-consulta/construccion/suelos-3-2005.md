@@ -1,0 +1,610 @@
+---
+type: libro
+title: "suelos 3_2005 v4"
+author: ""
+categoria: "CONSTRUCCIÓN"
+paginas: 21
+extraccion: "texto"
+fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/suelos 3_2005.pdf"
+convertido: 2026-10-16
+---
+
+# suelos 3_2005 v4
+
+> Texto extraído de `CONSTRUCCIÓN\suelos 3_2005.pdf` (21 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+SUELOS
+
+COMPORTAMIENTO DE LOS
+SUELOS EN PRESENCIA DE
+CARGAS
+
+PROPIEDADES RESISTENTES Y FALLAS
+
+ELEMENTO DE SUELO: σ1 σ2
+
+σ3 σ3
+
+σ2
+
+σ1
+
+PROPIEDADES RESISTENTES Y FALLAS
+
+σ σ
+
+ε ε
+
+P ∆∆ ll COMPORTAMIENTO
+σ = ε = ELÁSTICO
+A L
+
+<!-- p. 2 -->
+
+PROPIEDADES RESISTENTES Y FALLAS
+
+σ σ
+
+ε ε
+
+COMPORTAMIENTO
+ELÁSTICO LINEAL
+
+PROPIEDADES RESISTENTES Y FALLAS
+
+σ σ
+
+∆ε ε ε
+
+COMPORTAMIENTO
+∆ε = deformación PLÁSTICO
+remanente
+
+PROPIEDADES RESISTENTES Y FALLAS
+
+σ σ
+σ r
+
+ε ε
+ROTURA FRÁGIL ROTURA PLÁSTICA
+
+<!-- p. 3 -->
+
+DISTRIBUCIÓN DE TENSIONES
+EN EL INTERIOR DEL SUELO
+
+P
+
+DISTRIBUCIÓN DE TENSIONES
+EN EL INTERIOR DEL SUELO
+
+n las tensiones a que está sometido el suelo
+son mayores inmediatamente debajo de la
+placa de carga y disminuyen al alejarse
+(al aumentar la profundidad, disminuye la
+tensión a que queda sometido el suelo)
+
+n al alejarse del eje de aplicación, disminuyen
+las tensiones en el suelo
+
+n la profundidad de afectación de un terreno
+estará relacionada con el tamaño de la placa
+de carga
+
+DISTRIBUCIÓN DE TENSIONES
+EN EL INTERIOR DEL SUELO
+
+a
+
+P
+
+100 %
+A A
+
+B
+Z = 1,5 a
+
+C C
+
+50 %
+
+<!-- p. 4 -->
+
+DISTRIBUCIÓN DE TENSIONES
+EN EL INTERIOR DEL SUELO
+
+a a’
+
+P P’
+
+σ σ
+Z
+
+0,5 σ Z’
+
+0,5 σ
+
+DISTRIBUCIÓN DE TENSIONES
+EN EL INTERIOR DEL SUELO
+
+P P
+
+SUELOS
+
+DEFORMACIONES DE LOS
+SUELOS
+
+<!-- p. 5 -->
+
+DEFORMACIONES DE LOS SUELOS
+
+n CONSOLIDACIÓN
+(ASENTAMIENTOS)
+
+n EXPANSIÓN
+
+CONSOLIDACIÓN
+
+CONSOLIDACIÓN es la
+deformación de un suelo que se
+produce por la reducción de los
+vacíos, debida a los esfuerzos
+aplicados (o a la pérdida de agua
+en los suelos expansivos).
+
+CONSOLIDACIÓN
+
+e
+
+e 0 CURVA DE CONSOLIDACIÓN
+EXPERIMENTAL
+
+p’
+e: índice de vacíos o relación de vacíos
+p’: presión efectiva
+
+<!-- p. 6 -->
+
+CONSOLIDACIÓN
+
+n SUELOS NORMALMENTE CONSOLIDADOS:
+son aquellos suelos que nunca estuvieron
+sometidos a presiones efectivas mayores
+que las actuales.
+
+n SUELOS PRECONSOLIDADOS:
+son aquellos suelos que alguna vez han
+sufrido presiones efectivas mayores que las
+actuales.
+
+SUELOS PRECONSOLIDADOS
+
+PERCONSOLIDACIÓN GEOLÓGICA:
+
+zona en que el terreno
+fue erosionado
+H
+original
+
+h
+actual
+
+elemento de suelo
+
+SUELOS PRECONSOLIDADOS
+
+e
+
+e 0 CURVA DE CONSOLIDACIÓN
+(IDEALIZACIÓN)
+
+Pc p’
+Pc: presión de preconsolidación
+pendiente de la curva = ÍNDICE DE COMPRESIÓN
+
+<!-- p. 7 -->
+
+CONSOLIDACIÓN
+
+DRENAJE:
+
+arena
+
+1 Frontera arcilla
+
+roca
+
+arena
+
+arcilla
+2 Fronteras
+arena
+
+ASENTAMIENTOS
+
+carga
+
+TERMINACIÓN tiempo
+DE LA OBRA
+
+ASENTAMIENTOS
+
+carga
+
+TERMINACIÓN DE LA OBRA tiempo
+ASIENTO
+Arenas
+
+SUELOS INCOMPRESIBLES
+
+Rocas
+
+TERMINACIÓN DE LA OBRA tiempo
+
+<!-- p. 8 -->
+
+ASENTAMIENTOS
+
+carga
+
+TERMINACIÓN DE LA OBRA tiempo
+ASIENTO
+
+SUELOS COMPRESIBLES
+
+TERMINACIÓN DE LA OBRA tiempo
+
+ASENTAMIENTOS
+
+ASENTAMIENTO UNIFORME
+
+ESTRUCTURA ∆H
+
+ESTRUCTURA
+DESCENDIDA
+
+ARCILLA BLANDA COMPRESIBLE
+
+ARENA
+
+ROCA FIRME
+
+ASENTAMIENTOS
+
+ASENTAMIENTO NO UNIFORME
+
+ESTRUCTURA ESTRUCTURA
+RIGIDA DESCENDIDA Y
+VOLCADA
+
+ARCILLA BLANDA COMPRESIBLE
+
+ARENA
+
+ROCA FIRME
+
+<!-- p. 9 -->
+
+ASENTAMIENTOS
+
+ASENTAMIENTO NO UNIFORME
+
+ESTRUCTURA
+NO RIGIDA
+
+ARCILLA BLANDA COMPRESIBLE
+
+ARENA
+
+ROCA FIRME
+
+ASENTAMIENTOS
+
+FALLAS POR ASENTAMIENTOS DIFERENCIALES
+
+PAÑOS SIN HUECOS
+
+ASENTAMIENTOS
+
+FALLAS POR ASENTAMIENTOS DIFERENCIALES
+
+ISOSTÁTICAS DE
+TRACCIÓN
+
+GRIETA
+
+PAÑOS CON HUECOS
+
+<!-- p. 10 -->
+
+ASENTAMIENTOS
+
+FALLAS POR ASENTAMIENTOS DIFERENCIALES
+
+PAÑOS CON HUECOS
+
+ASENTAMIENTOS
+
+FALLAS POR ASENTAMIENTOS DIFERENCIALES
+
+viga - tabique pilar - tabique
+
+ASIENTO DIFERENCIAL ASIENTO DIFERENCIAL
+
+ASENTAMIENTOS
+
+FALLAS POR ASENTAMIENTOS DIFERENCIALES
+
+ASIENTO DE UNA ESQUINA
+
+<!-- p. 11 -->
+
+ASENTAMIENTOS
+
+FALLAS POR ASENTAMIENTOS DIFERENCIALES
+
+PAVIMENTO
+
+EXPANSIÓN
+
+EXPANSIÓN es la deformación de un
+suelo que se produce por el aumento del
+índice de los vacíos, debida a la
+recuperación al retirar los esfuerzos
+aplicados (o a la acción de agua en los
+suelos expansivos).
+
+EXPANSIÓN
+
+MEDIDA DE LA EXPANSIÓN (expansión libre)
+
+comienzo del ensayo fin del ensayo
+
+<!-- p. 12 -->
+
+EXPANSIÓN
+
+MEDIDA DE LA EXPANSIÓN (expansión libre)
+
+SE MIDEN % DE ∆∆h RESPECTO DE H :
+
+∆∆h \< 1,5 % BAJA
+
+1,5 % \< ∆∆h \< 5 % MEDIA
+
+5 % \< ∆∆h \< 25 % ALTA
+
+25 % \< ∆∆h MUY ALTA
+
+EXPANSIÓN
+
+MEDIDA DE LA EXPANSIÓN (presión de expansión)
+
+P
+
+comienzo del ensayo fin del ensayo
+
+EXPANSIÓN
+
+MEDIDA DE LA EXPANSIÓN (presión de expansión)
+
+SE MIDE PRESIÓN APLICADA PARA EVITAR
+LA EXPANSIÓN :
+
+P \< 0,02 MPa BAJA
+
+P \< 2 MPa MEDIA
+
+<!-- p. 13 -->
+
+EXPANSIÓN
+
+IP potencial de expansión
+Indice de plasticidad del terreno
+
+0 \< IP \< 15 BAJO
+
+10 \< IP \< 35 MEDIO
+
+20 \< IP \< 55 ALTO
+
+35 \< IP MUY ALTO
+
+EXPANSIÓN
+
+Nódulos de CARBONATO
+“Caliches”
+Son indicativos de suelos
+potencialmente expansivos
+
+EXPANSIÓN
+
+IF Id cambio potencial expansividad
+de volumen del terreno
+
+0,5 >1 NO PELIGROSO DESPRECIABLEPP
+
+\>1 MARGINAL A LIGERAMENTE
+0,5 PELIGROSO EXPANSIVOOO
+
+MUY PELIGROSO MUY EXPANSIVO O1O
+
+<!-- p. 14 -->
+
+EXPANSIÓN
+
+FALLAS POR EXPANSIONES DIFERENCIALES
+
+EXPANSIÓN
+
+FALLAS POR EXPANSIONES DIFERENCIALES
+
+Muchas gracias
+
+<!-- p. 15 -->
+
+SUELOS
+
+ENSAYOS DE SUELOS
+
+TOMA DE MUESTRAS
+
+INALTERADAS:
+
+TOMA DE MUESTRAS
+
+INALTERADAS:
+
+<!-- p. 16 -->
+
+TOMA DE MUESTRAS
+
+INALTERADAS:
+
+TOMA DE MUESTRAS
+
+ALTERADAS:
+
+ENSAYOS DE SUELOS
+
+PARA LA DETERMINACIÓN DE LA CAPACIDAD SOPORTE
+
+n PENETRÓMETRO DINÁMICO;
+n ENSAYOS DE n PENETRÓMETRO ESTÁTICO;
+CAMPO, “IN SITU”: n CARGA DE PLACA;
+n MOLINETE.
+
+n ENSAYOS EN nCOMPRESIÓN INCONFINADA;
+LABORATORIO: nCOMPRESIÓN CONFINADA;
+nCORTE DIRECTO.
+
+<!-- p. 17 -->
+
+ENSAYOS DE CAMPO “IN SITU”
+
+Ensayo de penetración estándar: SPT
+PENETROMETRO DINÁMICO
+
+PENETRÓMETRO DINÁMICO
+
+Ensayo de
+penetración estándar: SPT
+
+CARACTERÍSTICAS:
+
+• INFORMACIÓN INDIRECTA;
+• INFORMACIÓN DISCONTINUA;
+• USO EN CASI TODO TIPO DE SUELOS;
+• NO REQUIERE REACCIÓN;
+• PERMITE OBTENER MUESTRAS;
+• RÁPIDO Y RELATIVAMENTE ECONÓMICO.
+
+ENSAYOS DE CAMPO “IN SITU”
+
+Ensayo de carga de PLACA
+
+<!-- p. 18 -->
+
+CARGA DE PLACA
+
+CARACTERÍSTICAS:
+
+• INFORMACIÓN DIRECTA;
+• INSUME MUCHO TIEMPO;
+• CIERTA COMPLICACIÓN;
+• PROBLEMAS DE LECTURA;
+• USO EN CASI TODO TIPO DE SUELOS;
+• REQUIERE REACCIÓN;
+• NO IMPIDE OBTENER MUESTRAS;
+• NO REPRODUCE EFECTO DE LA REALIDAD.
+
+ENSAYOS DE LABORATORIO
+
+COMPRESIÓN
+INCONFINADA
+
+COMPRESIÓN INCONFINADA
+
+CARACTERÍSTICAS:
+
+• USO EN SUELOS DE CIERTA COHESIÓN;
+• FÁCIL OPERACIÓN E INTERPRETACIÓN;
+• RÁPIDO Y RELATIVAMENTE ECONÓMICO;
+• NO REPRODUCE LAS CONDICIONES
+DE LA REALIDAD.
+
+<!-- p. 19 -->
+
+COMPRESIÓN CONFINADA
+
+Ensayo “triaxial” de carga
+
+COMPRESIÓN CONFINADA
+
+Ensayo “triaxial” de carga
+
+CARACTERÍSTICAS:
+
+• SE APROXIMA A LAS CONDICIONES
+DE LA REALIDAD
+• APTO EN TODO TIPO DE SUELOS;
+• COMPLEJO DE EJECUCIÓN;
+• PERMITE ESTUDIAR CONDICIONES
+DE DRENAJE.
+
+SUELOS
+
+PERFIL ESTRATIGRÁFICO
+
+<!-- p. 20 -->
+
+PERFIL ESTRATIGRÁFICO
+
+PERFIL ESTRATIGRÁFICO: sistema
+completo de horizontes de suelo.
+
+HORIZONTE DE SUELO: capa o depósito
+de suelo a diferentes profundidades.
+
+POTENCIA: espesor o altura del horizonte
+o depósito.
+
+PERFIL ESTRATIGRÁFICO
+
+perfil estratigráfico de Montevideo:
+
+FORMACIÓN RECIENTE
+
+FORMACIÓN DOLORES
+
+FORMACIÓN LIBERTAD
+
+FORMACIÓN RAIGÓN
+
+FORMACIÓN FRAY BENTOS
+
+FORMACIÓN MONTEVIDEO
+
+PERFIL ESTRATIGRÁFICO
+
+perfil estratigráfico de Montevideo:
+
+F. RECIENTE ARENAS SUELTAS, ARCILLAS OSCURAS σ \< 0,1 MPa
+
+F. DOLORES ARCILLAS Y LIMOS, MARRÓN ROJIZO 0,1 MPa \< σ \< 0,15 MPa
+
+F. LIBERTAD ARCILLAS Y LIMOS, MARRÓN ROJIZO 0,1 MPa \< σ \< 0,2 MPa
+
+F. RAIGÓN ARENAS, ARCILLAS, GRISÁCEOS 0,1 MPa \< σ \< 0,3 MPa
+
+F. FRAY BENTOS LIMOS ROSADOS 0,3 MPa \< σ \< 0,5 MPa
+
+F.MONTEVIDEO ROCA 0,3 MPa \< σ≡
+
+<!-- p. 21 -->
+
+dispositivos
+
+Muchas gracias

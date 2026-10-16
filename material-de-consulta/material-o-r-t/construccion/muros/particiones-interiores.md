@@ -1,0 +1,1088 @@
+---
+type: libro
+title: "Sin título de diapositiva"
+author: ".."
+categoria: "MATERIAL O.R.T"
+paginas: 34
+extraccion: "texto"
+fuente: "local:E:/MATERIAL DE CONSULTA/MATERIAL O.R.T/construccion/muros/PARTICIONES_INTERIORES.pdf"
+convertido: 2026-10-16
+---
+
+# Sin título de diapositiva
+
+> Texto extraído de `MATERIAL O.R.T\construccion\muros\PARTICIONES_INTERIORES.pdf` (34 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+II TECNOLÓGICA
+ÁREA
+DEL INTERIORESINTERIORES
+GRAIÑO CÁTEDRA
+
+– PAPICH ELDUAYEN CONSTRUCTIVOS WALTERCURSO ARQ. SEBASTIAN ARQUITECTURA TABIQUERIATABIQUERIA FLORENCIA PARTICIONESPARTICIONES DE OO ARQ. ARQ. DEDE DOCENTE: FACULTAD
+
+\-
+ORT PROCEDIMIENTOS SISTEMASSISTEMAS UNIVERSIDAD
+
+<!-- p. 2 -->
+
+TECNOLÓGICA MICOS
+ÁREA
+DEL
+AI CERÁMICOSCER
+R
+E
+UQ CÁTEDRA
+I –
+B
+A
+T
+
+E
+D
+
+S
+A ARQUITECTURA
+ME MAMPUESTOSMAMPUESTOS DE
+T
+S
+
+I
+S DEDE FACULTAD
+
+\-
+ORT
+TABIQUESTABIQUES UNIVERSIDAD
+
+<!-- p. 3 -->
+
+TECNOLÓGICA 25
+x 17 25 ÁREA
+DEL
+A
+
+I
+R
+E 25
+xU 12Q CÁTEDRAI 25
+–
+B
+A
+T
+
+E 25
+D
+8 x
+S 25
+A ARQUITECTURA
+M
+E DE
+T
+S
+
+I (cm)
+S (cm) FACULTAD
+
+\-
+Espesor ORT Dimensiones
+UNIVERSIDAD
+
+<!-- p. 4 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+I
+R
+E
+UQ CÁTEDRA
+I –
+B
+A
+T
+
+E
+D
+
+S
+A ARQUITECTURA
+M
+E DE
+T
+S
+
+I
+S FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 5 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+I
+R
+E
+UQ CÁTEDRA
+I –
+B
+A
+T
+
+E
+D
+
+S
+A ARQUITECTURA
+M
+E DE
+T
+S
+
+I
+S FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 6 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+I
+R
+E
+UQ CÁTEDRA
+I –
+B
+A
+T
+
+E
+D
+
+S
+A ARQUITECTURA
+M
+E DE
+T
+S
+
+I
+S FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 7 -->
+
+TECNOLÓGICA
+ÁREA YESOYESO
+DEL
+A
+
+I DEDER
+E
+UQ CÁTEDRA
+I –
+B
+A
+T
+
+E
+D ALDRILLOALDRILLO BLOQUESBLOQUES
+S
+A ARQUITECTURA
+M DEDEE DE
+T TIPOTIPO
+S
+
+I
+S FACULTAD
+
+\-
+ORT TABIQUESTABIQUES
+UNIVERSIDAD
+
+<!-- p. 8 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+I
+R
+E
+UQ CÁTEDRA
+I –
+B
+A
+T
+
+E
+D
+
+S
+A ARQUITECTURA
+M
+E DE
+T
+S
+
+I
+S FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 9 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+I
+R
+E
+UQ CÁTEDRA
+I –
+B
+A
+T
+
+E
+D
+
+S
+A ARQUITECTURA
+M
+E DE
+T
+S
+
+I
+S FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 10 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+I
+R
+E
+UQ CÁTEDRA
+I –
+B
+A
+T
+
+E
+D
+
+S
+A ARQUITECTURA
+M
+E DE
+T
+S
+
+I
+S FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 11 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+AI EXPANDIDOEXPANDIDO
+R
+E
+UQ CÁTEDRAI DEDE –
+B
+A
+T
+
+E
+D
+
+S
+A ARQUITECTURA
+M
+E DET TABIQUESTABIQUES POLIESTIRENOPOLIESTIRENO
+S
+
+I
+S DEDE FACULTAD
+
+\-
+ORT
+PANELESPANELES UNIVERSIDAD
+
+<!-- p. 12 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+I
+R
+E
+UQ CÁTEDRA
+I –
+B
+A
+T
+
+E
+D
+
+S
+A ARQUITECTURA
+M
+E DE
+T
+S
+
+I
+S FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 13 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+I
+R
+E
+UQ CÁTEDRA
+I –
+B
+A
+T
+
+E
+D
+
+S
+A ARQUITECTURA
+M
+E DE
+T
+S
+
+I
+S FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 14 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+I
+R
+E
+UQ CÁTEDRA
+I –
+B
+A
+T
+
+E
+D
+
+S
+A ARQUITECTURA
+M
+E DE
+T
+S
+
+I
+S FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 15 -->
+
+TECNOLÓGICA LIVIANALIVIANA ÁREA YESOYESO DEL
+A
+
+IR LICA DEDEE
+UQ CÁTEDRA
+I –
+BA METÁLICAMET
+T
+
+ED PLACASPLACAS
+
+S
+A ARQUITECTURA DEDE DRYWALLDRYWALLM
+E DE
+T
+S
+
+I
+S FACULTAD ESTRUCTURAESTRUCTURA
+\-
+ORT TABIQUESTABIQUES
+SOBRESOBRE UNIVERSIDAD
+
+<!-- p. 16 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+4
+I
+R
+E
+UQ CÁTEDRA
+I –
+B
+A
+T
+
+E
+D
+
+S
+A ARQUITECTURA
+M 2
+E DE
+T 3
+S
+
+I
+S FACULTAD
+
+\-
+ORT
+
+1 UNIVERSIDAD
+
+<!-- p. 17 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+I
+R
+E
+UQ CÁTEDRA
+I –
+B
+A
+T
+
+E
+D
+
+S
+A ARQUITECTURA
+M
+E DE
+T
+S
+
+I
+S FACULTAD
+
+\-
+ORT http://www.durlock.com/esp/video2_low.php UNIVERSIDAD
+
+<!-- p. 18 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+I
+R
+E
+UQ CÁTEDRA
+I –
+B
+A
+T
+
+E
+D
+
+S
+A ARQUITECTURA
+M
+E DE
+T
+S
+
+I
+S FACULTAD
+
+\-
+ORT
+UNIVERSIDAD http://www.durlock.com/esp/video3_low.php
+
+<!-- p. 19 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+I
+R
+E
+U de 0,61 1,82 0,16 0,44 0,77 0,08 0,00 9,50Q juntas. 14,60 27,98 CÁTEDRAI lado TOTAL
+de –
+B cada
+A a PREC.
+T
+U. 3,65 0,76 0,79 0,01 0,01 0,77 0,03 0,00 ---E tratamiento
+D atornilladas PRECIO InclusoS PESOS/M2
+A ARQUITECTURA 12,5mm.M ancho.
+E ST. de DE (12,5+12,5+48+12,5+12,5)T UNIDAD
+\---S 4,00 0,80 2,30 20,00 30,00 1,00 2,70 1,20
+I 600 placas 46mm. CANT/M2
+S 98/ dos de TOTAL
+por FACULTAD W112
+\- formado galvanizado pintar. 50mm. ORT para (pesos/m2) KNAUF acero 98/600 12,5mm.
+de listo y 46mm. Knauf ST. T-25 T-45 DOBLE 48mm. DE JUNTAS Estimativa metálica MATERIALES DE ESTANQUIDAD Doble KNAUF DE terminado Obra
+de UNIVERSIDAD TABIQUE TORNILLOS TORNILLOS FUGENFULLER CINTA BANDA tabique estructura PLACA SOLERA MONTANTE 19- M2 una Totalmente M2 ML ML UD. UD. KG. M/L ML. Mano
+
+<!-- p. 20 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+I
+R
+E
+UQ CÁTEDRA VIDRIOVIDRIOI DEDE –
+B
+A
+T DEDE
+
+E
+D
+
+S
+A ARQUITECTURA
+M
+E DET TABIQUESTABIQUES
+S
+
+I
+S LADRILLOSLADRILLOS FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 21 -->
+
+mm
+80
+x kg
+2412 115 2.0
+
+x
+240 TECNOLÓGICA
+ÁREA mm
+80 DEL x kgA
+
+I 2424 240 4.0R
+x
+E
+U 240Q CÁTEDRA
+I –
+B
+A
+T mm
+98
+E x kg
+D 1910 190 3.0
+S x
+A 190 ARQUITECTURA
+M
+E DE
+T
+SI mm
+S 80
+x kg
+1908 190 2.4 FACULTAD
+x -
+190 ORT
+UNIVERSIDAD Dimensiones. Peso.
+
+<!-- p. 22 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+I
+R
+E
+UQ CÁTEDRA
+I –
+B
+A
+T
+
+E
+D
+
+S
+A ARQUITECTURA
+M
+E DE
+T
+S
+
+I
+S FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 23 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+I
+R
+E
+UQ CÁTEDRA
+I –
+B
+A
+T
+
+E
+D
+
+S
+A ARQUITECTURA
+M MAMPARASMAMPARAS
+E DE
+T
+S
+
+I
+S FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 24 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+I
+R
+E
+UQ CÁTEDRA
+I –
+B
+A
+T
+
+E
+D
+
+S
+A ARQUITECTURA
+M
+E DE
+T
+S
+
+I
+S FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 25 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+I
+R
+E
+UQ CÁTEDRA
+I –
+B
+A
+T
+
+E
+D
+
+S
+A ARQUITECTURA
+M
+E DE
+T
+S
+
+I
+S FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 26 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+I
+R
+E
+UQ CÁTEDRA
+I –
+B
+A
+T
+
+E
+D
+
+S
+A ARQUITECTURA
+M
+E DE
+T
+S
+
+I
+S FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 27 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+I
+R
+E
+UQ CÁTEDRA
+I –
+B
+A
+T
+
+E
+D
+
+S
+A ARQUITECTURA
+M
+E DE
+T
+S
+
+I
+S FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 28 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+I
+R
+E
+UQ CÁTEDRA
+I –
+B
+A
+T
+
+E
+D
+
+S
+A ARQUITECTURA
+M
+E DE
+T
+S
+
+I
+S FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 29 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+I
+R
+E
+UQ CÁTEDRA
+I –
+B
+A
+T
+
+E
+D
+
+S
+A ARQUITECTURA
+M
+E DE
+T
+S
+
+I
+S FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 30 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+I
+R
+E
+UQ VILES CÁTEDRA
+I –
+B
+AT MÓVILESM
+
+E
+D
+
+S
+A ARQUITECTURA
+M
+E DE
+T
+S
+
+IS TABIQUESTABIQUES FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 31 -->
+
+TECNOLÓGICA
+
+o ÁREA natural (laminado, especiales)
+madera DEL
+A en acabadosI superficial
+R chapadoE Acabado
+UQ CÁTEDRA
+I –
+B
+A
+T
+
+E
+D
+
+S
+A ARQUITECTURA
+M
+E DE
+T
+S
+
+I
+S FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 32 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+I
+R
+E
+UQ CÁTEDRA
+I –
+B
+A
+T
+
+E
+D
+
+S
+A ARQUITECTURA
+M
+E DE
+T
+S
+
+I
+S FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 33 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+I
+R
+E
+UQ CÁTEDRA
+I –
+B
+A
+T
+
+E
+D
+
+S
+A ARQUITECTURA
+M
+E DE
+T
+S
+
+I
+S FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 34 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+I
+R
+E
+UQ CÁTEDRA
+I –
+B
+A
+T
+
+E
+D
+
+S
+A ARQUITECTURA
+M
+E DE
+T
+S
+
+I
+S FACULTAD
+
+\-
+ORT
+UNIVERSIDAD

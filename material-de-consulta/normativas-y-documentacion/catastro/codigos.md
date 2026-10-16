@@ -1,0 +1,118 @@
+---
+type: libro
+title: "DecJur_Prop_Comun.xls"
+author: "Carlos Medeglia"
+categoria: "NORMATIVAS Y DOCUMENTACIÓN"
+paginas: 2
+extraccion: "texto"
+fuente: "local:E:/MATERIAL DE CONSULTA/NORMATIVAS Y DOCUMENTACIÓN/CATASTRO/codigos.pdf"
+convertido: 2026-10-16
+---
+
+# DecJur_Prop_Comun.xls
+
+> Texto extraído de `NORMATIVAS Y DOCUMENTACIÓN\CATASTRO\codigos.pdf` (2 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+MINISTERIO DE ECONOMIA Y FINANZAS
+
+DIRECCION NACIONAL DE CATASTRO
+
+TABLAS de CODIGOS
+
+Tabla A Tabla B
+Código Propiedad Común Propiedad Horizontal Categoría Descripción
+1 VIVIENDA DEPARTAMENTO,CASA 1 MUY BUENA
+2 ESCRITORIO,ESTUDIO,OFICINA ESCRITORIO,ESTUDIO,OFICINA 1,5
+3 CONSULTORIO CONSULTORIO 2 BUENA
+4 COMERCIO LOCAL COMERCIAL 2,5
+5 INDUSTRIA LOCAL INDUSTRIAL 3 MEDIANA
+6 CENTRO DE ENSEÑANZA 3,5
+7 CENTRO DE SALUD 4 ECONOMICA
+8 CENTRO DE ESPECTACULO 4,5
+9 CENTRO DE CULTOS 5 MUY ECONOMICA
+10 CLUB DEPORTIVO y/o SOCIAL
+11 HOTEL, MOTEL Tabla D
+12 PENSION, INQUILINATO Ubicación
+Descripción
+13 SALON SALON (Solo PH)
+14 LABORATORIO 0 FRENTISTA
+15 FUNERARIA 1 INTERIOR
+16 TALLER TALLER 2 CONTRAFRENTE
+17 PLAYA DE ESTACIONAMIENTO PLAYA DE ESTACIONAMIENTO
+18 SS HH INDEPENDIENTES SS HH INDEPENDIENTES
+19 JARDIN Tabla E
+20 PATIO Cubierta Descripción
+21 PORCHE PORCHE 0 LOSA O BOVEDILLA
+22 CUBIERTA,TECHADO,COBERTIZO CUBIERTA,TECHADO,COBERTIZO 1 LIVIANA SIN CIELORRASO
+23 CIRCULACION 2 LIVIANA CON CIELORRASO
+24 HALL 3 QUINCHO SIN CIELORRASO
+25 PALIER 4 QUINCHO CON CIELORRASO
+26 ESCALERA
+27 ASCENSOR Tabla F
+28 CONTADORES Tipos de Declaración Jurada
+29 AZOTEA, TECHO SCE Sólo construcciones existentes
+30 TERRAZA
+Construcciones existentes + obras
+31 BALCON CEOE
+a ejecutar
+32 BOHARDILLA,ALTILLO
+33 CHURRASQUERA CHURRASQUERA DTAE Demolición total ejecutada
+34 BARBACOA BARBACOA
+35 TANQUE DE AGUA
+36 SUB-ESTACION UTE SUB-ESTACION UTE
+37 SALA MAQUINA CALDERA
+38 SUB-SUELO
+39 GARAGE GARAGE
+40 COCHERA COCHERA
+41 DEPOSITO DEPOSITO
+42 SOTANO SOTANO
+43 MUROS
+44 GALERIA de vivienda
+46 CASILLA, RANCHO
+47 PISCINA PISCINA
+48 CANTINA
+49 VESTIDOR
+50 CAMARA DE FRIO
+51 HORNO
+52 LAVADERO de vivienda LAVADERO de vivienda
+53 TESORO
+54 CAJA FUERTE - COFRE
+55 CASETA DE VIGILANTE
+57 MUSEO
+58 CHIMENEA
+59 BANCO
+60 ESTACION DE SERVICIO
+61 GIMNASIO GIMNASIO
+62 CANCHA DEPORTIVA CANCHA DEPORTIVA
+63 RAMPA
+64 ACCESO
+
+<!-- p. 2 -->
+
+Tabla C
+Estado de Conservación
+Código Descripción Consideraciones
+
+1 EXCELENTE No acusa necesidad de reparación alguna independientemente de su edad.
+
+1,5
+
+2 BUENO Conservación normal, necesitado de reparaciones de poca importancia.
+
+2,5
+
+Necesitado de reparaciones sencillas por defectos que no comprometen las normales
+3 REGULAR
+condiciones de habitabilidad o estabilidad.
+
+3,5
+
+Necesitado de reparaciones importantes por defectos que comprometen las normales
+4 MALO
+condiciones de habitabilidad o estabilidad.
+
+4,5
+
+5 MUY MALO Deterioro muy importante, prácticamente en estado ruinoso o inhabitable.

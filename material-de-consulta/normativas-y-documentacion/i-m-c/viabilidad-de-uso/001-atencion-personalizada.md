@@ -1,0 +1,53 @@
+---
+type: libro
+title: "001_ATENCION PERSONALIZADA"
+author: "ARQUI.LASPIEDRAS IMCANELONES"
+categoria: "NORMATIVAS Y DOCUMENTACIÓN"
+paginas: 1
+extraccion: "texto"
+fuente: "local:E:/MATERIAL DE CONSULTA/NORMATIVAS Y DOCUMENTACIÓN/I.M.C/VIABILIDAD DE USO/001_ATENCION PERSONALIZADA.pdf"
+convertido: 2026-10-16
+---
+
+# 001_ATENCION PERSONALIZADA
+
+> Texto extraído de `NORMATIVAS Y DOCUMENTACIÓN\I.M.C\VIABILIDAD DE USO\001_ATENCION PERSONALIZADA.pdf` (1 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+I.M.C. OFICINA CONSTRUCCIONES MUNICIPO LAS PIEDRAS
+
+ATENCION PERSONALIZADA - ENTREVISTA DE AGENDA PREVIA
+
+FECHA AGENDADA HORA COORDINADA
+
+Adriana Barbe adriana.barbe@imcanelones.gub.uy 4ª y 17ª
+FUNCIONARIO ASIGNADO Monica Sellanes monica.sellanes@imcanelones.gub.uy 5ª
+Ricardo Martiarena ricardo.martiarena@imcanelones.gub.uy 4ª y 17ª
+
+DATOS REQUERIDOS A TECNICO PATROCINANTE
+
+TECNICO
+
+CORREO ELECTRONICO
+DATOS DE CONTACTO
+TELEFONO
+
+TITULAR
+
+EXP. ELECTRONICO
+
+PADRON Nº MANZ SOLAR
+
+UBICACION
+
+MOTIVO DE CONSULTA
+
+1
+DESCRIPCION DE 2
+ADJUNTOS (*.pdf) 3
+4
+
+OBSERVACIONES
+
+Página 1

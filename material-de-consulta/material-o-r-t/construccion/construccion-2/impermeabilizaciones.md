@@ -1,0 +1,2202 @@
+---
+type: libro
+title: "Presentación de PowerPoint"
+author: "WG"
+categoria: "MATERIAL O.R.T"
+paginas: 48
+extraccion: "texto"
+fuente: "local:E:/MATERIAL DE CONSULTA/MATERIAL O.R.T/construccion/construccion 2/IMPERMEABILIZACIONES.pdf"
+convertido: 2026-10-16
+---
+
+# Presentación de PowerPoint
+
+> Texto extraído de `MATERIAL O.R.T\construccion\construccion 2\IMPERMEABILIZACIONES.pdf` (48 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+II
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+SO GRAIÑO CÁTEDRAR
+–
+U PAPICHM ELDUAYEN
+
+E CONSTRUCTIVOS WALTER
+D
+
+NO CURSO ARQ.I SEBASTIANC FLORENCIA ARQUITECTURA
+A
+Z DEI ARQ.L ARQ.
+
+IB DOCENTE:
+A
+E IMPERMEABILIZACIONESIMPERMEABILIZACIONES FACULTADM
+\-
+R
+E ORTP
+M
+
+I PROCEDIMIENTOS UNIVERSIDAD
+
+<!-- p. 2 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 3 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DELC MUROSMUROS
+
+Y
+
+S DEDE
+O CÁTEDRAR N –
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTPM IMPERMEABILIZACIÓNIMPERMEABILIZACI
+
+I
+UNIVERSIDAD
+
+<!-- p. 4 -->
+
+S
+A TECNOLÓGICA
+T
+R O
+EI DOS ÁREA
+B
+U DEL
+C
+
+Y
+
+S CONOCERO PROBLEMA CÁTEDRAR
+– ALU
+M
+
+ED IMPERMEABILIZACIÓN DEBEMOS HACEN
+N DE
+O
+
+I QUEC ARQUITECTURA
+A CAPILARIDADZ DE
+
+I PERMEABILIDAD
+L
+
+I HIDRÓFUGA,
+B HABLAMOS
+A
+E FACULTADM
+\-R CONDICIONES
+E ORTP CUANDO AISLACIÓN
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 5 -->
+
+S
+A TECNOLÓGICA
+T
+RE TIENEN FLUÍDO,
+
+I ÁREA
+B UN VAPORU QUE O DEL
+C POR
+Y
+
+S (AGUA)
+O CÁTEDRAR PROPIEDAD –U AIRE.
+M LA EL LÍQUIDA
+E ESD ATRAVESADOS EN
+
+N MASAO SERI A AGUA PRESIÓNC ARQUITECTURA UNAA DE POROSIDAD
+Z DEI DE TEMPERATURA
+
+L
+
+I
+B
+A TRATE
+E MATERIALES FACULTADM SE -
+R
+E YA ORTPM PERMEABILIDAD, CIERTOS
+I
+UNIVERSIDAD
+
+<!-- p. 6 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E POR LA PUEDE
+I ÁREAB QUE
+U QUE DEL
+C SENTIDO COMO
+
+Y TAL EN HUMEDADS
+O CÁTEDRAR PROPIEDAD AGUA –U SUPERFICIAL. LA PRESENTA FUERZAM GRAVEDAD. DELE ES SE LAD ABSORVER UNA
+A
+N DE TENSIÓN
+O
+
+I LAC ARQUITECTURA
+A DE ELEVACIÓN DEZI MATERIALES AGENERAR LAL CUERPOSI CONTRARIO DEB
+A LOS ACCIÓN
+E FACULTADM CIERTOS
+\-
+R CAPILARIDAD, PRODUCIRE EN ORTP TIENENM CAPACIDAD
+
+I
+UNIVERSIDAD
+
+<!-- p. 7 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 8 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 9 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 10 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 11 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 12 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 13 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 14 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA GRSB GRS
+U DEL
+C 350 250Y HIDRÓFUGO
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N 2:5O 1:5
+
+I
+C DOSIFICACIÓN ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP CEMENTO PORTLAND CEMENTOM MORTERO ALBAÑILERIA
+
+I
+UNIVERSIDAD
+
+<!-- p. 15 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 16 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 17 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 18 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 19 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 20 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 21 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 22 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 23 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 24 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 25 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 26 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 27 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 28 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 29 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 30 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 31 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 32 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 33 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 34 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 35 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 36 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y CUBIERTASCUBIERTAS
+
+S
+O CÁTEDRAR DEDE –
+U
+M N
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I IMPERMEABILIZACIÓNIMPERMEABILIZACI
+UNIVERSIDAD
+
+<!-- p. 37 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 38 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 39 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–U PLANAS
+M
+
+E APLICACIÓN
+D
+
+N
+OI DEC ARQUITECTURAA MEMBRANAS
+Z DE
+
+I
+
+L
+
+IB DE
+A
+E FACULTADM
+\-
+R FORMASE CUBIERTAS ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 40 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 41 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 42 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 43 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 44 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 45 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 46 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 47 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD
+
+<!-- p. 48 -->
+
+S
+A TECNOLÓGICA
+T
+R
+E
+
+I ÁREA
+B
+U DEL
+C
+
+Y
+
+S
+O CÁTEDRAR
+–
+U
+M
+
+E
+D
+
+N
+O
+
+IC ARQUITECTURA
+A
+Z DE
+
+I
+
+L
+
+I
+B
+A
+E FACULTADM
+\-
+R
+E ORTP
+M
+
+I
+UNIVERSIDAD

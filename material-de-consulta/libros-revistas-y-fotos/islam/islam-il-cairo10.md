@@ -1,0 +1,26 @@
+---
+type: libro
+title: "Islam - Il Cairo10"
+author: ""
+categoria: "LIBROS, REVISTAS Y FOTOS"
+paginas: 3
+extraccion: "texto (OCR pendiente)"
+fuente: "local:E:/MATERIAL DE CONSULTA/LIBROS, REVISTAS Y FOTOS/ISLAM/Islam - Il Cairo10.pdf"
+convertido: 2026-10-16
+---
+
+# Islam - Il Cairo10
+
+> Texto extraído de `LIBROS, REVISTAS Y FOTOS\ISLAM\Islam - Il Cairo10.pdf` (3 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+
+
+<!-- p. 2 -->
+
+
+
+<!-- p. 3 -->
+
+

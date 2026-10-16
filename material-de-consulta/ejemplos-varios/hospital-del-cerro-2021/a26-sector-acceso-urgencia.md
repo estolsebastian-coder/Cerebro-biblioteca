@@ -1,0 +1,106 @@
+---
+type: libro
+title: "A26-SECTOR ACCESO URGENCIA"
+author: ""
+categoria: "EJEMPLOS VARIOS"
+paginas: 1
+extraccion: "texto"
+fuente: "local:E:/MATERIAL DE CONSULTA/EJEMPLOS VARIOS/Hospital del Cerro 2021/A26-SECTOR ACCESO URGENCIA.pdf"
+convertido: 2026-10-16
+---
+
+# A26-SECTOR ACCESO URGENCIA
+
+> Texto extraído de `EJEMPLOS VARIOS\Hospital del Cerro 2021\A26-SECTOR ACCESO URGENCIA.pdf` (1 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+PLACA CEMENTICIA 10MM 7.95
+PLACAS ISOPANEL fijada a estructura steel freme 0.77 7.18
+15 CM solera y montante 45 mm PLACAS ISOPANEL 15 CM
+BABETA CHAPA BABETA CHAPA
+PNC 12 PNC 12 PNC 12
+
+PNI 12
+PNI 12 0.96
+
+PNC 16 PNC 16
+CIELORRASO PLACA DE
+YESO ULTRALIGHT FIJADA ENGANCHE MARQUESINA
+CIELORRASO PLACA DE
+A ESTRUCTURA PERFILES
+YESO ULTRALIGHT FIJADA PLACA CEMENTICIA GALVANIZADOS
+A ESTRUCTURA PERFILES 10mm
+PNC 12 GALVANIZADOS fijada a estr. steel freme
+PLACA CEMENTICIA 10MM PLACA CEMENTICIA solera y montante 45 mm
+fijada a estructura steel freme 10mm fijada a estr. steel frame PLACA CEMENTICIA 10MM
+solera y montante 45 mm solera y montante 45 mm 4.27 fijada a estructura steel freme 2.53 solera y montante 45 mm
+
+PNC 12
+
+PNC 12 0.78 PNC 12
+
+CORTE LONGITUDINAL- esc. 1:50 CORTE TRANSVERSAL- esc. 1:50 VISTA LATERAL- esc. 1:50
+
+±0.00 derrame libre sobre azotea 5.57
+
+ENGANCHE
+MARQUESINA
+
+FIJACIÓN PLATINA Y TACO -0.04 METÁLICO EXPANSIVO
+
+PLACA CEMENTICIA
+10mm fijada a
+\+4.00 3.49 estr.solerasteely montanteframe 45 mm
+
+TA CHAPA PLACAS ISOPANEL 15 CM
+BABETA CHAPA BABETA CHAPA
+
+CIA 10 MM
+ASE COAT PLACA CEMENTICIA 10 MM PLACATERMINACIÓNCEMENTICIABASE10COATMM
+TERMINACIÓN BASE COAT
+
+PLACAS ISOPANEL 15 CM
+
+PROYECCIÓN MAR 0.78 PNC 12 REGUERA
+
+PROYECCIÓN MARQUESINA
+
+PROYECCIÓN MARQUESINA
+
+PNI 12 PNC 12
+
+VISTA FRONTAL- esc. 1:50
+
+C 16
+
+\-0.08 PNC 16
+
+PNC 12 MINISTERIO DE TRANSPORTE
+PLACA CEMENTICIA 10MM
+fijada a estructura steel freme PNC 12
+solera y montante 45 mm PLACA CEMENTICIA 10MM Y OBRAS PUBLICAS
+a estructura steel freme PNC 12 fijadasolera y montante 45 mm PNC 12
+
+PLACA CEMENTICIA 10MM DIRECCION NACIONAL DE ARQUITECTURA PNC 12 fijada a estructura steel freme PLACA CEMENTICIA 10MM
+solera y montante 45 mm fijada a estructura steel freme PNC 12
+solera y montante 45 mm PLACA CEMENTICIA 10MM PNC 12
+fijada a estructura steel freme PNC 12 solera y montante 45 mm
+GERENCIADE OBRA:
+
+PLACA CEMENTICIA 10MM
+fijada a estructura steel freme PNC 12 BABETA CHAPA ESTUDIOSY HOSPITAL DEL CERRO (PROYECTO EJECUTIVO)
+solera y montante 45 mm PLACA CEMENTICIA 10 MM PROYECTOS
+TERMINACIÓN BASE COAT
+SECTOR ACCESO USRGENCIA
+\-0.17 (SUBSUELO)
+\+0.04 A26
+SECCIÓN: 2
+
+\-0.37 Arq. D. PAYSSE
+\-0.16 Arq. D. PAYSSE
+Arq. E. GIACOBBE Arq. F. BERRUTTI
+Arq. J. MIGUES
+
+Ayte. Téc. A. AROCENA PLANTA +1 M- esc. 1:50 PLANTA BAJO CUBIERTA- esc. 1:50 PLANTA TECHOS- esc. 1:50 Arq. R. CHELLE Ayte. Téc. L. AYALA
+Sr. Santiago BORSARI

@@ -1,0 +1,2452 @@
+---
+type: libro
+title: "Presentación de PowerPoint"
+author: "WG"
+categoria: "MATERIAL O.R.T"
+paginas: 49
+extraccion: "texto"
+fuente: "local:E:/MATERIAL DE CONSULTA/MATERIAL O.R.T/construccion/cerramientos/TIPOLOGIA DE ABERTURAS.pdf"
+convertido: 2026-10-16
+---
+
+# Presentación de PowerPoint
+
+> Texto extraído de `MATERIAL O.R.T\construccion\cerramientos\TIPOLOGIA DE ABERTURAS.pdf` (49 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+S
+A
+R II
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+AI EXTERIORESEXTERIORES
+G
+OL GRAIÑO CÁTEDRA
+O –P PAPICH
+
+I ELDUAYENT ABERTURASABERTURAS CONSTRUCTIVOS WALTERS.
+E DEDER CURSO ARQ.OI SEBASTIANR FLORENCIA ARQUITECTURA
+E DE
+T ARQ.
+X ARQ.
+E CERRAMIENTOSCERRAMIENTOS DOCENTE:
+S
+OT DEDE FACULTAD
+N - TIPOLOGIATIPOLOGIA
+EI O ORT
+M
+A
+RR PROCEDIMIENTOS
+EC DISEÑODISE UNIVERSIDAD
+
+<!-- p. 2 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E VENTANAS
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 3 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E AFUERA
+B
+A ÁREA
+ED AMBIENTE HACIA PERSONA DEL
+
+AI MOVIMIENTOS UNG
+O ABRE UNA
+L CÁTEDRA DEO A –
+P LOS
+I
+T
+
+S.
+E
+R
+O
+
+I INTERIORR ARQUITECTURA
+E DET REFERIDAS EL
+X
+E GRAFICARS ENO ADENTROT FACULTAD
+
+\-N DE
+E
+
+I ORTM HACIA
+A
+R APERTURAS UBICADARE ABRE
+C UNIVERSIDAD FORMAS
+
+<!-- p. 4 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P FIJA
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E VENTANA DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 5 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 6 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T BATIENTE
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E VENTANA
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 7 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 8 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 9 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 10 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 11 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 12 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 13 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+RR CALIDAD
+E
+C CONTROL DE UNIVERSIDAD
+
+<!-- p. 14 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+IG MEDIDAS
+O
+
+L CÁTEDRA DEO –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA VARIEDAD
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 15 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 16 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A VARIEDAD DE MODELOS ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 17 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E PROYECTABLER
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S VENTANAOT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 18 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 19 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S. TABAQUERAE
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E VENTANAS
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 20 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 21 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+TS. PIVOTANTE
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E VENTANA
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 22 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T BALANCIN
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E VENTANA
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 23 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 24 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+OL MÚLTIPLE CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+I BALANCIN ARQUITECTURAR
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N - VENTANA
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 25 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I COLIZA
+G
+O O
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+I ARQUITECTURAR CORREDIZA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N - VENTANAE
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 26 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 27 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 28 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 29 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S. GUILLOTINA
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E VENTANA
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 30 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 31 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+I BATIENTE-ABATIBLER ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+
+\-N VENTANA
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 32 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 33 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 34 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+XE PUERTAS
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 35 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DELA PUERTA
+
+IG BATIENTE
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 36 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 37 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL PUERTA VAIVENA
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 38 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL PUERTA PIVOTANTE
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 39 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL PUERTA CORREDIZAA
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 40 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 41 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A PUERTA BASCULANTE
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 42 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 43 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 44 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A PUERTA GIRATORIA ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 45 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A PUERTA PLEGABLE
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 46 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 47 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 48 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+IG CORTINAS DE ENROLLAR
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD
+
+<!-- p. 49 -->
+
+S
+A
+R
+U
+T
+R TECNOLÓGICA
+E
+B
+A ÁREA
+E
+D DEL
+
+A
+
+I
+G
+O
+
+L CÁTEDRA
+O –
+P
+
+I
+T
+
+S.
+E
+R
+O
+
+IR ARQUITECTURA
+E DE
+T
+X
+E
+
+S
+OT FACULTAD
+N -
+E
+
+I ORT
+M
+A
+R
+R
+E
+C UNIVERSIDAD

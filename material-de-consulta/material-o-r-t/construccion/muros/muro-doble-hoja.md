@@ -1,0 +1,2737 @@
+---
+type: libro
+title: "Sin título de diapositiva"
+author: "WG"
+categoria: "MATERIAL O.R.T"
+paginas: 91
+extraccion: "texto"
+fuente: "local:E:/MATERIAL DE CONSULTA/MATERIAL O.R.T/construccion/muros/MURO DOBLE HOJA.pdf"
+convertido: 2026-10-16
+---
+
+# Sin título de diapositiva
+
+> Texto extraído de `MATERIAL O.R.T\construccion\muros\MURO DOBLE HOJA.pdf` (91 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+II TECNOLÓGICA
+ÁREA
+DEL
+HOJAHOJA GRAIÑO CÁTEDRA
+
+– PAPICH ELDUAYEN CONSTRUCTIVOS WALTER DOBLEDOBLECURSO ARQ. SEBASTIAN DEDE ARQUITECTURA FLORENCIA
+DE ARQ. ARQ. DOCENTE: MUROMURO FACULTAD
+
+\-
+ORT PROCEDIMIENTOS UNIVERSIDAD
+
+<!-- p. 2 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+LE DEL DOBLE WALL” FACULTAD
+
+\-
+DE 1898 ORT HOJA BUILDER JOURNAL ORÍGENES “CAVITY MURO UNIVERSIDAD
+
+<!-- p. 3 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 4 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 5 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 6 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 7 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 8 -->
+
+DEL DE TECNOLÓGICA
+ÁREA HOJAS VIENTO DEL
+A AL DOS
+J
+O ESTABILIDADH CÁTEDRA
+
+–E LASL LA
+B
+O A
+DE UNEN
+DS RESISTENCIA ARQUITECTURA
+O DE QUER SU
+U
+M A
+Y FACULTAD CONTRIBUYEN -
+ORT ÉSTE ANCLAJES MURO LOS UNIVERSIDAD
+
+<!-- p. 9 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 10 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\- MURO
+ORT
+EL VENTANA DOBLE
+LA EN UNIVERSIDAD
+
+<!-- p. 11 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\- MURO ORT
+LA
+EL DOBLE VENTANA UNIVERSIDAD EN
+
+<!-- p. 12 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 13 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U DE
+M
+FACULTAD MUROS - CÁLCULO” ORT NORMAS RIGIDIZACIÓN PARA “SIN UNIVERSIDAD
+
+<!-- p. 14 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 15 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 16 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 17 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 18 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 19 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 20 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 21 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 22 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 23 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 24 -->
+
+TECNOLÓGICA BOTTA
+ÁREA
+DEL
+A MARIO
+J
+O
+HE CÁTEDRA CON ARQ. –L
+B VISTO
+O
+D DEL
+
+E
+D
+
+OR ARQUITECTURA
+U OBRAS DE
+M LADRILLOL SOLUCIONES
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 25 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 26 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 27 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 28 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 29 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 30 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 31 -->
+
+TECNOLÓGICA BOTTA
+ÁREA
+DEL
+A MARIO
+J
+O
+HE CÁTEDRA CON ARQ. –L
+B
+O HORMIGÓN
+D DEL
+
+ED DE
+
+OR ARQUITECTURA
+U OBRAS DE
+ML SOLUCIONES
+E BLOQUES FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 32 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 33 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 34 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 35 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 36 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 37 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 38 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 39 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 40 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 41 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 42 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 43 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 44 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 45 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\- CON PIEDRA ORT
+DE SOLUCIONES ENVOLVENTE UNIVERSIDAD
+
+<!-- p. 46 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT ORÍGENES
+UNIVERSIDAD
+
+<!-- p. 47 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 48 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 49 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D MATERIAL
+E
+D DE
+OR ARQUITECTURA
+U DE
+M
+
+L TIPOS
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 50 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 51 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 52 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E DE FACULTAD
+
+\-
+ORT
+SISTEMAS FIJACIÓN UNIVERSIDAD
+
+<!-- p. 53 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 54 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 55 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 56 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 57 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 58 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 59 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 60 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 61 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 62 -->
+
+THOR TECNOLÓGICA
+ÁREA
+DEL
+A
+
+JO SISTEMA
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 63 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 64 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+A
+
+J
+O
+HE CÁTEDRA
+L –
+B
+O
+D
+
+E
+D
+
+OR ARQUITECTURA
+U DE
+M
+
+L
+E
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 65 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT PANELES PRIMERAS EXPERIENCIAS EN LIVIANOS UNIVERSIDAD
+
+<!-- p. 66 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT PANELES PRIMERAS EXPERIENCIAS EN LIVIANOS UNIVERSIDAD
+
+<!-- p. 67 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M PANEL FACULTAD
+
+\-
+ORT DEL
+UNIVERSIDAD DETALLE
+
+<!-- p. 68 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 69 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 70 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 71 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 72 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 73 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 74 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 75 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 76 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 77 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 78 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 79 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 80 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 81 -->
+
+TECNOLÓGICA
+ÁREA
+DEL ALUCUBOND
+
+A
+
+J
+OH CÁTEDRA DEL
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA BÁSICOS
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT COMPONENTES UNIVERSIDAD
+
+<!-- p. 82 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 83 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 84 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 85 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 86 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 87 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 88 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 89 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 90 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 91 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+A
+
+J
+OH CÁTEDRA
+
+–
+E
+
+L
+B
+O
+D
+
+E
+DS ARQUITECTURA
+O DE
+R
+U
+M
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD

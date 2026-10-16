@@ -1,0 +1,72 @@
+---
+type: libro
+title: "Sin título"
+author: "Arq. Ramiro Chaer"
+categoria: "ESTRUCTURA"
+paginas: 1
+extraccion: "texto"
+fuente: "local:E:/MATERIAL DE CONSULTA/ESTRUCTURA/CURSOS U.E.P/Arquitectura + Estructura/Intervención 10 - Escalera mecánica/e2_s_PB.pdf"
+convertido: 2026-10-16
+---
+
+# Sin título
+
+> Texto extraído de `ESTRUCTURA\CURSOS U.E.P\Arquitectura + Estructura\Intervención 10 - Escalera mecánica\e2_s_PB.pdf` (1 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+ESTRUCTURA SOBRE PL. BAJA
+ESC. 1/50
+TRAMOS DE NERVIOS EXISTENTES QUE SE
+DEMUELEN LUEGO DE LA COLOCACION DE
+LA PERFILERIA.
+
+4 PNC 30 ENCIMADOS DE A DOS
+
+630 VIGA EXISTENTE
+(60x117)
+
+2 PNC 22
+APOYO PERFILES SOBRE PILARES
+ESC. 1/20
+
+SE VINCULARAN CON SOLDADURA
+(CADA 1 mt. APROX.)
+LOS PERFILES CON LA ARMADURA
+A 3Ø19
+185 DE LA VIGA
+DOS B 3Ø16
+A Ø 6 DE CUATRO 9/40/4 25
+4 PNC 24 ENCIMADOS DE A DOS A
+DE
+50 SEGUN
+ANTECEDENTE ENCIMADOS
+20 B-B 40 ENCIMADOS SE PICA EL HORMIGON
+A 3Ø19 PNC 28 DEL PILAR SIN DAÑAR B 3Ø16 4 E1) SIMILAR SUS ARMADURAS
+PNC Ø 6
+8 CORTE (LAMINA
+9/40/4 25 20
+
+PERFILES 50 SEGUN
+ENCIMADOS ANTECEDENTE
+
+4 PNC 28 ENCIMADOS DE A DOS
+
+VIGA EXISTENTE
+(50x117)
+OBRA:
+ESCALERA MECANICA
+
+PLANO: N GRAL: ESTRUCTURA SOBRE
+PLANTA BAJA
+
+ESCALAS: FECHA:
+
+1/50 1/20 1/12.5
+
+TECNICO:
+
+RAMIRO CHAER
+a r q u i t e c t o ASESOR: E2
+EDIL HUGO PRATO 2255 ap.001 - MONTEVIDEO ARQ. RAMIRO CHAER
+TeleFax 402 18 66 - e-mail rch @ adinet.com.uy

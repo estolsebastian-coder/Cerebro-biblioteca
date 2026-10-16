@@ -1,0 +1,18 @@
+---
+type: libro
+title: "Estructura Muro - Salto, Ur"
+author: ""
+categoria: "ESTRUCTURA"
+paginas: 1
+extraccion: "texto (OCR pendiente)"
+fuente: "local:E:/MATERIAL DE CONSULTA/ESTRUCTURA/MUROS DE CONTENCIÓN Y MUROS DE SÓTANO/Estructura Muro - Salto, Ur.pdf"
+convertido: 2026-10-16
+---
+
+# Estructura Muro - Salto, Ur
+
+> Texto extraído de `ESTRUCTURA\MUROS DE CONTENCIÓN Y MUROS DE SÓTANO\Estructura Muro - Salto, Ur.pdf` (1 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+

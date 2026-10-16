@@ -1,0 +1,1428 @@
+---
+type: libro
+title: "DECRETO_89.995 Seguridad e Higiene"
+author: "guillermo"
+categoria: "NORMATIVAS Y DOCUMENTACIÓN"
+paginas: 24
+extraccion: "texto"
+fuente: "local:E:/MATERIAL DE CONSULTA/NORMATIVAS Y DOCUMENTACIÓN/SEGURIDAD EN OBRA/DECRETO_89.995 Seguridad e Higiene.pdf"
+convertido: 2026-10-16
+---
+
+# DECRETO_89.995 Seguridad e Higiene
+
+> Texto extraído de `NORMATIVAS Y DOCUMENTACIÓN\SEGURIDAD EN OBRA\DECRETO_89.995 Seguridad e Higiene.pdf` (24 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+MINISTERIO DE TRABAJO Y SEGURIDAD SOCIAL
+
+DECRETO 89/995
+
+SEGURIDAD E HIGIENE EN LA INDUSTRIA DE LA CONSTRUCCIÓN
+
+(NOTA: los artículos que se muestran tachados - 36.2, 84 al 100, 105, 107, 108, 113 - fueron derogados por el
+Decreto 179/001, disponiéndose en el mismo las medidas particulares de seguridad para el riesgo eléctrico en
+la Industria de la Construcción).
+
+Montevideo, 21 de febrero de 1995.
+
+VISTO: La necesidad de adecuar la normativa en materia de seguridad e higiene para la industria de la
+construcción, de forma tal de adaptarla a los cambios técnicos.
+RESULTANDO: Que el Art. 175 del decreto 111/990 prevé la creación y funcionamiento de una Comisión
+Tripartita a esos fines.
+CONSIDERANDO:
+I) Que resulta imprescindible la formulación y revisión periódica de las normas de seguridad e higiene laboral.
+II) Que la referida Comisión elevó a consideración del Poder Ejecutivo, luego de un profundo análisis de las
+condiciones existentes en la Industria de la Construcción en la actualidad, un proyecto sustitutivo del decreto
+111/990.
+ATENTO: A lo precedentemente expuesto y a las facultades conferidas por el art. 1 de la ley 5.032.
+
+EL PRESIDENTE DE LA REPÚBLICA DECRETA
+
+Capítulo I - Ámbito de Aplicación
+
+Art. 1º. La presente reglamentación se aplica a todas las actividades realizadas por contratistas,
+subcontratistas, propietarios que realicen obras por administración directa, con o sin la intervención de
+contratistas y/o subcontratistas, trabajadores por cuenta propia y trabajadores subordinados de la industria de la
+Construcción (que se definen en el art. 2), incluidos cualquier proceso, operación o transporte en las obras
+desde la iniciación de los trabajos hasta su finalización.
+Art. 2º. La expresión construcción abarca:
+2.1. Las obras de construcción del sector público o privado, tales como: edificios, carreteras, autopistas,
+puentes, ferrocarriles, muelles, puertos, canales, embalses, obras de protección contra las aguas fluviales o
+marítimas, túneles, viaductos y obras relacionadas con la prestación de servicios como: empresas que
+arrienden o instalen andamios y maquinarias, fabricación, montaje y reparación de galpones, comunicaciones,
+desagües, alcantarillados y suministro de agua y energía. Se incluyen en todos los casos, las excavaciones, las
+transformaciones estructurales, la renovación así como la reparación y el mantenimiento, incluidos cuando
+correspondan, los trabajos de limpieza y pintura y la demolición de todo tipo de edificios, obras y estructuras
+como las mencionadas.
+2.2. El montaje y desmontaje de edificios y estructuras en base de elementos prefabricados, así como la
+fabricación de dichos elementos en las obras.
+
+Capítulo II - Condiciones generales de Bienestar
+
+Art. 3º. Toda obra de construcción deberá desde su inicio poseer lugares adecuados con destino a servicios
+sanitarios, duchas, vestuarios y comedor que deberán estar levantados del terreno o construidos sobre una
+base bien seca en forma de no permitir la penetración ni el estancamiento del agua, así como reunir las
+condiciones que se detallan en los artículos siguientes. Mientras se construyen dichos servicios los mismos
+podrán ser de carácter precario, hasta por un plazo máximo de 30 jornadas efectivamente trabajadas. Se
+entenderán como precarias aquellas instalaciones construidas como mínimo con puntales y chapas
+impermeables a fin de garantizar la seguridad, salud y dignidad de los trabajadores.
+
+<!-- p. 2 -->
+
+Servicios Sanitarios
+
+Art. 4º. Toda obra deberá disponer de servicios sanitarios bien ventilados e iluminados y mantenidos en buenas
+condiciones de aseo, funcionamiento y conservación. Los usuarios serán responsables del buen uso y
+tratamiento de las instalaciones y materiales suministrados.
+Art. 5º. Los servicios higiénicos se establecerán debidamente independizados de los locales donde se trabaje,
+para lo cual cada sección de ellos, estará provista de una puerta que impida el contacto de ambos ambientes.
+Las medidas mínimas serán de 1 m. de ancho por 1,20 m. de largo por 2,2 m. de altura.
+Art. 6º. Cuando la obra emplee personal de ambos sexos deberá disponer de servicios higiénicos separados
+para cada sexo.
+Art. 7º. El número de gabinetes higiénicos, conteniendo inodoro pedestal o taza sanitaria, estará de acuerdo al
+número de trabajadores por turno y sexo en la siguiente forma:
+7.1. Hasta 100 trabajadores: uno cada 15 trabajadores o fracción.
+7.2. De 101 hasta 200: uno cada 20 trabajadores o fracción.
+7.3. De 201 a 300: uno cada 30 trabajadores o fracción.
+7.4. Más de 300: uno cada 30 trabajadores sin limitación.
+En los servicios destinados a hombres podrá sustituirse la mitad de los inodoros o tazas sanitarias por urinales
+o mingitorios.
+Están prohibidas las tazas turcas sin sifón y los asientos de fabrica. El empleador deberá suministrar,
+recipientes adecuados con tapa y bolsa de polietileno o similar para que no se arrojen desperdicios al suelo.
+Lavar los baños diariamente con hipoclorito o algún desinfectante efectivo.
+Art. 8º. Tanto los lavabos como los artefactos sanitarios, inodoros, tazas sanitarias, mingitorios, deben ser de
+materiales adecuados como loza, gres vidriado, acero inoxidable (u otros). Se deberá utilizar lavabos y cuando
+sean colectivos, éstos podrán se de portland lustrado.
+Art. 9º. Los inodoros, tazas, urinales o mingitorios, estarán provistos de la correspondiente descarga mecánica
+de agua y dispondrán de los sifones y ventilaciones adecuados.
+Art. 10º. Las paredes hasta un metro ochenta centímetros y los pisos deberán ser de portland lustrado u otros
+materiales similares que ofrezcan una superficie lisa, impermeable, resistentes y fácilmente higienizable.
+Art. 11º. Toda obra fija con duración mayor de seis meses, deberá servirse de la red cloacal, De no ser
+posibles, se cumplirá con el artículo siguiente.
+Art. 12º. Cuando la obra esté ubicada en zona urbana o centro poblado donde no existe red cloacal, se deberá
+utilizar pozo séptico, impermeable y ventilado construido de hormigón armado u otro material el que se
+desagotará mediante servicio de barométrica.
+
+Duchas
+
+Art. 13º. Los servicios higiénicos deberán completarse con instalación de duchas. Hasta 5 trabajadores habrá
+una ducha común.. Cuando existan más de 5 trabajadores habrá duchas separadas por sexo en razón al
+siguiente número de trabajadores por turno:
+13.1. Hasta 20 trabajadores: 1 cada 5 trabajadores o fracción.
+13.2. Por los siguientes 20 trabajadores: 1 cada 10 trabajadores o fracción.
+13.3. Por los siguientes 60 trabajadores: 1 cada 20 trabajadores o fracción.
+13.4. Para los que exceden los 100 trabajadores 1 cada 30 trabajadores o fracción.
+Art. 14º. Las duchas contarán con suficiente agua potable, fría y caliente; estarán instaladas en locales
+ventilados, construidos de material y dispondrán de espacio suficiente que posibilite su uso.
+Las paredes hasta 1 metro ochenta centímetros y los pisos deberán ser de portland lustrado o alisado u otros
+materiales similares que ofrezcan una superficie impermeable, resistente y fácilmente higienizable. Los pisos
+tendrán pendiente para evitar el estancamiento del agua. Queda prohibido el uso de calentadores de agua a
+alcohol y rejillas. El local de duchas, contará con igual número de perchas por duchas.
+
+Vestuarios
+
+Art. 15º. Las obras deberán tener locales separados por sexo, apropiados para que el personal efectúe el
+cambio de sus ropas y pueda guardar las mismas, así como sus efectos personales en forma higiénica y
+segura.
+Art. 16º. Los vestuarios deberán ubicarse cercanos o anexos a las duchas, ser aireados, iluminados y bien
+defendidos de la intemperie.
+Deberán estar acordes con el número de usuarios para permitir el adecuado uso y desplazamiento dentro de
+los mismos.
+
+<!-- p. 3 -->
+
+Art. 17º. Los vestuarios serán de material o madera y deberán contar con bancos y percheros en cantidad
+suficiente para todo el personal. Prohíbese el uso de clavos en sustitución de los percheros.
+
+Comedor
+
+Art. 18º. Los trabajadores dispondrán de un lugar adecuado para comer, ventilado e iluminado, con mesas y
+asientos en cantidad suficiente. La mesa deberá tener superficie superior no absorbente, fácilmente
+higienizable. El comedor se utilizará sólo para este fin.
+Art. 19º. Deberá suministrarse a los trabajadores sin cargo alguno los elementos necesarios para calentar su
+comida y lavar los recipientes.
+Art. 20º. Se prohíbe el despacho y/o ingestión de vinos, cervezas y otras bebidas alcohólicas, tanto en los
+comedores como en cualquier lugar de la obra.
+20.1. Cuando existan dudas de que un trabajador hubiere ingerido bebidas alcohólicas, la empresa podrá
+controlar con métodos de detección no invasivos (Espirometría o similar), la existencia de alcohol en el
+organismo.
+20.2. Si del control realizado, surge la existencia de un nivel de alcohol superior a 0,8 gr. por litro, el operario
+será inmediatamente suspendido pudiendo ser sancionado de acuerdo al Art. 258 del presente Decreto.
+20.3. Los valores máximos de alcohol en la sangre, podrán ser modificados por Resolución del Poder Ejecutivo
+en caso de consagrarse a nivel internacional nuevos valores modificativos del mencionado.
+Art. 21º. Queda prohibido que los trabajadores ingieran sus alimentos en las obras, fuera del lugar o lugares
+destinados por la empresa a comedor.
+Art. 22º. Cuando las obras requieran el traslado continuo del personal y sus instalaciones, los servicios
+higiénicos, duchas, vestuarios y comedor, podrán ser de carácter móvil, portátil o similar, siempre que aseguren
+la dignidad y la salud de los trabajadores.
+
+Dormitorios temporarios
+
+Art. 23º. Cuando el trabajador debe pernoctar en el lugar de trabajo, el empleador tiene la obligación de
+proveerle albergue capaz de defenderlo eficazmente de los agentes atmosféricos.
+Las construcciones para dormitorios deben responder a las siguientes condiciones
+23.1. Los ambientes para adultos serán separados por sexo y estarán separados de aquellos para niños, a
+menos que sean destinados exclusivamente a una sola familia.
+23.2. Estarán levantados del terreno o sobre una base bien seca, en forma de no permitir la penetración de
+agua en las construcciones ni el estancamiento de la misma en una zona de por lo menos 10 metros alrededor.
+23.3. Estarán construidas en forma de defender bien el ambiente interno de los agentes atmosféricos.
+23.4. Dispondrán de aberturas suficientes para obtener una activa ventilación del ambiente provistas de buen
+cerramiento móvil, puertas y ventanas con protección contra insectos.
+23.5. Estarán provistos de iluminación adecuada.
+23.6. Tendrán una superficie no inferior a tres metros cuadrados por persona.
+23.7. Cercanas a dicha construcción o haciendo cuerpo con ellas, debe existir locales apropiados de servicios
+higiénicos, cocina y comedor.
+23.8. Cuando la duración de la obra sea inferior a quince días, los locales destinados a dormitorios podrán ser
+de madera, similares a carpas u otro tipo de construcción, con la condición de que sean secas y estén provistas
+de techos y cerramientos adecuados.
+Art. 24º. Los locales usados en carácter de dormitorios temporales deben ser fumigados una vez por año o
+cuando cambien sus ocupantes.
+Art. 25º. A cada persona le será destinada una cama, catre o cucheta con colchón, almohada y una frazada, así
+como también asientos, perchas y repisas. Trabajador y empleador podrán acordar que el operario utilice sus
+propios enseres siendo de cargo de la empresa el transporte de los mismos.
+Art. 26º. Los pisos de los vestuarios, comedor y dormitorios temporarios serán de superficie lisa y estable,
+pudiendo emplearse para ello materiales estabilizados con portland.
+
+Locales de Resguardo
+
+Art. 27º. En los trabajos que se desarrollen continuamente al aire libre tales como carreteras, tendido de líneas,
+saneamiento u otros similares deberán disponer de protección, donde los trabajadores puedan refugiarse de la
+intemperie en las horas de la comida y descanso.
+
+<!-- p. 4 -->
+
+Provisión de agua para uso humano
+
+Art. 28º. En cada obra o en las inmediaciones de la misma, debe haber a disposición de los trabajadores, agua
+potable en cantidad suficiente tanto para beber como para su higiene personal.
+Para la provisión, conservación, transporte y distribución del agua, deben observarse las normas higiénicas
+necesarias para evitar su alteración y para impedir la difusión de enfermedades.
+La distribución del agua para lavarse debe ser efectuado mediante la instalación de cañerías y lavados con grifo
+y desagüe, estando prohibido el uso de lavatorios o palanganas con agua estancada.
+Si se provee de bebederos, éstos deberán mantenerse en estado de correcta higiene.
+Art. 29º. Toda obra ubicada en zona donde hay servicio público de agua corriente, deberá proveerse de ella,
+para ser bebida y para ser utilizada en lavabos y duchas.
+Art. 30º. Las obras ubicadas en zonas donde no hay servicio público de agua, podrán recurrir para proveerse
+de ella a pozos perforados, procediendo a hacer analizar el agua para comprobar su potabilidad. Este control
+deberá repetirse periódicamente, al menos una vez al año. Podrá admitirse una fuente superficial de provisión
+de agua siempre que ésta sea sometida a un procedimiento de potabilización aprobado por las autoridades
+competentes. Dicho documento de potabilidad del agua deberá estar en obra. Mientras dicho documento no se
+haya expedido, o de no hallarse en obra se aplica Art. 28 y 29.
+Art. 31º. Cuando se disponga de tanques de almacenamiento y distribución del agua, deberá cuidarse que ellos
+se mantengan en buenas condiciones de conservación, siempre tapados y sometidos a limpiezas periódicas,
+las que quedarán registradas. En estos casos, los controles de potabilidad de agua deberán hacerse sobre
+muestras obtenidas después de la salida del tanque, demás de aquellos que correspondan efectuar sobre la
+fuente.
+
+Talleres de Obrador
+
+Art. 32º. Cuando la magnitud de la obra requiera la existencia de un obrador, el taller de éste, en el caso de
+existir deberá tener una altura media de dos metros sesenta centímetros y una mínima de dos metros veinte
+centímetros, de un sexto y un décimo de la superficie del piso.
+La intensidad mínima de iluminación sobre los puestos de trabajo, será de 200 lux, medidos a 0,80 metros del
+piso.
+
+Botiquín
+
+Art. 33º. En toda obra deberá existir en un lugar accesible un botiquín de primeros auxilios, que pueda
+trasladarse dentro de la misma.
+Debe contar con los siguientes elementos:
+1 - gasa estéril
+2 - algodón hidrófilo
+3 - leucoplast
+4 - vendas de lienzo
+5 - agua oxigenada de 10 volúmenes
+6 - solución antiséptica externa
+7 - apósitos para quemaduras
+8 - jabón neutro
+9 - pomadas analgésicas musculares de uso externo.
+Dichos elementos deberán encontrarse en cantidad suficiente en proporción al número de obrero empleados.
+Cuando los operarios estén trabajando a una distancia de la obra superior a tres kilómetros, deberán tener
+consigo los elementos indicados en los numerales 1 a 6 para prestar auxilio de emergencia.
+
+Orden y Limpieza de las Obras
+
+Art. 34º. En toda obra y sus acceso deberán observarse el orden y la limpieza. Los lugares de paso deberán
+tener un ancho mínimo de 0,60 mts. y estarán limpios de clavos, herramientas y otros objetos procedentes de
+operaciones de construcción o demolición.
+Art. 35º. La madera después de usada en andamios, apuntalamientos y encofrados se limpiará y apilará
+convenientemente.
+Las pilas de material a granel, en bolsas, deberán tener una forma y altura que garanticen su estabilidad. El
+retiro de los materiales estibados no deberá comprometer la seguridad de los trabajadores ni de la estiba.
+
+<!-- p. 5 -->
+
+Capítulo III – Andamios Disposiciones Generales
+
+Art. 36º. Los andamios deberán cumplir con los requisitos generales exigibles respecto a materiales,
+estabilidad, resistencia y seguridad en general en cada clase de ellos. Las plataformas de trabajo tendrán un
+coeficiente de seguridad igual a cuatro relacionando todos los elementos que la sostiene.
+36.1. Las dimensiones de las diversas piezas y elementos auxiliares (cables, alambres, tablones, machinales)
+serán las suficientes como para que las cargas de trabajo a las que se prevea que van a estar sometidos no
+sobrepasen las establecidas para cada material con sus correspondientes coeficientes de seguridad.
+36.2. Para impedir descargas disruptivas en trabajos efectuados en la proximidad de partes no aisladas de
+instalaciones de servicio, se adoptarán las medidas necesarias para asegurar que entre cualquier punto de
+tensión y la parte más próxima del cuerpo del operario o de las herramientas no aisladas, por él utilizadas, bajo
+todas las circunstancias se mantengan las distancias mínimas siguientes:
+
+TENSION EFICAZ
+(corriente alterna) DISTANCIA MÍNIMA EN METROS
+
+0 a 32 voltios
+0,00
+más de 32 volt. de 1Kv
+1,00
+más de 1 Kv, a 6,6 Kv
+3,00
+más de 6,6 Kv
+5,00
+
+Art. 37º. Cuerdas salvavidas. Para cada operario se colocará una cuerda salvavidas, suspendida
+independientemente del andamio, para fijar en ella el cinturón de seguridad. Esta cuerda podrá cubrir toda la
+altura de operación o partiendo del cinturón se fijará en un punto máximo de la construcción.
+
+Plataformas de Trabajo
+
+Art. 38º. El ancho de la plataforma será el preciso para la fácil circulación de los obreros y para el adecuado
+almacenamiento de los útiles, herramientas y materiales imprescindibles para el trabajo a realizarse sobre la
+misma. No deben hacerse plataformas de trabajo apoyadas sobre materiales de construcción tales como
+ladrillos, tanques, ticholos, bloques, escaleras de mano, bolsas de cemento u otros similares.
+En las plataformas de trabajo no puede haber hueco ni discontinuidades y estarán constituidas por elementos
+resistentes, ensamblajes y uniones adecuadas.
+
+Andamios
+
+Art. 39º. Desde su instalación y mientras se utilice un andamio de cualquier tipo, la empresa deberá presentar
+ante la Inspección General del Trabajo y la Seguridad Social, y tener en obra la siguiente documentación:
+planos, memoria de cálculos y memoria descriptiva del andamio firmada por la empresa y un Técnico habilitado
+(Arquitecto o Ingeniero Civil).
+Dicha documentación deberá estar a disposición de la Inspección General de Trabajo, cuando así la requieran.
+Art. 40º. En la documentación establecida en el art. 39 deberá constar:
+40.1. Fecha.
+40.2. Razón social.
+40.3. RUC de la empresa responsable por la instalación y uso del andamio.
+40.4. Ubicación de la obra.
+40.5. Uso del andamio y descripción de todas sus partes.
+40.6. Características del andamio (empalmes, arriostramientos, sujeciones, etc.).
+40.7. Estudio de cargas.
+40.8. Estudio de resistencia principalmente de las partes del edificio o de la estructura a la que estará unido el
+andamio.
+40.9. Cálculo detallado de los diferentes elementos estructurales con especificación de los coeficientes de
+seguridad, contrapesos, ménsulas, grilletes, tablas, plataformas de trabajo.
+40.10. Se indicará puntos y sistemas de sujeción para el cinturón de seguridad.
+
+<!-- p. 6 -->
+
+40.11. Planos o croquis: en dicha documentación gráfica se detallará el dimensionado de todos los elementos
+estructurales resistentes para la sustentación del andamio así como el de la plataforma de trabajo y de sus
+barandas. Si el tipo de andamio proyectado lo requiere se especificarán en secuencia de montaje y/o
+desmontaje y/o condiciones especiales de utilización.
+40.12. Sin perjuicio de que la memoria de cálculo lo defina, se incorporará a los planos un detalle especial e
+independiente estableciendo las condiciones máximos de usos del andamio referidas a estabilidad y resistencia
+en función de las diferentes hipótesis de utilización previstas.
+Art. 41º. La documentación establecida en el Art. 40 será presentada con cinco días de anticipación a la fecha
+en que se comenzará a hacer uso de los andamios.
+Art. 42º. Si no hubiese copia de la Memoria Descriptiva en la obra o si efectuada una inspección se
+comprobase que los andamios no se ajustan a la Memoria exhibida se dispondrá de inmediato la clausura del
+andamio hasta tanto sea regularizada la situación.
+Art. 43º. Mientras dure la clausura del andamio la empresa dará trabajo acorde a su categoría laboral al
+personal afectado. En caso de no poder asignarse tareas propias de la categoría se encomendarán otras,
+aunque no se correspondan con la misma.
+Art. 44º. Para levantar la clausura la empresa comunicará por escrito y firmado por un Técnico a la Inspección
+General del Trabajo que el andamio ha sido regularizado, y esta Secretaría de Estado dispondrá de un plazo de
+48 horas para efectuar el control pertinente, vencido el mismo se dará por levantada la clausura.
+Art. 45º. La responsabilidad del Técnico firmante del proyecto de andamio será limitada a ese carácter.
+La responsabilidad de la empresa que lo utiliza y del Técnico responsable de la empresa será total por el buen
+uso del andamio.
+En caso que el Técnico firmante del proyecto ejerciera la dirección de cualquier etapa del andamio que incluya
+desde su instalación, utilización y desarmado será co-responsable con la empresa por dichas etapas.
+Art. 46º. En caso de que los andamios sean arrendados por la empresa a personas o firmas arrendadoras de
+andamios, será de cargo del arrendador la presentación de la documentación establecida en el Art. 40 ante la
+Inspección General del Trabajo y será de su cargo la responsabilidad del estado de conservación del andamio,
+y que su construcción y armado en obra responda al proyecto y cálculo presentado.
+El arrendatario será responsable del uso del andamio.
+Art. 47º. No deberá permitirse el acceso a los andamios a cualquier persona que declare ser epiléptico,
+alcohólico o sufrir de vértigo.
+Art. 48º. Las plataformas deberán ser adecuadas a su utilización; su ancho de trabajo no será inferior a 0,60
+mts. Si la misma es de madera los tablones serán de un espesor no menor de 4 cms. y deben estar unidas
+entre sí. Las flechas no diferirán en ningún punto, para cualquier combinación de cargas, más de 6 cms. Se
+prohibe el apoyo de una plataforma en el volado de otra.
+Art. 49º. Cuando los tablones tengan tres apoyos sus extremos volarán 30 cms. como mínimo y si tuvieran dos
+apoyos, sus extremos volarán 50 cms. como mínimo. Cuando los tablones vayan solapados se deberán colocar
+tablas chaflanadas contra el extremo del tablón superior a efectos de evitar que los trabajadores tropiecen al
+caminar por el andamio. Se desecharán tablones con nudos que perjudiquen la resistencia de estos.
+Art. 50º. Acceso a los andamios. Los andamios deberán contar con medios seguros de acceso como escaleras
+o rampas. Las escaleras de mano deberán estar aseguradas de modo que se impida su flexión y los
+movimientos laterales.
+Las rampas se colocarán con una inclinación máxima de 30 grados, con barandas de ambos lados de 0,70 y
+1,40 mts. de altura y rodapié de 0,15 mts., con dos apoyos con una separación máxima de 3 mts. el ancho de la
+plataforma no será inferior a 0,60 mts. y las mismas estarán provistas de listones colocados en forma
+transversal como forma de facilitar los desplazamientos.
+Art. 51º. Los andamios nunca se usarán para la elaboración de materiales o mezclas y/o para soporte de
+máquinas pesadas prohibiéndose especialmente el uso en ellos de mecanismos que les transmitan vibraciones.
+La presente prohibición no alcanza al uso de herramientas eléctricas portátiles.
+Art. 52º. La separación máxima entre la plataforma de trabajo y la fachada será de 0,30 mts.
+Art. 53º. Las barandas constarán de dos tablas en buen estado de 2,5 cms. de grosor por 15 cms. de ancho o
+piezas de resistencia (tubos metálicos) de por lo menos 150 kg. por metro lineal en cualquier plano, colocadas
+las aristas superiores a 1,40 y a 0,70 mts. de la superficie de tránsito y trabajo. Se instalará además rodapié de
+15 cms. de altura perfectamente adosado a la plataforma de trabajo y en todo su perímetro.
+
+Andamios Colgantes
+
+Art. 54º. Los andamios colgantes se ajustarán a las normas UNIT 465/77 y 527/78, salvo que la empresa haya
+diseñado sus propios andamios; en este caso los andamios podrán diferir lo establecido en dichas normas.
+
+<!-- p. 7 -->
+
+Aún en estos casos los hierros que conformen los andamios tipo escalerillas serán del tipo descripto en las
+normas citadas.
+
+Andamios Volados
+
+Art. 55º. Las ménsulas de los andamios volados si son de madera lo serán de una sola pieza, su estado será
+de madera verde, preferentemente Eucaliptos; su diámetro mínimo será de 0,12 mts. o una sección mínima de
+0,12 x 0,12 mts.
+En lo concerniente a la longitud, ésta deberá ser de 4 mts. aproximadamente y la parte suspendida no podrá ser
+mayor de 1,20 mts. ni menor a 0,60 y la parte apoyada en la estructura será dos veces la longitud suspendida.
+La separación máxima entre ejes de ménsulas no superará los 1,20 mts.
+
+Andamios de Madera
+
+Art. 56º. Los pies derechos de los andamios no podrán estar colocados en ningún caso a distancia mayor de 4
+mts. uno de otro. Cuando los pies derechos se apoyen en terreno no muy firme, estarán sólidamente
+empotrados en el suelo a una profundidad de 0,50 mts. a 1 mts. o descansarán sobre una tabla horizontal de
+ancho y largo suficiente. Los pies derechos deben quedar verticales o tener una ligera inclinación hacia la
+construcción. Su sección mínima será de 0,12 x 0,12 mts. para el primer piso y de 0,10 x 0,10 mts. para los
+siguientes.
+Cuando deben formarse varias piezas se cuidará que cada una de ellas tengan la mayor longitud posible. Los
+empalmes de los pies derechos adyacentes no deben estar nunca a la misma altura. Los pies derechos hay que
+anclarlos al edificio alternativamente y a distancias no mayores de dos pisos. La altura de los pies derechos
+debe superar por lo menos 1,40 mts. la última plataforma o el plano del alero.
+Los pies derechos han de unirse entre si por medio de cruces de San Andrés en número suficiente.
+Art. 57º. Los machinales deberán tener una sección mínima de 7,5 cms. x 7,5 cms. o contar de dos tablas
+unidas de 2,5 cms, x 15 cms.; no deben estar entre sí a una distancia mayor de 1,4 mts. en lo vertical y deben
+estar sólidamente fijados a los pies derechos.
+Art. 58º. Para afianzar los pies derechos se deberá utilizar un larguero que se extienda horizontalmente de pie
+derecho a pie derecho en ángulo recto con los machinales. Las distancias, medidas en vertical, no deben
+superar los 2 mts., las uniones nunca deberán caer entre los pies derechos. La sección mínima será de 0,12 x
+0,12 mts.
+
+Andamios sobre Caballetes
+
+Art. 59º. Se exceptúa para este tipo de andamios las disposiciones establecidas en el Art. 40 respecto a la
+presentación de memorias, croquis, y cálculos.
+Art. 60º. La distancia entre 2 caballetes no excederá de 2,5 mts.
+Art. 61º. Se prohibe usar andamios sobre caballetes superpuestos.
+Art. 62º. Las plataformas de los andamios sobre caballetes no deben superar los 2 mts. de altura.
+Art. 63º. Se colocarán las barandas reglamentarias y rodapié cubriendo la caída al vacío, cuando se trabaje en
+las proximidades de ventanas, balcones, huecos de ascensor, etc.
+Art. 64º. Los andamios estarán formados por un mínimo de 2 caballetes con la distancia anteriormente
+mencionada.
+Art. 65º. El machinal superior de los caballetes debe ser tal que constituya un apoyo suficientemente amplio
+para los tablones y estar en forma horizontal.
+Los pies se deben asegurar con tirantes normales y diagonales (cruces de San Andrés).
+Se mantendrá una justa proporción entre la altura y la dimensión de la base, o se la base será la mitad de su
+altura.
+
+Andamios Tubulares
+
+Art. 66º. Cuando se apoyen sobre terreno no muy firme las bases de los andamios tubulares descansarán
+sobre tablas horizontales de ancho y largo suficiente, o bases de hormigón que repartan las cargas sobre una
+mayor superficie, y mantener la horizontalidad del conjunto. Dicha horizontalidad puede conseguirse mediante
+el uso de bases nivelables sobre tornillos sin fin. En las bases se podrán realizar pequeños orificios para facilitar
+su fijación mediante clavos en las tablas de madera.
+Art. 67º. Los componentes del andamio tubular deberán disponer de arriostramiento del tipo «Cruz de San
+Andrés» por ambas caras, cuya cantidad y diseño será explicitada en la memoria descriptiva y croquis.
+
+<!-- p. 8 -->
+
+Art. 68º. Los andamios tubulares se anclarán al edificio, o mantendrán su estabilidad mediante el uso de
+apuntalamientos laterales que aseguren su estabilidad en función de las cargas, altura y condiciones de uso
+para los que fue diseñado y calculado el andamio. Dichas condiciones estarán claramente establecidas en la
+Memoria Descriptiva del andamio.
+Art. 69º. Los extremos de los tubos deben ser lisos, sin rebarbas, y deben terminar con una superficie en
+ángulo recto con el eje.
+Art. 70º. Los pies derechos tubulares de una misma fila transversal se deben poner a una distancia no superior
+a 1,80 mts. entre eje y eje.
+
+Capítulo IV - Protecciones Especiales Redes Protectoras
+
+Art. 71º. En las obras que se construyan con estructura, se colocará como medida de protección y seguridad
+una de las siguientes protecciones mínimas:
+71.1. Una red metálica o de otro material de similar resistencia, de un ancho no menor de tres metros, la que se
+aplicará no más de 6 metros por debajo del piso en construcción. Dicha red será tendida sobre tirantes de un
+espesor mínimo de 0,12 x 0,12 mts., o piezas de similar resistencia y a una distancia entre sí de 3 mts., con una
+inclinación hacia dentro de 30 grados. La malla a utilizar será de tejido de alambre galvanizado, con aberturas
+no mayores de 7,5 x 7,5 cms. y estará afianzada a los tirantes que la sostienen.
+71.2. Una red de fibra natural o sintética de tipo cortina vertical que cubra todo el perímetro exterior de la obra,
+debiendo estar sólidamente fijada a la estructura mediante pescantes en su parte superior y grampas en la
+inferior en cantidad suficiente. La parte inferior de la red deberá estar sujeta como máximo en el piso inferior al
+de trabajo.
+Art. 72º. Se debe controlar la repercusión que los factores atmosféricos tienen sobre la red, a efectos sus
+revisiones periódicas e incluso de su sustitución.
+Art. 73º. Los objetos o materiales que caen normalmente sobre la red, deben ser retirados con la frecuencia
+que se requiera, según los casos, de forma que nunca impliquen un riesgo para las personas que pudieran
+caer, un daño a la propia red o una sobrecarga excesiva permanente sobre la misma.
+
+Aberturas y Barandas
+
+Art. 74º. Las aberturas o huecos en los pisos estarán siempre protegidos por resguardos, o barandas y
+rodapiés.
+Art. 75º. Las aberturas para escaleras y rampas estarán siempre protegidas en sus lados mediante barandas, a
+excepción del lado de acceso. Estas estarán a una altura de 0,70 y 1,40 metros del nivel del piso.
+Art. 76º. Las aberturas de las paredes que estén a menos de 0,90 mts. sobre la superficie, de tránsito y trabajo,
+y en las cuales haya peligro de caída desde más de 2 mts. de altura, estarán protegidas por barandas, rejas u
+otros resguardos.
+Escaleras
+Art. 77º. El ascenso y descenso se realizará con las manos libres de forma que el trabajador pueda disponer de
+las mismas para agarrarse a los escalones.
+Art. 78º. Nunca se utilizará una escalera sobre apoyos de dudosa estabilidad tales como cajas, bolsas, tanques,
+etc. con el fin de ganar altura.
+Art. 79º. Se prestará especial atención a las zapatas antideslizantes reponiendo las deterioradas o extraviadas,
+obligando a su utilización. Estas zapatas podrán ser de cualquier material o elemento que impida el
+deslizamiento.
+Art. 80º. Las escaleras de mano ofrecerán siempre las necesarias garantías de solidez, estabilidad y seguridad.
+Los largueros serán de una sola pieza y los peldaños estarán ensamblados y clavados.
+No deberán protegerse con pinturas que oculten sus posibles defectos.
+Se prohibe el empalme de dos escaleras de mano a no ser que en su estructura cuenten con dispositivos
+especialmente preparados para ello.
+Las escaleras de mano simples no deben salvar más de 5 mts., a menos que estén reforzadas en su centro,
+quedando prohibido su uso a alturas superiores a 7 mts. Siempre que un operario, utilizando una escalera
+manual supere los 3 mts. de altura sobre el suelo, deberá utilizar cinturón de seguridad sujeto a puntos ajenos a
+la escalera.
+Art. 81º. En la utilización de las escaleras de mano se adoptarán las siguientes precauciones:
+81.1. Su pie se apoyará en superficies horizontales, planas y sólidas, que eviten su deslizamiento por la base.
+81.2. La distancia entre los pies y la vertical de su punto superior de apoyo será la cuarta parte de la longitud de
+la escalera hasta el punto de apoyo.
+
+<!-- p. 9 -->
+
+81.3. Las escaleras de tijera o dobles, estarán provistas de dispositivos que establezcan la abertura única a la
+que deben ser utilizada y aseguren su estabilidad.
+Art. 82º. Toda escalera fija llevará una baranda o pasamanos con una altura de 0,90 mts. del lado del vacío.
+Se iluminará con intensidad suficiente y uniformemente en toda su extensión las escaleras fijas por donde
+circulan trabajadores.
+La iluminación en servicio será de 150 lux por lo menos.
+Art. 83º. Las escaleras deberán mantenerse siempre limpias y libres de obstáculos. Se deberá evitar la
+acumulación de materiales en los descansos así como el tendido de cables eléctricos sobre la escalera.
+
+Riesgo Eléctrico
+
+Art. 84º. Se colocarán en lugares apropiados, avisos que den instrucciones sobre el tratamiento y la
+reanimación de las personas que hayan sufrido un choque eléctrico.
+Art. 85º. Las Instalaciones eléctricas deben hacerse de acuerdo con las exigencias de la autoridad competente,
+que fijará la calidad de los conductores, características de los tendidos a canalizaciones, dispositivos de corte y
+seguridad,
+Art. 86º. Cuando se trabaje con tensiones superiores a la de seguridad, que es de 32 voltios, deberán tomarse
+las medidas de prevención a fin de evitar el pasaje de corriente eléctrica por el cuerpo del trabajador, con
+intensidad que pueda resultar peligrosa. Se considera adecuado el uso de disyuntor diferencial.
+Art. 87º. Las máquinas eléctricas deberán tener dispositivos de corte de seccionamiento que impidan su
+funcionamiento intempestivo.
+Art. 88º. En las Instalaciones y equipos eléctricos para la protección de las personas contra los contactos con
+parte habitualmente en tensión, se adoptarán algunas de las siguientes medidas:
+88.1. Se alejarán las partes activas de la instalación, del lugar donde las personas habitualmente se encuentren
+o circulen.
+88.2. Se interpondrán obstáculos que impidan todo contacto accidental con las partes activas de la instalación.
+Art. 89º. Las medidas de protección contra los contactos eléctricos indirectos, que se entienden son aquellos
+que se pueden producir con elementos que ocasionalmente estén en tensión, serán de los siguientes tipos:
+89.1. Medidas consistentes en tomar disposiciones destinadas a suprimir el riesgo mismo haciendo que los
+contactos no sean peligrosos, o bien impidiendo los contactos simultáneos, entre las masas y elementos
+conductores en los cuales pueda aparecer una diferencia de potencial peligrosa.
+89.2. Medidas consistentes en la puesta a tierra efectiva y debidamente mantenida de las masas.
+Art. 90º. Las masas de las máquinas eléctricas deberán estar unidas eléctricamente a una toma a tierra o a un
+conjunto de tomas a tierra interconectadas. El circuito de puesta a tierra deberá ser continuo, permanente, tener
+la capacidad de carga para conducir la corriente de falla y una resistencia adecuada acorde a las
+especificaciones del organismo oficial competente. Los valores de las resistencias de las puestas a tierra de las
+masas deberán estar de acuerdo con el umbral de tensión de seguridad y los dispositivos de corte deberán ser
+elegidos de modo de evitar llevar o mantener las masas a un potencial peligroso en relación a la tierra o a otra
+masa vecina.
+
+Interruptores y Cortacircuitos de Baja Tensión
+
+Art. 91º. Los interruptores y cortacircuitos de baja tensión cumplirán las siguientes prescripciones:
+91.1. Los fusibles o cortacircuitos no estarán al descubierto a menos que estén montados de tal forma que no
+puedan producirse proyecciones ni arcos.
+91.2. Los interruptores deberán ser de equipo completamente cerrado, que imposibilite, en cualquier caso, el
+contacto fortuito de personas o cosas.
+91.3. Se prohibe el uso de interruptores denominados «de palanca» o «de cuchilla» que no estén debidamente
+protegidos durante su accionamiento.
+91.4. Los interruptores situados en locales de carácter inflamable o explosivo se colocarán fuera de la zona de
+peligro. Cuando ello sea imposible, estarán cerrados en cajas antideflagrantes.
+91.5. Los fusibles montados en tablero de distribución serán de construcción tal, que ningún elemento a tensión
+podrá tocarse involuntariamente.
+
+Trabajos sin Tensión
+
+Art. 92º. Para efectuar inspecciones o reparaciones en una instalación o máquina eléctrica, se deberá aislarla
+de toda fuente de tensión, mediante un dispositivo de corte, comprobar la ausencia de tensión y colocar la
+señalización que advierta la realización del trabajo, delimitando claramente la zona.
+
+<!-- p. 10 -->
+
+Art. 93º. Para los trabajos en líneas aéreas y subterráneas deberán adoptarse todas las medidas tendientes a
+asegurar su separación de toda fuente de tensión, evitar el contacto accidental con líneas en tensión y prevenir
+el efecto de las condiciones climáticas. Para esto se deberá aterrar a ambos lados de la zona de trabajo.
+Art. 94º. Cuando el trabajo en líneas aéreas implique tareas en postes, deberán usarse casco protector,
+cinturón de seguridad y garfios trepadores o escaleras u otros dispositivos de elevación adecuados.
+Art. 95º. Para los trabajos en líneas subterráneas sin ventilación suficiente o en caso de riesgo de incendio, los
+operarios deberán estar provistos de máscara respiratoria con provisión de aire y cinturón de seguridad con
+cable de vida, que sujetará otro operario desde el exterior.
+Art. 96º. Para los trabajos en líneas aéreas y subterráneas se deberá contar con herramientas debidamente
+aisladas de acuerdo a la tensión en la cual se trabaja.
+Art. 97º. Cuando se realizan trabajos de Instalación o reparación de líneas aéreas por encima o debajo de
+líneas aéreas con tensión, será obligatorio aislar éstas de posibles contactos con el operario.
+
+Trabajos con Tensión
+
+Art. 98º. Podrán realizarse trabajos sobre instalaciones o máquinas en tensión sólo cuando circunstancias
+especiales así lo requieran.
+En ese caso, los trabajos serán ejecutados por personal especializado bajo directa vigilancia del supervisor, con
+todos los equipos y herramientas necesarias para prevenir accidentes.
+Art. 99º. Cuando se trabaja con instalaciones o máquinas en tensión no está permitido el uso de escaleras
+metálicas, cintas métricas, aceiteras u otros elementos de materiales conductores.
+
+Riesgo Eléctrico en Canalizaciones
+
+Art. 100º. Para ejecutar canalizaciones subterráneas en vía pública, se requerirá de UTE, OSE y Compañía del
+Gas información exacta del tendido planialtimétrico de conductores eléctricos u otros.
+Los Organismos podrán documentar dicha información mediante planos precisos o señalizaciones in situ de
+cruces u otros que pudieran interferir las canalizaciones. En los puntos de interferencia señalados, la empresa
+recurrirá a procedimientos de canalización de avance controlado hasta su localización.
+
+Capítulo V - Máquinas, Equipos y Herramientas. Generalidades
+
+Art. 101º. Se prohibe la exposición, ventas, importación, arrendamiento, cesión a cualquier otro título o la
+utilización de máquinas, equipos y herramientas, que no estén provistos de dispositivos adecuados de
+protección según las previsiones del presente Decreto.
+La remoción provisional de los dispositivos de protección para fines demostrativos no se considerará como
+infracción, a condición de que se adopten las precauciones apropiadas para proteger a las personas contra todo
+riesgo. Serán responsables del cumplimiento de las disposiciones que establecen las medidas de seguridad en
+las máquinas, equipos y herramientas; el importador, vendedor, arrendador, expositor, poseedor a cualquier
+título y empleador que los utilicen.
+Art. 102º. Para trabajar en cualquier máquina y herramienta, los operarios deberán poseer los conocimientos y
+el aprendizaje necesarios para su correcto funcionamiento en condiciones de seguridad, y no podrá encargarse
+trabajo alguno en ellos a personas que no cuenten con tal capacitación.
+Art. 103º. Los maquinistas no podrán alejarse de las máquinas en movimiento, cuando con ello puedan crear
+riesgos para el personal.
+Art. 104º. Toda máquina o herramienta deberá utilizarse para su fin específico, y todos sus componentes se
+ajustarán en forma adecuada.
+Art. 105º. Los equipos y herramientas eléctricas portátiles cumplirán las siguientes prescripciones:
+105.1. La tensión de alimentación en las herramientas eléctricas portátiles de cualquier tipo no podrá exceder
+de 250 voltios con relación de la tierra. Si están provistas de motor tendrán dispositivo para unir las partes
+metálicas accesibles del mismo a un conductor de protección.
+105.2. En los aparatos y herramientas eléctricas que no lleven dispositivos que permitan unir sus partes
+metálicas accesibles a un conductor de protección, su aislamiento corresponderá en todas sus partes a un
+doble aislamiento reforzado.
+105.3. Cuando se empleen herramientas eléctricas portátiles en emplazamientos muy conductores, éstas
+estarán fabricadas para ese uso, o se protegerán con un disyuntor diferencial.
+105.4. Los cables de alimentación de las herramientas eléctricas portátiles estarán protegidos por material
+resistente que no se deteriore por roces o torsiones no forzadas.
+
+<!-- p. 11 -->
+
+105.5. Se evitará el empleo de cables de alimentación largos al utilizar herramientas eléctricas portátiles,
+instalando enchufes en puntos próximos.
+105.6. Las herramientas portátiles de mano llevarán incorporado un interruptor debiendo responder a las
+siguientes prescripciones:
+105.6.1. Deberán tener un dispositivo de conexión que exija que el operador lo tenga permanentemente
+accionado para que la herramienta se mantenga en marcha.
+105.6.2. El interruptor estará situado de manera que se evite el riesgo de la puesta en marcha intempestiva de
+la herramienta cuando no sea utilizada.
+105.7. Las lámparas eléctricas portátiles serán alimentadas con una tensión no mayor de 32 voltios, salvo que
+se utilice un disyuntor diferencial.
+Art. 106º. En caso de herramientas energizadas se seguirán las instrucciones del fabricante para su uso.
+Art. 107º. Cuando se trabaja con instalaciones o máquinas en tensión, no está permitido el empleo de escaleras
+metálicas, cintas métricas, aceiteras u otros elementos de materiales conductores.
+Art. 108º. El mantenimiento se realizará con razonable periodicidad de acuerdo a los requerimientos de cada
+máquina o herramienta en particular.
+Art. 109º. Las máquinas que tengan puntos o zonas de peligro debido a partes móviles y/o riesgo de proyección
+de partículas, deberán estar provistas de protecciones o dispositivos de seguridad apropiados, empleándose
+prioritariamente protectores fijos.
+Art. 110º. Después de realizar reparaciones o mantenimiento en los que deba quitarse la protección, se hará
+previo a su utilización, una revisión para asegurar que los dispositivos de seguridad han sido restablecidos a
+sus condiciones normales de trabajo.
+Art. 111º. No se podrá realizar trabajos de mantenimiento, reparación o limpieza con las máquinas en
+movimiento.
+Art. 112º. En los alrededores de las máquinas se deberá asegurar un adecuado orden y limpieza.
+
+Soldadura Eléctrica
+
+Art. 113º. Los aparatos destinados a la soldadura eléctrica cumplirán en su instalación y utilización las
+siguientes prescripciones:
+113.1. Las masas de estos aparatos estarán puestas a tierra, debiéndose tener en cuenta estas dos
+situaciones:
+113.1.1. Puesto de trabajo fijo. La masa del equipo y la pinza pueden se la misma, siempre que se garantice
+la equipotencialidad entre diversas masas accesibles, máquinas de soldar, mesa de trabajo, piezas a soldar, y
+que el dimensionado de los conductores de protección (de conexiones entre masas) esté diseñado para poder
+soportar las intensidades previstas para el circuito de soldeo sin calentamientos excesivos. El conjunto
+equipotencial debe conectarse a tierra.
+113.1.2. Puesto de trabajo móvil. En este caso no debe realizarse la conexión de la pinza de soldeo a la masa
+del equipo de soldadura. La pinza deberá estar conectada directamente a la masa metálica que deba soldarse
+debiendo garantizar por todos los medios una perfecta conexión eléctrica.
+113.2. Los bornes de conexión para circuitos de alimentación de los aparatos manuales de soldar estarán
+cuidadosamente aislados.
+113.3. Cuando existan en los aparatos ranuras de ventilación estarán dispuestas de forma que no se pueda
+alcanzar partes interiores bajo tensión.
+113.4. Las superficies exteriores de los porta-electrodos a mano estarán correctamente aisladas.
+113.5. La tensión de vacío entre el electrodo y la pieza a soldar no superará los 32 V. Los equipos de soldadura
+deberán tener incorporados imitadores de tensión de vacío para conseguir esta tensión máxima. Cuando por
+razones técnicas sea necesario superar la tensión de 32 V se deberá adoptar precauciones adecuadas como
+por ejemplo, aislar al operario.
+113.6. Cada aparato llevará incorporado un interruptor de corte que interrumpa el circuito de alimentación así
+como un dispositivo de protección contra sobrecargas, regulado, como máximo al 200 por 100 de la intensidad
+nominal de su alimentación, excepto en aquellos casos en que los conductores de este circuito estén protegidos
+por un dispositivo igualmente contra sobrecargas, regulado a la misma intensidad.
+113.7. Las personas que utilicen estos aparatos recibirán las instrucciones apropiadas para:
+113.7.1. Hacer inaccesibles las partes bajo tensión de los porta-electrodos cuando no sean utilizados.
+113.7.2. Evitar que los porta-electrodos entren en contacto con objetos metálicos.
+113.7.3. Unir al conductor de retorno del circuito de soldeo las piezas metálicas que se encuentran en su
+proximidad inmediata.
+
+<!-- p. 12 -->
+
+Herramientas Manuales
+
+Art. 114º. Los trabajadores recibirán instrucciones precisas sobre el uso correcto de las herramientas que
+hayan de emplear, a fin de prevenir accidentes, sin que en ningún caso puedan utilizarse para fines distintos a
+los que están destinadas. Las herramientas manuales serán templadas, acondicionadas y reparadas
+únicamente en lugar adecuado y por personas debidamente calificadas.
+Art. 115º. Las herramientas manuales cumplirán las siguientes prescripciones:
+115.1. La unión entre sus elementos será firme, para evitar cualquier rotura o proyección de los mismos.
+115.2. Los mangos o empuñaduras serán de diseño y dimensiones adecuadas para facilitar la sujeción segura
+de la herramienta, no tendrán bordes agudos ni superficies resbaladizas y serán aislantes en caso necesario.
+115.3. Las partes cortantes y punzantes se mantendrán debidamente afiladas.
+115.4. Durante su uso deberán estar en condiciones adecuadas de limpieza.
+Art. 116º. Las herramientas portátiles accionadas por fuerza motriz cumplirán las siguientes prescripciones:
+116.1. Estarán suficientemente protegidas para evitar proyecciones peligrosas.
+116.2. Sus elementos cortantes, punzantes o lacerantes estarán cubiertos con aislamiento o protegidos con
+fundas o pantallas que, sin entorpecer las operaciones a realizar, determinen el máximo grado de seguridad
+compatible con el trabajo.
+Art. 117º. Las herramientas neumáticas cumplirán las siguientes prescripciones:
+117.1. Las válvulas cerrarán automáticamente al dejar de ser presionado el gatillo por el operario, y las
+mangueras y sus conexiones estarán firmemente unidas a los del aire a presión.
+117.2. Las mangueras y conexiones usadas para conducir aire comprimido a las herramientas neumáticas
+portátiles estarán:
+117.2.1. Diseñadas para la presión de servicio a que serán sometidas.
+117.2.2. Unidas firmemente a los tubos de salida permanentes o unidas por medio de acoples de cierre rápido
+de calidad comprobada.
+117.2.3. Mantenidas fuera de los pasillos y los pasajes a fin de reducir los riesgos de caídas y daños a la
+manguera.
+117.3. Se prohibe la práctica de expulsar la herramienta de trabajo con la presión del equipo neumático,
+deberán ser quitadas a mano.
+117.4. Deberán cerrarse las válvulas alimentadoras de aire cuando sea necesario proceder al cambio de la
+«herramienta» del equipo neumático portátil o efectuar alguna tarea que no sea una operación regular.
+117.5. Queda absolutamente prohibido el aseo del cuerpo o de las ropas de trabajo con aire comprimido, así
+como del piso en presencia de operarios trabajando.
+
+Equipos de Elevación y Transporte Disposiciones Generales
+
+Art. 118º. Queda prohibido el ascenso o descenso de personas en equipos de elevación no habilitado a tal fin
+por las intendencias Municipales o por aquellos organismos que se establezcan en futuras reformas
+reglamentarias.
+Art. 119º. Las tareas de armado y desarmado de las estructuras de los equipos de izar, serán realizadas bajo la
+responsabilidad del Técnico competente, y por personal idóneo y experiente.
+Art. 120º. Se deberá suministrar todo el equipo de protección personal requerido, así como prever los
+elementos para su correcta utilización (cinturones de seguridad y sus puntos de enganche efectivos). Los
+puntos de fijación y arriostramiento serán seleccionados de manera de asegurar la estabilidad del sistema de
+izar con un margen de seguridad que no ponga en peligro el sistema, en la eventualidad de una situación de
+razonable sobre requerimiento.
+Art. 121º. A partir de la vigencia del presente Decreto, los equipos de izar que se construyan o importen,
+tendrán indicadas la carga máxima y las condiciones especiales de instalación tales como contrapesos y
+fijación.
+Art. 122º. La elevación y descenso de las cargas se hará lentamente, evitando con elementos que amortigüen
+sus efectos toda arrancada o parada brusca y se hará siempre que sea posible, en sentido vertical para evitar el
+balanceo. Cuando sea de absoluta necesidad la elevación de las cargas en sentido oblicuo, se tomarán las
+máximas precauciones de seguridad por parte del encargado del trabajo. La comunicación entre las personas
+involucradas en las operaciones de elevación y transporte de cargas, se efectuará mediante señales
+codificadas.
+Cuando se trata de obras en lugares ruidosos y extensos, se podrá optar por comunicación visual o
+intercomunicadores.
+Art. 123º. Las personas encargadas del manejo de los aparatos elevadores y de dirigir las maniobras, serán
+adecuadamente instruidas debiendo conocer el código de señales convenido.
+
+<!-- p. 13 -->
+
+Art. 124º. Cuando después de izada la carga se observe que no está correctamente asegurada, el maquinista
+hará sonar la señal de precaución y descenderá la carga para su arreglo.
+Art. 125º. No se dejarán los aparatos de izar con carga suspendida.
+Art. 126º. Se prohibe viajar sobre cargas, ganchos o eslingas. Cuando sea necesario guiar las cargas se
+utilizarán cuerdas o ganchos.
+Art. 127º. Cuando el operador de un aparato de izar no tenga dentro de su campo visual las zonas por las que
+debe pasar la carga, se empleará uno o varios trabajadores para efectuar las señales adecuadas para la
+ejecución correcta de las operaciones.
+Art. 128º. Se prohibe la permanencia y el pasaje de trabajadores en la vertical de las cargas.
+Art. 129º. Los ascensores y montacargas deberán cumplir con todos los requisitos que les sean aplicables de la
+presente reglamentación y especialmente los que a continuación se detallan.
+129.1. Los recintos de los montacargas deberán estar protegidos por medios apropiados (tabiques rígidos,
+vallas, puertas u otros medios análogos).
+129.1.1. En el nivel del suelo, por todos sus lados.
+129.1.2. En todos los demás niveles a los que haya acceso. La protección del recinto deberá consistir en
+tabiques rígidos o en un vallado adecuado y tener una altura mínima de 2 mts. por encima del suelo, excepto en
+los puntos de acceso, o cualquier otro lugar al que se haya previsto un acceso. El cerramiento del recinto
+preferentemente utilizado será de malla metálica: la luz de la malla no excederá de 2 cms. y el grueso del
+alambre no será inferior a 2 mm.
+129.2. Todas las puertas exteriores, tanto de operación automática como manual, deberán contar con
+cerraduras electromagnéticas cuyo accionamiento deberá ser el siguiente:
+129.2.1. La traba mecánica impedirá la apertura de la puerta cuando el ascensor o montacargas no está en el
+piso.
+129.2.2. la traba eléctrica provocará la detención instantánea en caso de apertura de la puerta.
+129.3. Todas las puertas interiores o de cabina, tanto de operación automática como manual, deberán poseer
+un contacto eléctrico que provoque la detención instantánea del ascensor o montacargas, en caso de que la
+puerta se abra más de 2,5 cms.
+129.4. Todas las instalaciones con puertas automáticas, deberán contar con un mecanismo de apertura manual
+operable desde el exterior mediante una llave especial, para casos de emergencia.
+129.5. Todos los ascensores y montacargas deberán contar con interruptores de límite de carrera que impidan
+que continúe un viaje después de los pisos extremos. Estos interruptores los detendrán instantáneamente a una
+distancia del piso tal, que puedan abrirse las puertas manualmente y salir normalmente.
+129.6. Todos los ascensores y montacargas deberán tener sistemas que provoquen su detención instantánea y
+trabado contra las guías, en caso de que la cabina tome velocidad descendente con exceso de 40% o 50% de
+su velocidad normal, debido a fallas en el motor, corte de cables de tracción u otras causas.
+129.7. En el interior de los ascensores y de los montacargas se deberá tener un dispositivo cuya operación
+provoque la detención instantánea de esos aparatos.
+129.8. En todos los ascensores deberán indicarse en forma destacada fácilmente legible la carga máxima
+admisible.
+En todos los montacargas deberá indicarse la carga máxima admisible y la prohibición de transportar personas.
+129.9. En caso que los ascensores cuenten con célula fotoeléctrica para apertura automática de puertas, los
+circuitos de este sistema deberán impedir que éstas permanezcan abiertas indefinidamente en caso que se
+interponga humo entre el receptor y el emisor.
+129.10. Los conductores eléctricos ajenos al funcionamiento no pueden pasar por el hueco del ascensor.
+129.11. La sala de máquinas deberá estar libre de objetos almacenados debido al riesgo de incendios
+provocados por arcos voltaicos y dispondrá de extintor adecuado.
+129.12. No deberá usarse ningún montacargas sin que antes lo haya examinado y probado una persona
+competente. El examen debe repetirse:
+129.12.1. A intervalos regulares.
+129.12.2. Después de toda modificación o reparación importante, así como también después de haber instalado
+un nuevo montacargas.
+
+Guinches
+
+Art. 130º. Los sistemas de operación del equipo serán confiables y en especial los sistemas de frenos tendrán
+características de diseño y construcción que aseguren una respuesta segura en cualquier circunstancia de uso
+normal.
+Deberán someterse a mantenimiento adecuado y permanente, y en caso de duda sobre su funcionamiento,
+serán inmediatamente puestos fuera de servicio y sometidos a las reparaciones necesarias.
+
+<!-- p. 14 -->
+
+Las lingas y cadenas de estos equipos serán también sometidas a especial atención y se tratarán con el criterio
+anterior.
+Las lingas y cadenas tendrán factor de seguridad de 10.
+Art. 131º. Las tareas de cambio de torreta piso a piso, que reviste condiciones particulares de riesgo, serán
+especialmente atendidas para minimizar los riesgos.
+Art. 132º. Se deberá proteger el tramo horizontal de la linga y los elementos móviles del motor.
+Art. 133º. Para los casos de carga y descarga en que se utilice guinche con plataforma de caída libre, las
+plataformas deberán estar equipadas con un dispositivo de seguridad capaz de sostenerla con su carga
+máxima en caso:
+133.1. De ruptura del cable de suspensión.
+133.2. De accionamiento involuntario por parte del guinchero.
+Art. 134º. El que recepciona el material utilizará en todo momento el cinturón de seguridad con la longitud de la
+cuerda de amarre necesaria para un correcto desempeño de sus labores, sin que pueda verse amenazada su
+seguridad. El lugar de enganche del cinturón será a un punto fijo del edificio que tenga suficiente resistencia.
+Art. 135º. Para la elevación de la carga se utilizarán recipientes adecuados; nunca se utilizará la carretilla de
+mano, pues existe peligro de desprendimiento o vuelco del material transportado si sus brazos golpean con los
+bordes del forjado o losa, salvo que la misma sea elevada dentro de una plataforma de elevación.
+
+Torres Grúas
+
+Art. 136º. En la utilización de Torres-Grúas los operarios tendrán formación adecuada para un manejo correcto
+de las mismas. Por su parte, el empleador proporcionará las instrucciones para una utilización segura. Estas
+instrucciones se ajustarán a lo establecido por el fabricante del equipo, en especial en lo que refiere a:
+136.1. Evitar el desprendimiento o alteración de la posición de los materiales transportados.
+136.2. Impedir la caída de objetos en el tambor de enrollamiento del cable de elevación.
+136.3. Forma, peso, distribución y demás condiciones a que se deberán ajustar los lastres de bases y
+contrapluma.
+Art. 137º. En igual forma se aplicarán las instrucciones del fabricante, en todo lo relacionado con las grúas
+empotradas (macizos de anclaje y cuando corresponda, marcos de empotramiento y arriostramientos
+necesarios).
+Art. 138º. Se tendrán en cuenta las siguientes precauciones:
+138.1. Las plataformas de trabajo deberán procurar una ubicación tal que el gruista pueda dominar visualmente
+toda el área de trabajo de la grúa.
+138.2. La grúa no permanecerá por ningún motivo, con carga suspendida y cuando el operario abandone la
+torre-grúa, deberán retirarse las cargas del gancho, elevarse éste y cortarse la electricidad.
+138.3. Cuando la grúa no esté en uso deberá preverse un anclaje adecuado con mordazas de sujeción de la
+torre al carril.
+138.4. La grúa no debe estar en movimiento ni mantener carga suspendida cuando el viento pueda aparejar
+riesgos.
+Vientos de 60 km/hora son indicadores de referencia para suspender las maniobras. Si los vientos adquieren
+una velocidad superior a los 80 km/hora, se debe detener inmediatamente la torre-grúa, colocándose en lugar
+donde ofrezca suficiente protección dejando en estos casos el paso libre para que la pluma pueda orientarse en
+favor del viento.
+Para ello deberá instalarse en una posición elevada un dispositivo para medir la velocidad del viento,
+colocándose el indicador correspondiente en un lugar de fácil visibilidad y acceso.
+138.5. Las distintas partes de las torre-grúas dispondrán de tomas de tierra. Estarán equipadas con dispositivos
+de señal sonora de accionar voluntario.
+138.6. Para evitar la salida de la torre-grúa de la grúa y su desplome se colocará en los extremos topes o
+parachoques y dispositivos limitadores automáticos de recorrido de la grúa, ajustados de tal forma que esta
+quede detenida como mínimo a un metro de los topes o parachoques.
+138.7. La altura máxima de la torre-grúa no deberá superar los límites permisibles de seguridad contenidos en
+las instrucciones del fabricante o especificaciones de técnico responsable.
+Art. 139º. Cuando deban trabajar simultáneamente más de una torre-grúa en lugares próximos, se observarán
+en su ubicación y desplazamiento las precauciones necesarias para evitar toda posibilidad de choques de los
+equipos o sus cargas, con el empleo de limitadores de giro y maniobra.
+Art. 140º. Toda torre-grúa estará provista de un limitador de par y un seguro de carga máxima, ambos según
+las indicaciones del fabricante o técnico responsable.
+Art. 141º. Las vías se asentarán en terrenos firmes y horizontales tanto longitudinal como transversalmente,
+sobre una base de arena y grava bien apisonada donde apoyarán los durmientes.
+
+<!-- p. 15 -->
+
+Las juntas de los carriles coincidirán con las traviesas. En casos de curvas el radio de curvatura será constante.
+En caso de que en las inmediaciones de las vías se deban realizar pozos o zanjas, la dirección de la obra
+preverá las medidas necesarias para evitar desmoronamientos o desplazamientos de las vías.
+
+Eslingas
+
+Art. 142º. Todas las eslingas deben estar construidas con cadenas y cables de resistencia suficiente para
+soportar los esfuerzos a que serán sometidas, cumpliendo las siguientes prescripciones:
+142.1. Al calcular una eslinga para soportar una carga determinada hay que tener en cuenta que, cuando los
+ramales no trabajan verticales, el esfuerzo que realiza cada ramal crece al aumentar el ángulo que los ramales
+forman entre sí.
+Suponiendo que la carga se reparta de modo uniforme entre todos los ramales, el esfuerzo que deberá soportar
+cada uno de ellos se determinará mediante cálculo geométrico correspondiente al ángulo que forme.
+En ningún caso se utilizarán eslingas cuyos ramales formen un ángulo superior a 90 grados.
+142.2. Se emplearán separadores que garanticen que cuando las cargas se eslinguen en dos puntos no se
+produzca el corrimiento de éstos.
+142.3. Cuando se utilicen eslingas múltiples se deberá distribuir la carga lo más uniformemente posible entre los
+distintos ramales.
+142.4. Cuando se utilicen eslingas múltiples los extremos superiores de la misma deberán estar recogidos
+mediante un anillo o manguito, y no enganchadas separadamente en el gancho elevador.
+142.5. Para las eslingas, cualquiera que sea el material, la carga de maniobra o trabajo será como máximo la
+quinta parte de su carga de rotura.
+
+Ganchos
+
+Art. 143º. Los ganchos cumplirán las siguientes prescripciones:
+143.1. Los ganchos serán de acero o hierro forjado y estarán provistos de pestillo u otros dispositivos de
+seguridad para evitar que las cargas puedan soltarse.
+143.2. Los ganchos deberán elegirse en función de la carga o del esfuerzo de tracción que tiene que trasmitir.
+143.3. Las partes de los ganchos que puedan entrar en contacto con las eslingas no deben tener aristas vivas.
+143.4. La carga de trabajo será como máximo la quinta parte de la carga de rotura.
+
+Cables
+
+Art. 144º. Los cables de los aparatos de izar serán de construcción y tamaño apropiado para las operaciones
+en que se hayan de emplear y cumplirán las siguientes prescripciones:
+144.1. Los ajustes de ojales y los lazos para los ganchos, anillos o argollas estarán provistos de guardacabos
+resistentes.
+144.2. Cuando se realice un terminal con abrazaderas, el número mínimo de éstas para asegurar el terminal se
+calculará dividendo el diámetro del cable en milímetros por 6, tomando la cifra entera por exceso pero sin que
+sea nunca inferior a 2.
+144.3. Entre las abrazaderas debe guardarse una distancia aproximadamente 6 veces el diámetro del cable.
+Para la colocación de las abrazaderas, se recomienda poner el fondo de la «U» sobre el hilo muerto y las
+placas de ajuste sobre el hilo tirante con lo que se evitará comprimir la parte de cable sometida a la tensión de
+trabajo. Las tuercas deben apretarse sucesiva y gradualmente.
+Se recomienda por su mayor seguridad la utilización de terminales con casquillo a presión o con metal fundido.
+144.4. Los ojales y los lazos para los ganchos anillos y demás partes de los cables sometidos a esfuerzo de
+tensión directa, serán capaces de soportar una carga igual a la carga máxima admisible multiplicada por un
+factor igual a 6 como mínimo.
+144.5. Los cables estarán siempre libres de nudos, sin torceduras permanentes u otros defectos.
+144.6. Se controlará periódicamente el número de hilos rotos de cada conjunto o torón, desechándose aquellos
+cables que los poseen en más de diez por ciento, contados a lo largo de tramos del cableado, separados entre
+sí por una distancia inferior a ocho veces su diámetro.
+144.7. El diámetro de los tambores de los aparatos de izar, no será inferior a 30 veces el diámetro del cable.
+
+Cuerdas
+
+Art. 145º. Las cuerdas de los aparatos de izar no se deslizarán sobre superficies ásperas o en contacto con
+tierra, arena o sobre ángulos o aristas cortantes, a no ser que se encuentren debidamente protegidas.
+
+<!-- p. 16 -->
+
+No se depositarán en locales donde estén expuestas a contacto con sustancia corrosivas.
+
+Poleas
+
+Art. 146º. Las gargantas de las poleas se acomodarán para el fácil desplazamiento y enrollado de los
+eslabones de las cadenas.
+Cuando se utilicen cables o cuerdas, las gargantas serán de dimensiones adecuadas para que ellos puedan
+desplazarse libremente y su superficie será lisa y con bordes redondeados. La carga de trabajo será como
+máximo la quinta parte de la carga de rotura.
+
+Carretilla y Carros de Mano
+
+Art. 147º. Las carretillas y carros de mano serán de material resistente en relación a las cargas que hayan de
+soportar.
+Art. 148º. Las ruedas serán de diseño y materiales que disminuyan el esfuerzo necesario para manejarlas.
+
+Medios de Transporte Automotor
+
+Art. 149º. Todos estos vehículos estarán provistos de luces, frenos, espejo retrovisor, dispositivos de aviso
+sonoros y tendrán indicación visible de su capacidad máxima a izar o transportar. En caso de detenerse en
+superficies inclinadas se bloquearán las ruedas.
+Art. 150º. En estos vehículos solo podrá viajar el conductor del mismo, salvo que estén especialmente
+diseñados para transporte de acompañantes.
+Art. 151º. Todos los vehículos deberán estar provistos de resguardos de protección para impedir que el
+operador sea aplastado por caída de materiales y protegerlos de las inclemencias del clima.
+
+Martillo Neumático
+
+Art. 152º. La manguera de aire debe situarse de forma que no se tropiece con ella, ni que pueda ser dañadas
+por vehículos que pasen por encima.
+Art. 153º. Antes de desarmar un martillo, se ha de cortar el aire. Se prohibe cortar el aire doblando la
+manguera.
+Art. 154º. Se deberán controlar las fugas de aire que puedan producirse por puntos, acoplamientos
+defectuosos, roturas de mangas o tubos.
+
+Pistola Clavadora
+
+Art. 155º. Se deberá utilizar el protector adecuado para cada caso (angulares, superficies curvas).
+Art. 156º. Se elegirá cuidadosamente la carga en función de la naturaleza y espesor de la pared. Se seguirán
+las instrucciones del fabricante y en caso de duda se iniciará la fijación con la carga más débil.
+Art. 157º. El disparo se efectuará, cuando no haya personas detrás de la zona de tiro o próximo a ésta.
+Art. 158º. Sólo se deberá cargar la herramienta si se va a usar inmediatamente.
+Art. 159º. No se deberá clavar en recintos que puedan contener vapores explosivos o inflamables.
+
+Sierra Circular para Madera
+
+Art. 160º. Todas las sierras para madera poseerán cuchillo divisor; que actúe como una cuña e impida a la
+madera cerrarse sobre el disco; su espesor será ligeramente inferior al ancho de la traba y superior al espesor
+de la hoja debiendo tener un ancho mínimo de 5 mm. y estará construido por una pieza metálica de superficie
+lisa, sólidamente fijada a la mesa, La distancia del cuchillo divisor al disco no debe exceder de 10 mm. y la
+altura sobre la mesa deberá acompañar al disco como mínimo hasta el fondo del diente que está en la cima del
+disco, sin perjuicio de otros elementos que impidan el retroceso de la tabla.
+Art. 161º. Tendrán carcaza que cubra el disco por su parte superior, que debe ser regulable, cubriendo en todo
+momento el disco e impidiendo aserrar piezas de espesor superior al disco en su máxima elevación sobre la
+mesa.
+Art. 162º. Se colocará resguardo inferior para conseguir la inaccesibilidad de la mano a la parte del disco que
+sobresale bajo la mesa así como a sus transmisiones.
+Art. 163º. Deberán utilizarse dispositivos auxiliares tales como empujadores para pequeñas piezas, consola
+para piezas largas, mangos que permitan un más fácil traslado.
+
+<!-- p. 17 -->
+
+Art. 164º. El interruptor eléctrico debe ser resistente al agua y estar al alcance del operario y situado lejos de las
+transmisiones.
+Art. 165º. Se deberá sustituir todo disco que presente fisuras, si faltare algún diente o si estuviese rajada y
+cuando el diámetro original se hubiese reducido a 1/5.
+
+Para Ladrillos
+
+Art. 166º. Las sierras para cortar ladrillos tendrán un resguardo protector de disco que impida la proyección de
+partículas en caso de ruptura del mismo.
+Art. 167º. Se colocará un resguardo inferior para conseguir la inaccesibilidad de la mano a la parte del disco
+que sobresale bajo la mesa así como a sus transmisiones.
+Art. 168º. El interruptor eléctrico debe ser resistente al agua, estar al alcance del operario y situado lejos de las
+transmisiones. Previo al corte, toda pieza a cortar deberá estar mojada.
+Art. 169º. Se deberá sustituir todo disco que presente fisuras o esté rajado.
+
+Hormigonera
+
+Art. 170º. Las hormigoneras no se ubicarán a distancias inferiores a 3 mts. del borde de la excavación, zanja,
+vaciado y asimilables, para evitar el riesgo de caídas a otro nivel y desmoronamiento del terreno salvo que
+existan protecciones que eviten estos riesgos.
+Art. 171º. Deberá existir un camino de acceso a la hormigonera para las carretillas, libre de obstáculos y con un
+ancho mínimo de 0,60 mts.
+Art. 172º. Se establecerá una superficie mínima de 2 mts. de lado como base para el operador de la
+hormigonera, en prevención de los riesgos por trabajar en superficies irregulares.
+Art. 173º. Las hormigoneras eléctricas deberán disponer de una eficaz toma a tierra del motor, las carcazas y
+demás partes metálicas también deberán estar conectadas a tierra.
+Art. 174º. Las transmisiones por correa y poleas, volantes, engranajes, estarán protegidas con carcazas
+metálicas de protección evitando riesgos de atrapamientos.
+Art. 175º. En las máquinas con motor de explosión, si el sistema de arranque es de palanca, deberá asegurar
+que la misma se libere al producirse el arranque.
+Art. 176º. La botonera de mando eléctrico, lo será de accionamiento estanco o sea resistente al agua.
+Art. 177º. Deben estar dotadas de freno de basculamiento del bombo, para evitar sobre esfuerzos.
+Art. 178º. En las hormigoneras semifijas o de pala o cuchara se prohibirá a los trabajadores pasar por debajo
+de la cuchara o pala.
+Art. 179º. En las plantas de hormigonado será obligatorio proteger mediante rejillas, las tolvas en las que
+pudiera caer una persona.
+
+Capítulo VI - Demoliciones y Excavaciones Demoliciones Disposiciones Generales
+
+Art. 180º. Toda demolición tendrá en obra nota de la metodología a emplear y los equipos y elementos a
+utilizar, firmado por un técnico responsable (Arquitecto o Ingeniero). En caso contrario se clausurará dicha
+demolición.
+Art. 181º. Se solicitará el corte de los servicios que representen peligro (electricidad, agua, gas y vapor) y las
+indicaciones necesaria para evitar roturas en instalaciones exteriores o las que fueran necesarias mantener.
+Art. 182º. En toda demolición se instalarán vallas de una altura superior a los 2 mts. y avisos apropiados
+alrededor de la zona de peligro que circunde la construcción a demoler, a fin de impedir el acceso a la misma a
+personas no autorizadas.
+Art. 183º. Cuando se trate de demoler edificios de más de un piso, se hará progresivamente por piso,
+empezando por el superior, no permitiendo que se acumulen escombros u otros materiales en cantidad tal que
+peligre la estabilidad de la estructura.
+Art. 184º. Cuando el polvo producido sea excesivo, se regarán los escombros y paredes.
+Art. 185º. Se protegerán con barandas las aberturas que se abren en las lozas para evacuar escombros como
+también a las existentes.
+Art. 186º. Queda terminantemente prohibido arrojar hacia afuera del edificio material o escombros procedentes
+de las demoliciones.
+Art. 187º. Se deberá instalar una plataforma de protección o visera a lo largo de la parte exterior de los muros,
+que proteja de la caída de escombros. Deberá ser desplazada a medida que avance el trabajo de demolición,
+de modo que siempre se encuentre a no más de 3 mts. por debajo del nivel de trabajo.
+
+<!-- p. 18 -->
+
+Esta plataforma tendrá un ancho mínimo de 2,50 mts. y una superficie continua, con una inclinación de treinta
+grados hacia adentro.
+En ningún caso se utilizará esta plataforma como pasaje o depósito de escombros y materiales debiendo
+cerrarse su acceso.
+La plataforma de protección deberá ser calculada en función de la carga a soportar, por lo menos deberá
+soportar 600 kg. por m2.
+Art. 188º. Cuando se utilice para demolición de cualquier tipo de estructura, martillos neumáticos o similar, el
+mismo deberá estar sujeto mediante cuerdas u otros, en algún elemento fijo tal que la caída de éste no
+comprometa la estabilidad e integridad física de los trabajadores.
+Art. 189º. La demolición de los muros debe hacerse en forma gradual y bajándose todos los muros
+simultáneamente. En caso de tener que demoler una zona antes que otra, se dejarán los muros escalonados,
+pero nunca cortados a plomo.
+Art. 190º. Cuando los muros medianeros estén en condiciones precarias de estabilidad y se haga dificultoso su
+apuntalamiento, se dejarán los muros perpendiculares escalonados a manera de contrafuerte.
+Art. 191º. Cuando se trate de demoler techos de chapas de hierro, o fibrocemento, se procederá en el siguiente
+orden: primero se quitarán las chapas, luego las correas y por último las cerchas u otro elemento resistente.
+Para retirar las chapas se quitarán por hilada, colocando tablones convenientemente apoyados y afirmados
+para el trabajo seguro del personal.
+Para bajar manualmente las cerchas y correas se construirá en andamio necesario y se utilizarán aparejos,
+jamás se dejará caer desde lo alto. Este trabajo se efectuará siempre con cinturón de seguridad.
+
+Muros
+
+Art. 192º. En toda demolición de muros la distancia entre los niveles horizontales de los muros a demoler y/o su
+altura libre no deberá ser superior a 22 veces su espesor.
+Art. 193º. El punto de aplicación del empuje deberá ser elegido por encima del centro de gravedad de la pared
+a demoler.
+rt. 194º. La demolición total por tracción manual o mecánica, solamente se aplicará para alturas inferiores a 7
+mts. Se mantendrán alejados a los trabajadores de la zona de vuelco a una distancia no inferior a una vez y
+media la altura del muro a demoler.
+Art. 195º. Será obligatorio el uso de cinturón de seguridad, el cual deberá sujetarse en forma independiente al
+sector de demolición. Para alturas superiores a los 6 m. se instalarán andamios. Se podrá trabajar a menos de 2
+mts. de altura y más de 0,25 mts. de espesor, sobre el muro.
+Art. 196º. No deberá debilitarse los puntos de apoyo de las vigas, que sostiene los pisos mientras no se hayan
+terminado los trabajos que deben efectuarse encima de dichas vigas.
+Techos
+Art. 197º. Cuando el piso que se trata de demoler es de los superiores, será preciso apuntalar también todos
+los inferiores que sean necesarios técnicamente.
+Escaleras
+Art. 198º. Las escaleras fijas serán la última etapa a demoler por piso y deberán poseer pasamanos.
+
+Excavaciones Disposiciones Generales
+
+Art. 199º. Toda excavación con profundidad mayor a 1,50 m. tendrá un plan de obra firmado por un técnico
+responsable en la materia.
+Dicho plan contendrá las actividades y métodos de excavación y tipos de entibación o apuntalamiento que se
+emplearán, asé como métodos de evacuación en caso de riesgos. En caso contrario se clausurarán dichos
+trabajos.
+Art. 200º. Antes de iniciar obras de excavación se deben cortar los servicios que presenten peligro.
+Art. 201º. Se deben señalizar convenientemente todas las excavaciones con profundidad mayor a 1,30 metros.
+
+Paredes de la Excavación
+
+Art. 202º. Se deben examinar las paredes de la excavación en los siguientes casos:
+202.1. Después de una interrupción de trabajo de más de un día.
+202.2. Después de un desprendimiento de tierras.
+202.3. Después de sobrevenir daño al apuntalamiento.
+202.4. Después de fuertes lluvias.
+202.5. Cuando se encuentren suelos heterogéneos.
+
+<!-- p. 19 -->
+
+Art. 203º. Se deben prever dos medios o vías de salida en toda excavación.
+Art. 204º. Cuando en la excavación se detecten capas fácilmente desmoronables, debe procederse a su
+remoción con las precauciones necesarias.
+.Art. 205º. Se deberá evitar la presencia de agua en excavaciones o pozos. Por lo menos se tendrán 2 bombas
+de extracción de agua en obra, a efectos de asegurar que como mínimo una se encuentre en funcionamiento.
+Art. 206º. No se acumularán tierras de la excavación u otros materiales a una distancia inferior a dos veces la
+profundidad del corte, salvo que se adopten las medidas de entibamiento necesarias.
+Art. 207º. El entibado de las paredes se realizará como máximo cada 3 metros de profundidad.
+Art. 208º. Las rampas en sus lados libres mantendrán el talud natural del terreno.
+Art. 209º. Se prohibe la excavación del terreno socavando el pie para provocar su derribo.
+
+Pozos y Zanjas
+
+Art. 210º. En terrenos desmoronables se deben encofrar o revestir las paredes de pozos a medida que se
+profundizan de modo que entre el fondo del pozo y el borde inferior de encofrado no se sobrepase 1,50 metros.
+Art. 211º. Los pozos en terrenos inundados deben estar provistos de medios que permitan la extracción del
+trabajador sin acceder al mismo.
+Art. 212º. Ningún trabajador puede permanecer en el fondo de un pozo cuando simultáneamente se emplea
+mecanismo de extracción mecánica de tierra en el interior del mismo, que represente peligro para su integridad.
+Art. 213º. En terrenos desmoronables los pozos próximos a excavaciones en proceso no deberán ser
+rellenados, cuando el relleno suponga cargas horizontales que comprometan la estabilidad de dichas
+excavaciones.
+Art. 214º. En zonas próximas a pozos o excavaciones en los que se esté trabajando manualmente, no se
+permitirá el acceso de maquinaria pesada o de camiones y para ello se instalarán bloques de retención y/o
+barreras debidamente afianzadas a una distancia de seguridad.
+Art. 215º. En los pozos circulares esta entibación consistirá en un revestimiento de blindaje efectuado con
+tablas estrechas con piezas especiales que se adapten a la curva, mantenida verticalmente en su posición
+mediante una serie de arcos o aros de hierro extensibles y regulables por cualquier procedimiento mecánico o
+bien por medio de cuñas.
+Art. 216º. Las bocas de los pozos y las zanjas mayores de 1,30 m. de profundidad deberán ser protegidas
+mediante barandas a 0,70 y 1,40 metros de altura con rodapié a 0,15 metros.
+Art. 217º. Cuando en los trabajos subterráneos se emplee alumbrado eléctrico, se dispondrá otro
+complementario de seguridad que permita asegurar la evacuación del personal en caso de faltar corriente.
+Art. 218º. Está prohibido el uso de la entibación para el ascenso y descenso del personal.
+Art. 219º. Las zanjas de más de 1,30 metros de profundidad estarán provistas de escaleras preferentemente
+metálicas, que rebasen 1 metro sobre el nivel superior del corte, disponiendo una escalera por cada 30 metros
+de zanja abierta o fracción de este valor que deberá estar libre de obstrucción y correctamente arriostrada
+transversalmente.
+Art. 220º. Al finalizar la jornada o en interrupciones largas, se protegerán las bocas de los pozos de profundidad
+mayor de 1,30 metros con un tablero resistente, red o elemento equivalente.
+
+Capítulo VII - Medios de Protección Personal
+
+Art. 221º. En los trabajos en que se requiera medios de protección para defender la salud y seguridad del
+trabajador, éstos serán de uso obligatorio y deberán ser provistos por le empleador, en forma gratuita, así como
+las instrucciones de uso y mantenimiento, debiendo proveer aquellos elementos necesarios para los mismos. El
+tipo de protector y los materiales que se empleen en su confección, deberán ser adecuados al uso a que se les
+destina cuidando que no dificulten el trabajo ni perjudiquen al operario. Cuando estos medios de protección
+personal deben pasar de un trabajador a otro, deberán ser sometidos, a una adecuada higiene y desinfección.
+Art. 222º. La protección personal no dispensa en ningún caso de la obligación de emplear los medios
+preventivos de carácter general, conforme a lo dispuesto por este Reglamento.
+Art. 223º. Los equipos de protección personal permitirán la realización del trabajo sin molestias exageradas
+para quien lo ejecuta ni entrañarán por si mismo peligros.
+Art. 224º. El trabajador deberá cuidar, que los medios de protección se mantengan en condiciones
+satisfactorias de uso y buen funcionamiento siendo de cargo del empleador el mantenimiento, reparación o
+reposición de dichos elementos.
+En caso de mal uso o extravío el empleador podrá exigir la reposición de los mismos. Luego del uso los
+elementos de protección personal deberán ser guardados limpios y protegidos.
+
+<!-- p. 20 -->
+
+Art. 225º. Sin perjuicio de las sanciones disciplinarias establecidas por el Art. 258, se prohibe el ingreso y/o
+permanencia dentro de la obra, a todo trabajador que tenga afectada sus capacidades normales para la
+realización de sus tareas por ingestión de alcohol y/o consumo de drogas. En tal caso la empresa podrá hacer
+uso de las facultades conferidas por el Art. 20 del presente Decreto.
+Art. 226º. Queda prohibido en ingreso de trabajadores a espacios confinados, tales como tanques, ductos,
+pozos negros, cloacas, etc. sin adoptar las medidas de prevención tales como comprobación de la inocuidad de
+la atmósfera, uso de equipo respiratorio suficiente o con líneas de aire limpio exterior, uso de cinturón de
+seguridad o arreos de rescate, etc. En estos casos deberá disponerse siempre de personal que desde lugar
+seguro, vigile al trabajador y pueda prestar servicios de rescate.
+Art. 227º. Se proporcionará al personal ropa impermeable de goma o similar en tareas bajo la lluvia que por sus
+características no puedan suspenderse.
+Art. 228º. Los trabajadores ocupados en la construcción o reparación de carreteras, caminos, calles, etc. en
+riesgo con el tráfico, deben estar provistos de chalecos señalizadores de alta visibilidad y protegidos de los
+vehículos mediante empalizadas, señales, luces, vigías u otros medios eficaces.
+Art. 229º. Los trabajadores ocupados en la construcción de muelles, puertos, canales, embalses, etc., con
+riesgo de caer al agua, deben estar provistos de chalecos salvavidas. En el caso de fuertes corrientes se
+preverán sistemas de enganches que aseguren que el trabajador en caso de caída no sea arrastrado por la
+corriente.
+
+Protección de la Cabeza
+
+Art. 230º. Será obligatorio durante el horario de trabajo el uso de casco de seguridad para toda persona que
+permanezca o transite por la obra.
+
+Protección de los Ojos
+
+Art. 231º. En los trabajos en que puedan producirse lesiones en los ojos por proyección de partículas si
+utilizarán anteojos o pantallas transparentes de protección.
+
+Protección de los Oídos
+
+Art. 232º. Cuando el nivel sonoro supere los 85 DbA, será obligatorio adoptar las medidas necesarias a fin de
+eliminar o reducir el nivel sonoro. Cuando dichas medidas no logren reducirlo al valor máximo preindicado, será
+obligatorio proveer al trabajador de protectores auditivos que aseguren la necesaria atenuación.
+
+Protección Respiratoria
+
+Art. 233º. Todo personal que sea ocupado en la realización de trabajos en ambientes en los que existen
+contaminantes en el aire que puedan resultar lesivos para la salud tales como polvos, humos, niebla, aerosoles,
+vapores o gases, deberán ser provistos de medios de protección respiratoria adecuados a cada riesgo.
+Art. 234º. Las medidas de protección respiratoria serán necesariamente independientes del medio ambiente
+cuando:
+234.1. Existan deficiencias en el nivel de concentración de oxígeno (por debajo del 18% de oxígeno en
+volumen).
+234.2. Los niveles de contaminación del aire puedan aparejar riesgo inmediato para la vida.
+Art. 235º. Los protectores deberán evitar filtraciones y serán de material apropiado para evitar la irritación de la
+piel.
+Deberán mantenerse en óptimo estado de conservación, cambiando los filtros mecánicos cada vez que la
+respiración sea dificultosa para el trabajador.
+Los filtros químicos serán reemplazados después de cada uso, y si no fueran utilizados, como mínimo una vez
+al año.
+
+Protección de las Manos
+
+Art. 236º. Será obligatorio utilizar guantes o manoplas de cuero o similar, en las siguientes tareas: picados
+varios, traslado de materiales (cerámicas, piedras, baldosas y ladrillos) acarreo de hierro y al fundir plomo los
+sanitarios.
+Art. 237º. Será obligatorio utilizar guantes de goma por los operarios que tengan contacto directo con mezcla,
+hormigón fresco, asfalto (frío o caliente), o realicen las siguientes tareas: revoques, alisados con portland,
+
+<!-- p. 21 -->
+
+colocación de pisos (monolíticos o calcáreos), revestimientos cerámicos y para los trabajadores sanitarios
+cuando encabecen caños de hormigón.
+
+Protección de los Pies: Calzado
+
+Art. 238º. Será obligatorio utilizar calzado impermeable de goma o similar con suela antideslizante en trabajos
+dentro del agua, barro, hormigón fresco o similares, a fin de evitar todo contacto con el agua.
+Art. 239º. Será obligatorio utilizar calzado de seguridad con puntera de acero por los operarios que trabajen en
+el banco de herrero.
+Art. 240º. Será obligatorio utilizar calzado de cuero cerrado con suela resistente a la perforación para aquellos
+operarios que trabajen en acarreos generales o limpiezas, cuando existan elementos punzantes que
+representen peligro y en desencofrados.
+
+Cinturón de Seguridad
+
+Art. 241º. Es obligatorio el uso de cinturón de seguridad en aquellos trabajos realizados en condiciones tales,
+que el trabajador esté expuesto a caídas libres de 3 o más metros de altura y en aquellos realizados en
+excavaciones o espacios confinados en que pueda ser necesario izar al trabajador.
+El empleador será responsable de que el número de cinturones de seguridad llene las necesidades de cada
+obra.
+Art. 242º. El cinturón de seguridad y la cuerda de amarre (cuerda que une en cinturón al punto de amarre),
+serán de fibra natural o sintética de suficiente resistencia, estando prohibido el cable metálico.
+La cuerda de amarre será de largo tal que no permita una caída libre de más de 1,50 m. en andamios tipo
+colgantes móviles. En escalerillas se podrán utilizar cuerdas de amarre de forma horizontal enganchadas a dos
+puntos de la obra a nivel de la plataforma en la que se está trabajando.
+Art. 243º. Cuando sea obligatorio el uso de cinturón de seguridad, el empleador deberá proveer lugares de
+anclaje del mismo, que posean resistencia suficiente.
+Se prohibe el anclaje del cinturón de seguridad a partes del andamio.
+
+Capítulo VIII - Servicios de Seguridad en el Trabajo
+
+Art. 244º. Toda empresa que ejecute obras de construcción o realice etapas de las mismas, que ocupe 100 o
+más trabajadores en un centro de trabajo o en varios, o que ejecute obras o trabajos a más de 8 mts. de altura
+y/o excavaciones con una profundidad mayor a 1,50 mts., deberá contar con Servicios de Seguridad en el
+Trabajo de carácter interno.
+Art. 245º. Toda empresa que ejecute obras de construcción o realice etapas de las mismas, que ocupe entre 5
+y 99 trabajadores deberá contar con Servicios de Seguridad en el Trabajo que podrán adquirir la modalidad de
+externos o interempresas.
+Art. 246º. Sin perjuicio de lo previsto en el art. anterior podrá ser exigible la existencia de Servicios de
+Seguridad en el Trabajo Interno cuando así lo disponga el Ministerio de Trabajo y Seguridad Social en base a la
+potencialidad de los riesgos existentes en la obra o en una etapa de la misma.
+Art. 247º. Se define como Servicio de Seguridad en el Trabajo Interno, el integrado en la estructura de la
+empresa ubicado dentro de la misma, dirigido por los referidos en el Art. 248, con capacidad operativa suficiente
+en personal, instalaciones y medios para atender las misiones y funciones que la presente reglamentación le
+asigna. Este servicio podrá extender su área de responsabilidad a todos los centros de trabajo dependientes de
+una misma empresa.
+247.1. Se define como Servicio de Seguridad en el Trabajo Externo el que es brindado por una empresa con
+capacidad operativa suficiente en personal, instalaciones y medios, que asume la responsabilidad establecida
+por la presente reglamentación para prestar servicios a empresas constructoras.
+Art. 248º. Los servicios de Seguridad en el Trabajo contarán como mínimo con un asesor en materia de
+Seguridad con título habilitante y registrado en el Ministerio de Trabajo y Seguridad Social, el cual será el
+responsable del servicio.
+En caso de contar con más de un asesor, uno de ellos deberá asumir la responsabilidad del servicio.
+Art. 249º. REGISTRO. El Ministerio de Trabajo y Seguridad Social creará en la órbita de la Inspección General
+del Trabajo y la Seguridad Social un Registro de Asesores de Seguridad, a cuyos efectos dictará las
+reglamentaciones pertinentes.
+No podrán ser responsables de los Servicios de Seguridad en el Trabajo creados por este Decreto quienes no
+estén incluido en dicho Registro.
+
+<!-- p. 22 -->
+
+Art. 250º. Sólo podrán ser responsables de los servicios de seguridad creados por este decreto los siguientes
+profesionales:
+250.1. Técnicos Prevencionistas con título expedido u homologado por la UTU.
+250.2. Egresados universitarios de las carreras de Ingeniería o Arquitectura que acrediten una experiencia
+laboral, no inferior a un año en seguridad e higiene y estudios específicos en la materia.
+Art. 251º. Los asesores en Seguridad que dirijan los Servicios de Higiene y Seguridad en el Trabajo serán
+responsables de las obligaciones fijadas por las leyes y decretos que regulan la materia, no excluyendo tal
+responsabilidad la que corresponda legalmente a las personas físicas o jurídicas propietarias de la empresa
+constructora o que la administren.
+
+Funciones de los Servicios de Seguridad en el Trabajo
+
+Art. 252º. Serán cometidos específicos de los servicios de seguridad e higiene los siguientes:
+252.1. Impulsar una política de Seguridad e Higiene en el Trabajo acorde con la reglamentación vigente y
+desarrollar programas de prevención de accidentes de trabajo, mediante los procedimientos y acciones que
+correspondan.
+252.2. Identificar y evaluar las condiciones que son causas de accidentes laborales y de la gravedad de los
+riesgos mediante:
+252.2.1. Desarrollar métodos de investigación y de evaluación de riesgos.
+252.2.2. Elaborar estadísticas de siniestralidad laboral.
+252.3. Revisar sistemáticamente el desarrollo y el equipamiento tecnológico, con el fin de asesorar a la
+dirección de la empresa sobre los dispositivos y las técnicas idóneas para eliminar o disminuir al mínimo los
+riesgos laborales.
+252.4. Determinar cuando existan riesgos específicos en la obra, los equipos de protección personal y
+colectivos que sean adecuados a los mismos.
+Si con posterioridad a la entrada en vigencia del presente Decreto se reglamentase lo homologación de Equipos
+de Protección Personal por parte de un Organismo Público, serán de uso obligatorios aquellos que cuenten con
+el sello del organismo homologados.
+252.5. Asesorar sobre el cumplimiento de Leyes, Reglamentaciones o Normas aplicables.
+252.6. Establecer un Programa de Acciones en materia de prevención de riesgos laborales con indicación
+expresa de: objetivos, medios disponibles, actividades a realizar y resultados concretos que se prevén alcanzar.
+252.7. Impartir a todo trabajador instrucciones precisas sobre los riesgos generales de la empresa, los
+específicos de su puesto de trabajo y las medidas tendientes a prevenirlos.
+252.8. El Técnico responsable de los servicios de Seguridad e Higiene deberá dejar constancia por escrito, bajo
+firma y en forma detallada en el Libro Unico de Trabajo de todas las medidas y acciones indicadas al empleador
+para alcanzar los fines previstos en este Capítulo.
+Art. 253º. En aquellos casos en que se demuestre fehacientemente en vía administrativa que el Técnico
+responsable del Servicio de Seguridad actuó con negligencia, impericia o dolo el Ministerio de Trabajo podrá
+suspenderlo o eliminarlo del Registro, tomando en consideración la gravedad de la infracción.
+
+Obligaciones del Empleador
+
+Art. 254º. Los empleadores están obligados a:
+254.1. Cumplir con lo dispuesto en esta reglamentación y demás normas que regulen las condiciones de
+Seguridad e Higiene Laboral, para garantizar plenamente la integridad física y la salud de los trabajadores.
+254.2. Realizar todas las acciones necesarias para la prevención y el control de los riesgos laborales.
+254.3. Investigar las causas de los accidentes de trabajo que se produzcan en las obras con el objeto de evitar
+su reiteración. En los casos de accidentes graves elaborará el informe de investigación teniendo en cuenta las
+conclusiones que sobre el hecho haya formulado el Servicio de Seguridad e Higiene y lo remitirá a la Inspección
+General del Trabajo y la Seguridad Social en el plazo de 10 días hábiles contados a partir de la fecha en que
+ocurrió el accidente.
+254.4. Hacer conocer a cada trabajador que ingresa a la empresa, o cambie de categoría laboral, los riesgos
+generales del trabajo en obra y las medidas tendientes a prevenirlos, mediante la entrega de cartillas
+informativas.
+254.5. Proporcionar formación específica sobre prevención de riesgos laborales a los trabajadores, personal
+directivo, técnico y de supervisión adecuando sus contenidos y profundidad a las obligaciones que se
+determinen en los Programas que internamente se formulen.
+
+<!-- p. 23 -->
+
+Obligaciones de los Trabajadores
+
+Art. 255º. Los trabajadores están obligados a:
+255.1. Cumplir lo estipulado en esta Reglamentación y demás que regulen las condiciones de Seguridad e
+Higiene Laboral así como las normas internas de la empresa en materia.
+255.2. Recibir formación sobre prevención de riesgos laborales.
+255.3. Usar correctamente los medios de protección personal y los resguardos de máquinas, equipos e
+instalaciones.
+255.4. Comunicar a sus superiores los riesgos, averías y deficiencias que puedan ocasionar peligros en los
+lugares de trabajo.
+255.5. Colaborar en casos de siniestros laborales en la ejecución de planes de emergencia que establezca la
+empresa.
+Art. 256º. Las disposiciones del presente capítulo comenzarán a regir con posterioridad a los treinta días
+contados a partir de la fecha de instrumentación del registro previsto en el Art. 249, y que este cuente con un
+número de profesionales inscriptos suficientes, a juicio del Ministerio de Trabajo y Seguridad Social, y previo
+pronunciamiento de la Comisión prevista en el Art. 262 del presente decreto.
+
+Capítulo IX - Disposiciones Generales
+
+Art. 257º. Los capataces y en general, todos los que tengan bajo su dirección y vigilancia obreros, deberán
+advertir a éstos sobre los riesgos de las tareas diferentes de lo habitual a realizar y ejercer vigilancia sobre el
+trabajo de los mismos impartiendo órdenes precisas, a fin de que con su experiencia y prudencia puedan, en lo
+posible evitar accidentes de trabajo.
+Art. 258º. Los trabajadores deberán cumplir las medidas de Seguridad e Higiene establecidas en el presente
+Decreto, así como las órdenes que para tal efecto les sean dadas por sus superiores, estando especialmente
+obligados a no retirar las protecciones de las maquinarias, hacer un adecuado uso de las instalaciones de
+bienestar y a utilizar los equipos de protección personal que se les proporcionen sin retirarlos del lugar de
+trabajo. El incumplimiento los hará pasibles de sanciones disciplinarias de severidad progresiva tales como:
+258.1. Observación (simple indicación verbal).
+258.2. Apercibimiento y amonestación (puede ser por escrito).
+258.3. Suspensiones (debe ser escrita, por un lapso no mayor a 15 días, sin goce de sueldo dejando lugar en
+dicha nota para los descargos que el trabajador quiera realizar).
+258.4. Despido.
+Art. 259º. La empresa hará constar mediante acta firmada por un delegado electo por el personal, los servicios
+de bienestar entregados y la responsabilidad por el adecuado uso que de ellos haga el personal.
+Art. 260º. En las obras que intervengan simultáneamente empresas contratistas y subcontratistas, las empresas
+contratistas serán responsables por las condiciones generales en materia de Seguridad e Higiene y de las
+áreas de trabajo bajo su directa responsabilidad de ejecución y del personal a su cargo.
+Las empresas subcontratistas serán responsables por el cumplimiento de todas las disposiciones y
+procedimientos en vigor en materia de Seguridad e Higiene que correspondan a su área de trabajo y refieran al
+personal a su cargo, y estarán obligadas a acatar puntualmente las instrucciones y órdenes que en dicha
+materia imparta la dirección de la empresa subcomitente a través de sus representantes en obra. En
+consecuencia, deberán controlar que su personal se abstenga de todo hecho que ponga en peligro la seguridad
+de los lugares de trabajo o por cualquier otro motivo; la empresa subcomitente en caso de incumplimiento a las
+respectivas obligaciones podrá disponer la suspensión de tareas y el retiro inmediato del personal que las
+incumple. Las advertencias y órdenes que disponga la empresa subcomitente deberán ser fehacientemente
+documentadas.
+Art. 261º. Las sanciones en los casos que actúen empresas contratistas y subcontratistas se regularán en
+función del grado de responsabilidad que a cada una corresponda por el incumplimiento a las disposiciones del
+presente Decreto.
+Art. 262º. Créase una Comisión Tripartita en el área de Seguridad e Higiene en la Industria de la Construcción,
+integrada por un delegado de la Cámara de la Construcción del Uruguay, un delegado del Sindicato Unico
+Nacional de la Construcción y Anexos y un delegado de la Inspección General del Trabajo y la Seguridad
+Social, con el cometido de interpretar el presente Decreto, proponer sus modificaciones, evacuar las consultas
+que se le realicen y recabar asesoramiento de otras entidades públicas y/o privadas.
+Esta Comisión tomará sus resoluciones por consenso.
+Art. 263º. Las infracciones a las disposiciones del presente Decreto serán sancionadas de acuerdo a lo
+dispuesto por el Art. 289 de la Ley 15.903 de fecha 10 de noviembre de 1987.
+
+<!-- p. 24 -->
+
+Art. 264º. A partir de la vigencia del presente Decreto quedan derogadas todas las disposiciones del Decreto
+111/990.
+A las actividades de la Industria de la Construcción definidas en el Art. 2, no se les aplicarán las disposiciones
+del Decreto 406/988 del 3 de junio de 1988.
+
+LACALLE HERRERA - RICARDO REILLY.

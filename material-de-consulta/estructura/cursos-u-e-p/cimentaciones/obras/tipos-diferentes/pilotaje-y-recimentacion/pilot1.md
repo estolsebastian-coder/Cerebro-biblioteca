@@ -1,0 +1,68 @@
+---
+type: libro
+title: "(pilot1)"
+author: "Unknown"
+categoria: "ESTRUCTURA"
+paginas: 1
+extraccion: "texto"
+fuente: "local:E:/MATERIAL DE CONSULTA/ESTRUCTURA/CURSOS U.E.P/cimentaciones/Obras/- Tipos diferentes/Pilotaje y recimentación/(pilot1).PDF"
+convertido: 2026-10-16
+---
+
+# (pilot1)
+
+> Texto extraído de `ESTRUCTURA\CURSOS U.E.P\cimentaciones\Obras\- Tipos diferentes\Pilotaje y recimentación\(pilot1).PDF` (1 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+P1 P2
+
+6
+P3 VE 7
+VE
+P4 P52 P53 P54 P5 P6
+
+P8
+(existente)
+P7
+P9
+
+P10 P11
+
+P14
+P13 ORIGEN DE COORDENADAS
+P12
+
+P15
+
+P16
+
+P22
+P17 P18/P19
+P20/P21
+
+P24 P25 P23
+P26
+P36
+
+P35 P28 P29 P30 P31 P33
+
+P32 P34
+
+1 2
+VE VE
+P37
+
+P38 P39 P41 P42 P49
+P40
+
+4 5 3
+VE VE VE
+
+P44 P45 P46 P47 P48
+
+Suc. MALDONADONOTA IMPORTANTE: NIVELES
+
+EL NIVEL DE CARA SUPERIOR DE CABEZALES Y VIGAS ESPECIALES COINCIDELOS DIAMETROS Y CAPACIDAD PORTANTE INDICADOS SON ESTIMADORES, CON EL DE CARA INFERIOR DE CONTRAPISOS ARMADOS DE SUBSUELO. ESTRUCTURA
+LAS VIGAS Y RIOSTRAS DE CIMENTACION LLEGAN A LOS PILARES A TRAVES
+Y DEBERAN SER CHEQUEADOS POR LA EMPRESA PILOTERA. DE LOS CABEZALES (PENETRAN EN LOS MISMOS HASTA LLEGAR AL PILAR) CIMENTACION-CABEZALES

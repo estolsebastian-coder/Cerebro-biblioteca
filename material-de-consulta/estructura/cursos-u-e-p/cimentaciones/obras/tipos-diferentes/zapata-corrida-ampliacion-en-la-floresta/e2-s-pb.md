@@ -1,0 +1,77 @@
+---
+type: libro
+title: "FLORESTA1 E2-ESTR.BAJA (1)"
+author: "Arq. Ramiro Chaer"
+categoria: "ESTRUCTURA"
+paginas: 1
+extraccion: "texto"
+fuente: "local:E:/MATERIAL DE CONSULTA/ESTRUCTURA/CURSOS U.E.P/cimentaciones/Obras/- Tipos diferentes/zapata corrida - ampliación en La Floresta/E2-S_PB.pdf"
+convertido: 2026-10-16
+---
+
+# FLORESTA1 E2-ESTR.BAJA (1)
+
+> Texto extraído de `ESTRUCTURA\CURSOS U.E.P\cimentaciones\Obras\- Tipos diferentes\zapata corrida - ampliación en La Floresta\E2-S_PB.pdf` (1 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+ESCALA 1/50
+
+P1 P1 ESC. 1/12.5
+ESC. 1/12.5
+CC
+
+Ø8
+Ø6 40
+20
+ARMADURA DE LOSA 3Ø10 2Ø8 15
+CC EXISTENTE Ø6/20
+P1
+CC
+P1 +210 Ø6 CC 3Ø10 Ø8/15 40 Ø8
+80 40 20 10 40
+CC MURO QUE SE DEMUELE SE PICARA LO SUFICIENTE COMO PARA 2Ø8
+CC 15 PODER ARMAR EL NERVIO DE UNION
+
+Ø8 EN SUPERFICIE DE CONTACTO
+Ø6 HORMIGON VIEJO-NUEVO SE
+40 20 10 40 80 EMPLEARA PEGAMENTO ESPECIAL
+
+D D 15
+(1) (1) (1)
+
+40 C 40
+
+C
+
+NOTA:
+ESC. 1/12.5
+(1) BIGOTEAR EN ENCUENTRO CON CONSTRUCCION
+EXISTENTE.
+
+ESTRIBOS Ø6/25
+2Ø8 PRETIL NO ESTRUCTURAL
+(PODRA LLENARSE EN 2ª ETAPA)
+
+Ø6/20
+OBRA:
+
+UBICACION:
+PADRON Nº
+2Ø8
+Ø8/15 PROPIETARIO: CONCEPTO:
+
+SE PROLONGA ARMADURA DE
+LOSA EN VOLADO TECNICO:
+
+ESTRUCTURA: ARQ. RAMIRO CHAER REGIMEN:
+
+NIVEL: ESTRUCTURA S/PLANTA BAJA
+
+FECHA: ESCALA: 1/50
+
+FIRMAS: PROPIETARIO: LAMINA:
+
+TECNICO:
+
+ESTRUCTURA:

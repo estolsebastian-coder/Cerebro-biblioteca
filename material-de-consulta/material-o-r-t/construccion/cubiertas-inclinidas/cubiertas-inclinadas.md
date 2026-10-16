@@ -1,0 +1,1093 @@
+---
+type: libro
+title: "Sin título de diapositiva"
+author: ".."
+categoria: "MATERIAL O.R.T"
+paginas: 33
+extraccion: "texto"
+fuente: "local:E:/MATERIAL DE CONSULTA/MATERIAL O.R.T/construccion/cubiertas inclinidas/CUBIERTAS INCLINADAS.pdf"
+convertido: 2026-10-16
+---
+
+# Sin título de diapositiva
+
+> Texto extraído de `MATERIAL O.R.T\construccion\cubiertas inclinidas\CUBIERTAS INCLINADAS.pdf` (33 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+II TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+DA GRAIÑO CÁTEDRA
+N
+I – PAPICHL ELDUAYENC
+NI CONSTRUCTIVOS INCLINADASINCLINADAS WALTER
+
+S
+AT CURSO ARQ.R SEBASTIAN ARQUITECTURAE FLORENCIA
+
+I
+B DE ARQ.
+U ARQ.
+C DOCENTE: CUBIERTASCUBIERTAS FACULTAD
+
+\-
+ORT PROCEDIMIENTOS UNIVERSIDAD
+
+<!-- p. 2 -->
+
+es a
+
+y TECNOLÓGICA más frente ÁREA acciones fracasar, aislamiento DEL
+
+S
+A de
+D anteA componentes. atmosféricos, simultáneamente durabilidad CÁTEDRAN
+I –
+
+L
+C seguridad tieneN sus
+
+I cerramiento
+S como
+A deT el
+R ARQUITECTURAE agentesI así riesgo satisfacerB estanqueidad, DE estabilidad
+U
+C los de acústico, de a más y FACULTAD ha
+\- cubierta, que ORT La eso el mecánicas, incendios, compatibilidad térmico por exigencias expuesto UNIVERSIDAD
+
+<!-- p. 3 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+L
+C
+N
+
+I
+
+S
+A
+T
+R ARQUITECTURAE
+
+I
+B DE
+U
+C
+FACULTAD
+
+\- TIPOLOGIAS
+ORT
+UNIVERSIDAD
+
+<!-- p. 4 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+L
+C
+N
+
+I
+
+S
+A
+T
+R ARQUITECTURAE
+
+I
+B DE
+U
+C
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 5 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+L
+C
+N
+
+I
+
+S
+A
+T
+R ARQUITECTURAE
+
+I
+B DE
+U
+C
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 6 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+L
+C
+N
+
+I
+
+S
+A
+T
+R ARQUITECTURAE
+
+I
+B DE
+U
+C
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 7 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+L
+C
+N
+
+I
+
+S
+A
+TR CUBIERTAS ARQUITECTURAE
+
+I
+B DE
+U
+C
+FACULTAD
+
+\- LAS
+ORT
+DE UNIVERSIDAD ACONDICIONAMIENTO
+
+<!-- p. 8 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+L
+C
+N
+
+I
+
+S
+A
+T
+R ARQUITECTURAE
+
+I
+B DE
+U
+C
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 9 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+L
+C
+N
+
+I
+
+S
+A
+T
+R ARQUITECTURAE
+
+I
+B DE
+U
+C
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 10 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+L
+C
+N
+
+I
+
+S
+A
+T
+R ARQUITECTURAE
+
+I
+B DE
+U
+C
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 11 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+L
+C
+N
+
+I
+
+S
+A
+T
+R ARQUITECTURAE
+
+I
+B DE
+U
+C
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 12 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+L
+C
+N
+
+I
+
+S
+A
+T
+R ARQUITECTURAE
+
+I
+B DE
+U
+C
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 13 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+L
+C
+N
+
+I
+
+S
+A
+T
+R ARQUITECTURAE
+
+I
+B DE
+U
+C
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 14 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+L
+C
+N
+
+I
+
+S
+A
+T TEJAS
+R ARQUITECTURAE
+
+I
+B DE
+U
+C DE FACULTAD
+
+\- CUBIERTAS
+ORT
+UNIVERSIDAD
+
+<!-- p. 15 -->
+
+TECNOLÓGICA
+ÁREA
+DEL LIMAHOYA
+S
+A
+D
+A CÁTEDRA
+N
+–I DE
+L
+C
+N
+
+I
+
+S
+A
+T
+R ARQUITECTURAEI CUMBRERA VENTILACIÓNB DE ELEMENTO
+U
+C
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 16 -->
+
+TEJA TECNOLÓGICA CLAVADERA
+DE A ÁREA
+DEL CLIP
+
+SA DE
+D
+A CÁTEDRA
+N COLOCACIÓN –I
+
+L
+C
+NI SUJECIÓN
+
+S
+A
+T
+R ARQUITECTURAE
+
+I
+B DE TEJA
+U
+C A CLAVADERA CLIP FACULTAD
+
+\-
+DE DE
+ORT
+FIJACIÓN FIJACIÓN UNIVERSIDAD
+
+<!-- p. 17 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+L
+C
+N
+
+I
+
+S
+A
+T
+R ARQUITECTURAE
+
+I
+B DE
+U
+C
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 18 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+L
+C
+N
+
+I
+
+S
+A
+T
+R ARQUITECTURAE
+
+I
+B DE
+U
+C
+FACULTAD
+
+\- CUBIERTAS CEMENTICIAS ORT
+UNIVERSIDAD
+
+<!-- p. 19 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+L
+C
+N
+
+I
+
+S COLORESA
+T Y
+R ARQUITECTURAE
+
+I
+B DE
+U
+C FORMAS FACULTAD
+
+\-
+DE ORT
+UNIVERSIDAD VARIEDAD
+
+<!-- p. 20 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+L
+C
+N
+
+I
+
+S
+A
+T
+R ARQUITECTURAE
+
+I
+B DE
+U
+C
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 21 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+L
+C
+N
+
+I
+
+S
+A
+T
+R ARQUITECTURAE
+
+I
+B DE
+U
+C
+FACULTAD
+
+\- CUBIERTAS ASFÁLTICAS
+ORT
+UNIVERSIDAD
+
+<!-- p. 22 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+L
+C
+N
+
+I
+
+S
+A
+T
+R ARQUITECTURAE
+
+I
+B DE
+U
+C
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 23 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+L
+C
+N
+
+I
+
+S
+A
+T
+R ARQUITECTURAE
+
+I
+B DE
+U
+C
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 24 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+L
+CN autoprotegida
+
+I acústico térmicoS impermeabilizante
+AT madera
+R contrachapado asfáltica ARQUITECTURAE
+
+I
+B DE
+U Soporte Aislamiento Aislamiento Enrastelado Panel Membrana Placa
+C
+1 2 3 4 5 6 7
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 25 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+LC autoprotegida
+N
+
+I térmicoS madera impermeabilizante
+A
+T de asfálticaR contrachapado ARQUITECTURAE
+
+I
+B DE
+U Soporte Membrana Aislamiento Rasteles Panel Placas
+C
+1 2 3 4 5 6
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 26 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+L
+C
+N
+
+I
+
+S
+A
+T
+R ARQUITECTURAE
+
+I
+B DE
+U
+C
+FACULTAD METÁLICAS
+\- CUBIERTAS
+ORT
+UNIVERSIDAD
+
+<!-- p. 27 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+L
+C
+N
+
+I
+
+S
+A
+T
+R ARQUITECTURAE
+
+I
+B DE
+U
+C
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 28 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+L
+C
+N
+
+I
+
+S
+A
+T
+R ARQUITECTURAE
+
+I
+B DE
+U
+C
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 29 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+L
+C
+N
+
+I
+
+S
+A
+T
+R ARQUITECTURAE
+
+I
+B DE
+U
+C
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 30 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+L
+C
+N
+
+I
+
+S
+A
+T
+R ARQUITECTURAE
+
+I
+B DE
+U
+C
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 31 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+L
+C
+N
+
+I
+
+S
+A
+T
+R ARQUITECTURAE
+
+I
+B DE
+U
+C
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 32 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+L
+C
+N
+
+I
+
+S
+A
+T
+R ARQUITECTURAE
+
+I
+B DE
+U
+C
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD
+
+<!-- p. 33 -->
+
+TECNOLÓGICA
+ÁREA
+DEL
+
+S
+A
+D
+A CÁTEDRA
+N
+I –
+
+L
+C
+N
+
+I
+
+S
+A
+T
+R ARQUITECTURAE
+
+I
+B DE
+U
+C
+FACULTAD
+
+\-
+ORT
+UNIVERSIDAD

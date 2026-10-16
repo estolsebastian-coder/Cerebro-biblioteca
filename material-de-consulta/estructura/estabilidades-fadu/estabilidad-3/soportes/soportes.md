@@ -1,0 +1,334 @@
+---
+type: libro
+title: "ORGANIZACIN DE ARMADURAS"
+author: "jorge"
+categoria: "ESTRUCTURA"
+paginas: 49
+extraccion: "texto (OCR pendiente)"
+fuente: "local:E:/MATERIAL DE CONSULTA/ESTRUCTURA/ESTABILIDADES FADU/ESTABILIDAD 3/soportes/Soportes.pdf"
+convertido: 2026-10-16
+---
+
+# ORGANIZACIN DE ARMADURAS
+
+> Texto extraído de `ESTRUCTURA\ESTABILIDADES FADU\ESTABILIDAD 3\soportes\Soportes.pdf` (49 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+
+
+<!-- p. 2 -->
+
+
+
+<!-- p. 3 -->
+
+
+
+<!-- p. 4 -->
+
+
+
+<!-- p. 5 -->
+
+
+
+<!-- p. 6 -->
+
+
+
+<!-- p. 7 -->
+
+
+
+<!-- p. 8 -->
+
+
+
+<!-- p. 9 -->
+
+
+
+<!-- p. 10 -->
+
+
+
+<!-- p. 11 -->
+
+
+
+<!-- p. 12 -->
+
+
+
+<!-- p. 13 -->
+
+
+
+<!-- p. 14 -->
+
+
+
+<!-- p. 15 -->
+
+
+
+<!-- p. 16 -->
+
+
+
+<!-- p. 17 -->
+
+
+
+<!-- p. 18 -->
+
+
+
+<!-- p. 19 -->
+
+
+
+<!-- p. 20 -->
+
+
+
+<!-- p. 21 -->
+
+
+
+<!-- p. 22 -->
+
+
+
+<!-- p. 23 -->
+
+
+
+<!-- p. 24 -->
+
+
+
+<!-- p. 25 -->
+
+
+
+<!-- p. 26 -->
+
+
+
+<!-- p. 27 -->
+
+
+
+<!-- p. 28 -->
+
+
+
+<!-- p. 29 -->
+
+
+
+<!-- p. 30 -->
+
+
+
+<!-- p. 31 -->
+
+
+
+<!-- p. 32 -->
+
+
+
+<!-- p. 33 -->
+
+
+
+<!-- p. 34 -->
+
+
+
+<!-- p. 35 -->
+
+
+
+<!-- p. 36 -->
+
+
+
+<!-- p. 37 -->
+
+
+
+<!-- p. 38 -->
+
+
+
+<!-- p. 39 -->
+
+
+
+<!-- p. 40 -->
+
+
+
+<!-- p. 41 -->
+
+42
+PILARES
+ORGANIZACIÓN DE ARMADURAS
+
+LONGITUDINAL
+
+• n BARRAS IGUALES
+
+SI ES SECCION RECTANGULAR n ES PAR
+
+MINIMO 4 BARRAS PARA SECCION RECTANGULAR
+MINIMO 6 BARRAS PARA SECCION CIRCULAR
+MINIMO UNA BARRA EN CADA VERTICE PARA SECCION CUALQUIERA
+
+• DIAMETRO MINIMO 12 mm
+
+• SEPARACION MÁXIMA s O 2 LADO MENOR
+s O 35 cm
+
+• SEPARACION MINIMA s P 2 cm
+s P 75% F LONGITUDINAL
+
+• CUANTÍA MAXIMA MECANICA As fyd O Ac fcd
+GEOMETRICA As O 0,045 Ac
+
+• CUANTIA MINIMA MECANICA As fyd P 0,1 Fd
+GEOMETRICA As P 0,008 Ac
+
+ESTRIBOS
+
+• DIAMETRO ¼ DIAMENTO HIERROS LONGITUDINALES
+NO MENOR A 6 mm
+
+• SEPARACION MAXIMA s O LADO MENOR DEL PILAR
+s O 12 F HIERROS LONGITUDINALES
+s O 30 cm
+
+• ESTRIBOS COMPLEMENTARIOS
+
+SI LAS BARRAS DISTAN MÁS DE 15 cm ENTRE SI EN CADA BARRA
+SI LAS BARRAS DISTAN MENOS DE 15 cm ENTRE SI CADA DOS BARRAS
+
+<!-- p. 42 -->
+
+
+
+<!-- p. 43 -->
+
+
+
+<!-- p. 44 -->
+
+
+
+<!-- p. 45 -->
+
+
+
+<!-- p. 46 -->
+
+
+
+<!-- p. 47 -->
+
+
+
+<!-- p. 48 -->
+
+49
+MUROS
+ORGANIZACIÓN DE ARMADURAS
+
+LONGITUDINAL
+
+• n BARRAS IGUALES
+
+• DIAMETRO MINIMO 10 mm
+
+• SEPARACION MÁXIMA s O 2 LADO MENOR
+s O 25 cm
+
+• SEPARACION MINIMA s P 2 cm
+s P 75% F LONGITUDINAL
+
+• CUANTÍA MAXIMA MECANICA As fyd O Ac fcd
+GEOMETRICA As O 0,045 Ac
+
+• CUANTIA MINIMA MECANICA As fyd P 0,1 Fd
+GEOMETRICA As P 0,005 Ac NECESARIA
+
+ESTRIBOS
+
+• DIAMETRO ¼ DIAMENTO HIERROS LONGITUDINALES
+NO MENOR A 6 mm
+
+• AREA MINIMA As/5
+
+• SEPARACION MAXIMA s O 25 cm
+
+si As P 0,02 Ac se estriba como pilar es decir:
+s O LADO MENOR DEL PILAR
+s O 12 F HIERROS LONGITUDINALES
+
+• ESTRIBOS COMPLEMENTARIOS
+
+si As O 0,02 Ac seis por metro cuadrado
+
+si As P 0,02 Ac se estriba como pilar es decir:
+
+SI LAS BARRAS DISTAN MÁS DE 15 cm ENTRE SI EN CADA BARRA
+SI LAS BARRAS DISTAN MENOS DE 15 cm ENTRE SI CADA DOS BARRAS
+
+<!-- p. 49 -->
+
+50
+PILARES AUXILIARES
+ORGANIZACIÓN DE ARMADURAS
+
+LONGITUDINAL
+
+• n BARRAS IGUALES
+
+SI ES SECCION RECTANGULAR n ES PAR
+
+MINIMO 4 BARRAS PARA SECCION RECTANGULAR
+MINIMO 6 BARRAS PARA SECCION CIRCULAR
+MINIMO UNA BARRA EN CADA VERTICE PARA SECCION CUALQUIERA
+
+• DIAMETRO MINIMO 10 mm
+
+• DIAMETRO MAXIMO a/10
+
+• SEPARACION MÁXIMA s O 2 LADO MENOR
+s O 35 cm
+
+• SEPARACION MINIMA s P 2 cm
+s P 75% F LONGITUDINAL
+
+• CUANTÍA MAXIMA MECANICA As fyd O Ac fcd
+GEOMETRICA As O 0,02 Ac
+
+• CUANTIA MINIMA MECANICA As fyd P 0,1 Fd
+GEOMETRICA As P 0,008 Ac
+
+ESTRIBOS
+
+• DIAMETRO ¼ DIAMENTO HIERROS LONGITUDINALES
+NO MENOR A 6 mm
+
+• SEPARACION MAXIMA s O LADO MENOR DEL PILAR
+s O 12 F HIERROS LONGITUDINALES
+s O 30 cm
+
+• ESTRIBOS COMPLEMENTARIOS
+
+SI LAS BARRAS DISTAN MÁS DE 15 cm ENTRE SI EN CADA BARRA
+SI LAS BARRAS DISTAN MENOS DE 15 cm ENTRE SI CADA DOS BARRAS

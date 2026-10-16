@@ -1,0 +1,74 @@
+---
+type: libro
+title: "FLORESTA1 E1-CIMENT (1)"
+author: "Arq. Ramiro Chaer"
+categoria: "ESTRUCTURA"
+paginas: 1
+extraccion: "texto"
+fuente: "local:E:/MATERIAL DE CONSULTA/ESTRUCTURA/CURSOS U.E.P/cimentaciones/Obras/- Tipos diferentes/zapata corrida - ampliación en La Floresta/E1-CIMENT.pdf"
+convertido: 2026-10-16
+---
+
+# FLORESTA1 E1-CIMENT (1)
+
+> Texto extraído de `ESTRUCTURA\CURSOS U.E.P\cimentaciones\Obras\- Tipos diferentes\zapata corrida - ampliación en La Floresta\E1-CIMENT.pdf` (1 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+ESCALA 1/50
+
+ESC. 1/12.5 P1 P1 ESC. 1/12.5
+
+IMPORTANTE:
+
+LOS ENCUENTROS DE MUROS NUEVOS CON EXISTENTES,
+(SEAN O NO PORTANTES) SE REALIZA SIEMPRE TRABANDO
+4Ø8 LOS MAMPUESTOS Y COLOCANDO TRABAS Ø6/25
+P1 4Ø8
+Ø8/20 40
+P1 ESTRIBOS Ø6/25
+40
+25
+\-60 cm -60 cm
+A A PLANTA ALZADO
+2Ø6
+
+ESPECIFICACIONES:
+VER DETALLE 1
+B B HORMIGON - C250
+ACERO TRATADO - INDICADO Ø UNIT 145-61 o 179-67 R(12x30)
+se podrá utilizar ACERO COMUN UNIT 34-46 en estribos
+de pilares y vigas, cuando éstos se indiquen de 6 mm.
+
+NOTAS:
+TODAS LAS MEDIDAS SERAN VERIFICADAS EN OBRA.
+LAS COTAS DE DOBLADOS NO INCLUYEN EL APOYO
+ESC. 1/20 ANTEPECHOS: 2Ø6 CON ARENA Y PORTLAND QUE PENETRAN
+50 cm A CADA LADO DE LA ABERTURA R(12x30)
+
+VIGA DE CIMENTACION
+EXISTENTE ±000 cm
+
+\-30 cm
+\-40 cm
+
+OBRA:
+SE ENGANCHAN A NIVEL DE -60 cm
+CIMENTACION EXISTENTE UBICACION:
+PADRON Nº
+
+PROPIETARIO: CONCEPTO:
+CIMENTACION
+CORRIDA NUEVA TECNICO:
+
+\-120 cm ESTRUCTURA: ARQ. RAMIRO CHAER REGIMEN:
+
+NIVEL: CIMENTACION
+
+FECHA: ESCALA: 1/50
+
+FIRMAS: PROPIETARIO: LAMINA:
+
+TECNICO:
+
+ESTRUCTURA:

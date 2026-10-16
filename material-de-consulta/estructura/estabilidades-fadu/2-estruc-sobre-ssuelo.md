@@ -1,0 +1,80 @@
+---
+type: libro
+title: "2-estruc sobre ssuelo"
+author: "ramiro chaer"
+categoria: "ESTRUCTURA"
+paginas: 1
+extraccion: "texto"
+fuente: "local:E:/MATERIAL DE CONSULTA/ESTRUCTURA/ESTABILIDADES FADU/2-estruc sobre ssuelo.pdf"
+convertido: 2026-10-16
+---
+
+# 2-estruc sobre ssuelo
+
+> Texto extraído de `ESTRUCTURA\ESTABILIDADES FADU\2-estruc sobre ssuelo.pdf` (1 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+D ESCALA ESCALA 2Ø8 ESC. 1/12.5
+UNA 1/20 1/50
+\-40 -23 D
+HILADA
+
+VER
+15 NERVIO HILADA 2Ø8 8 15 EXTERIOR -10 CORTE (N.P.T.) ESTRIBOS CON A-A BORDE CON Ø3.0 SIGUIENTE Ø6c/25 Ø3.0 CONTRAPISO +137 MALLALUR CONTRAPISO CON Ø8 MALLALUR
+C30 ARENA ARMADO C30 ARMADO Y CENTRAL
+(Ø3c/15) PORTLAND PROTEGIDO
+R BIGOTES PILARDE
+Ø8 PT PT
+MALLA LADRILLO MALLALUR
+C30Ø8c/15
+
+\-60
+
+R
+PT
+
+M.C.4
+
+G
+E
+
+R
+15 F F +80
+
+8 G VER PILAR 15 +80
+CON Ø3.0 -40 DETALLE DE Ø3.0 R
+M.C.4 -23 CONTRAPISO PT PT LADRILLO. MALLALUR
+C30 ARMADO E
+
+\-60 -60
+M.C.4
+
+B R P1
+
+R
+
+M.C.2
+B P5 45 M.C.1 P3 PT M.C.4
+\-46
+
+100
+CADA VIGA SUPERIOR45 Ø10c/24 20 45 60 CORREAS 24 12
+Ø8 M.C.1 CON P2 cm. 2"x6" 4"x10" 1.5 Ø10 LOSITA
+
+A cm. 15
+
+15 8 V101(20x40) -18 Ø8 PLATINAS NIVEL 1 CONTRAFLECHA
+Ø8 cm
+
+x
+17 CERCHA P6 45 A M.C.1 LATERALES
+cm P4 -60 AMURADAS CONTRAPISO
+A -60 PLANCHUELAS
+VIGA C C CONTRA APOYA TERRENO DECK
+M.C.3 SOBRE MADERA 4"x10" MENSULAS
+
+CERCHA
+P7 M.C.3 Origen
+CERCHA VER de
+DETALLE coordenadas

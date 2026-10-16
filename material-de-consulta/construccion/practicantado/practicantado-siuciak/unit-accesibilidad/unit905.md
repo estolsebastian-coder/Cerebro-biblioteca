@@ -1,0 +1,379 @@
+---
+type: libro
+title: "tapaunit"
+author: "andres"
+categoria: "CONSTRUCCIÓN"
+paginas: 10
+extraccion: "texto"
+fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/practicantado/practicantado_siuciak/UNIT Accesibilidad/UNIT905.pdf"
+convertido: 2026-10-16
+---
+
+# tapaunit
+
+> Texto extraído de `CONSTRUCCIÓN\practicantado\practicantado_siuciak\UNIT Accesibilidad\UNIT905.pdf` (10 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+INSTITUTO URUGUAYO UNIT
+DE NORMAS TECNICAS 905:2000
+
+Accesibilidad de las personas al medio físico -
+Edificios - Rampas fijas
+
+Número de referencia
+UNIT 905:2000
+
+<!-- p. 2 -->
+
+UNIT 905:2000
+
+La presente norma UNIT 905:2000, es idéntica a la norma de la
+Comision Panamericana de Normas Técnicas - COPANT 1618:2000,
+de igual nombre.
+
+La norma panamericana ha sido estudiada por el Comité COPANT CT
+143: Accesibilidad de las personas al medio físico, cuya Secretaría
+Técnica es desempeñada por UNIT.
+
+A los efectos de la aplicación de esta norma, las referencias norma-
+tivas de la norma COPANT original se ajustan a las indicadas en la
+siguiente tabla:
+
+REFERENCIA ORIGINAL COPANT SE APLICA
+
+COPANT 1619:2000 UNIT 949:2000
+
+COPANT 1621:2000 UNIT 966:2000
+
+2
+
+<!-- p. 3 -->
+
+UNIT 905:2000
+
+INSTITUTO URUGUAYO DE NORMAS TECNICAS
+
+UNIT 905:2000
+
+ACCESIBILIDAD DE LAS PERSONAS AL MEDIO FISICO
+
+EDIFICIOS
+
+RAMPAS FIJAS
+
+1 - OBJETO
+
+Esta norma establece las dimensiones mínimas y las características generales que deben cumplir las
+rampas que se construyan en edificaciones para facilitar el acceso a las personas.
+
+2 - REFERENCIAS NORMATIVAS
+
+Los siguientes documentos normativos contienen disposiciones que al ser citadas en este texto,
+constituyen disposiciones válidas para esta norma. Las ediciones indicadas estaban en vigencia en
+el momento de esta publicación. Como toda norma está sujeta a revisión se recomienda, a aquéllos
+que realicen acuerdos en base a ellas, que analicen la conveniencia de usar las ediciones más
+recientes de las normas citadas seguidamente. UNIT posee la información sobre las normas en
+vigencia.
+
+UNIT 949:2000, Accesibilidad de las personas al medio físico. Edificios, espacios urbanos y rurales.
+Señalización.
+
+UNIT 966:2000, Accesibilidad de las personas al medio físico. Edificios. Equipamientos. Bordillos,
+pasamanos y agarraderas.
+
+3 - REQUISITOS
+
+3.1 Dimensiones
+
+3.1.1 Pendiente longitudinal
+
+Se establecen las siguientes pendientes longitudinales máximas para los tramos rectos de rampa
+entre descansos, en función de la extensión de los mismos medidos en su proyección horizontal (l).
+(véase la figura 1).
+
+10 m \< l ≤ 15 m; la pendiente máxima será del 6%
+3 m \< l ≤ 10 m; la pendiente máxima será del 8%
+1,5 m \< l ≤ 3 m; la pendiente máxima será del 10%
+l ≤ 1,5 m; la pendiente máxima será del 12%.
+
+y en función del desnivel a salvar (d): (véase la figura 2).
+
+3
+
+<!-- p. 4 -->
+
+UNIT 905:2000
+
+Para un desnivel: 0,80 m \< d ≤ 0,90 m, la pendiente máxima será del 6 %;
+Para un desnivel: 0,30 m \< d ≤ 0,80 m, la pendiente máxima será del 8 %;
+Para un desnivel: 0,18 m \< d ≤ 0,30 m, la pendiente máxima será del 10 %.
+Para un desnivel: d ≤ 0,18 m, la pendiente máxima será del 12 %.
+
+Una rampa con pendiente menor o igual al 2% se asimila a una circulación plana y por lo tanto no se
+limita su longitud.
+
+3.1.2 Pendiente transversal. La pendiente transversal máxima se establece en el 2%.
+
+3.1.3 Ancho. El ancho mínimo libre de las rampas será de 0,90 m.
+
+3.1.4 Descansos
+
+Los descansos se colocarán entre tramos de rampa, cuando exista la posibilidad de un giro y frente
+a cualquier tipo de acceso.
+
+El largo del descanso deberá tener una dimensión mínima libre de 1,20 m.
+
+Cuando exista la posibilidad de un giro a 90°, el descanso deberá tener un ancho mínimo de 1 m; si
+el ángulo de giro supera los 90°, la dimensión mínima del descanso deberá ser de 1,20 m. (véase la
+figura 3).
+
+Cuando una puerta abra hacia el descanso, la dimensión mínima de éste deberá incrementarse de
+acuerdo al barrido de la puerta, evitando que el mismo se produzca invadiendo el ancho mínimo de la
+rampa.
+
+3.1.5. Superficie de aproximación a rampas.
+
+Al comenzar y finalizar una rampa debe existir una superficie de aproximación que permita inscribir un
+círculo de 1,20m de diámetro como mínimo, que no deberá ser invadida por elementos fijos, móviles
+o desplazables o por el barrido de puertas.
+
+3.2 Características generales
+
+3.2.1 Cuando las rampas salven desniveles superiores a 0,25m deberán llevar pasamanos según la
+Norma UNIT 966.
+
+3.2.2 Cuando se diseñen rampas con anchos superiores al doble del mínimo (véase el apartado 3.1.3),
+se recomienda la colocación de pasamanos intermedios espaciados como mínimo a 0,90 m.
+
+3.2.3 En los casos que se presente doble circulación simultánea se deberá colocar en el centro
+pasamanos intermedios. El ancho de las rampas definido de esta manera deberá estar de acuerdo a
+lo especificado en 3.1.3.
+
+3.2.4 Cuando las rampas salven desniveles superiores a 0,10m deberán llevar bordillos según la
+norma Norma UNIT 966.
+
+3.2.5 Cuando existan circulaciones transversales en rampas que salven desniveles menores de 25
+cm, (ejemplo: rebajes de un escalón o vados) se dispondrán planos laterales de acordamiento con
+pendiente longitudinal máxima del 12%.
+
+4
+
+<!-- p. 5 -->
+
+UNIT 905:2000
+
+3.2.6 El pavimento de las rampas deberá ser firme, antideslizante y sin accidentes.
+3.2.7 Las rampas deben estar libres de obstáculos en todo su ancho mínimo y desde su piso terminado
+hasta un plano paralelo a él ubicado a 2,05 m de altura.
+
+Dentro de ese espacio no se podrá disponer de elementos que la invadan (ej.: luminarias, carteles,
+equipamientos).
+
+3.3 Señalización. Las rampas deberán estar señalizadas en forma apropiada según la Norma UNIT
+\949.
+
+3.4 Rampas con cambio de dirección (véase la figura 4).
+
+3.4.1 Ancho
+
+Cuando se proyecta un cambio de dirección en las rampas éstas deberán tener un ancho mínimo de
+1,20 m.
+
+3.4.2 Pendiente longitudinal
+
+La pendiente longitudinal máxima admitida para estas rampas es de 8 % con un radio mínimo de 3 m
+medidos con respecto al borde interno de la rampa.
+
+3.4.3 Pendiente transversal
+
+La pendiente transversal máxima se establece en 2 %, tomada ésta hacia el borde interno de la rampa.
+
+3.4.4 Descansos
+
+El largo mínimo de los descansos, establecido en el apartado 3.1.4, deberá medirse en el borde interno
+de la rampa.
+
+5
+
+<!-- p. 6 -->
+
+UNIT 905:2000
+
+Pendiente longitudinal en función de la extensión
+Figura 1
+
+Pendiente longitudinal en
+función del desnivel
+
+Figura 2
+
+6
+
+<!-- p. 7 -->
+
+UNIT 905:2000
+
+Descansos
+Figura 3
+
+Rampa con cambio de dirección
+Figura 4
+
+7
+
+<!-- p. 8 -->
+
+UNIT 905:2000
+
+INFORME CORRESPONDIENTE
+
+A LA NORMA UNIT 905:2000
+
+ACCESIBILIDAD DE LAS PERSONAS AL MEDIO FÍSICO
+
+EDIFICIOS
+
+RAMPAS FIJAS
+
+1 – INTRODUCCIÓN
+
+A partir de las conclusiones del “Seminario Taller de Expertos en legislación sobre accesibilidad”
+realizado en Marzo de 1992 en Montevideo, se estableció la necesidad de formular normas técnicas
+nacionales y regionales que recojan los criterios y establezcan los requisitos mínimos que deben
+cumplir los edificios adaptados o a construir, tanto públicos como privados, los espacios urbanos y
+rurales, el transporte y el equipamiento urbano y edilicio, para dar satisfacción a la triple condición de
+accesibilidad – franqueabilidad – utilidad.
+
+Atento a ello, el Instituto Uruguayo de Normas Técnicas, constituyó un Comité Especializado de
+Normalización, sobre Accesibilidad al Medio Físico y solicitó a la Comisión Panamericana de Normas
+Técnicas, la conveniencia de establecer la constitución de un Comité Panamericano, del cual UNIT,
+se ofreció a ser Secretaría Técnica.
+
+La revisión de la presente norma fue promovida a partir de las conclusiones del la 1er. Reunión Tecnica
+COPANT del CT 143, realizada en setiembre de 1997 en Montevideo, Uruguay.
+
+Las resoluciones aprobadas en ese evento, hacen referencia a la incorporación en las normas
+panamericanas de dibujos esquemáticos, el establecimiento únicamente de requisitos mínimos y la
+inclusión de definiciones cuando corresponda.
+
+2 – INTEGRACIÓN DEL COMITÉ
+
+Para la integración del Comité Especializado de UNIT, se solicitó la designación de delegados a:
+Ministerio de Transporte y Obras Públicas; Intendencia Municipal de Montevideo; Banco de Seguros
+del Estado; Facultad de Arquitectura; Sociedad de Arquitectos del Uruguay; Asociación de Promotores
+Privados de la Construcción; Asociación de Sordomudos del Uruguay; Centro de Rehabilitación para
+ciegos: Tiburcio Cachón; Fundación Braille del Uruguay; Instituto de integración sin barreras arquitectónicas y Plenario Nacional de organizaciónes de impedidos del Uruguay.
+
+3 – ANTECEDENTES
+
+Para la elaboración de la presente norma, el Comité Especializado tuvo en cuenta, fundamentalmente
+el siguiente antecedente:
+
+UNIT 905:1994, Accesibilidad de las personas al medio físico. Edificios. Rampas fijas.
+
+8
+
+<!-- p. 9 -->
+
+UNIT 905:2000
+
+4 – CONSIDERACIONES
+
+La revisión de la presente norma incorpora las modificaciones consensuadas en la 1er. Reunión
+Técnica del CT 143 realizada en Montevideo en setiembre de 1997, en lo referente a la inclusión de
+dibujos y al establecimiento únicamente de requisitos mínimos.
+
+De acuerdo a estas consideraciones, UNIT, en su carácter de Secretaría Técnica del CT 143 elaboró
+y sometió a consideración de los miembros del Comité, el proyecto de revisión de la Norma COPANT
+1618:1995 (idéntica a la Norma UNIT 905).
+
+Cumplidas las etapas de discusión y votación, se logró el consenso a nivel panamericano aprobándose
+la revisión de la Norma COPANT 1618:2000.
+
+5 – CORRESPONDENCIA
+
+La presente revisión de la norma UNIT 905:2000, es idéntica a la norma de la Comisión Panamericana
+de Normas Técnicas COPANT 1618:2000 de igual nombre.
+
+La norma panamericana ha sido estudiada por el Comité COPANT CT 143: Accesibilidad de las
+personas al medio físico, cuya Secretaría Técnica es desempeñada por UNIT.
+
+El proyecto de revisión de norma COPANT 1618, recibió la aprobación sin observaciones de:
+
+INDECOPI
+IBNORCA
+FONDONORMA
+UNIT
+
+Asimismo, recibió la aprobación con observaciones de forma y de fondo del IRAM.
+
+La revisión de la norma UNIT 905, fue aprobada por el Comité Especializado el 11 de diciembre de 2000
+y por el Comité General de Normas el 14 de diciembre de 2000.
+
+9
+
+<!-- p. 10 -->
+
+UNIT 905:2000
+
+INSTITUTO URUGUAYO DE NORMAS TECNICAS
+Institución privada sin fines de lucro fundada en 1939
+Primera en el Uruguay dedicada a la Calidad
+
+NORMALIZACION: Realizada a nivel nacional mediante y el "Certificado UNIT de Sistema de la Calidad". A través
+comités especializados, integrados por representantes de de acuerdos con organismos acreditados : AENOR (Espa-
+todos los sectores involucrados, que dan respuesta a soli- ña), DQS (Alemania), IMQ (Italia), IRAM (Argentina), ABNT,
+citudes formuladas por instituciones oficiales y empresas Fundacion Vanzolini, UCIEE (Brasil), ICONTEC (Colombia)
+privadas, referentes a los requisitos técnicos que deben miembros de la Red Internacional de Certificación -
+cumplir determinados productos, a los métodos de ensayo IQNET, es posible acceder a este diploma.
+que se deben utilizar en su medición, elementos de seguri- .
+dad, etc. Las normas UNIT encaran temas tan diversos CAPACITACION: Fue UNIT quien introdujo en el Uru-
+como: Gestión y aseguramiento de la calidad, Materiales de guay actividades sistemáticas de Capacitación sobre Cali-
+construcción, Electrotecnia, Seguridad, Productos alimen- dad, habiéndose dictado desde 1971 a la fecha más de 1000
+ticios, Textiles, Dibujos, Fertilizantes, Cueros, Metales, cursos y seminarios, de varios diferentes niveles, a cargo de
+Sanitaria, Pinturas, Material de lucha contra incendios, docentes nacionales y extranjeros.
+Recipientes para gases, Maderas, Papeles, etc. En total, han participado en los programas de capacitación
+Muchas de ellas han sido declaradas de cumplimiento de UNIT más de 20.000 personas.
+obligatorio por el Poder Ejecutivo y diversas Intendencias Se otorgan los títulos de "Especialista en Gestión de la
+Municipales. Calidad - UNIT-ISO 9000 , ¨Especialista en Gestión Ambien-
+A nivel internacional se participa en la elaboración de tal-UNIT-ISO 14000¨ , ¨Especialista en Gestión de la Segu-
+normas ISO, IEC, COPANT y MERCOSUR. ridad y la Salud Ocupacional¨ , ¨Especialista UNIT en
+Recursos Humanos¨ ,a quienes obtienen estos cuatro diplo-
+INFORMACION ESPECIALIZADA: Mediante una biblio- mas se les confiere el: DIPLOMA SUPERIOR EN SISTE-
+teca a disposición del público con más de 300.000 normas y MAS UNIT DE GESTION. Otros diplomas que integran el
+especificaciones internacionales y extranjeras, que el programa de Capacitación son:, ¨Supervisor en Gestión de
+exportador debe conocer cuando desea vender sus produc- la Calidad UNIT-ISO 9000", y un nuevo Diploma ¨Especia-
+tos en esos mercados y que son indispensables como lista UNIT en Gestión de la Calidad en Servicios de Salud
+antecedentes para la elaboración de normas nacionales. Quienes obtengan el título de ¨Especialista en Calidad¨,
+estarán en condiciones de conducir la implantación de
+CERTIFICACION DE PRODUCTOS Y SERVICIOS: Me- sistemas de calidad de acuerdo con las normas ISO 9000
+diante la marca de Conformidad con Norma y Certificación (UNIT-ISO 9000), en tanto los que reciban el título de
+de Productos y Servicios, por la cual UNIT constata durante ¨Supervisor de Calidad¨ estarán en condiciones de cooperar
+la elaboración en fábrica o en su realización y durante su con los Especialistas en esa tarea. Se dictan además cursos
+comercialización, certificando que un producto o servicio para la Alta Gerencia y en áreas específicas (Alimentos,
+cumple en forma permanente con una norma UNIT. Software, Gestión de la Seguridad, etc.) así como cursos ¨in
+situ¨ en las empresas.
+Actualmente se otorga a extintores, recarga de extintores,
+calentadores de agua, envases para gases, equipos de A través de UNIT se tiene la posibilidad de participar en
+protección personal, material sanitario, material eléctrico, diversos seminarios y simposios en el exterior.
+etc.
+EDICIONES: Desde sus inicios UNIT ha publicado sus
+CERTIFICACION DE SISTEMAS DE CALIDAD: normas y los apuntes correspondientes a los cursos que
+Realizada por expertos calificados por la Asociación de dicta. Edita también la colección UNIT-CALIDAD, libros
+Normalización y Certificación - AENOR . UNIT ha puesto en que son soporte principal para los programas de formación
+funcionamiento un esquema para la certificación de los de "Especialista en Calidad - UNIT-ISO 9000", ¨Supervisor
+Sistemas de Calidad de Empresas desarrollados según las en Calidad - UNIT-ISO 9000, ¨Especialista en Gesión Am-
+normas ISO 9000 (UNIT-ISO 9000), mediante el cual se biental - UNIT-ISO 14000¨ y material de referencia para todos
+otorga la "Marca UNIT de Sistemas de la Calidad Certificado los interesados en el tema.
+
+miembro de:
+
+COMISION ORGANIZACION COMISION ASOCIACION
+PANAMERICANA DE INTERNACIONAL ELECTROTECNICA MERCOSUR DE
+NORMAS TECNICAS DE NORMALIZACION INTERNACIONAL NORMALIZACION
+
+PZA. INDEPENDENCIA 812 - P2 - MONTEVIDEO - URUGUAY PROHIBIDA LA REPRODUCCION TOTAL O PARCIAL SALVO
+TP: 901 20 48* - TF: 902 16 81 - E-mail:unit@adinet.com.uy-www.unit.org.uy POR AUTORIZACION ESCRITA DE ESTE INSTITUTO
+
+10

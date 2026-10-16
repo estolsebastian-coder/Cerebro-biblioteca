@@ -1,0 +1,2579 @@
+---
+type: libro
+title: "Sin título-1"
+author: "silvio"
+categoria: "CONSTRUCCIÓN"
+paginas: 262
+extraccion: "texto (OCR pendiente)"
+fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/CATALIND.PDF"
+convertido: 2026-10-16
+---
+
+# Sin título-1
+
+> Texto extraído de `CONSTRUCCIÓN\CATALIND.PDF` (262 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+
+<!-- p. 1 -->
+
+CATALOGO IBEROAMERICANO DE
+TECNICAS CONSTRUCTIVAS INDUSTRIALIZADAS
+PARA VIVIENDA DE INTERES SOCIAL
+
+CYTED
+
+PROGRAMA IBEROAMERICANO DE CIENCIA Y TECNOLOGÍA PARA EL DESARROLLO
+
+<!-- p. 2 -->
+
+Copyrigth PROGRAMA CYTED
+Ciencia y tecnología para el Desarrollo
+Todos los derechos de reproducción
+o traducción reservados para el programa
+CYTED y para los autores de los respectivos trabajos.
+
+Grupo de Edición
+Coordinación: Walter Kruk
+Asistente de coordinación: Daniel González Pardal
+
+Diseño de tapa : Daniel González Pardal
+Diseño y y producción gráfica: Ideograma.
+
+Primera edición 1000 ejemplares
+Noviembre 1993
+Montevideo , Uruguay
+
+Impreso en mastergraf srl
+Cabildo 1001/2011 - Tel 41 79 92
+
+El contenido de esta publicación representa los puntos de vista de los autores y no necesariamente el de las organizaciones que la auspiciaron.
+
+<!-- p. 3 -->
+
+PROGRAMA IBEROAMERICANO DE CIENCIA Y TECNOLOGÍA
+PARA EL DESARROLLO - CYTED
+
+SUBPROGRAMA XIV
+TECNOLOGÍA PARA VIIVIENDAS DE INTERÉS SOCIAL
+
+PROYECTO TECNICAS CONSTRUCTIVAS INDUSTRIALIZADAS PARA
+VIVIENDA DE BAJO COSTOCYTED
+
+PROYECTO CYTED XIV.2
+
+CATALOGO IBEROAMERICANO DE
+TECNICAS CONSTRUCTIVAS INDUSTRIALIZADAS
+PARA VIVIENDA DE INTERES SOCIAL
+
+PARTICIPARON EN EL CATALOGO
+
+COORDINADOR DEL BANCO DE DATOS Y DEL LIBRO
+
+WALTER KRUK - URUGUAY
+
+REUNION DE LA DOCUMENTACION
+
+I SABEL BALLESTER - REPUBLICA DOMINICANA
+MAXIMINO BOCALANDRO - CUBA
+ANIBAL DIAZ - PERU
+PAULO E. FONSECA DE CAMPOS - BRASIL
+ALBERTO GARCIA GARCIA - COSTA RICA
+JOSE A. PEÑA - VENEZUELA
+OSCAR ZACCARELLI - CHILE
+
+<!-- p. 4 -->
+
+
+
+<!-- p. 5 -->
+
+I N D I C E
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 6 -->
+
+I N D I C E LA INDUSTRIALIZACION DE LA VIVIENDA EN AMERICA LATINA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 7 -->
+
+P R O L O G O
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 8 -->
+
+INTRODUCCION LA INDUSTRIALIZACION DE LA VIVIENDA EN AMERICA LATINA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 9 -->
+
+INTRODUCCION
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 10 -->
+
+INTRODUCCION LA INDUSTRIALIZACION DE LA VIVIENDA EN AMERICA LATINA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 11 -->
+
+INTRODUCCION
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 12 -->
+
+INTRODUCCION LA INDUSTRIALIZACION DE LA VIVIENDA EN AMERICA LATINA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 13 -->
+
+INTRODUCCION
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 14 -->
+
+INTRODUCCION LA INDUSTRIALIZACION DE LA VIVIENDA EN AMERICA LATINA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 15 -->
+
+INTRODUCCION
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 16 -->
+
+CLASIFICACION
+FOTOGRAFIAS
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 17 -->
+
+1
+BENO ARGENTINA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 18 -->
+
+CLASIFICACION
+FOTOGRAFIAS 1
+ARGENTINA BENO
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 19 -->
+
+1
+BENO ARGENTINA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 20 -->
+
+CLASIFICACION
+FOTOGRAFIAS 1
+ARGENTINA BENO
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 21 -->
+
+2
+CAPRO ARGENTINA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 22 -->
+
+CLASIFICACION
+FOTOGRAFIAS 2
+ARGENTINA CAPRO
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 23 -->
+
+2
+CAPRO ARGENTINA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 24 -->
+
+CLASIFICACION
+FOTOGRAFIAS 2
+ARGENTINA CAPRO
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 25 -->
+
+3
+FC2 ARGENTINA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 26 -->
+
+CLASIFICACION
+FOTOGRAFIAS 3
+ARGENTINA FC2
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 27 -->
+
+3
+FC2 ARGENTINA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 28 -->
+
+CLASIFICACION
+FOTOGRAFIAS 3
+ARGENTINA FC2
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 29 -->
+
+4
+HYDRAFORM ARGENTINA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 30 -->
+
+CLASIFICACION
+FOTOGRAFIAS 4
+ARGENTINA HYDRAFORM
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 31 -->
+
+4
+HYDRAFORM ARGENTINA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 32 -->
+
+CLASIFICACION
+FOTOGRAFIAS 4
+ARGENTINA HYDRAFORM
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 33 -->
+
+5
+EQUINOX ARGENTINA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 34 -->
+
+CLASIFICACION
+FOTOGRAFIAS 5
+ARGENTINA EQUINOX
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 35 -->
+
+5
+EQUINOX ARGENTINA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 36 -->
+
+CLASIFICACION
+FOTOGRAFIAS 5
+ARGENTINA EQUINOX
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 37 -->
+
+6
+MP ARGENTINA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 38 -->
+
+CLASIFICACION
+FOTOGRAFIAS 6
+ARGENTINA MP
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 39 -->
+
+6
+MP ARGENTINA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 40 -->
+
+CLASIFICACION
+FOTOGRAFIAS 6
+ARGENTINA MP
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 41 -->
+
+7
+CANAIS DE ARGAMASSA ARMADA BRASIL
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 42 -->
+
+CLASIFICACION
+FOTOGRAFIAS 7
+BRASIL CANAIS DE ARGAMASSA ARMADA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 43 -->
+
+7
+CANAIS DE ARGAMASSA ARMADA BRASIL
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 44 -->
+
+CLASIFICACION
+FOTOGRAFIAS 7
+BRASIL CANAIS DE ARGAMASSA ARMADA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 45 -->
+
+8
+C0JAN BRASIL
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 46 -->
+
+CLASIFICACION
+FOTOGRAFIAS 8
+BRASIL COJAN
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 47 -->
+
+8
+C0JAN BRASIL
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 48 -->
+
+CLASIFICACION
+FOTOGRAFIAS 8
+BRASIL COJAN
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 49 -->
+
+9
+ESCOLAS EM PRE- FABRICADOS LEVES BRASIL
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 50 -->
+
+CLASIFICACION
+FOTOGRAFIAS 9
+BRASIL ESCOLAS EM PRE- FABRICADOS LEVES
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 51 -->
+
+9
+ESCOLAS EM PRE- FABRICADOS LEVES BRASIL
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 52 -->
+
+CLASIFICACION
+FOTOGRAFIAS
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 53 -->
+
+10
+LAGOTEC BRASIL
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 54 -->
+
+CLASIFICACION
+FOTOGRAFIAS 10
+BRASIL LAGOTEC
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 55 -->
+
+10
+LAGOTEC BRASIL
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 56 -->
+
+CLASIFICACION
+FOTOGRAFIAS 10
+BRASIL LAGOTEC
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 57 -->
+
+11
+MADEZATTI BRASIL
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 58 -->
+
+CLASIFICACION
+FOTOGRAFIAS 11
+BRASIL MADEZATTI
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 59 -->
+
+11
+MADEZATTI BRASIL
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 60 -->
+
+CLASIFICACION
+FOTOGRAFIAS 11
+BRASIL MADEZATTI
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 61 -->
+
+12
+MODULAR ECONOMICO BRASIL
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 62 -->
+
+CLASIFICACION
+FOTOGRAFIAS 12
+BRASIL MODULAR ECONOMICO
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 63 -->
+
+12
+MODULAR ECONOMICO BRASIL
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 64 -->
+
+CLASIFICACION
+FOTOGRAFIAS 12
+BRASIL MODULAR ECONOMICO
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 65 -->
+
+13
+KS BRASIL
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 66 -->
+
+CLASIFICACION
+FOTOGRAFIAS 13
+BRASIL KS
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 67 -->
+
+13
+KS BRASIL
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 68 -->
+
+CLASIFICACION
+FOTOGRAFIAS 13
+BRASIL KS
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 69 -->
+
+14
+RODRIGUES LIMA BRASIL
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 70 -->
+
+CLASIFICACION
+FOTOGRAFIAS 14
+BRASIL RODRIGUES LIMA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 71 -->
+
+14
+RODRIGUES LIMA BRASIL
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 72 -->
+
+CLASIFICACION
+FOTOGRAFIAS 14
+BRASIL RODRIGUES LIMA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 73 -->
+
+15
+TANGRAM PAC-8 BRASIL
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 74 -->
+
+CLASIFICACION
+FOTOGRAFIAS 15
+BRASIL TANGRAM PAC-8
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 75 -->
+
+15
+TANGRAM PAC-8 BRASIL
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 76 -->
+
+CLASIFICACION
+FOTOGRAFIAS 15
+BRASIL TANGRAM PAC-8
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 77 -->
+
+16
+TANGRAM PRO BRASIL
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 78 -->
+
+CLASIFICACION
+FOTOGRAFIAS 16
+BRASIL TANGRAM PAC-8
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 79 -->
+
+16
+TANGRAM PAC-8 BRASIL
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 80 -->
+
+CLASIFICACION
+FOTOGRAFIAS 16
+BRASIL TANGRAM PRO
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 81 -->
+
+17
+UNIDADE HABITACIONAL DE BAIXA RENDA BRASIL
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 82 -->
+
+CLASIFICACION
+FOTOGRAFIAS 17
+BRASIL UNIDADE HABITACIONAL DE BAIXA RENDA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 83 -->
+
+17
+UNIDADE HABITACIONAL DE BAIXA RENDA BRASIL
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 84 -->
+
+CLASIFICACION
+FOTOGRAFIAS 17
+BRASIL UNIDADE HABITACIONAL DE BAIXA RENDA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 85 -->
+
+18
+SERVIVIENDA COLOMBIA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 86 -->
+
+CLASIFICACION
+FOTOGRAFIAS 18
+COLOMBIA SERVIVIENDA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 87 -->
+
+18
+SERVIVIENDA COLOMBIA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 88 -->
+
+CLASIFICACION
+FOTOGRAFIAS 18
+COLOMBIA SERVIVIENDA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 89 -->
+
+19
+BAMBU COSTA RICA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 90 -->
+
+CLASIFICACION
+FOTOGRAFIAS 19
+COSTA RICA BAMBU
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 91 -->
+
+19
+BAMBU COSTA RICA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 92 -->
+
+CLASIFICACION
+FOTOGRAFIAS 19
+COSTA RICA BAMBU
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 93 -->
+
+20
+ESCOSA COSTA RICA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 94 -->
+
+CLASIFICACION
+FOTOGRAFIAS 20
+COSTA RICA ESCOSA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 95 -->
+
+20
+ESCOSA COSTA RICA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 96 -->
+
+CLASIFICACION
+FOTOGRAFIAS 20
+COSTA RICA ESCOSA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 97 -->
+
+21
+ESTRISA COSTA RICA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 98 -->
+
+CLASIFICACION
+FOTOGRAFIAS 21
+COSTA RICA ESTRISA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 99 -->
+
+21
+ESTRISA COSTA RICA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 100 -->
+
+CLASIFICACION
+FOTOGRAFIAS 21
+COSTA RICA ESTRISA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 101 -->
+
+22
+MULTIPREF COSTA RICA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 102 -->
+
+CLASIFICACION
+FOTOGRAFIAS 22
+COSTA RICA MULTIPREF
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 103 -->
+
+22
+MULTIPREF COSTA RICA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 104 -->
+
+CLASIFICACION
+FOTOGRAFIAS 22
+COSTA RICA MULTIPREF
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 105 -->
+
+23
+PAREDES FACOLI COSTA RICA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 106 -->
+
+CLASIFICACION
+FOTOGRAFIAS 23
+COSTA RICA FACOLI
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 107 -->
+
+23
+FACOLI COSTA RICA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 108 -->
+
+CLASIFICACION
+FOTOGRAFIAS 23
+COSTA RICA FACOLI
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 109 -->
+
+24
+PREFA - PC COSTA RICA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 110 -->
+
+CLASIFICACION
+FOTOGRAFIAS 24
+COSTA RICA PREFA - PC
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 111 -->
+
+24
+PREFA - PC COSTA RICA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 112 -->
+
+CLASIFICACION
+FOTOGRAFIAS 24
+COSTA RICA PREFA - PC
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 113 -->
+
+25
+RICALIT COSTA RICA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 114 -->
+
+CLASIFICACION
+FOTOGRAFIAS 25
+COSTA RICA RICALIT
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 115 -->
+
+25
+RICALIT COSTA RICA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 116 -->
+
+CLASIFICACION
+FOTOGRAFIAS 25
+COSTA RICA RICALIT
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 117 -->
+
+26
+ZITRO COSTA RICA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 118 -->
+
+CLASIFICACION
+FOTOGRAFIAS 26
+COSTA RICA ZITRON
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 119 -->
+
+26
+ZITRON COSTA RICA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 120 -->
+
+CLASIFICACION
+FOTOGRAFIAS 26
+COSTA RICA ZITRO
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 121 -->
+
+27
+GP - 70 CUBA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 122 -->
+
+CLASIFICACION
+FOTOGRAFIAS 27
+CUBA GP - 70
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 123 -->
+
+27
+GP - 70 CUBA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 124 -->
+
+CLASIFICACION
+FOTOGRAFIAS 27
+CUBA GP - 70
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 125 -->
+
+27
+IMS CUBA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 126 -->
+
+CLASIFICACION
+FOTOGRAFIAS 28
+CUBA IMS
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 127 -->
+
+28
+IMS CUBA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 128 -->
+
+CLASIFICACION
+FOTOGRAFIAS 28
+CUBA IMS
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 129 -->
+
+29
+LH CUBA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 130 -->
+
+CLASIFICACION
+FOTOGRAFIAS 29
+CUBA LH
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 131 -->
+
+29
+LH CUBA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 132 -->
+
+CLASIFICACION
+FOTOGRAFIAS 29
+CUBA LH
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 133 -->
+
+30
+MOLDES,CASETONADOS CUBA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 134 -->
+
+CLASIFICACION
+FOTOGRAFIAS 30
+CUBA MOLDES CASETONADOS
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 135 -->
+
+30
+MOLDES,CASETONADOS CUBA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 136 -->
+
+CLASIFICACION
+FOTOGRAFIAS 30
+CUBA MOLDES CASETONADOS
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 137 -->
+
+31
+SANDINO 90 CUBA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 138 -->
+
+CLASIFICACION
+FOTOGRAFIAS 31
+CUBA SANDINO 90
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 139 -->
+
+31
+SANDINO 90 CUBA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 140 -->
+
+CLASIFICACION
+FOTOGRAFIAS 31
+CUBA SANDINO 90
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 141 -->
+
+32
+KIT SABINCO CHILE
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 142 -->
+
+CLASIFICACION
+FOTOGRAFIAS 32
+CHILE SABINCO 90
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 143 -->
+
+32
+KIT SABINCO CHILE
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 144 -->
+
+CLASIFICACION
+FOTOGRAFIAS 32
+CHILE SABINCO 90
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 145 -->
+
+33
+MODULO ANTARTICO MA-105 CHILE
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 146 -->
+
+CLASIFICACION
+FOTOGRAFIAS 33
+CHILE MODULO ANTARTICO MA-105
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 147 -->
+
+33
+MODULO ANTARTICO MA-105 CHILE
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 148 -->
+
+CLASIFICACION
+FOTOGRAFIAS 33
+CHILE MODULO ANTARTICO MA-105
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 149 -->
+
+34
+SIMPLEX CHILE
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 150 -->
+
+CLASIFICACION
+FOTOGRAFIAS 34
+CHILE SIMPLEX
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 151 -->
+
+34
+SIMPLEX CHILE
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 152 -->
+
+CLASIFICACION
+FOTOGRAFIAS 34
+CHILE MODULO ANTARTICO MA-105
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 153 -->
+
+35
+SOLTECH CHILE
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 154 -->
+
+CLASIFICACION
+FOTOGRAFIAS 35
+CHILE SOLTECH
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 155 -->
+
+35
+SOLTECH CHILE
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 156 -->
+
+CLASIFICACION
+FOTOGRAFIAS 35
+CHILE SOLTECH
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 157 -->
+
+36
+STRUCTURAPID - DEPETRIS CHILE
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 158 -->
+
+CLASIFICACION
+FOTOGRAFIAS 36
+CHILE STRUCTURAPID - DEPETRIS
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 159 -->
+
+36
+STRUCTURAPID - DEPETRIS CHILE
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 160 -->
+
+CLASIFICACION
+FOTOGRAFIAS 36
+CHILE STRUCTURAPID - DEPETRIS
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 161 -->
+
+37
+ALAHUA ECUADOR
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 162 -->
+
+CLASIFICACION
+FOTOGRAFIAS 37
+ECUADOR ALAHUA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 163 -->
+
+37
+ALAHUA ECUADOR
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 164 -->
+
+CLASIFICACION
+FOTOGRAFIAS 37
+ECUADOR ALAHUA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 165 -->
+
+38
+FIBRACETO PERU
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 166 -->
+
+CLASIFICACION
+FOTOGRAFIAS 38
+PERU FIBRACETO
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 167 -->
+
+38
+FIBRACETO PERU
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 168 -->
+
+CLASIFICACION
+FOTOGRAFIAS 38
+PERU FIBRACETO
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 169 -->
+
+39
+QUINCHA PREFABRICADA PERU
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 170 -->
+
+CLASIFICACION
+FOTOGRAFIAS 39
+PERU QUINCHA PREFABRICADA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 171 -->
+
+39
+QUINCHA PERU
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+ININVIFIBRACETO PREFABRICADAPERU38PERU39
+
+PAGINA
+
+<!-- p. 172 -->
+
+CLASIFICACION
+FOTOGRAFIAS 39
+PERU QUINCHA PREFABRICADA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 173 -->
+
+40
+UNICRETO PERU
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 174 -->
+
+CLASIFICACION
+FOTOGRAFIAS 40
+PERU UNICRETO
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 175 -->
+
+40
+UNICRETO PERU
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 176 -->
+
+CLASIFICACION
+FOTOGRAFIAS 40
+PERU UNICRETO
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 177 -->
+
+41
+PREFA REP. DOMINICANA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 178 -->
+
+CLASIFICACION
+FOTOGRAFIAS 41
+REP. DOMINICANA PREFA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 179 -->
+
+41
+PREFA REP. DOMINICANA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 180 -->
+
+CLASIFICACION
+FOTOGRAFIAS 41
+REP. DOMINICANA PREFA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 181 -->
+
+42
+CCU URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 182 -->
+
+CLASIFICACION
+FOTOGRAFIAS 42
+URUGUAY CCU
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 183 -->
+
+42
+CCU URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 184 -->
+
+CLASIFICACION
+FOTOGRAFIAS 42
+URUGUAY CCU
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 185 -->
+
+43
+CEDAS URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 186 -->
+
+CLASIFICACION
+FOTOGRAFIAS 43
+URUGUAY CEDAS
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 187 -->
+
+43
+CEDAS URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 188 -->
+
+CLASIFICACION
+FOTOGRAFIAS 43
+URUGUAY CEDAS
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 189 -->
+
+44
+CONFORT BLOC URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 190 -->
+
+CLASIFICACION
+FOTOGRAFIAS 44
+URUGUAY CONFORT BLOC
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 191 -->
+
+44
+CONFORT BLOC URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 192 -->
+
+CLASIFICACION
+FOTOGRAFIAS 44
+URUGUAY CONFORT BLOC
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 193 -->
+
+45
+CONSUR URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 194 -->
+
+CLASIFICACION
+FOTOGRAFIAS 45
+URUGUAY CONSUR
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 195 -->
+
+45
+CONSUR URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 196 -->
+
+CLASIFICACION
+FOTOGRAFIAS 45
+URUGUAY CONSUR
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 197 -->
+
+46
+HOPRESA URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 198 -->
+
+CLASIFICACION
+FOTOGRAFIAS 46
+URUGUAY HOPRESA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 199 -->
+
+46
+HOPRESA URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 200 -->
+
+CLASIFICACION
+FOTOGRAFIAS 46
+URUGUAY HOPRESA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 201 -->
+
+47
+M 47 URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 202 -->
+
+CLASIFICACION
+FOTOGRAFIAS 47
+URUGUAY M 47
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 203 -->
+
+47
+M 47 URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 204 -->
+
+CLASIFICACION
+FOTOGRAFIAS 47
+URUGUAY M 47
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 205 -->
+
+48
+PANELES INTEGRALES PREFABRICADOS EN OBRA URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 206 -->
+
+CLASIFICACION
+FOTOGRAFIAS 48
+URUGUAY PANELES INTEGRALES PREFABRICADOS EN OBRA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 207 -->
+
+48
+PANELES INTEGRALES PREFABRICADOS EN OBRA URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 208 -->
+
+CLASIFICACION
+FOTOGRAFIAS 48
+URUGUAY PANELES INTEGRALES PREFABRICADOS EN OBRA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 209 -->
+
+49
+PNV URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 210 -->
+
+CLASIFICACION
+FOTOGRAFIAS 49
+URUGUAY PNV
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 211 -->
+
+49
+PNV URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 212 -->
+
+CLASIFICACION
+FOTOGRAFIAS 49
+URUGUAY PNV
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 213 -->
+
+50
+PREDES URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 214 -->
+
+CLASIFICACION
+FOTOGRAFIAS 50
+URUGUAY PREDES
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+AS
+ES
+
+PAGINA
+
+<!-- p. 215 -->
+
+50
+PREDES URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 216 -->
+
+CLASIFICACION
+FOTOGRAFIAS 50
+URUGUAY PREDES
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 217 -->
+
+51
+PRELOSAS PRETENSADAS URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 218 -->
+
+CLASIFICACION
+FOTOGRAFIAS 51
+URUGUAY PRELOSAS PRETENSADAS
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 219 -->
+
+51
+PRELOSAS PRETENSADAS URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 220 -->
+
+CLASIFICACION
+FOTOGRAFIAS 51
+URUGUAY PRELOSAS PRETENSADAS
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 221 -->
+
+52
+SCMR URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 222 -->
+
+CLASIFICACION
+FOTOGRAFIAS 52
+URUGUAY SCMR
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 223 -->
+
+52
+SCMR URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 224 -->
+
+CLASIFICACION
+FOTOGRAFIAS 52
+URUGUAY SCMR
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 225 -->
+
+53
+SISTE PLAK URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 226 -->
+
+CLASIFICACION
+FOTOGRAFIAS 53
+URUGUAY SISTE PLAK
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 227 -->
+
+53
+SISTE PLAK URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 228 -->
+
+CLASIFICACION
+FOTOGRAFIAS 53
+URUGUAY SISTE PLAK
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 229 -->
+
+54
+TVA URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 230 -->
+
+CLASIFICACION
+FOTOGRAFIAS 54
+URUGUAY TVA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 231 -->
+
+54
+TVA URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 232 -->
+
+CLASIFICACION
+FOTOGRAFIAS 54
+URUGUAY TVA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 233 -->
+
+55
+URU URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 234 -->
+
+CLASIFICACION
+FOTOGRAFIAS 55
+URUGUAY URU
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 235 -->
+
+55
+URU URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 236 -->
+
+CLASIFICACION
+FOTOGRAFIAS 55
+URUGUAY URU
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 237 -->
+
+56
+VECA URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 238 -->
+
+CLASIFICACION
+FOTOGRAFIAS 56
+URUGUAY URU
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 239 -->
+
+56
+URU URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 240 -->
+
+CLASIFICACION
+FOTOGRAFIAS 56
+URUGUAY VECA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 241 -->
+
+57
+YORK URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 242 -->
+
+CLASIFICACION
+FOTOGRAFIAS 57
+URUGUAY YORK
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 243 -->
+
+57
+YORK URUGUAY
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 244 -->
+
+CLASIFICACION
+FOTOGRAFIAS 57
+URUGUAY YORK
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 245 -->
+
+58
+PLYCEM VENEZUELA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 246 -->
+
+CLASIFICACION
+FOTOGRAFIAS 58
+VENEZUELA PLYCEM
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 247 -->
+
+58
+PLYCEM VENEZUELA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 248 -->
+
+CLASIFICACION
+FOTOGRAFIAS 58
+VENEZUELA PLYCEM
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 249 -->
+
+59
+SANCOCHO VENEZUELA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 250 -->
+
+CLASIFICACION
+FOTOGRAFIAS 59
+VENEZUELA SANCOCHO
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 251 -->
+
+59
+SANCOCHO VENEZUELA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 252 -->
+
+CLASIFICACION
+FOTOGRAFIAS 59
+VENEZUELA SANCOCHO
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 253 -->
+
+60
+SEL VENEZUELA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 254 -->
+
+CLASIFICACION
+FOTOGRAFIAS 60
+VENEZUELA SEL
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 255 -->
+
+60
+SEL VENEZUELA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 256 -->
+
+CLASIFICACION
+FOTOGRAFIAS 60
+VENEZUELA SEL
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 257 -->
+
+60
+VIPOSA VENEZUELA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 258 -->
+
+CLASIFICACION
+FOTOGRAFIAS 61
+VENEZUELA VIPOSA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 259 -->
+
+61
+VIPOSA VENEZUELA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 260 -->
+
+CLASIFICACION
+FOTOGRAFIAS 61
+VENEZUELA VIPOSA
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+PAGINA
+
+<!-- p. 261 -->
+
+C Y T E D • P R O Y E C T O X I V . 2 • C A T A L O G O I B E R O A M E R I C A N O
+
+Impreso en mastergraf srl
+Cabildo 1001/2011
+Tel 41 79 92
+Depósito legal 290 069 / 93
+Comisión del papel
+Edicion amparada al Art. 79
+Ley 13.349
+
+Noviembre 1993
+Montevideo , Uruguay
+
+PAGINA
+
+<!-- p. 262 -->
+
+LosLosLosLosLos problemasproblemasproblemasproblemasproblemas dedededede accesoaccesoaccesoaccesoacceso aaaaa lalalalala viviendaviviendaviviendaviviendavivienda enenenenen AméricaAméricaAméricaAméricaAmérica LatinaLatinaLatinaLatinaLatina
+sesesesese manifiestanmanifiestanmanifiestanmanifiestanmanifiestan enenenenen ununununun enormeenormeenormeenormeenorme déficit,déficit,déficit,déficit,déficit, peroperoperoperopero tambiéntambiéntambiéntambiéntambién enenenenen lalalalala
+insuficienciainsuficienciainsuficienciainsuficienciainsuficiencia dedededede losloslosloslos nivelesnivelesnivelesnivelesniveles dedededede bienestarbienestarbienestarbienestarbienestar dedededede laslaslaslaslas viviendasviviendasviviendasviviendasviviendas
+construidas.construidas.construidas.construidas.construidas. InnumerablesInnumerablesInnumerablesInnumerablesInnumerables unidadesunidadesunidadesunidadesunidades precariasprecariasprecariasprecariasprecarias sonsonsonsonsonCYTED producidasproducidasproducidasproducidasproducidas cadacadacadacadacada díadíadíadíadía porporporporpor lalalalala propiapropiapropiapropiapropia poblaciónpoblaciónpoblaciónpoblaciónpoblación aaaaa travéstravéstravéstravéstravés dedededede
+mecanismosmecanismosmecanismosmecanismosmecanismos informalesinformalesinformalesinformalesinformales dedededede ocupaciónocupaciónocupaciónocupaciónocupación deldeldeldeldel territorioterritorioterritorioterritorioterritorio yyyyy dedededede
+autoconstrucciónautoconstrucciónautoconstrucciónautoconstrucciónautoconstrucción paraparaparaparapara serserserserser mejoradosmejoradosmejoradosmejoradosmejorados yyyyy ampliadosampliadosampliadosampliadosampliados enenenenen ununununun
+largolargolargolargolargo proceso.proceso.proceso.proceso.proceso. LasLasLasLasLas técnicastécnicastécnicastécnicastécnicas constructivasconstructivasconstructivasconstructivasconstructivas industrializadasindustrializadasindustrializadasindustrializadasindustrializadas
+ofrecieronofrecieronofrecieronofrecieronofrecieron lalalalala perspectivaperspectivaperspectivaperspectivaperspectiva dedededede unaunaunaunauna producciónproducciónproducciónproducciónproducción masivomasivomasivomasivomasivo conconconconcon
+unaunaunaunauna eficienteeficienteeficienteeficienteeficiente utilizaciónutilizaciónutilizaciónutilizaciónutilización dedededede losloslosloslos recursosrecursosrecursosrecursosrecursos yyyyy ununununun buenbuenbuenbuenbuen controlcontrolcontrolcontrolcontrol
+dedededede lalalalala calidad.calidad.calidad.calidad.calidad. SinSinSinSinSin embargo,embargo,embargo,embargo,embargo, laslaslaslaslas esperanzasesperanzasesperanzasesperanzasesperanzas depositadasdepositadasdepositadasdepositadasdepositadas
+enenenenen sususususu aplicaciónaplicaciónaplicaciónaplicaciónaplicación generalizadogeneralizadogeneralizadogeneralizadogeneralizado nonononono sesesesese hanhanhanhanhan colmado.colmado.colmado.colmado.colmado. LaLaLaLaLa
+paralizaciónparalizaciónparalizaciónparalizaciónparalización dedededede plantasplantasplantasplantasplantas dedededede prefabricación,prefabricación,prefabricación,prefabricación,prefabricación, lalalalala monotoníamonotoníamonotoníamonotoníamonotonía
+dedededede algunosalgunosalgunosalgunosalgunos barriosbarriosbarriosbarriosbarrios construidos,construidos,construidos,construidos,construidos, losloslosloslos costoscostoscostoscostoscostos pocopocopocopocopoco accesibles,accesibles,accesibles,accesibles,accesibles,
+sonsonsonsonson datosdatosdatosdatosdatos quequequequeque hanhanhanhanhan llevadollevadollevadollevadollevado aaaaa replantearreplantearreplantearreplantearreplantear elelelelel enfoque.enfoque.enfoque.enfoque.enfoque. BuenoBuenoBuenoBuenoBueno
+parteparteparteparteparte dedededede losloslosloslos problemasproblemasproblemasproblemasproblemas estuvoestuvoestuvoestuvoestuvo enenenenen lalalalala frecuentefrecuentefrecuentefrecuentefrecuente
+transferenciatransferenciatransferenciatransferenciatransferencia literalliteralliteralliteralliteral dedededede laslaslaslaslas tecnologíastecnologíastecnologíastecnologíastecnologías dedededede losloslosloslos paísespaísespaísespaísespaíses
+desarrolladosdesarrolladosdesarrolladosdesarrolladosdesarrollados sinsinsinsinsin considerarconsiderarconsiderarconsiderarconsiderar losloslosloslos requerimientosrequerimientosrequerimientosrequerimientosrequerimientos yyyyy recursosrecursosrecursosrecursosrecursos
+específicosespecíficosespecíficosespecíficosespecíficos dedededede nuestronuestronuestronuestronuestro continente.continente.continente.continente.continente. LosLosLosLosLos técnicostécnicostécnicostécnicostécnicos yyyyy laslaslaslaslas
+empresasempresasempresasempresasempresas latinoamericanas,latinoamericanas,latinoamericanas,latinoamericanas,latinoamericanas, especialmenteespecialmenteespecialmenteespecialmenteespecialmente durantedurantedurantedurantedurante losloslosloslos
+últimosúltimosúltimosúltimosúltimos años,años,años,años,años, sesesesese hanhanhanhanhan idoidoidoidoido liberandoliberandoliberandoliberandoliberando dedededede losloslosloslos modelosmodelosmodelosmodelosmodelos dedededede lalalalala
+posguerraposguerraposguerraposguerraposguerra europeaeuropeaeuropeaeuropeaeuropea yyyyy comenzadocomenzadocomenzadocomenzadocomenzado aaaaa crearcrearcrearcrearcrear conconconconcon audaciaaudaciaaudaciaaudaciaaudacia yyyyy
+originalidadoriginalidadoriginalidadoriginalidadoriginalidad nuevasnuevasnuevasnuevasnuevas solucionessolucionessolucionessolucionessoluciones industrializadasindustrializadasindustrializadasindustrializadasindustrializadas paraparaparaparapara lalalalala
+vivienda.vivienda.vivienda.vivienda.vivienda. PiensanPiensanPiensanPiensanPiensan enenenenen lalalalala viviendaviviendaviviendaviviendavivienda másmásmásmásmás comocomocomocomocomo ununununun procesoprocesoprocesoprocesoproceso
+quequequequeque comocomocomocomocomo ununununun producto,producto,producto,producto,producto, integranintegranintegranintegranintegran recursosrecursosrecursosrecursosrecursos nonononono tradicionalestradicionalestradicionalestradicionalestradicionales
+yyyyy generangenerangenerangenerangeneran solucionessolucionessolucionessolucionessoluciones eclécticaseclécticaseclécticaseclécticaseclécticas paraparaparaparapara incorporarincorporarincorporarincorporarincorporar aaaaa
+mayoresmayoresmayoresmayoresmayores sectoressectoressectoressectoressectores dedededede lalalalala población.población.población.población.población. SinSinSinSinSin embargo,embargo,embargo,embargo,embargo, esosesosesosesosesos
+aportesaportesaportesaportesaportes enenenenen cuantocuantocuantocuantocuanto aaaaa innovacióninnovacióninnovacióninnovacióninnovación ooooo adaptaciónadaptaciónadaptaciónadaptaciónadaptación dedededede técnicastécnicastécnicastécnicastécnicas
+industrializados,industrializados,industrializados,industrializados,industrializados, aaaaa menudomenudomenudomenudomenudo muymuymuymuymuy exitosos,exitosos,exitosos,exitosos,exitosos, permanecenpermanecenpermanecenpermanecenpermanecen
+desconocidos,desconocidos,desconocidos,desconocidos,desconocidos, aunaunaunaunaun dentrodentrodentrodentrodentro deldeldeldeldel mismomismomismomismomismo paíspaíspaíspaíspaís enenenenen quequequequeque sesesesese
+generaron.generaron.generaron.generaron.generaron. NoNoNoNoNo existenexistenexistenexistenexisten suficientessuficientessuficientessuficientessuficientes mecanismosmecanismosmecanismosmecanismosmecanismos dedededede
+documentación,documentación,documentación,documentación,documentación, divulgacióndivulgacióndivulgacióndivulgacióndivulgación yyyyy transferenciatransferenciatransferenciatransferenciatransferencia quequequequeque permitanpermitanpermitanpermitanpermitan
+acumularacumularacumularacumularacumular lalalalala experienciaexperienciaexperienciaexperienciaexperiencia regionalregionalregionalregionalregional yyyyy nonononono repetirrepetirrepetirrepetirrepetir unaunaunaunauna yyyyy otraotraotraotraotra
+vezvezvezvezvez losloslosloslos mismosmismosmismosmismosmismos ensayos.ensayos.ensayos.ensayos.ensayos. ElElElElEl ProyectoProyectoProyectoProyectoProyecto CYTEDCYTEDCYTEDCYTEDCYTED XIV.2XIV.2XIV.2XIV.2XIV.2 sesesesese hahahahaha
+propuestopropuestopropuestopropuestopropuesto reunirreunirreunirreunirreunir lalalalala informacióninformacióninformacióninformacióninformación sobresobresobresobresobre laslaslaslaslas técnicastécnicastécnicastécnicastécnicas
+constructivasconstructivasconstructivasconstructivasconstructivas industrializadosindustrializadosindustrializadosindustrializadosindustrializados aplicadasaplicadasaplicadasaplicadasaplicadas enenenenen AméricaAméricaAméricaAméricaAmérica LatinaLatinaLatinaLatinaLatina
+yyyyy sussussussussus gestores,gestores,gestores,gestores,gestores, paraparaparaparapara constituirconstituirconstituirconstituirconstituir ununununun BancoBancoBancoBancoBanco dedededede Datos.Datos.Datos.Datos.Datos. EsteEsteEsteEsteEste
+CatálogoCatálogoCatálogoCatálogoCatálogo eseseseses unaunaunaunauna selecciónselecciónselecciónselecciónselección dedededede 6161616161 dedededede esasesasesasesasesas técnicastécnicastécnicastécnicastécnicas
+provenientesprovenientesprovenientesprovenientesprovenientes dedededede 1111111111 países.países.países.países.países. ConConConConCon lalalalala publicaciónpublicaciónpublicaciónpublicaciónpublicación dedededede esteesteesteesteeste
+libro,libro,libro,libro,libro, esperamosesperamosesperamosesperamosesperamos contribuircontribuircontribuircontribuircontribuir aaaaa quequequequeque lalalalala experienciaexperienciaexperienciaexperienciaexperiencia dedededede todotodotodotodotodo
+elelelelel continentecontinentecontinentecontinentecontinente sesesesese transformetransformetransformetransformetransforme enenenenen lalalalala experienciaexperienciaexperienciaexperienciaexperiencia dedededede cadacadacadacadacada
+uno.uno.uno.uno.uno. ElElElElEl conocimientoconocimientoconocimientoconocimientoconocimiento mutuomutuomutuomutuomutuo facilitaráfacilitaráfacilitaráfacilitaráfacilitará elelelelel intercambiointercambiointercambiointercambiointercambio yyyyy
+cooperacióncooperacióncooperacióncooperacióncooperación entreentreentreentreentre investigadores,investigadores,investigadores,investigadores,investigadores, profesionalesprofesionalesprofesionalesprofesionalesprofesionales yyyyy
+empresariosempresariosempresariosempresariosempresarios dedededede organismosorganismosorganismosorganismosorganismos públicospúblicospúblicospúblicospúblicos yyyyy privados.privados.privados.privados.privados.
+ConfiamosConfiamosConfiamosConfiamosConfiamos asíasíasíasíasí enenenenen abreviarabreviarabreviarabreviarabreviar elelelelel caminocaminocaminocaminocamino haciahaciahaciahaciahacia lalalalala
+industrializaciónindustrializaciónindustrializaciónindustrializaciónindustrialización adecuada,adecuada,adecuada,adecuada,adecuada, principalprincipalprincipalprincipalprincipal herramientaherramientaherramientaherramientaherramienta paraparaparaparapara
+facilitarfacilitarfacilitarfacilitarfacilitar elelelelel accesoaccesoaccesoaccesoacceso aaaaa lalalalala vivienda.vivienda.vivienda.vivienda.vivienda.
+
+PROGRAMA IBEROAMERICANO DE CIENCIA Y TECNOLOGÍA
+PARA EL DESARROLLO - CYTED
+
+SUBPROGRAMA XI V
+TECNOLOGÍA PARA VIIVIENDAS DE INTERÉS SOCIAL
+
+PROYECTO TECNICAS XIV.2
+CONSTRUCTIVAS INDUSTRIALIZADAS PARA VIVIENDA DE BAJO COSTO
