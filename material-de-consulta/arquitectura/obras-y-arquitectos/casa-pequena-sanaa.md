@@ -4,14 +4,14 @@ title: "Small House"
 author: "Paloma"
 categoria: "ARQUITECTURA"
 paginas: 18
-extraccion: "texto (OCR pendiente)"
+extraccion: "mixto: 12 páginas por OCR (spa)"
 fuente: "local:E:/MATERIAL DE CONSULTA/ARQUITECTURA/Obras y Arquitectos/CASA PEQUEÑA- SANAA.pdf"
 convertido: 2026-10-16
 ---
 
 # Small House
 
-> Texto extraído de `ARQUITECTURA\Obras y Arquitectos\CASA PEQUEÑA- SANAA.pdf` (18 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `ARQUITECTURA\Obras y Arquitectos\CASA PEQUEÑA- SANAA.pdf` (18 páginas, mixto: 12 páginas por OCR (spa)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 
@@ -84,11 +84,20 @@ Alzado Sur / South elevation
 
 <!-- p. 5 -->
 
+\-
 
+. TOT ECS MRE
 
 <!-- p. 6 -->
 
+»
+hi
 
+ia
+
+“tt
+
+ame EUN
 
 <!-- p. 7 -->
 
@@ -172,11 +181,20 @@ First floor view Ground floor plan
 
 <!-- p. 11 -->
 
+ACOCONEANONANRNLE
+AN AN |
 
+IN i}
+\| 1i
+\\\
+
+n
 
 <!-- p. 12 -->
 
+"" \
 
+wa
 
 <!-- p. 13 -->
 
@@ -199,14 +217,84 @@ Dos
 
 <!-- p. 15 -->
 
+— AA tt.2 RUBIA
+BIL 7 4 — LH t=40
+SEGRE ME SHEA ta
+s
+HYDRA b tuna
+AN I1O aie coe
+Es
+D EREA
+25047
+2549x20 SOP 210077 KE
+27208 1208
+Bi AFIT EME
+19.1 $x2.0 SOP ava
+125 (HT 10)
+EB SPL n=284 sO
+2- 47 h 4150 7
+Z7 21740
+CEE d
+EE pie 04 19.1 9x20 SOP
+1=77
+ASM 112
+IUCTONID2 304557 £ (7510-19)
+BA K L>377— F:sus-PL1.5(HL)
+s 8
+ñ
+44=>75-72MI
+E
+ACE
+JER): St-FB-50 SOPz T
+7 H
+AF—wISG
+targxzosor” — Y
+8 2 =
+s E
+RRMED—b 12 ENILAY >VENAN 1S
+[spas E
+\- 29—h257 1:105 (T t10)
+JER): St-FB-40 SOP-
+\= T T
+ARR T
+ee | 7078
+(RRA)
+\|
+\|
+2E
+/ AFILANA 7488
+— ya — — ry
+8 E
+S Ed
+TahD hS
+ev 3 150
+1S 140
+29257 1400
+7
+—y J
+2
+v
+. IT
 Sección Norte-Sur
-North-South section
-
-538
+North-South section (3391.673) 2405 1745 1525 375
+5675
 
 <!-- p. 16 -->
 
+LIS PCIE I V— — E
 
+z
+
+7
+
+wa =
+OUP. mi”
+
+— — PP LS
+
+Y
+
+eZ ;
 
 <!-- p. 17 -->
 

@@ -4,18 +4,35 @@ title: "Microsoft PowerPoint - PRESENTACION CERAMICA ARMADA"
 author: "aalonzo"
 categoria: "CONSTRUCCIÓN"
 paginas: 44
-extraccion: "texto (OCR pendiente)"
+extraccion: "mixto: 15 páginas por OCR (spa)"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/MONOGRAFIAS/ceramica armada/Microsoft PowerPoint - PRESENTACION CERAMICA ARMADA.pdf"
 convertido: 2026-10-16
 ---
 
 # Microsoft PowerPoint - PRESENTACION CERAMICA ARMADA
 
-> Texto extraído de `CONSTRUCCIÓN\MONOGRAFIAS\ceramica armada\Microsoft PowerPoint - PRESENTACION CERAMICA ARMADA.pdf` (44 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\MONOGRAFIAS\ceramica armada\Microsoft PowerPoint - PRESENTACION CERAMICA ARMADA.pdf` (44 páginas, mixto: 15 páginas por OCR (spa)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 
+C02 -2sem. 2009
 
+. 7
+i)
+
+e
+
+\| *f Ñ i : fea
+Carlos Vinkel a
+Cecilia Garcia
+
+Graciela Artigas —
+g a
+Lourdes Toranza
+
+7 x,
+Natalia Tassisto ceramica armada
+TCE - e mampuestos racionalizados
 
 <!-- p. 2 -->
 
@@ -51,7 +68,23 @@ mayoraparición inaugura utilizarLa al portantes La ingenieroingeniero 40 cubier
 
 <!-- p. 5 -->
 
+u.—- 1E .-.H¡._ C .I._ _.…._-u.._-"_“
 
+_.-_.1—.…:_. TE AE til
+
+E
+ny hs aii ott Po er i
+TCA AEA ....__…_F..
+Le P at ig bs
+
+s -......u........._…u..h….. re a
+Z y l-_..-Ll.. TA eee +
+
+C ee ta rata soe ZB Z
+v .l..... ..l.…..l ..LIilLll.-l.'...Hrlll....…lthl.-L.. a ......-ur.
+
+A …………….….……….…….u.…q%……á e
+", l ya ee _ y 7 ra Ses: ee ae z
 
 <!-- p. 6 -->
 
@@ -59,7 +92,7 @@ mayoraparición inaugura utilizarLa al portantes La ingenieroingeniero 40 cubier
 
 <!-- p. 7 -->
 
-
+PLATS fee
 
 <!-- p. 8 -->
 
@@ -92,15 +125,19 @@ DISTINGUEN BOVEDAS
 
 <!-- p. 12 -->
 
-ONDULACION
-DE
-BÓVEDAS2) CONTINUAS
+\2) BÓVEDAS DE ONDULACION
+CONTINUAS De d
+
+q ] ñ 8
+FERED EEE E
+
+\+ = - an
+
+CORTE TRANSVERSAL CORTE LONGITUDINAL a
 
 <!-- p. 13 -->
 
-AUTOPORTANTES
-BÓVEDAS
-\3)
+
 
 <!-- p. 14 -->
 
@@ -126,11 +163,61 @@ Cubiertas
 
 <!-- p. 16 -->
 
-armada.
-de
-forma cerámica
-con en
-Cubiertas pirámide
+ni
+FA
+!
+
+PLANTA DE TECHO
+
+CORTE AA
+SEEECE P
+
+ur re
+be|
+
+\=
+
+\|
+
+sEd=
+
+\--
+
+\=:
+
+iat
+if
+
+BREE
+
+\- -
+‘i 1
+1 i
+T
+
+E |
+
+A ae a a a a y
+a A Y Ta A | | \
+! i + , -r+1+1 1 /
+\| | | | n
+2S Be eee
+FLY EE EA | |
+HHA I5
+AFENE u y
+! e e
+4411151 T
+e 1T) |
+N S | |
+E peppy gy | jet.
+a .w./.,.. A ! | | |
+
+SOLELLEH E H H
+—
+
+Fuw
+
+\-
 
 <!-- p. 17 -->
 
@@ -315,25 +402,11 @@ resultados cubiertala modeloel comportaComparación tradicional Conclusiones Los
 
 <!-- p. 31 -->
 
-pre-fabricada
-armada
-cerámica
-de
-cubierta
-de
-Traslado
+Traslado de cubierta de ceramica armada pre-fabricada
 
 <!-- p. 32 -->
 
-descripto
-pre-fabricada
-armada
-cerámica
-de
-sistema
-el
-aplicando
-Ejemplo
+Ejemplo aplicando el sistema de cerámica armada pre-fabricada descripto
 
 <!-- p. 33 -->
 
@@ -403,7 +476,66 @@ mediante diseñada controlar superior Proyección realiza homogeneidad capa3) Se
 
 <!-- p. 39 -->
 
+VENTAJAS
+DE LAS
+CUBIERTAS
+LAMINARES
+DE
+CERÁMICA
+ARMADA
 
+GEOMETRÍA
+LAMINAR
+
+Interés arquitectónico
+Ligereza
+Ahorro de material
+
+PROPIEDADES
+DE LA
+CERÁMICA
+
+Confort higrotérmico
+Bajo mantenimiento
+Precio/peso competitivo
+Calidez cromatica
+
+ARMADO
+BIDIRECCIONAL
+
+Resistencia a flexion
+Grandes luces
+
+\+
+
+VENTAJAS
+DE
+PREFABRICAR
+
+Mejor calidad y mas uniforme
+Ahorro de mano de obra
+Mayor velocidad de la construccion
+Incremento de la seguridad laboral
+
+\+
+
+INNOVACION
+
+TECNOLOGICA
+
+Libre eleccion de la curvatura
+Facilidad de acopio y transporte
+Ahorro de cimbras y encofrados
+
+Continuidad de armado entre piezas
+
+1.000.000 m
+consiruidos en
+
+Uruguay,
+Argentina y
+Brasil por
+Eladio Dieste
 
 <!-- p. 40 -->
 
@@ -431,11 +563,41 @@ Vázquez Técnica Estévez SUPERFICIE A.ESPACIO DE CERÁMICA Javier José Escuel
 
 <!-- p. 42 -->
 
+PLANTA GENERAL
 
+PZ
+
+a a
+
+\-
+—q
+
+er
+
+\= ae
+
+i
+
+P—
+
+— His
+
+a arma:la
+
+_
+
+Planos ce plañia y seccón de 0s Mune posanlas de cars
 
 <!-- p. 43 -->
 
+Detalles de aparejo y amaduras.
 
+"
+
+E
+Detalle de encadenado
+
+Replanteo de los mMuros. Detalle de junta vertical
 
 <!-- p. 44 -->
 

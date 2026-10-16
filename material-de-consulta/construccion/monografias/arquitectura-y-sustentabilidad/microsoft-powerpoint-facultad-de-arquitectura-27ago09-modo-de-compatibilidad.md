@@ -4,14 +4,14 @@ title: "microsoft_powerpoint_-_facultad_de_arquitectura_-_27ago09_modo_de_compat
 author: "ICE"
 categoria: "CONSTRUCCIÓN"
 paginas: 32
-extraccion: "texto (OCR pendiente)"
+extraccion: "mixto: 5 páginas por OCR (spa)"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/MONOGRAFIAS/arquitectura y sustentabilidad/microsoft_powerpoint_-_facultad_de_arquitectura_-_27ago09_modo_de_compatibilidad.pdf"
 convertido: 2026-10-16
 ---
 
 # microsoft_powerpoint_-_facultad_de_arquitectura_-_27ago09_modo_de_compatibilidad
 
-> Texto extraído de `CONSTRUCCIÓN\MONOGRAFIAS\arquitectura y sustentabilidad\microsoft_powerpoint_-_facultad_de_arquitectura_-_27ago09_modo_de_compatibilidad.pdf` (32 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\MONOGRAFIAS\arquitectura y sustentabilidad\microsoft_powerpoint_-_facultad_de_arquitectura_-_27ago09_modo_de_compatibilidad.pdf` (32 páginas, mixto: 5 páginas por OCR (spa)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 
@@ -178,15 +178,152 @@ almacena InformacionesInformaciones características aspectos provedoresCatálog
 
 <!-- p. 16 -->
 
+Catalogo sustentavel - Windows Internet Explorer
+COS ” Ig, http: iw. catalagoasustentavel.com.br} i) \+4|| 2O| | Yahoo! Search
 
+File Edit View Favorites Tools Help
+pdf - | ] EJ search Clo por
+de be | Accatélogo Sustentável i fap - El - del - |e} Page - 1f Tools +
+
+Critérios Noticias Capacitacao Publicacées Faca Parte
+
+ease
+
+Catalog >
+Sustentavel *
+
+, O Catalogo Sustentável armazena informacóes
+1 Busca de produtos ou servicos sobre produtos e servicos avaliados a partir de
+: critérios de sustentabilidade e selecionados pela
+Tipo Estado — equipe de especialistas do Centro de Estudos
+\| Selecione... [Todos [4] em Sustentabilidade da Escola de Administragao
+Saar de Empresas de Sao Paule da Fundagae Getúlio
+Familia Cidade Vargas (GVces).
+
+\| Selecione...
+
+Aqui vocé encontrará informagdes sobre as
+Categoria Palavra-chave características técnicas, os aspectos de
+sustentabilidade, as certificacóes e 05
+fornecedores dos produtos e servicos
+Material selecionados.
+
+\| Selecione...
+
+\| Selecione...
+
+Produtos/ Servicos em Destaque k Compras sustentáveis públicas e privadas
+
+@ Internet Ej 100% +
+
+‘a Start E TCLEI- Local Gower... : — "e ivil_; ’ \<j En = dN E 08:50 a.m,
 
 <!-- p. 17 -->
 
+M Grail - Recibidos 71 retin, * D Catálogo Sustentável
 
+€ - -NE nitty. Awww, catalogosLstentavel.com brindex.cfm?fuseaction=fichaB:.cod_prodsery=44386
+
+Critérios Fique por Dentro — Capacitacáo Online Publicacóes D Catálogo Faca Parte
+
+Catalog ©) YÁLYULA DE DESCARGA, COM DUPLO ACIONAMENTO
+Sustentavel *
+
+Válvula de duplo acionamento: com boto para limpeza
+rápida (3 litros) ou limpeza completa
+
+É d d ; s Acabamento horizontal ou vertical
+Y Busca de produtos/ servicos | j Alta e baixa pressáo Z a 20 MCA
+
+Tipa Qualidade 150 9000
+
+\| Selecione... EI
+Familia
+\| Selecione...
+
+Categoria
+
+[x]
+\| Selecione... [EI
+[se]
+
+Material
+\| Selecione...
+
+Estado ‘a
+
+Cidade
+
+Palavra-chave
+
+\| Produto/ Servico
+
+[+] Descricáo sustentável
+
+Possibilita a economia de agua, evitando o desperdicio.
+
+[+] Fornecedores
+1
+
+Nome: DECA
+
+—
+ig Start
 
 <!-- p. 18 -->
 
+] Gmail - Recibidos (71) - ren... X] D Catálogo Sustentável E +
 
+Es TT
+
+Categoria
+\| Selecione... M
+
+Material
+\| Selecione... …
+
+Estado —
+Cidade
+
+Palavra-chave
+
+c C Y http://www. catalogosustentavel.com br/indexcim?fseaction=fichafcod prodserv=44386
+
+\- q Produto/ Servico
+
+[+ Descrigño sustentável
+
+Possibilita a economia de água, evitando o desperdicio,
+
+\+ Fornecedores
+
+[+] Descrigdo Técnica
+
+Válvula ecologicamente correta, corm duas opcíes de descarga: 3 litros (dejetos líquidos) e completa (dejetos
+sÓólidos), Economiza até 40% de aqua em comparacáo com urn sistema de descarga convencional, uma vez que
+80% da utilizacóo do sanitario residencial é para remocáo de dejetos liquidas. Seu design inovador permite facil
+
+identificacáo do volume de descarga desejado: descarga rápida no botáo menor e descarga total no botáo
+maior, Na descarga de 3 litros (botáo menor), o volume é limitada, mesmo quando o botáo permanece
+pressionado. Isso é possivel gragas ao seu exclusiva mecanismo interno que limita o ciclo de descarga, Seu
+
+sistema de acionamento tipo "soft touch" permite seu funcionamento com um leve toque. A valyula Hydra Duo
+tem sido reconhecida por meio de varios prémios recebidos, tanto de design como de tecnologia, Componentes
+internos corm materiais de alta tecnologia, Manutencáo simples, corm cartucho de reposicáo, Ciclo de operacáo
+automático e autolimpante, Possui dois mecanismos: urn para alta pressáo, bitola de DN32(1.1/4"), e outro para
+
+baixa pressáo, bitola de DN40(1,1/2"),
+
+“\ Material
+
+[+] Nome do material
+
+TORNEIRA, DUCHA E SANITÁRIO
+
+ESS
+stat | fae Facultad de Arquitect...
+
+cay Arquitectura - ... [ y
 
 <!-- p. 19 -->
 
@@ -214,11 +351,110 @@ nono comocomo identificaçãoidentificação queque "soft"soft queque comcom com
 
 <!-- p. 21 -->
 
+Critérios Fique por Dentro — Capacitacáo Online Publicacdes O Catalogo Faca Parte
 
+Catalog ©) Resultado de busca de produtos/ servicos sustentaveis
+Sustentavel *
+
+Tinta Acrilica Fosca Exteriores
+
+\| Busca de produtos/ servicos alta durabilidade e resisténcia
+a uso externa
+
+Tipo - facil aplicacáo
+\| Prodluto |]
+
+Familia
+
+[ coNSTRUGÁO CIVIL ]
+
+Categoria
+\| PINTURA [v] Tinta Acrilica semi-brilho
+
+Material
+\| TINTAS E YERNIZES
+
+alta resisténcia,
+anti-mofo,
+
+fino acabamento,
+
+\*
+.
+
+Estado * excelente cobertura e rendimento,
+\* rápida secagem,
+
+Palavra-chave
+\| Tinta Latex Maxx
+
+\* facil aplicagao.
+
+\* alta resisténcia,
+
+\* acabamento fosco aveludado,
+\* resisténcia á lavabilidade,
+
+Tinta Látex vinil acrílico
+
+uso interno
+excelente cobertura e rendimento
+alto poder de retoque
+
+Ato w catalogosustentayel.com, brlindes, cfrrfuseaction=fichagcod prodsery...
+
+ty start ec .. lae Facultad de Arquit
 
 <!-- p. 22 -->
 
+] Gmail - Recibidos (71) - ren... * D Catálogo Sustentável
 
+€ - [6 owww catalogosustentavel.com .br/index.cim?fuseaction=fichaR:cod_ prodserv=52516
+
+Critérios Fique por Dentro — Capacitacáo Online Publicacdes O Catalogo Faca Parte
+
+Catalog / Tinta Acrilica Fosca Exteriores
+Sustentavel *
+
+\* Alta durabilidade e resisténcia
+\* Uso externa
+
+r a e Facil aplicacáo
+— Busca de produtos/ servicos pees
+Tipo
+
+\| Selecione... M
+
+Familia
+
+\| Selecione... (|
+
+Categoria
+\| Selecione...
+
+Material
+\| Selecione...
+
+Estado —
+Cidade
+
+Palavra-chave
+
+_ * Produto/ Servico
+
+[+] Descrigdo sustentável
+Buscar
+
+Possul nivels reduzidos de compostos orgánicos voláteis - substáncias iritantes e perigosas para a saúde
+humana,
+
+(+) Certificacio
+1-150 14001
+
+Especifica os elementos de um Sistema de Gestáo Ambiental (SGA) e oferece ajuda prática para a sua
+Implementacáo ou aprimoramento,
+
+a Stalt ie e Ia Facultad
 
 <!-- p. 23 -->
 

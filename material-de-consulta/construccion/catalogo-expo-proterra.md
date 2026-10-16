@@ -4,14 +4,14 @@ title: "Construcción con tierra"
 author: "Coordinación PROTERRA CYTED"
 categoria: "CONSTRUCCIÓN"
 paginas: 40
-extraccion: "texto (OCR pendiente)"
+extraccion: "mixto: 5 páginas por OCR (spa)"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/Catalogo_Expo_Proterra.pdf"
 convertido: 2026-10-16
 ---
 
 # Construcción con tierra
 
-> Texto extraído de `CONSTRUCCIÓN\Catalogo_Expo_Proterra.pdf` (40 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\Catalogo_Expo_Proterra.pdf` (40 páginas, mixto: 5 páginas por OCR (spa)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 
@@ -1622,15 +1622,205 @@ Ibero-AmericanodeConstruçãocomTerra
 
 <!-- p. 27 -->
 
+L'ARCHITECTURE DE TERRE:
+de la Péninsule Ibérique aux Amériques
 
+Projet PROTERRA
+
+Le vaste et millénaire patrimoine architectural báti en
+terre est reconnu non seulement pour sa monumentalite
+mais aussi pour la richesse de
+ses formes géométriques,
+allant des plus simples aux plus
+complexes: de ses hauts et basreliefs ainsi que pour ses
+éléments décoratifs aux multiples couleurs a base de
+pigments naturels, Un tiers de
+la population mondiale habite
+dans des constructions en
+terre crue. Comme matiére
+premiere, elle donne forme au
+cadre báti en adoptant différents procédés techniques
+tels adobe, la bauge, le pisé, rietga ages
+le torchis etc.
+
+Brircl, Floren =
+
+I or, Calry E
+L exposition l'architecture
+de terre: de la Péninsule
+Ibérique aux Amériques met
+en lumiére le patrimoine
+architectural de terre, tant
+traditionnel que moderne, de
+Espagne, du Portugal et de
+‘Amérique Latine, Elle désire
+en faire connaitre les oeuvres
+les plus significatifs a partir
+de divers travaux et expériences d un groupe de profes- |
+sionnels et chercheurs du E gr EE
+Projet PROTERRA, qui compte E . ' ECN
+architects, ingénieurs, historiens, ete.
+
+af Le but du groupe PROTERRA est
+\=. de développer et de faire
+connaitre la terre comme étant
+
+oe l'une des alternatives des plus
+& “3 économiques, écologiques et
+esthetiquement durables en
+
+[ conzTtructión, Il zauharte ainsi
+tsil.Fles A Stimuler son utilisation dans les
+a projets d'habitation d'intérét
+a Ss social principalement, au Nord
+
+— comme au Sud,
+
+Du 24 au Z7 mars 2003
+Pavillon 3200, rue Jean- Brillant, Ze étage
+Montreal, Québec Canada
 
 <!-- p. 28 -->
 
+La tierra como instrumento de
+desarrollo sostenible
 
+Arguitecto-Constructor. Dectarando Jean Paragon CoanDaragonímail.megill.cal
+Arquitecta-Urhanista, Bectoranda Rosa Flores (Rosa-Amella.Fiores-Fernander2 Omontreai.cal
+
+Projeto PROTERRA
+
+Proyecto UNITOVEM (2000)
+
+Santo Anténio do Descoberto (SAD), localizada a 40Kms de Brasilia, presenta como la
+mayoria de las ciudades del Entorno del CF un
+alto Indice demográfico. estando representado
+principalmente por jovenes. Estos, en eu
+mayoria enfrenian problemas de drogas, de
+. pandillas y hasta de progtifución,
+
+Afin de preparar los jovenes para el mercado de
+trabajo, la “Secretaria do Estado de ádesisténcia
+Social’ en parceria con la Prefectura de SAD,
+iniciardm en marzo del 2000 el programa ‘Agente
+Javem de Desenvolvimento Social e Humano . Fue
+constituido un grupo de 25 adolescenies, estudiantes, de 15 a 17 años provenientes dé familias de
+extrema pobreza
+
+Loa autores fueron invitados a ministrar un der curso: ‘Técnicas de
+produgde de elementos modulares para a consirugde’. Posterionnente,
+con el propósito de reforzar los principios de ergañización y de trabajo
+en equipo, las jovenes recibierón wn curso de Cooperativismo apoyado
+por la OCDF y el SESCOOP, Concluido el programa ‘Agente Jove’,
+fue puesta en práctica la constitucion de una Cooperativa de producción
+de materiales de construcción denominada UNIJOVEM. En ese
+momento, jos autores fuerón invitados a dar un Zdo curso : '
+Aperfelgcamento na produgao de elementos modulares para a
+consirugde’ donde el material principal seria la tierra. Le capacitación
+considerd las prácticas relativas a la identificacion y comportamiento del
+material tierra, el ciclo de producción, el contrele de calidad, la
+organización del trabajo y la gestion
+
+Worshop FAU-UnB (2000)
+
+En Brasilia, donde el concreto y la exclusión van juntos, una
+manera de asegurar la implaniación de la construcción en tierra en
+la región, fue la seneibilización de 20 profesionales (arquitectos e
+ingenierce) a partir del jer Worshop ministrado sobre la
+arguitectura de tierra
+
+Workshop School of architecture
+MeoGill (2002)
+
+En mayo 2002, los autores realizan el ler curso |
+sobre la construccion con tierra en Montreal, donde
+participan unm grupo de 20 estudiantes de los
+diferentes niveles de la Facultad de Árguitectura de
+McGill.
+
+ae eS eee ee
+a
+
+IIIII.III.IIIII'IIIIIIlqIIIIIIIIIIIIII'.]IIIIIIII_IIIIIIIIIIIIII
+' McGill dean CAragorn, Schoo! of Architecture-McGil University
 
 <!-- p. 29 -->
 
+Arquitectura de tapial en la Selva Peruana
 
+Arquitecta-Urhanista, Doctoranda Rosa Flores
+E-mail : Aosa-Amella Flores-Fernande COmentreal.ca
+
+Projeto PROTERRA
+
+u —] Améárica del Sur
+
+En las regiones del Perú, el uso de la tierra
+cruda, adoptando diversas modalidades
+técnico-constructivas ha alcanzado desde
+épocas remolas extraordinarias y genuinas
+formas arguitectónicas.
+
+Une verdadera muestra lo conetifuye el patrimonie de
+
+Lamas, en la región de la Selva Alta del Perd, lugar
+
+donde la originalidad en el empleo del tapial alcanza
+
+" trazos notables, producto de la fusión de cuatro culluras
+la amazonica, la chanka, la inca y la española
+
+Calle Sar fetaetin
+
+Lamas
+
+Delalle corer urls
+
+Dentro del repertorio formal, el ejemplo
+mas representative de la unidad y calidad
+arquitectónica es la vivienda-huerta, con
+caracteristicas distributivas, funcionales y
+estructurales sustentadas tanta por la
+permanencia y constancia de modos de
+vivir del poblador, coma
+por el uso sistemálico — "vienda-hueria de 1 peo
+de una misma técnica
+consiructiva, el fapial
+Es el tapial el fundamento tecnico a partir
+del cual se derivan las
+multiples formas
+medalidades y ritmos de
+una arguiltectura propia
+mente mestiza
+
+Vivienda-huerta de 2 pisos
+
+Este patrimonio adificado se revela,
+con sus WoluMmenes Y sobrnedad de
+macas, como una de las ex presianes
+Mas elocuentes de la apropiacién Y
+BFII'I.'I'¡'&I'.“I'IEIT'I enta de las pfúpi&dúú&á
+inherentes de la tierra en el acto de
+construir Iglesa de Lamas
+18
+
+a a,
+
+—
+
+Según investigadores especializados, al diseño del mazo l E
+usade por los pobladores lamistas es idéntico al instruments
+
+utiizado para el apisonado de tierra en la China. Esta
+hipótesis puede ser esclarécida si nos remontamos a las
+versiones históricas del poblamiento de América que hablan
+de Una influencia ASiálica que alcanze los limites del Pero
+
+Vivenda-huerta de 2 pisos
+
+Casa Hativa
+
+Eludiante au Doctoral, Faculé de Faménagament, Inslitul d'Urbanieme, Linivarailó de Mosiraal
 
 <!-- p. 30 -->
 
@@ -1989,11 +2179,247 @@ Equipo de Investigación Con la colaboración de CEDES/hábitat
 
 <!-- p. 38 -->
 
+FACULTAD ITINERANTE
 
+Centro de Estudiantes de
+
+Maderamen
+
+En tdos be equece noe quienes oie oon
+rmestras planficaciones, que tuemn inmdcientas 0
+o e aplmables. Por eemplo: Sablemos del
+montaje, pero no previmos la manera de transportar
+fe pecs (que ss tosdachbas ene sem y e
+alzabar; ere Sabemes que el semucho corta la
+madera (oleic) pero nuestro cálogio del dempo que
+2500 Neva fall. Un miembro de la Comunidad, ayudó
+con SU molsieml y und precede: y excelencia
+mpcsibes
+
+La sinemia genenmda por
+
+s feet al Departament
+de Mike, og través, 2 gestores
+malizadas por los Pobladores de M
+nd, QUEENS nos plantzaban su
+deseo de aproverhar fos recureos de la
+egón, contecnolegias añentalivas
+
+Replanteo y Cimientos
+
+Lo pimen fue el faba de preceión el
+replntes, y come hacerio a pasar de la Nuvia
+y El iemio Gon un poo de "mogenio” y mutes
+Esfuerzo pudimos scar medidas y empazar
+oon el trabajo pesado: ls excoezciones La
+Comunidad estate todavia un poco distambe y
+descomtada, obviamemie estábamos totada
+Ly orupados en mo parecer demasiado
+Tp
+
+Arquiti
+
+Y terra
+ea
+\=
+
+Proyecto Xv. 8
+
+Suelocementa
+
+La experiencia an este pode de proceso fue realmemie espechl,
+pues la inención de fograr la apropiación de una tecndoga no
+comeencional y asegurar la TRANSFERENCIA, Tácimente se podria
+Coie En una rnecia imposgión Paro los objeivos fueron
+aicanzados con creces , ogramos una empata total conla comunidad
+y Tumes descubrendo juntos las bondades del nara majerial;
+Tabajardo juntos generamiía nuestro pees hanguaje”. Tuaonazdo
+BREE Fue CE, apie d COMplirma iT
+moniands niet mmo de rabajo El rabajo del “Srupo Suelo
+comanto” fue ial para legrar ua deftrába integreción can la
+
+La ciudad, de origen jesulta,
+
+que 50 redejan en au
+hee n gun aifeme de valor
+pene, an las tee Ael
+tales por aquelas talemecas manca
+tiger, an d a Pelagia y por Beare
+lose en Bea sencida y mocega márera ee
+weer de la mayoda de que habfames. E
+pueblo e maniela medisre au intents
+l9 Y Gus Iraicionales Sejc Nelc d o
+con el com el de de font Mere y la
+Samat. As) ambien, Sta. Mara de
+de k Gran Fiesta de la
+Sonera en el que paricipan
+blog de la mgión orginando
+
+fro de comunidades
+
+iC AL TA
+
+E ha
+Aaek Pie
+
+— bir
 
 <!-- p. 39 -->
 
+La Plaza
 
+Es la única, sóste desde la funcación
+ene amaigo. Ho se la utiliza. Hoy dla
+comer de total equipaméerto No so
+halla definida Sy majesiuosidad vende
+a Facen destacar y la canactorizan Es
+aH ohne ca pam empezor la
+combidacón — de uf ciuSad,
+dereficindoo y desamollindola coma
+ginea del espacio piblica apregéae
+
+La idea
+"LA CALLE DE LOS
+ÁRBOLES"
+
+Se pretends inlmeer la “Ccacad” a
+lá prára, e bre che ar plete rue
+Forms parte de la cumied “E calle" en
+[its age de 239 y Neca ca rar
+inenedicando, la eence de la calle,
+sends 2a) el lememio priicipal de k
+composición. Tratar a La cole como
+un sliemento usono mo solo de
+movimiento an — fambén de
+estancia de relacionamiemo y
+COAT oe E
+
+La propuesta
+objetivos
+
+INc El UN vivence de ia
+phza 3 bats del diseño,
+considerindol como, lugar de
+encuenina + padicipación, par
+exceenca desro de bolded
+Lograr la aprglación del sspacio,
+plaza, en ss coecióos que
+noentven la oomucicación y 8l
+relciomamiemo ene bodes = ho
+sectores de la comunidad
+
+FACULTAD ITI NERANTE Geng
+
+.
+
+Marco
+Se genes Genin del marco, del conven
+imennsimucona entre la Faculed de
+Arquiectura y la Sobemación Central. En
+el cual la tacultzd imensere, a innets de
+CEA con el proyecto Facultad Hinerante,
+en la elabormciin de ameproyecto,
+proyeces BAUD y qjecución de la piaza
+an cuyd
+
+proceso — dambién — pardicipan — la
+Muricinalidad de Yeane y la Comunidad
+af Sua Domne ia k
+
+Modalidad de trabajo
+
+Se estructura como um inter de deseño
+Uno y amubectónico imegrado por
+profesores y estudiames de la facukad de
+amubechura
+
+Estructura de trabajo
+
+Primera Eiopo
+
+Relevamento, censo y disgrnostico de la
+sluscón aal EN ibe saperka
+moctliginos, culturmies y económicos.
+Cn y celacionamiento anit las
+retina imenéniemes
+
+Aráls de las desmas tpokgks de
+lara en geneal, y de a place en
+Paraguay
+
+Segunda Etapa
+
+Celnican del enfeque de la piopueeta,
+ap — y ra Turcena -+y
+prepueata de esimprrecio
+
+Tarcara Etapa
+
+Casares de K propueía de
+Sere eo
+
+Greets dealbdo de todos los espaciós
+Imerones y eebenoers
+
+Cette desallado del eq u ia ento
+Carinicain de bam bicricar coneina-ue y
+las mebertales che comsinacción
+
+Guanes Elapa
+
+Materisliezción, una semana de ejecución
+imensaa de ke estudames y la
+comunidad
+
+El Sitio
+
+Capíhan s£ un devin del departamenío de San
+pedro, vbicado 250 Km. 0 norte de Asunción
+San Pedro cuenta oon una población de 65000
+personas, y sigos la tenjencia macoral de un
+seuido porcemiaje de población jven (2l BOS
+de la población esta entre log 0 y 18 años de
+edad’
+
+Objetivos
+
+Establecer un sistema de abención integral o los
+aOc y ee de la Dona
+
+Capectación de jaenes en hécnicar
+conmincivas allermativas y radiconaes
+Fortalecmiento de la voluciad de shoe uct
+Majramiemo de la caliad de vada - de la
+población a trawvis de la implemembación 2 ate
+Se Sac VFAO
+
+jos. Contactos.
+
+La Fundacion Ricerdo Bostiner contacts mon el
+CEA para el asescramiemo sobre la realiración
+de oun centro comuntaro en la comunidad de
+Capt") vane
+
+Se realizan reumores y un wWaje de
+reconocimbiento ¿pctubes de 2001]
+
+Trabajos
+
+diseño,
+
+\=e oIgarita la inion y conpniamenie Gon
+Membre de la Fundación a6 elaóora al pregrama
+
+tertalreo para la elaboración del anbegroyecio
+
+Baboracón de equines de feeb. Primeras
+CoONSideraciones de diseño
+
+27 ag en noviembre de 2001
+
+preliminares de
+
+ur ed
 
 <!-- p. 40 -->
 

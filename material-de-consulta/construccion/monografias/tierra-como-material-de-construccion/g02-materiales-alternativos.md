@@ -4,14 +4,14 @@ title: "G02_materiales alternativos"
 author: "mtin"
 categoria: "CONSTRUCCIÓN"
 paginas: 94
-extraccion: "texto (OCR pendiente)"
+extraccion: "mixto: 1 páginas por OCR (spa)"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/MONOGRAFIAS/tierra como material de construccion/G02_materiales alternativos.pdf"
 convertido: 2026-10-16
 ---
 
 # G02_materiales alternativos
 
-> Texto extraído de `CONSTRUCCIÓN\MONOGRAFIAS\tierra como material de construccion\G02_materiales alternativos.pdf` (94 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\MONOGRAFIAS\tierra como material de construccion\G02_materiales alternativos.pdf` (94 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 
@@ -3227,6 +3227,49 @@ la legislación sectorial vigente.
 77
 
 <!-- p. 78 -->
+
+Ciclo Sustentable de los Envases,
+Empaques y Embalajes
+
+Fabricade envases — Tipos de envases Envasado y Canalesde — Consumidores
+Empaques y Embalajes Empaque y Embalajes Empacado distribución
+— ' No reciclables |
+\= = = N
+4% A: ie S Identificar y clasificar
+o 4 Relleno Sanitario No valorizables los materiales
+i) % reciclables
+
+Planta Procesadora Servicio de recoleccion
+
+de reciclables por industria
+recicladora al costo
+
+Ejemplos de Componentes Reciclables de los
+Residuos de la Construccion, Mantenimiento y
+
+Demolición
+Componentes Ejemplos
+
+Madera Marcos de puertas y ventanas, vigas, laminados, astillas,
+ironies
+
+Materiales de paredes Yeso y otras
+
+Metales Tuberias, hereria, lamparas y otros componentes de
+aluminio, cobre, bronce, acero, acero inowidable y otros
+metales
+
+Plásticos Puertas, ventanas, pisos, tuberias
+
+Techos Vigas de asfalto y madera, tejas, lozas, esquistos, fieltros
+
+Restos diversas Asfalto, concreto, rocas, tierra, cenizas
+
+Ladrillas Ladrillos de barro, bloques decorativos
+
+Vidrio Ventanas, espejos, lamparas
+
+Misceláneos Alfombras, aislamiento, azulejos, accesorios
 
 78
 

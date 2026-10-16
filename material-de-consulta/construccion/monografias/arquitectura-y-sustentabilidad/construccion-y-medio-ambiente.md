@@ -4,14 +4,14 @@ title: "Coletanea Habitare - Volume 7: Meio Ambiente"
 author: "Miguel A. Sattler e Fernando O. R. Pereira"
 categoria: "CONSTRUCCIÓN"
 paginas: 300
-extraccion: "texto (OCR pendiente)"
+extraccion: "mixto: 7 páginas por OCR (por)"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/MONOGRAFIAS/arquitectura y sustentabilidad/construccion y medio ambiente.pdf"
 convertido: 2026-10-16
 ---
 
 # Coletanea Habitare - Volume 7: Meio Ambiente
 
-> Texto extraído de `CONSTRUCCIÓN\MONOGRAFIAS\arquitectura y sustentabilidad\construccion y medio ambiente.pdf` (300 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\MONOGRAFIAS\arquitectura y sustentabilidad\construccion y medio ambiente.pdf` (300 páginas, mixto: 7 páginas por OCR (por)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 
@@ -743,27 +743,430 @@ Introdução
 
 <!-- p. 18 -->
 
-16
-
 Coletânea Habitare - vol. 7 - Construção e Meio Ambiente
+
+\=
+o
+
+CONSTRUÇÃO E MEIO AMBIENTE: DIAGNÓSTICO DOS IMPACTOS AMBIENTAIS DA HABITAÇÃO, INCLUINDO
+MATERIAIS E COMPONENTES CONSIDERANDO AS CADEIAS PRODUTIVAS - 4 PROJETOS
+
+Título do projeto
+
+Estruturação de Rede Nacional de
+Estações de Envelhecimento Natural
+para Estudos da Durabilidade de
+Materiais e Componentes de
+Construção Civ
+
+Impacto Ambiental das
+Tintas Imobiliárias
+
+Análise do Ciclo de Vida de
+Produtos (Revestimentos,
+Blocos e Telhas) do Setor
+Cerâmico da Indústria
+
+da Construção Civil
+
+Análise de Parâmetros de
+Implantação de Conjuntos
+Habitacionais de Interesse
+Social: Enfase nos Aspectos
+
+de Sustentabilidade Ambiental
+e de Qualidade de Vida
+
+Coordenador e
+instituigdo executora
+
+Vanderley Moacyr John
+PCC/USP
+
+Vahan Agopyan
+
+Kai Loh Uemoto
+
+EPUSP/ DEPTO DE ENGa.
+DE CONSTRUCAO CIVIL
+
+Sebastiao Roberto Soares
+UFSC/DEPT? DE
+ENG? SANITARIA E AMBIENTAL
+
+Doris Catharine Cornelie
+Knatz Kowaltowski
+UNICAMP/DEPARTAMENTO
+DE CONSTRUCAO CIVIL
+
+Recursos financeiros
+
+Enfase metodolégica
+
+Implantação de infra-estrutura e criação
+de bancos de dados
+
+Análises laboratoriais
+
+Análise de Ciclo de Vida
+
+Avaliação Pós-Ocupação
+
+Objetivos
+
+\- Implantar infra-estrutura para estudo
+da durabilidade de materiais e
+componentes de edificações, nas
+condições climáticas brasileiras,
+possibilitando o desenvolvimento
+tecnológico de produtos existentes
+
+e a produção de novos materiais e
+componentes de construcao.
+
+\- Desenvolver e normalizar métodos
+de exposição ao envelhecimento natural
+para estudo de materiais organicos e
+nao metalicos, -
+
+\- Aplicar os métodos
+
+na avaliagao de materiais expostos
+
+ao envelhecimento natural
+
+\- Levantar e fornecer critérios
+ecoldgicos as industrias de
+tinta para que estas possam
+adequar os teores de
+componentes organicos
+volateis (VOC) e de substancias
+tdxicas (biocidas e pigmentos
+anticorrosivos) em tintas
+imobiliarias de modo a
+
+minimizar o impacto ambiental,
+
+Realizar diagndéstico de
+impactos ambientais, através
+da andalise do ciclo de vida, de
+produtos ceramicos (materiais
+estruturais e de revestimento)
+em industrias do Estado de
+Santa Catarina, visando a
+consolidacao e difusao de
+métodos, técnicas e
+ferramentas capazes de gerar
+dados qualitativos e
+quantitativos para a analise
+
+e hierarquizacao de impactas
+ambientais neste setor da
+industria da construgao.
+
+\- Criar diretrizes que possi
+o aumento da qualidade de vida
+e qualidade global dos
+empreendimentos habitacionais
+voltados a habitação de
+interesse social
+
+Entidades participantes
+
+X
+
+FUSP; EPUSP; UFPA e FURG
+
+FUSP; EPUSP; IQ-USP;
+UFRGS/ICB e USP/UFPA
+(SP)
+
+UFSC; ENS-LARESO (SC) e
+FAPEU
+
+FUNCAMP/UNICAMP/ DCC(SP)
+
+”
 
 <!-- p. 19 -->
 
-17
+Introd
 
-Introdução
+ução
+
+Resultados Alcançados
+
+\- O projeto implantou e opera uma
+rede de 4 estações de envelhecimento
+natural localizadas em São Paulo,
+
+Rio Grande, Belém e Pirassununga.
+
+As estações oferecem estrutura para
+4 projetos de pesquisa:
+
+\- Estudo da lixiviagao de biocida, em
+tinta de base aquosa, e sua relagao
+
+com o crescimento de microrganismos.
+
+“Estudo da durabilidade de tintas
+acrilicas, por meio da exposicao de
+peliculas livres ao envelhecimento
+natural. "Estudo da influéncia da
+pintura sobre a durabilidade de perfis
+de PVC rigido para esquadrias.
+“Desenvolvimento de Tecnologia
+
+para Fabricacao de Telhas de
+Fibrocimento / Cim Cel.
+
+$a0 apresentados:
+
+\- os resultados da
+caracterizagao quimica de 6
+amostras de tinta;
+
+\- as identificacoes qualitativas
+e quantitativas, por GC-MS,
+dos principais constituintes do
+VOC, nas tintas e nos filmes,
+obtidos apds 24 horas e
+
+7 dias de secagem;
+
+\- os cromatogramas dos VOCs
+emitidos pelas amostras,
+
+na forma liquida, em filmes
+obtidos após 24 horas de
+secagem e em filmes obtidos
+após 7 e 14 dias de secagem e
+\- os efeitos causados por
+alguns dos constituintes
+presentes no VOC, na saúde
+do homem.
+
+\- Os autores aplicaram
+metodologia de ACV, ao
+processo produtivo de quatro
+industrias de Santa Catarina,
+atuando na producao de pisos
+e tijolos ceramicos. Os estudos
+consideraram desde a extracao
+da argila, passando por todas
+as etapas de producao, até
+
+a embalagem e o
+carregamento das peças
+
+para saida da fabrica.
+
+\- Os autores apresentam uma )
+lista preliminar de diretrizes
+para orientar projetos
+habitacionais de interesse social,
+para obter projetos mais
+sustentaveis e de melhor
+qualidade, baseada em
+
+topicos estudados, que levam
+em consideracao as
+peculiaridades locais da cidade
+de Campinas, SP.
+
+Observações
+
+X
+
+\- No caso da produção de
+pisos, não foram inventariados
+os subsistemas de produção
+dos demais componentes
+ados, como esmaltes
+
+tas.
+
+17
 
 <!-- p. 20 -->
 
-18
-
 Coletânea Habitare - vol. 7 - Construção e Meio Ambiente
+
+n
+oo
+
+CONSTRUÇÃO E MEIO AMBIENTE: TECNOLOGIAS DE RECICLAGEM 1 PROJETO
+
+CONSTRUCAO E MEIO AMBIENTE REDUCAO DE PERDAS NA CONSTRUCAO - 2 PROJETOS
+
+Titulo do projeto
+
+Normalizagao do Uso de Agregados de
+Residuos de Construcgao e Demolição:
+Uso de Novas Técnicas de Fabricacgao
+
+Gestao de Empreendimentos
+Habitacionais de Interesse Social:
+Modelo Integrado de Desenvolvimento
+de Produto e Gestao da Producao para
+Reducao de Perdas
+
+Sistema de Avaliacao de Fornecedores
+de Materiais e Componentes da Industria
+da Construcao Ci Integragao das
+Cadeias Produtivas
+
+Coordenador e
+instituigao executora
+
+Vanderley Moacyr John
+PCC/USP
+
+Carlos Torres Formoso
+NORIE / UFRGS
+
+Alberto Souza Schmidt
+Margareth Schmidt
+PPGEP/UFSM
+
+Recursos financeiros
+
+Enfase metodoldgica
+
+Analises laboratoriais
+
+Desenvolvimento de estudos de caso de
+curta duracao, com intervencgao
+nos processos analisados
+
+Analise do estudo de caso realizado junto
+a um grupo de empresas do estado do
+Rio Grande do Sul
+
+Objetivos
+
+\- Apresentar um método de controle de
+qualidade para emprego dos agregados
+graúdos reciclados, provenientes da fragao
+mineral dos residuos de construção e
+demolicao (RCD), em concretos, a partir de
+uma ferramenta de caracterizacao
+
+\- Desenvolver um modelo para a gestao de
+empreendimentos habitacionais de interesse
+social, o qual integra as funções de
+desenvolvimento de produto e de gestao da
+producao, assim como propor métodos para
+o desenvolvimento de competéncias nas
+organizações para a sua implementacao.
+
+\- Formular diretrizes para promover a
+integracao das cadeias produtivas da
+construcao civil, demonstrando a
+aplicabilidade de um sistema de avaliagao
+para o processo de selecao de fornecedores,
+como forma de qualificagao e integragao
+das cadeias.
+
+Entidades participantes
+
+FUSP/EPUSP (SP)
+
+FAURGS; UFSM, UFPEL, SINDUSCON-SM e
+SINDUSCON-PELOTAS (RS)
+
+Resultados Alcancados
+
+X
+
+Os autores propõem um método de controle
+de qualidade baseado na caracterização direta
+de amostras representativas, provenientes de
+lotes de agregados de RCD produzidos.
+
+Um produto genérico foi desenvolvido no
+primeiro empreendimento PAR e utilizado
+como base para o projeto do produto
+específico dos demais.
+
+Os principais clientes no PDP de
+empreendimentos PAR foram identificados a
+partir de entrevistas semi-estruturas com
+diversos agentes do processo e da analise de
+documentos. As atividades exercidas por
+cada agente foram representadas no modelo
+do PDP.
+
+O trabalho realizado apresentou uma
+proposta de critérios para selecao e avaliagao
+de fornecedores de materiais e componentes
+da cesta basica do PBQP-H.
 
 <!-- p. 21 -->
 
-19
+Introd
 
-Introdução
+ução
+
+Resultados Alcançados
+(cont.)
+
+Os resultados experimentais demonstraram
+que a massa específica aparente dos agregados
+controlou a resistência mecânica de concretos,
+confeccionados com mesmo consumo de
+cimento - ou relação agua/cimento A soma
+dos teores de aglomerantes e
+
+de ceramica vermelha tambem se
+
+revelou um indicador eficiente do
+desempenho mecanico, As mesmas
+conclusées foram obtidas para o
+
+modulo de elasticidade e absorgao de
+
+agua dos concretos.
+
+Os resultados revelam que a porosidade
+dos agregados tem duas origens
+principais: teor de aglomerantes e de
+ceramica vermelha. Tanto o teor de
+aglomerantes, quanto o teor de
+ceramica vermelha diminui com o
+aumento da massa especifica aparente.
+
+Observacoes
+
+Além de classificar agregados reciclados
+de acordo com sua porosidade, o
+método permite estimar indiretamente
+o nivel de contaminantes.
+
+captacgao de requisitos que podem, cada
+uma, ser foco de estudos mais
+aprofundados. Também se constatou que os
+principais agentes nao conheciam em
+profundidade o perfil dos clientes finais e
+suas necessidades. Assim, existe um grande
+potencial de aumentar o valor do produto,
+através da captura dos requisitos do cliente,
+tanto os explicitos como os latentes.
+
+Ha continuidade da proposta, através do
+projeto GESTHAB, desenvolvido em rede com
+sete instituições de ensino do pais. Varias
+regides ja possuem indicadores para distintos
+fornecedores, além de um cadastro atualizado
+de fornecedores. Os autores pretendem, até o
+final do projeto, divulgar os indicadores dos
+fornecedores de materiais e componentes da
+cesta basica do PBQP-H. m nnnn
+
+”
+
+19
 
 <!-- p. 22 -->
 
@@ -4896,6 +5299,101 @@ Análise de parâmetros de implantação de conjuntos habitacionais de interesse
 
 152
 
+Diretrizes gerais
+
+Diretrizes locais
+
+Comunidade e segurança
+
+Determinar dimensões e dispor moradias,
+mercados, escritórios, escolas, parques e
+serviços públicos próximos uns dos outros,
+de tal forma que possam ser percorridos
+
+a pé. Oferecer uma diversidade de tipologias
+residenciais, permitindo que grupos de
+situações econômicas variadas e de idades
+diferentes possam conviver dentro de seus
+limites. Dispor uma área central que ofereça
+serviços comerciais, públicos e culturais.
+Encorajar o uso de todas as áreas, quadras,
+parques e praças nos períodos diurnos
+
+e noturnos, através de espaços agradáveis
+
+e iluminados. Criar divisões com limites bem
+definidos, como cinturões agrícolas,
+permanentemente protegidos do
+desenvolvimento e avanço das outras áreas;
+ruas, calçadas e ciclovias constituindo um
+sistema interconectado e de rotas
+alternativas e convidativas para todos os
+lugares. Os terrenos originais, drenagens
+naturais e vegetações das áreas comunitárias
+devem ser preservados em conformidade
+com exemplos observados nas áreas
+principais de parques e cinturões verdes.
+Conservar os recursos naturais e minimizar
+
+o desperdício. Promover o uso adequado
+
+da água através de drenagens naturais,
+permeabilidade do solo e reciclagem;
+orientações das ruas, disposição dos edifícios
+e o aproveitamento de sombras visando a
+um uso adequado de energia elétrica;
+planejamento de uso do solo, integrado
+com uma rede maior de transporte e sistema
+viário. Implantar instituições regionais e
+serviços públicos (governamentais, estádios,
+museus, etc.) no núcleo urbano. Desenvolver
+um caráter local e uma identidade
+comunitária através do uso de materiais
+regionais e técnicas construtivas especificos.
+
+Numa sociedade com altas taxas de
+criminalidade, criar uma sensagao de
+seguranga. E desejavel que a comunidade/
+vizinhanga esteja confinada ou murada para
+controlar o acesso das pessoas. Mesmo sendo
+muito criticado, viver em comunidades
+muradas é desejo comum entre os brasileiros
+da classe média. A particularidade dos limites
+territoriais deve evitar a imagem negativa de
+confinamento e de isolamento em relacao a
+vida na cidade e deve considerar o acesso
+dos visitantes.
+
+Ruas e sistema viario
+
+Estabelecer um sistema em que as ruas
+tenham pequeno volume de trafego, baixa
+velocidade e pouco barulho. Prever as
+alterações de mobilidade da populacao
+
+de idade mais avancada com um projeto
+apropriado das calcadas. Prever caminhos
+
+e bons acessos aos espacos livres e abertos.
+Avaliar a separação e/ou integracao de zonas
+diversas para reduzir o uso do carro.
+
+N
+
+Dar atenção especial à orientação.
+
+O vento sudoeste predominante deveria ser
+aproveitado. As calçadas devem ser concluídas
+na fase de construção. Dispor de boas
+sombras de árvores sem atrapalhar a
+circulagao dos pedestres, cadeiras de roda,
+carrinhos de bebé, etc. A rede de circulacao
+de pedestres deve estar integrada com
+entradas controladas, sendo possivel a
+comunicacao com as unidades a partir
+
+do portao. )
+
 Coletânea Habitare - vol. 7 - Construção e Meio Ambiente
 
 <!-- p. 155 -->
@@ -4908,6 +5406,96 @@ Análise de parâmetros de implantação de conjuntos habitacionais de interesse
 <!-- p. 156 -->
 
 154
+
+á Diretrizes gerais
+
+Espaços abertos públicos
+
+Diretrizes locais
+
+Projetar espaços livres abertos, como se
+fossem “cômodos abertos”, e evitar deixá-los
+iguais aos espaços vazios, Prover espacos
+abertos publicos onde possam ser realizados
+jogos, recreacao e atividades sociais e
+culturais. Localizar espacos abertos publicos
+de tal forma que possam ser vistos das
+unidades residenciais individuais e, de
+preferéncia, da cozinha, da sala de estar
+
+e da sala de jantar. Dispor das areas de
+brincadeiras infantis de forma centralizada,
+permitindo a supervisao dos adultos nas
+unidades residenciais e/ou de um servico
+central. Oferecer um sistema de iluminacao
+econdmico e de uma variedade de fontes,
+em intensidades e qualidades apropriadas
+para a protecao.
+
+Espacos abertos privados
+
+Evitar sobras de pequenos espacos onde nao
+podem ser ocupados por um campo plano de
+futebol ou um jardim de recreacao com
+equipamentos simples (escorregadores,
+balancos, etc.). Introduzir equipamentos
+
+e paisagismos na concepcao do projeto.
+Sombrear essas areas, o que é de extrema
+importancia em climas quentes. Facilitar
+
+a manutencao.
+
+Prover cada domicilio com algum tipo de
+espaco aberto privado util e acessivel, como
+um patio, varanda, deck, terraco, quintal ou
+uma fração de varanda de entrada ou
+terracos. Cercar com grades as sacadas
+
+para permitir privacidade e definir limites,
+evitando paredes solidas que impecam que
+as crianças pequenas possam olhar para fora.
+
+Evitar que o espaco seja visto como uma
+oportunidade para mais construções. Prover
+as habitagdes multifamiliares com uma
+pequena area aberta e privativa, com um
+espaco sombreado, com floreiras, e de onde
+se possa acompanhar as atividades das
+criangas e se refugiar do calor dos espacos
+fechados. Desencorajar a incorporagao dessa
+area aos espacos fechados através do projeto
+ou da localizacao.
+
+Paisa
+
+gismo
+
+Projetar o paisagismo para valorizar a
+arquitetura e definir espacos publicos e
+privados uteis. Utilizar espécies de plantas
+nativas e resistentes, faceis de aguar e manter.
+Sombrear areas pavimentadas. Oferecer
+opcodes para sentar e ficar nas areas
+ajardinadas. Incluir caminhos para receber
+criancas, adultos, bicicletas, skates, carrinhos
+de compra, caminhadas, animais de
+estimacao, etc. Prover iluminacao apropriada.
+
+Escolher a vegetacao adequada para obter
+sombra e evitar danos a construcao atraves
+de uma area suficiente e reservada para
+vegetacao. Prover uma boa cobertura do
+terreno para evitar erosao e problemas com
+lama. Dispor de um leve nivelamento das
+areas abertas. Oferecer boa visibilidade das
+areas abertas e dos arredores dos edificios
+por questdes de seguranca. A vegetacao
+deve ser de facil manutenção. Calcular o
+crescimento da vegetacao e as dimensdes
+das arvores adultas no esquema paisagistico
+original. Prover faixas de vegetacao e terreno
+naturais nos padrées das ruas. )
 
 Coletânea Habitare - vol. 7 - Construção e Meio Ambiente
 
@@ -5021,7 +5609,71 @@ Análise de parâmetros de implantação de conjuntos habitacionais de interesse
 
 160
 
-Coletânea Habitare - vol. 7 - Construção e Meio Ambiente
+Projetos de casas que ajudem
+
+\~
+
+Projeto baseado nos habitos
+
+comida fresca.
+
+FRI no desenvolvimento de uma DP1 culturais e sociais locais.
+comunidade (peruana) local.
+Oferecer um lugar onde as Criar células residenciais de
+FR1.1 pessoas compartilhem uma DP1.1 interesse particular, separadas
+' mesma forma de vida e reforce ' por areas abertas ou servicos
+o sentimento de grupo. comunitarios ou areas publicas.
+Considerar as caracteristicas Dividir as células residenciais em
+pessoais fundamentais, como areas pacatas ou movimentadas,
+FR1.1.1 introvertido /extrovertido DP1.1.1 tendo estas casas diferentes
+V (ou privacidade e > niveis de exposicao a circulação
+relação comunitaria). de pedestres, em areas de
+atividades publicas.
+FR11.1.1 Garantir 0 acesso a DP1.1.1.1 Projetar um mercado central
+
+para o conjunto habitacional.
+
+oN
+
+11
+
+&
+
+F
+
+Garantir o acesso a pé, das
+
+Localizar o mercado numa artéria
+
+S
+
+FR1.1.1.1.1 | casas, nas células residenciais, | DP1.1.1.1.1 | de tráfego central, com um acesso
+até o mercado. direto aos caminhos de pedestres.
+FR1.1.1.1.2 Garantir o acesso de carros DP1.1.1.1.2 Localizar o mercado numa via
+para entregas. arterial de grande trafego.
+Garantir 0 acesso aos servicos Criar centros noturnos com
+publicos durante a noite. restaurantes, bares, cinemas,
+sorveterias, central de policia,
+FRT.1.1.2 DPI 1.1.2 postos de gasolina, paradas de
+6nibus (dar as pessoas lugares
+agradaveis aonde ir a noite).
+Garantir que as pessoas se Reunir, pelo menos, seis atividades
+FR1.1.1.2.1 | sintam seguras. DP1.1.1.2.1 | (as pessoas se sentem seguras
+em grupo).
+Garantir o acesso desimpedido Implantar a escola de forma que
+a educacao. Garantir a os caminhos publicos de
+integracao entre escola e pedestres atravessem as cercanias.
+FR1.1.1.3 comunidade. A educação DP1.1.1.3 Espacos publicos como
+o superior não deveria ser oo playgrounds, auditorios e lojas
+separada da maioria dos encontram os caminhos publicos,
+processos sociais comuns. para que possam ser
+compartilhados pela comunidade.
+Garantir acesso a educagao Distribuir, nas células residenciais,
+FR1.1.1.4 pre-escolar. DP1.1.1.4 pequenos jardins infantis, com
+
+acesso direto dos pedestres. )
+
+Coletanea Habitare - vol. 7 - Construcao e Meio Ambiente
 
 <!-- p. 163 -->
 

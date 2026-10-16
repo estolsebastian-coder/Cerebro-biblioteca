@@ -4,18 +4,32 @@ title: "Maquetación 1"
 author: "Nombre"
 categoria: "CONSTRUCCIÓN"
 paginas: 70
-extraccion: "texto (OCR pendiente)"
+extraccion: "mixto: 1 páginas por OCR (spa)"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/EJERCICIO 4/Energía + arquitectura/Ordenanza Solar Térmica de Barcelona.pdf"
 convertido: 2026-10-16
 ---
 
 # Maquetación 1
 
-> Texto extraído de `CONSTRUCCIÓN\EJERCICIO 4\Energía + arquitectura\Ordenanza Solar Térmica de Barcelona.pdf` (70 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\EJERCICIO 4\Energía + arquitectura\Ordenanza Solar Térmica de Barcelona.pdf` (70 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 
+CONSTRUIR BARCELONA
 
+La energía solar
+en Barcelona
+
+La ordenanza
+solar térmica
+
+Aavier Casanovas
+Profesor de la Universitat Politécnica de Catalunya
+
+E
+ab Ajuntament de Barcelona
+
+DOCUMENTS
 
 <!-- p. 2 -->
 

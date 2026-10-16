@@ -4,20 +4,33 @@ title: "Introducción a la ISO 19650_Mayo 2021"
 author: ""
 categoria: "BIM Y HBIM"
 paginas: 33
-extraccion: "texto (OCR pendiente)"
+extraccion: "mixto: 2 páginas por OCR (spa)"
 fuente: "local:E:/MATERIAL DE CONSULTA/BIM Y HBIM/03. BuildingSmart Spain/Introducción a la ISO 19650_Mayo 2021.pdf"
 convertido: 2026-10-16
 ---
 
 # Introducción a la ISO 19650_Mayo 2021
 
-> Texto extraído de `BIM Y HBIM\03. BuildingSmart Spain\Introducción a la ISO 19650_Mayo 2021.pdf` (33 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `BIM Y HBIM\03. BuildingSmart Spain\Introducción a la ISO 19650_Mayo 2021.pdf` (33 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 
-INTRODUCCIÓN ALASERIE
+?ºbuildingSMHRI
+
+Spain
+
+Af),
+ff
+
+INTRODUCCION A LA SERIE
 EN ISO 19650
-RevisiónMayo2021
+
+Revision Mayo 2021
+VNN BET TI
+
+a od A A
+U g 7 w 4 5
+: N
 
 <!-- p. 2 -->
 
@@ -1137,4 +1150,6 @@ Revisión Mayo 2021
 
 <!-- p. 33 -->
 
-www.buildingsmart.es
+(º)SbUHdlngSMHRT
+
+buildingsmart.es

@@ -4,14 +4,14 @@ title: "MaquetaciŠn 1"
 author: ""
 categoria: "CONSTRUCCIÓN"
 paginas: 53
-extraccion: "texto (OCR pendiente)"
+extraccion: "mixto: 2 páginas por OCR (spa)"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/EJERCICIO 4/Energía + arquitectura/guiaCompleta fotovoltaica.pdf"
 convertido: 2026-10-16
 ---
 
 # MaquetaciŠn 1
 
-> Texto extraído de `CONSTRUCCIÓN\EJERCICIO 4\Energía + arquitectura\guiaCompleta fotovoltaica.pdf` (53 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\EJERCICIO 4\Energía + arquitectura\guiaCompleta fotovoltaica.pdf` (53 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 
@@ -2006,4 +2006,8 @@ www.censolar.org
 
 <!-- p. 53 -->
 
+A-fumizmos mayor
 
+aD 450, 20704
+
+Edicion 2006

@@ -4,18 +4,27 @@ title: "Design_Dictionary"
 author: ""
 categoria: "ARQUITECTURA"
 paginas: 451
-extraccion: "texto (OCR pendiente)"
+extraccion: "mixto: 1 páginas por OCR (eng)"
 fuente: "local:E:/MATERIAL DE CONSULTA/ARQUITECTURA/Diccionarios/Design_Dictionary.pdf"
 convertido: 2026-10-16
 ---
 
 # Design_Dictionary
 
-> Texto extraído de `ARQUITECTURA\Diccionarios\Design_Dictionary.pdf` (451 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `ARQUITECTURA\Diccionarios\Design_Dictionary.pdf` (451 páginas, mixto: 1 páginas por OCR (eng)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 
+YaSNMHNYIs
 
+Design
+Dictionary
+
+Boarded Perspectives on Design Terminology
+
+Internationat
+Researcn in
+Design, SIRD
 
 <!-- p. 2 -->
 

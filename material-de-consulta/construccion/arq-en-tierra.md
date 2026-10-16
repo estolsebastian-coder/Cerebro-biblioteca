@@ -4,14 +4,14 @@ title: "Arquitectura en tierra"
 author: "HABYTED RED XIV.A  HABITERRA"
 categoria: "CONSTRUCCIÓN"
 paginas: 74
-extraccion: "texto (OCR pendiente)"
+extraccion: "mixto: 2 páginas por OCR (spa)"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/Arq_en_tierra.pdf"
 convertido: 2026-10-16
 ---
 
 # Arquitectura en tierra
 
-> Texto extraído de `CONSTRUCCIÓN\Arq_en_tierra.pdf` (74 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\Arq_en_tierra.pdf` (74 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 
@@ -589,7 +589,10 @@ Red Habiterra 15
 
 <!-- p. 17 -->
 
-16 Red Habiterra
+16
+
+TA
+KRF
 
 <!-- p. 18 -->
 
@@ -1612,7 +1615,7 @@ Red Habiterra 39
 
 <!-- p. 41 -->
 
-40 Red Habiterra
+C40
 
 <!-- p. 42 -->
 

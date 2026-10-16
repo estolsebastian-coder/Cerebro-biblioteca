@@ -4,14 +4,14 @@ title: "Plan de Trabajo Proyecto: “Fomento a la Implementación de metodologí
 author: "Paulina Godoy Del Campo"
 categoria: "BIM Y HBIM"
 paginas: 22
-extraccion: "texto (OCR pendiente)"
+extraccion: "mixto: 1 páginas por OCR (spa)"
 fuente: "local:E:/MATERIAL DE CONSULTA/BIM Y HBIM/02. Planbim/documentación/entidades-ifc-para-equipamiento-hospitalario.pdf"
 convertido: 2026-10-16
 ---
 
 # Plan de Trabajo Proyecto: “Fomento a la Implementación de metodologías BIM en PJUD”Año 2018-2019
 
-> Texto extraído de `BIM Y HBIM\02. Planbim\documentación\entidades-ifc-para-equipamiento-hospitalario.pdf` (22 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `BIM Y HBIM\02. Planbim\documentación\entidades-ifc-para-equipamiento-hospitalario.pdf` (22 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 
@@ -584,8 +584,8 @@ Fig.15 Propiedades de travesaño
 
 <!-- p. 22 -->
 
+21
+
 www.planbim.cl
 
-in
-
-21
+m E -y

@@ -4,14 +4,14 @@ title: "Técnicas mixtas en Iberoamérica"
 author: "XIV.6 PROTERRA"
 categoria: "CONSTRUCCIÓN"
 paginas: 352
-extraccion: "texto (OCR pendiente)"
+extraccion: "mixto: 1 páginas por OCR (spa)"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/TecnicasMixtas.pdf"
 convertido: 2026-10-16
 ---
 
 # Técnicas mixtas en Iberoamérica
 
-> Texto extraído de `CONSTRUCCIÓN\TecnicasMixtas.pdf` (352 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\TecnicasMixtas.pdf` (352 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

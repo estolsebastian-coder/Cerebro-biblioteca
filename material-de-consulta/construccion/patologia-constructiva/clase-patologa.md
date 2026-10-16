@@ -4,19 +4,18 @@ title: "clase_patologa"
 author: "Administrador"
 categoria: "CONSTRUCCIÓN"
 paginas: 17
-extraccion: "texto (OCR pendiente)"
+extraccion: "mixto: 1 páginas por OCR (spa)"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/patologia constructiva/clase_patologa.pdf"
 convertido: 2026-10-16
 ---
 
 # clase_patologa
 
-> Texto extraído de `CONSTRUCCIÓN\patologia constructiva\clase_patologa.pdf` (17 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\patologia constructiva\clase_patologa.pdf` (17 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 
-Constructiva
-Patología
+
 
 <!-- p. 2 -->
 

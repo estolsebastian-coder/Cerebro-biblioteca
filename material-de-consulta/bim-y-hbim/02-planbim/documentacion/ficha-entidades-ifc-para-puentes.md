@@ -4,14 +4,14 @@ title: "Ficha Entidades IFC para Puentes"
 author: "Sebastián Manríquez"
 categoria: "BIM Y HBIM"
 paginas: 11
-extraccion: "texto (OCR pendiente)"
+extraccion: "mixto: 1 páginas por OCR (spa)"
 fuente: "local:E:/MATERIAL DE CONSULTA/BIM Y HBIM/02. Planbim/documentación/Ficha Entidades IFC para Puentes.pdf"
 convertido: 2026-10-16
 ---
 
 # Ficha Entidades IFC para Puentes
 
-> Texto extraído de `BIM Y HBIM\02. Planbim\documentación\Ficha Entidades IFC para Puentes.pdf` (11 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `BIM Y HBIM\02. Planbim\documentación\Ficha Entidades IFC para Puentes.pdf` (11 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 
@@ -299,6 +299,4 @@ Tipo Predef: PARAPET
 
 www.planbim.cl
 
-in
-
-10
+m E l la

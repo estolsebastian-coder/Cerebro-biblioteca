@@ -4,18 +4,31 @@ title: "Building Surveys"
 author: ""
 categoria: "ARQUITECTURA"
 paginas: 276
-extraccion: "texto (OCR pendiente)"
+extraccion: "mixto: 1 páginas por OCR (eng)"
 fuente: "local:E:/MATERIAL DE CONSULTA/ARQUITECTURA/Patologías/Building Surveys.pdf"
 convertido: 2026-10-16
 ---
 
 # Building Surveys
 
-> Texto extraído de `ARQUITECTURA\Patologías\Building Surveys.pdf` (276 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `ARQUITECTURA\Patologías\Building Surveys.pdf` (276 páginas, mixto: 1 páginas por OCR (eng)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 
+SIXTH EDITION
 
+i
+
+ij le i
+a a
+i = re
+. Ud
+a ~ _
+ele
+\+ a ot
+4: 7:
+4
+\| =
 
 <!-- p. 2 -->
 

@@ -4,18 +4,24 @@ title: "LAS_CLAVES_DE_LA_ARQUITECTURA"
 author: ""
 categoria: "CONSTRUCCIÓN"
 paginas: 81
-extraccion: "texto (OCR pendiente)"
+extraccion: "mixto: 6 páginas por OCR (spa)"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/LAS_CLAVES_DE_LA_ARQUITECTURA.PDF"
 convertido: 2026-10-16
 ---
 
 # LAS_CLAVES_DE_LA_ARQUITECTURA
 
-> Texto extraído de `CONSTRUCCIÓN\LAS_CLAVES_DE_LA_ARQUITECTURA.PDF` (81 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\LAS_CLAVES_DE_LA_ARQUITECTURA.PDF` (81 páginas, mixto: 6 páginas por OCR (spa)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 
-L A SC L A V EDSE
+— Antonia M. Perelló
+
+LAS CLAVES D
+
+LA ARQUITECTURA
+
+CÓMO IDENTIFICARLA
 
 <!-- p. 2 -->
 
@@ -475,7 +481,10 @@ t 4
 
 <!-- p. 15 -->
 
+Cs N
+NEEN !
 
+“
 
 <!-- p. 16 -->
 
@@ -1759,7 +1768,8 @@ cescoBorromini. el usode pinturasilusorias.
 
 <!-- p. 56 -->
 
-
+a
+II NA
 
 <!-- p. 57 -->
 

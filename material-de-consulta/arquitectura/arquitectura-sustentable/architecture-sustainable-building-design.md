@@ -4,18 +4,51 @@ title: "SUSTAINABLE BUILDING DESIGN BOOK"
 author: "GOMEZ TAGLE Morales, Jose Martin (MEXICO) The University of Tokyo"
 categoria: "ARQUITECTURA"
 paginas: 100
-extraccion: "texto (OCR pendiente)"
+extraccion: "mixto: 56 páginas por OCR (eng)"
 fuente: "local:E:/MATERIAL DE CONSULTA/ARQUITECTURA/Arquitectura sustentable/Architecture.Sustainable.Building.Design.pdf"
 convertido: 2026-10-16
 ---
 
 # SUSTAINABLE BUILDING DESIGN BOOK
 
-> Texto extraído de `ARQUITECTURA\Arquitectura sustentable\Architecture.Sustainable.Building.Design.pdf` (100 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `ARQUITECTURA\Arquitectura sustentable\Architecture.Sustainable.Building.Design.pdf` (100 páginas, mixto: 56 páginas por OCR (eng)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 
+Bs
+O
+oO
 
+Oo
+\=
+
+oO
+Ww)
+fab)
+
+TT
+©)
+
+i=
+
+is
+
+5
+
+O
+
+o
+
+Oo
+\14)
+
+[=
+Lay)
+
+jo!
+Ww
+—
+Ww)
 
 <!-- p. 2 -->
 
@@ -338,101 +371,661 @@ Printed in Japan
 
 <!-- p. 11 -->
 
+all
 vii JAPAN SUSTAINABLE ARCHITECTURES
 
 <!-- p. 12 -->
 
-10
+House in Megamiyama
+
+ara
+
+Organi Tabi
+
+Seavcriysuity Hyoge-—orelecture
+
+The houses. in Megamiyama is soil covered green
+buiidings which has @ figh potential in recovering.the
+nature and is a important element needed in design
+a sustsinable erty, The building ts designed ta melt in
+the forest. The treas and the plants and the land
+form are left as it used to be, and the surface of the
+billding is greene. The architect planted grass on
+the roof to make it lock continuous from the garden
+A building built in a forest should efface itself and
+this architecture which has vielets and lilles in its
+grass and ivy and woodbine on its wall will not
+
+outstand from its surroundings.
+
+To evercome the Japanese hot and
+humid climate, the big openings
+connect the indoor to create an open
+ena ore rt The poles and the w
+
+are all made by Japan cedar and the ’
+open windows on all four siches aif gaall
+brings In the tresh grean air cooled
+
+the forest, 5
+
+The architects Cearnal ahi and his
+
+family have fun at the pignig under
+
+the cherry blossims in spring. They ~
+lve together with natu ‘
 
 <!-- p. 13 -->
 
-11
+Pavillion of the 21st Century Construction
+
+AT
+
+Kazud barren
+Sukogaworoity Huloushima Prefecbors
+
+This is a temporary pavilion for “Utsukushima Future Expo” in Fukushima.
+4 lot of panels and models introducing the idea of “future cities in forests”
+were displayed in this pavilion,
+
+Formerly, mulberry field used to spread along the slope at this site.
+
+The architect, Kazuo Iwamura, designed this pavilion remaining the landform
+as it was. The roof of itis covered with many colorful flowers not just to
+entertain the people’ 5 eyes but to improve thermal environment of the
+facility and-also to-hold the water briefly. The shape of the roof
+
+structure is made like branches of a huge tree. The post pole branches
+into fowr direction and-agam divides rt self in ta smaller branches. This
+makes-the visitors feel as-they are walking ina forest. The indoor and
+
+the outdoor environment are harmonious. The (real) building and the
+(virtual) exhibition fuse together In the building and creates a world.
+
+The structure of the building. exeept the foundation, can be easily
+subdivided and reconstructed, so, it is low emission though it is made
+
+for temporary usage,
 
 <!-- p. 14 -->
 
-12
+Bridge, Arts and Science College
+
+Approaching The issue of creating a sustainable
+architecture within the westren part of the world,
+is different from that of the middle east or
+monsoon Asia. In the case of arts and science
+Building in (Qatar,\Doha) we managed the strong
+sunlight using reflected in the buildings expression.
 
 <!-- p. 15 -->
 
-13
+‘While in Hanoi (Vietnam) dealing with high
+“temperature and high humidity, we managed
+the flow of wind by using the “Space block”
+method in order to create a com :
+living zone although densely populated
+
+\=
+
+\= 7
+\= =
+a
+
+\= i |
+\=
+
+_—$—
+
+!
+
+wi
+
+fi
 
 <!-- p. 16 -->
 
-14
+With its gabled roof, the roomy,
+
+single-story building merges: into Bato’ 5 rich, natural SEO: ;
+The: whole: museum 1s rapped in latticework mage of local -
+“Yamizo cedar, so thatthe lighting i in'the museum, continually.
+expresses |tsell in different ways, depending on the time of day.
+
+This Latticework also buffers the direct sunlight to lhe metal
+
+board and is effective in air-conditioning system. AY a
+Local materials are also used in the interior: the walls covered in |
+with Karasuyama washi handcrafted paper, and the floors il al
+
+made of Ashino-ishi stone
+
+—a ee!
+
+Li il
+
+14 = Ss Re eee |
+tha! he 7
+\=! Ee) | i
+
+aes Be 0 Teme TTT
+
+alld
+
+iii
+
+PAteite l
 
 <!-- p. 17 -->
 
-15
+Adobe Repository for Buddha Statue (Anyoji Temple)
+
+2002
+
+Kengo Kumad Associates
+
+Toyoura Shimonceseki-city Yameguchi-prefecture
+
+The wooden Buddha in this warehouse is one of the National
+Designated Important Cultural Assets
+
+This Warehouse enables us to see the Buddha through glass
+on one side, and other three sides are made of adobe fram
+the local soil,
+
+\*Selt-production and self-consumption" is a valuable factor for
+sustainable architecture
+
+ILis both cost and energy efficient
+
+Also, this burned brick wall controls temperature and humidity
+oi the property, so air-conditioning units arent necessary in
+
+this facility
 
 <!-- p. 18 -->
 
-16
+Morihana Memorial House
+1962
 
-2005/7/8/14:30
+Kiyoshi Seike : 3
+Kobe-city Hyogo-oreherie 3
+
+ot baa
+
+As you can see from the: picture, the greeneries
+covering the building and the eaves restrains the
+increase of the surface temperature and produces cool
+and comfortable climate even in a bolling hot day, The
+solid and strong design of the striicture made by
+
+natural stones deepens its beauty as time passes:
 
 <!-- p. 19 -->
 
-17
+Iwamura Kazuo Ehon-no—Oka Art Museum
+ae
+
+Magerctes hozees Building Workahop
+
+Hosii-nountry Tochigi-prefecture
+
+sail!
+
+_
+
+Vhermal etatege consulta
+
+After sunset, the roof releases the inner heat and draws in dey air trom
+oirt side in to the house. The sensing system senses the room-air
+temperature and the outdoor temperature, and automatically takes in
+only the cold air under the floor, Here tha concrete functions as a cool
+storage.
+
+2 . —_——— . Ss :
+
+© 4 ¥lesh air plate
+
+Nozzle
+
+a ~~
+
+Tiers! storage ooncrebe
+
+During the winter daytime, the OM Solar syatem brings down the warn oir
+hested by the roof under tha floor, end the cancrete absorbs the heat from
+the ai and functions as a floor heater. As the fresh air is always oumped in
+the room, the room environment will be kept in a good condition
+
+Also in summer, the heat will be ventilated outdoor immodiately.
 
 <!-- p. 20 -->
 
-18
+Acros Fukuoka
+
+5
+Nihon Sekhel ine. + Takenaka Corporation + Plartagol landscape)
+Hukuesencity Huluokesprehecture
+
+—— eke ee
+
+Acros Fukuoka was bullt after the
+government office building of the
+Fukueka prefecture as a future
+style of a commercial complex in
+March 1993.
+
+Commercial establishments and
+cultural facilities such as
+symphony hall and international
+conference ha!) are neatly and
+compactly built im the building.
+Acros Fukuoka, which name came
+from the catchword. “Fukuoka, the
+cross road of Asia’, is now
+canrying out function as a cultural
+intersection,
+
+On the main street -side, tha
+building is designed in office
+building stvia by using glass
+curtain wall,
+
+On the other hand, the north side
+ef the building adopted the step
+garden style in other to merge
+with the park,
+
+It has established combining a
+different concept and style of
+design in one building.
 
 <!-- p. 21 -->
 
-2005/7/8/12:00
+® a ee
 
-19
+ie a»
+
+\~~ 2005/7/8/12:00
+
+The Osaka central gymnasium has Kendo ashram,
+training room, Judo ashram, and a sub arena other than
+the huge main arena which has 10,000 seating capacity.
+The building half built in the underground has tts roof all
+covered by plants, vines and trees which er the
+ereen landscape merging with the park. You can walk
+around inthe roof garden of the gymnasium and it
+is used as a place of relaxation and anusement by the
+local residences. The picture shows the temperature
+difference of the gymnasium surrounding arpg covered
+by green and the concrete ares next to the eymnasium,
+[tis clearly shown in the picture that in the surrounding
+area of the evmnasmm, the plants blocks the sunlieht
+and creates a cool spot and at the same time creates a
+cool island as a extensive green park,
 
 <!-- p. 22 -->
 
-20
+Nakajima Garden Housing Project
+
+rdeviduoud t
+
+ro
+
+I
+
+This housing project: is a pratatype
+which realize the good condition in
+the urban life. Several alleys partition
+off the 12 houses into 6 brocks
+and each unit is just 2 storied house.
+spaces of alley becomes the habit
+for many Kinds of livings, and protects
+the diversity of organisms. The design
+and the eaves and the openings were
+considered on the movement of the
+sun through out the year.
 
 <!-- p. 23 -->
 
-21
+
 
 <!-- p. 24 -->
 
-22
+Salesian, Boy's Home/School,
+Salrabera sacs jmtes, Pujiki Takao Atelier
+
+lupedear " j oevre
+
+\=
+
+Sloped roofs always guarding
+this architecture from the
+rainy Japanese climate, the
+warmth of natural matenals
+used for pavement providing
+a firm basis for the children's
+daily life
+
+The ever changing and
+growing green landscape Is
+another element which
+suffices sustainanility,
 
 <!-- p. 25 -->
 
-23
+Katta Public General Hospital
+eLkke
+
+Tara Anhihara Architects #
+
+Kok Foteyama & aechitecture Wl
+
+jorike + ASaoceates
+hy), Miya pretectiorn
+
+The Katta public general hospital has
+many sustainable factore such as
+Passive onorgy saving, cogensration
+syetern, natural lightings and
+ventilation by natural draft Ht 16 also
+functional even if the elevator stops
+dire to the earthquake because this is
+low layer true The healing
+garden designed based on the advice
+fran the hospital wWworkeré funetion as
+a part of the treatment program for
+the patients.
+Man exists in space and space
+influences man. So if man can be
+healed or can be kepl healthy, the
+oe should ain. A space which
+gives good influence to mankind te a
+
+suistalnable space.
+
+Ds
 
 <!-- p. 26 -->
 
-24
+houchikukyo
+
+re :
+
+Ua tee i :
+Croluini-oountry Kyotesprafectues |
 
 <!-- p. 27 -->
 
-25
+Vv
+
+v4) The architect, Koj: Hujli has built 5 environmental house
+tentatively in Ohyamazak. Choushikukyo is the corpus of
+
+ii k them and famouse as the house adapted to the Japansse
+
+entrance | climate and lifestyle of the day, He showed the method of
+design based on enviranmental technology
+Atter he researched the climate of westem countres-and
+
+cities, ha compared it with japanese climate. Then, he declared
+
+the best confortable thermal environment for human
+— Brey By meen ecdinig]
+Fa underthefloor ang aie Combination of Zashiki(Japanese style of sitting, which people
+chapel 45 sits on the floors) and western style of sitting on chairs.
+a All made by natural materials. House built in the etyle ofa
+\= teasceremoany house and in the international style of design
+or 2 ] F A mixture of two different cultures.
+ie vial eT | E Be aiice He suggested these 3 points for Japanese house
+Bsdd tude 1. passive architectural plan and design approached with science
+
+\2. use of natural materials
+a mixing European style int Japanese style
+
+Cool lube isan ainvay carrying Ihe air from ywesl side a vent establishedon the ceiling
+of the bulking ta the living room, The heated air coals
+down bby the garth temprature. The gateway of the tube
+is inplanted mn the steo of lhe Tater,
+
+Ae
+pia mM || = Air in the house flows out te the atte through the
+i
+
+vent established on the ceding or RANMA
+
+Engawa is a sunroom, This room has nee view (transom windew),
+
+and full filling natural Eehting, because it replaced Airway connecting underground and the attic also 25
+the 2.of walls inta windows. This room beoome assembles the air to the attic, These faculties
+
+the buffer, defences the heat in summer, and supply good ventilation of the indoor-spaces
+
+pains the direct sunshine in winter.
 
 <!-- p. 28 -->
 
-26
+3 projects of “REFINE ARCHITRECTURE”
+
+Shigera Aoki
+
+We have already had enough space to live in and
+
+4 lot of space has started being surplus, Weare
+conscious of ecology problem and that we have to
+stop thia rash scrap & build. “Refine Architecture”
+
+is one of the answers for the problems. It isa way
+
+to revive a building with a fresh design but using its
+existing structure. It also tends to be financially
+preferable for the client. The architect Shigeru Aoki
+is the advocator of “REFINE ARCHITECTURE” and
+has succeeded this method in many projects.
+
+The second project, gymnastics: of the Yame public
+junior high school was built in Yame city of Fukuoka
+prefecture in 1961, and was refined in February 2004,
+The building was achieved zero-emission undar the
+influence of Kyota Protocol, The double structured
+walls made by galbarium steel reflects more than 7O%
+of the heat. is with high water proofing property,
+
+and is well served to insulate the building.
+
+Yame city Multi generation center = 2x0i/5
+
+Sea Museum in Kamae
+_
+
+i
+
+niep); Exarmmatoan of tha sheuecture
+Ghecking far celdmic safety
+
+rameaval unecessary Re
+
+Qs
+af *
+stead! subdivesion ‘removal “yf,
+
+b> “Mii
+
+th
+; rp . ‘i.
+
+te, “i is tof: "
+yy ie
+
+atk . ‘
+
+i ay . 1
+
+Reinforce with: post te,
+
+ramoval saehes
+
+s Stepd: reenforcemant! eater
+— Ratnforce with beam eens oars
+
+RAC bearing wall = “ti,
+
+ee
+‘lf |, os
+
+stepdcextentioin ! st
+
+complete!
+
+2005/3 Kamaa-town Ohita-pereterture
 
 <!-- p. 29 -->
 
-27
+Yame crty Multi generation center 2001/5 —-Yeme-clty Fukuoka-prefrcture
+
+Yame city Fukushima junior high school Gym 20042
+
+Sea Museum in Kamae 2005/9 Kamee-town Ghite-parsfacture
+
+beforg
 
 <!-- p. 30 -->
 
-28
+The International Library of Children’ s Literature | ILCL was founded on January 1, 2000. The original building
+2000 dates from 1908 and was expanded in 1929, As @ typical
+Tenures a neers! Ne ae example of Western, Renaissance—style architecture built
+
+in the Meiji-era, it has been designated as a metropoliten sll
+historia building by the Tokyo Metropolitan Government.
+While “—" the original form, it has been remodelad) cl
+
+for its fu
+
+Usnopark Talitou-ward Tokyo
+
+ion as a children’s library by Tadao Ando.
+
+pand structure of the i
+
+A, alass bow, which Is the entrance of the building,
+
+is built-in across the building.
+
+\| | J
+
+Shome. oro belle Wiese cro Elbo orig Stroks
+
+Pino! Ti bn) Pend pling Pee fey Ave iemet fmtcim Ge. | tt)
+
+The left-side is the new glass wall added by Tadao Ando.
+
+The right side is the outer wall of the original building.
+
+The antique lamp too of the staircase is maintained since
+the Meiji era and still alights beautifully, The handrail is
+also preserved and covered by glass case which shows
+the change of the regulation from 1906. Also, this
+building is completely divided from the ground by the
+
+Gafeteria in the glass box faces the garden. earthquake-resistant device.
 
 <!-- p. 31 -->
 
-29
+AWAJIYUMEBUTAI
+i)
+ae, Ando Architect & Associates
+
+Tsuna=courtry Ayogocprefecturs
+
+It was the main facility for the (JAPAN FLORA
+2000 ] ( Floral Expo in Awaji Island). Tt is
+composed of 5 areas, which are ‘conference
+
+room’, ‘westin hotel’, ‘restaurants and shops’
+
+and ‘botenical garden in greenhouse’, The
+
+fa =e igi + 40 8ndos —_
+
+ee inary peaLty. Nature produces
+happiness, The sunlight of the positive shines.
+The sound of water is BGM, The color of the
+shadow moves. The monument is of the mind.
+It is enriched with air four seasons occasional.
+Feeling of wind. Rest in tree crown shadow.
 
 <!-- p. 32 -->
 
-30
+TONO INAX Pavilion
+
+1968
+Tare Ashihara tAhira Hoyane
+
+Satomcity AighL Prafectura
+
+ad
+
+ing load-and tha emission of the heat is
+the heat island phenomenon. This nursing home ts de
+plant i perforated concrete which retains and modifies ais 4
+the microclimate of the surroundings, Bricks and plants sprinkled, C)
+b ets in the wind and cool the air passively, This is 4
+
+Passive Cooling Wall
+
+Qut door wiped |
+(Hot Aird
+
+bn door wind
+(Cool Air
 
 <!-- p. 33 -->
 
-31
+A RIVERINE HOUSE IN KOCHI
+aire Kodama + Estes Deaugn Go Lod.
+Nagacka-cemtry Koucheprefectore
+
+The house is located at the riverbank of the Yoshino
+river, crossing steep mountain valleys in Shikoku Isiand,
+The site is sloping down to the south and covered with
+chestnuts woods,
+
+How to be responsive to the fch natural surroundings |s
+a-wish of the client family who hope to live close to the
+nature arid a theme of passive dasign of this house that
+utilize the environmental potentials given to this region in
+the relatively temperate climate.
+
+The main floor is rose up for minimizing the earth work
+with less foot prints to the orginal landscape and is
+accessed by the slander bridge from north side. This is
+for avoiding the risk of river flood as well,
+
+A direct gain solar system for passive heating and a
+night-time ventilation system far passive cooling, the twa
+simple passive techniques in this house work well and
+succeed to reduce the heating- and cooling load
+drastically, This: design is carefully proceeded with an
+intera 1p ol which was-developed Bs
+
+a
+[i
+wie
+
+iavks
 
 <!-- p. 34 -->
+
+Thy conteptuol) aketches
+
+[ s fa is ~
+
+. = a
+
+Pocade at evening Illumination
+
+Se
 
 viii GLOBAL SUSTAINABLE DESIGN&RESEARCH
 
@@ -523,11 +1116,43 @@ Energy Savings of 70 %
 
 <!-- p. 37 -->
 
-35
+A Model of Bioclimatic Architecture
+
+The Fumdacion Mebtrepoll bubting iscen expecnerital building bud! using bicekmatic technologies. The
+huidieg incorponalas bolh passe ancletive bio-cimates alanrants
+
+The ulcing a tpeciily designed t hoiey activ
+collaboralive work apace for larity earns
+
+lige alia Fumdowan Wiblropel. The building wll hae
+arora oii pais for eosin aoadern red
+Bers, am Infonnekoet nesounce center, & Tully souied auditounn and meee nos ae well aA
+exhibition and galery spaces
+
+Fife errerqe ere y (Tey
+Serum nieg of ution
+Faa@nanon Arar ca ievalon Cor ti
+
+Gan ictitttcal rrreeririne i tev iord Biren Ca
+: Lect SEITE ee line Fe pe EL
+
+Plpawerbsyt tyme © pee tt ee [1
+
+et eee tT
+
+i.
+il
 
 <!-- p. 38 -->
 
-36
+NATURE, LIGHT and SPACE
+
+are. concepts integrated in this home of
+unsuspected shapes, with an architecture
+
+of pure lines mixing curves and diagonals
+
+in integrated and integral spaces,
 
 <!-- p. 39 -->
 
@@ -618,11 +1243,28 @@ nels for recycling and also for irrigating exterior areas.
 
 <!-- p. 41 -->
 
-39
+
 
 <!-- p. 42 -->
 
-40
+HOTEL
+MARQUIS
+LOS CABOS,
+MEXICO
+
+A250 room luxury Hotel
+located in Los Cabos,
+Mexico.
+
+This hotel takes care of
+several sustainability
+issues that includes: high
+conservation of energy,
+garbage recycling,
+integration to the nature,
+shading coolers, water
+recycling and
+environmental comfart,
 
 <!-- p. 43 -->
 
@@ -707,9 +1349,23 @@ also the material of the walls play an important roll to mantein it stable.
 
 <!-- p. 45 -->
 
-43
+Casa 11& 12
+
+2002.12
+
+Martin Gomez Tagle Morales
+Cuemacava, Morelos, MEXICO
+
+vernacular
+housing
+\| re-generation jm
 
 <!-- p. 46 -->
+
+a
+
+FIRST ECOLOGICAL TYPOLOGY é
+ORGANIC INORGANICISM (aes
 
 44
 
@@ -807,11 +1463,30 @@ GBA. 82,198.83 SQUARE FEET GLA SITIE SIZE: 123196.02 SQUARE FEET
 
 <!-- p. 49 -->
 
-47
+{ Placid
+
+i — i
+
+ey > Sa
 
 <!-- p. 50 -->
 
-48
+ustainabie
+Education
+Centre
+
+This is a Japanese style classroom
+for Japanese language lessons,
+built in an Australian Rudolf Steiner
+School. It is a combination of
+Japanese and Australian traditional
+techniques, materials and siyle. It
+represents the gift of education
+
+and the international relatianship
+between Australia and Japan,
+
+\>;
 
 <!-- p. 51 -->
 
@@ -904,11 +1579,46 @@ Computer images by: Aleksander Marcelo Braz, Fernando Casado & Jair Oliveira, Ke
 
 <!-- p. 53 -->
 
-51
+CENPES II
+
+RIO DE
+JANEIRO,
+BRASIL
+
+iN ¥ SYSTEM
+
+Principal
+eco-efficiency
+strategies for the
+implantation of
+the architecture
+for: shade,
+ventilation
+
+and 51
+natural light
 
 <!-- p. 54 -->
 
-52
+CENTER OF ECOLOGICAL TOURISM O
+MARITIME PRESERVE
+
+SOLAR WATER COLLECTORS
+
+¢ DIRECT GAIN
+ee af i
+
+THERMAL Mass Mle
+
+“Tt SKORLUPOID STRUCTURE
+
+4 : a.
+“H fee: tee
+
+“}\. SOUTH FACADE
+
+” WINTER GARDEN
+VIEW
 
 <!-- p. 55 -->
 
@@ -996,7 +1706,7 @@ Subtitle: Proposal for the Regeneration of the Historical Center of Mexico City.
 
 <!-- p. 57 -->
 
-55
+Ja cd. da México
 
 <!-- p. 58 -->
 
@@ -1062,7 +1772,17 @@ ARCHITECTURAL INSTITUTE, Faculty of Design FESTU
 
 <!-- p. 60 -->
 
-58
+f\ an dis J | Ar. is | | fi i i 4. J Le Lan
+
+Y "i / } | \ \\ } id We \ i |
+U | WJ ¥ i
+An attempt to create a building as a test model, which will demonstrate
+the conservation of Energy thraugh Post Océupancy monitoring and
+further develop and perfect the system
+The design conveys a Dextrous interplay of natural elements with the
+builtiorm, which reduces energy demand al end-use
+
+ENERGY —> CONSERVATION \<— WATER
 
 <!-- p. 61 -->
 
@@ -1155,7 +1875,13 @@ self-weight and additional structural live loads.
 
 <!-- p. 63 -->
 
-61
+PAU Ls Lin AVS Sytenriy
+
+Fan Cell Sys
+
+fWartiersdl ‘ewttibation: & Pestaiag)
+
+Hevrling Fuuciitor Syston
 
 <!-- p. 64 -->
 
@@ -1192,11 +1918,36 @@ occupant-healthy, in the hot- wet tropical area.
 
 <!-- p. 65 -->
 
-63
+“Sa sigue SLU. 0 Seu NACE a adil
+
+es Luo Ol at ul pales Wl SBA4 JOSUOS
+Saud @ PWE uted aol) ayy Buljoqued
+Te a -poidan Q ne SEA WAISAS UOTE Was |nd-ysnd ay]
+
+— i ai
 
 <!-- p. 66 -->
 
-64
+Blended into the surrounding nature,
+of certified wood and interor materi: nd powered
+and Conference Malarhlick building defin
+
+Pi Tue
+
+it
+un : :
+my oe. EARLE =
+
+pre
+
+a mt _
+
+\= Stree
+ba
+
+_areen the Hotels
+
+a
 
 <!-- p. 67 -->
 
@@ -1285,7 +2036,46 @@ ity into the built environment, and that responsible practice makes a good busin
 
 <!-- p. 69 -->
 
-67
+Hotels, Corporations, Sustainability
+
+Hilton International and Scandic is an example of a worldvide-known company that
+has put Corporate Social Responsibility (CSR) and environmental sustainability high
+on their priority: ist.
+
+thas lead to-significantly decreased environmental impacts, excellent econorric
+performance, and a considerably upgraded ermviranmental image.
+
+Caring for —
+the worlel :
+we live (n.. A sae - sai Sila
+
+fine eclarmtion
+
+Environmental cape ae =
+improvement eee es) HER”
+: , ar
+ait e-leaming
+———S—
+Paes! S.E.R.ECS
+
+Resource hurt 97-99
+SUS introduced
+
+The E coRoomintroduced Scandic
+
+6000 team menbers educated
+
+Env. policy
+1994 1905 1995) = 997 1998 81990 «62000 2001 2002 2003 2004
+
+a
+
+Eco-roorm at Feo-hatel
+
+97% recyclable-room at Scandic Scandic
+
+Refillable soap and
+shampoo dispensers Material efficiency Waste sorting
 
 <!-- p. 70 -->
 
@@ -1329,11 +2119,31 @@ Susana Cano
 
 <!-- p. 71 -->
 
-69
+Transparency, Geometry and Lightness
 
 <!-- p. 72 -->
 
-70
+Farr aed qeberrtialiean willl FER PAGE fo Sui
+
+Form ate onentalien wilh respect to.
+wind
+
+Sdlershading.devices: Stancasas and
+laraces on eset and weet
+
+Green moofe as insulation from honzontal
+soleit nication
+
+Innovation, Efficiency, Ecology
+
+‘A strategy developed for sustainable design in a hot dry climate based on a
+three-tier approach of passive, mixed and active energy systems integrated
+into the design of the hotel. Innovative shading and natural ventilation
+systems have been used and optimised through scientific techniques and
+thermodynamic computer simulations. The goal is to reduce consumption of
+non-renewable resources in terms of material use and energy usage.
+
+ry as ia i Nee 7
 
 <!-- p. 73 -->
 
@@ -1424,7 +2234,12 @@ DESIGN: JIN TAIRA
 
 <!-- p. 75 -->
 
-73
+WIND EARTH FIRE
+
+The Wind House stands buried in the of the volcanic soil of Lanzarote Bland, (Spain},
+inorder to protect itself fram the sun and wind extrerne conditions.
+A semicircle micro- turbine wall isthe only sign of the house, providing the necessary 73
+energy supply The house has a doughnut plan surrounding a private garden.
 
 <!-- p. 76 -->
 
@@ -1472,11 +2287,27 @@ And until then ,I too used this same sand covered ice and was very healthy too .
 
 <!-- p. 77 -->
 
-75
+Fram the end of spring till the beginnina of
+summer when the heat began to rise
+unconmntortablthe lee was taken out of storage and sold his continued wetil recently iin
+1333 AH C954 AD when the first tridgidaire
+was brought to Iran,
+
+And until then | too used this same sand
+covered ice and was very healthy Too asl
+Those were the days. i
 
 <!-- p. 78 -->
 
-76
+Anctent City Uvdat (beginning of S00 BCE)
+
+LIMITED RESOURCES
+
+ee
+4
+ms
+
+é mess
 
 <!-- p. 79 -->
 
@@ -1565,7 +2396,20 @@ ment will lead them to apply this knowledge for better life expectations.
 
 <!-- p. 81 -->
 
-79
+oe) il i bw) Gy
+
+4 RUSHARUA PAQUIRIA, KIRIGUETI ici
+
+ar
+
+E ta =) ] | =
+. : a = =
+— =i t 1
+
+PLN. DE Lp uti
+
+Camisea Gas Projectin Cuseo,- for the
+Peru's Mey of Energy als ‘Mines ane
 
 <!-- p. 82 -->
 
@@ -1615,11 +2459,45 @@ become one.
 
 <!-- p. 83 -->
 
-81
+PA Meru |
+
+Inhabited the area for over 5,000
+years, in a matrilocal pattern of
+Use the forest products within 3
+mystic value and practice swidden
+agricuiture,
+
+Machiguengas believe the Pongo
+de Mainique, or Megantoni, is the
+most sacred site in the world: the
+holiest of holies,
+
+Globalization, as an economical phenomenon, is like a cancer which is already touching the Maghiquenga's
+existence. As political appeal, economical Interests, and bureaucracies prevail over genulnely sensi logical
+consciousness, environmental management trands to consumer models that causes reduction of blodiversity.
+
+The challenge could be to apply and to enhance the positives aspects of globalization as technological, progress
+and information-education access and band them with the unique cultural values and wise and'tovingly use of
+natural resources that Machiguenga com frunity holds.
 
 <!-- p. 84 -->
 
-82
+The Ecological
+Apartment Building
+Pulatiid-underoround-heat i
+
+\* 4 Shandong Institute
+
+aie, of Architecture
+and Engineering
+
+CHINA
+
+create a
+better architectural
+environment
+consuming
+less energy
 
 <!-- p. 85 -->
 
@@ -1705,11 +2583,77 @@ Fundo
 
 <!-- p. 87 -->
 
-85
+Bjective is to. propose a ni
+Pea Wwde) energy Breen yun
+in ort to integrate the alilactors
+
+‘ =
+See Poy Aco od " eogel i
+\- = &
+\* PM ianagemeny of oat ees to reiniorce the
+
+SUS ind Daa “Li ‘a the Univers
 
 <!-- p. 88 -->
 
-86
+Fong Kong’s double-skin facades
+
+iB
+Litle work hae been done on the Wehaviour of double-skin facades in hot and humid climates Recent projects with
+
+‘a ele
+
+a] ooorare wessible COM pete to base case curtain wall facade (Option 1)
+
+stan shin fatede'sin Hong Kon ie vere “Shalysed and four Gi erent ae a} cioty Be * Skin Bcc fe debe sie =H
+i oe
+
+\=e = — * i 2a al . Hy => +. ~ aS este :
+ta rn err Md P| fue any @F Peonsumpeen fe Meee energy Poorer sav titel up to
+
+é
+je
+
+sid
+
+pic
+
+'
+1
+'
+'
+i]
+'
+'
+t
+i]
+'
+'
+a
+a
+ae
+ot
+t
+'
+1
+‘
+F
+y
+i
+i
+'
+i
+'
+!
+
+fie Celina
+CANS ption
+
+a
+
+Po y- e- -
+
+AME ool
 
 <!-- p. 89 -->
 
@@ -1792,11 +2736,18 @@ Sust. Concepts: Urban Recycling
 
 <!-- p. 91 -->
 
-89
+VERAMAR PROJECT
+
+An Urban Regeneration Master Plan that involves 15
+different projects for an important port in Mexico: the
+Port of Veracruz. The new shape of this 2 miles
+waterfront will include a cruiser dock, a marina, four
+shopping malls, an historic district, an aquarium, a
+beach renewal, a kids museum and a visitor center,
 
 <!-- p. 92 -->
 
-90
+
 
 <!-- p. 93 -->
 
@@ -1885,11 +2836,20 @@ Web site: www.faraz.info
 
 <!-- p. 95 -->
 
-93
+— =
+
+————
+
+\- \< _ ail . - oa z 1
+“Pigeon house” or “pigean tawer! [sic
+frctaesonttt : sotic® and thoueenaetneee
+
+"pigeon in ordertetproducing fertilizer, from.th
+We aa es re
 
 <!-- p. 96 -->
 
-94
+
 
 <!-- p. 97 -->
 
@@ -1997,4 +2957,20 @@ M&T2005 Be-508 4-6-1 Komaba, Meguro-ku, Tokyo 153-8505 JAPAN
 
 <!-- p. 100 -->
 
+Fg
 
+Wh
+
+Action for Sustainability
+Tae pani bts Grew rieble Paint erg
+
+SBOSTOKyo
+
+Edited and Published by:
+
+SBOS IOkyo
+
+oO sustoinatbtla
+
+Printed in Japan
+2005

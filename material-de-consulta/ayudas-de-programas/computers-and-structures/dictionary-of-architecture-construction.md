@@ -4,18 +4,33 @@ title: "Dictionary of Architecture & Construction"
 author: "Harris, Cyril M."
 categoria: "AYUDAS DE PROGRAMAS"
 paginas: 1103
-extraccion: "texto (OCR pendiente)"
+extraccion: "mixto: 1 páginas por OCR (eng)"
 fuente: "local:E:/MATERIAL DE CONSULTA/AYUDAS DE PROGRAMAS/COMPUTERS AND STRUCTURES/Dictionary of Architecture & Construction.pdf"
 convertido: 2026-10-16
 ---
 
 # Dictionary of Architecture & Construction
 
-> Texto extraído de `AYUDAS DE PROGRAMAS\COMPUTERS AND STRUCTURES\Dictionary of Architecture & Construction.pdf` (1103 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `AYUDAS DE PROGRAMAS\COMPUTERS AND STRUCTURES\Dictionary of Architecture & Construction.pdf` (1103 páginas, mixto: 1 páginas por OCR (eng)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 
+DICTIONARY OF
+ARGHITECTU KE
 
+AND
+
+CONSTRUCTION
+
+ROU Rods ike ld del © IN
+
+see \<
+
+GETTER es
+
+4
+
+CYRIL M. HARRIS
 
 <!-- p. 2 -->
 

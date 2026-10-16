@@ -4,14 +4,14 @@ title: "Building Surveys and Reports"
 author: ""
 categoria: "ARQUITECTURA"
 paginas: 433
-extraccion: "texto (OCR pendiente)"
+extraccion: "mixto: 3 páginas por OCR (eng)"
 fuente: "local:E:/MATERIAL DE CONSULTA/ARQUITECTURA/Patologías/Building Surveys and Reports.pdf"
 convertido: 2026-10-16
 ---
 
 # Building Surveys and Reports
 
-> Texto extraído de `ARQUITECTURA\Patologías\Building Surveys and Reports.pdf` (433 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `ARQUITECTURA\Patologías\Building Surveys and Reports.pdf` (433 páginas, mixto: 3 páginas por OCR (eng)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 
@@ -2370,7 +2370,102 @@ leaving the building, the error need not be signiﬁcant.
 
 <!-- p. 59 -->
 
-Figure 3.1 Survey of ground ﬂoor shop premises.
+$$ Lame
+ety STAMARD
+Ss a ry £240
+fy = é cy
+“ aol” eoeR 5 a e
+b shut TER —+ 4 o
+'
+“te
+CM RAGE p | nate
+Gz
+£. ’
+2
+£0 ' »
+CoMEAETE Fit \ N
+ba 8 3
+ai® 4408
+cs 2 *
+Gary 1900/7) Te 460 T4ie ted 3 ‘3
+e fa Pe ALG
+et
+RE FONE a
+a y 2 ~~ 228
+STRRE ' °
+\+
+©. o s 4
+S 2,
+® 3 4 “a
+x
+aie, t L
+COATT uy Abe hn At FY
+gees ‘ner tfesorvo dé’ yaa, WEL EDS y .
+Osos By SEE STAIAG ASE
+—., s0\ DET AM.
+PRICK WORK WETER T150
+\> Sro owed. mo BRICKMAAH FB Lom
+Ly CONCRETE FER
+0a Jato 1458 4 .
+hgea ENTRANCE MALE wise
+4ir Bit eoyt 13g 3 AISER (SE,
+a
+Raho ste ut idelive
+a eto F +t
+ie ~ 4]
+S THRE ‘a ar 3
+AA 142
+2 on 2 aort 26 Cy Nee aan
+\ = = 7 = £ Pee DETAILS
+o a 16 & s] |~.
+Re ell 8
+oa PASSAGE \<\< a
+a tl
+“ neds 44ers
+. -)
+ass o 4 Lgcberesc
+\= WA TEAK EATER
+Jao isso 300-4) 520 4400 cs Beara
+Smee rede Ne 8
+tq SH UMTS (SEL DETAKY fo
+ty, 3] A
+4 o CE
+2 £10 = &
+COUNTER, 9) ° st
+bs
+CSEL DETAIL} bur > 340
+390
+PLE, BOARDED ‘ 4000
+FLOOR. DZ prepay
+Winget.
+Saw —_ DET AK)
+/
+ad eS
+wy ‘>
+PARTY 2a4it
+walt 302-4, +
+a a
+° Baiew
+i PER BB eNO
+7 sGRE
+y, in
+SLIDING DOORS oo PAVEMENT
+(s6f Devan) esti od)”
+364 aca parse lf grate 16a
+plies 4 DIs PLAY 4
+3
+co aie “|
+— 1850 4500P 6890
+9|
+q
+AnD m
+TAWpARD \<
+
+\~o!
+
+GROUND FLOOR PLAN
+
+Figure 3.1 Survey of ground floor shop premises.
 
 <!-- p. 60 -->
 
@@ -2875,6 +2970,18 @@ Figure
 <!-- p. 75 -->
 
 58 Chapter 4
+
+“TL Rendered face
+
+i
+il
+iu
+
+“L Rendered face
+
+Water butt Facing brickwork
+
+\| Side elevation (north)
 
 Figure 4.2 Side Elevations.
 
@@ -12973,6 +13080,27 @@ the edge of the ditch furthest from the hedge (Fig. 15.12e).
 <!-- p. 322 -->
 
 External works 305
+
+» Brick wall Pier on one
+side only
+\- Boundary
+Boundary
+gon
+A,
+(a) (b)
+\- Boundary
+
+Hedge
+
+Post and rail fence
+
+Boundary
+
+—
+
+{c) {d)
+
+‘ (e) (f
 
 Figure 15.12 Presumed ownership of boundary features.
 

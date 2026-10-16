@@ -4,18 +4,23 @@ title: "Estándar BIM_spreads (alta resolución)"
 author: ""
 categoria: "BIM Y HBIM"
 paginas: 77
-extraccion: "texto (OCR pendiente)"
+extraccion: "mixto: 2 páginas por OCR (spa)"
 fuente: "local:E:/MATERIAL DE CONSULTA/BIM Y HBIM/02. Planbim/documentación/Estándar BIM_spreads (alta resolución).pdf"
 convertido: 2026-10-16
 ---
 
 # Estándar BIM_spreads (alta resolución)
 
-> Texto extraído de `BIM Y HBIM\02. Planbim\documentación\Estándar BIM_spreads (alta resolución).pdf` (77 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `BIM Y HBIM\02. Planbim\documentación\Estándar BIM_spreads (alta resolución).pdf` (77 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 
+rlangim ry
 
+ESTANDAR BIM
+PARA PROYECTOS PUBLICOS
+
+Intercambio de Informacion entre Solicitante y Pro
 
 <!-- p. 2 -->
 
@@ -3628,4 +3633,28 @@ Institute, 2017.
 
 <!-- p. 77 -->
 
+Plan'im
 
+Comité de
+Transformación
+Digital
+
+CORFOY
+
+Ministerio de
+Vivienda y
+Urbanismo
+
+Gobierno de Chile
+
+Ministerio de
+Obras Públicas
+
+Gobierno de Chile
+
+Ministerio de
+Economía,
+Fomento y
+Turismo
+
+Gobierno de Chile

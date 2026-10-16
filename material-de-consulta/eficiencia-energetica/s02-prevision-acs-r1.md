@@ -4,15 +4,258 @@ title: "Sanitaria COVIPAPELEROS 2 - R21-Prevision ACS"
 author: "ZWSOFT"
 categoria: "EFICIENCIA ENERGÉTICA"
 paginas: 1
-extraccion: "texto (OCR pendiente)"
+extraccion: "ocr (por)"
 fuente: "local:E:/MATERIAL DE CONSULTA/EFICIENCIA ENERGÉTICA/S02 - PREVISIÓN ACS - R1.pdf"
 convertido: 2026-10-16
 ---
 
 # Sanitaria COVIPAPELEROS 2 - R21-Prevision ACS
 
-> Texto extraído de `EFICIENCIA ENERGÉTICA\S02 - PREVISIÓN ACS - R1.pdf` (1 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `EFICIENCIA ENERGÉTICA\S02 - PREVISIÓN ACS - R1.pdf` (1 páginas, ocr (por)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 
+ARCHIVO: Sanitaria COVIPAPELEROS 2 — R21.dwg
 
+VPRESO: 07.03.2019
+
+Prose
+
+VIENE AT.32
+SUBE AF.32 \ |
+
+PROTCCION CON ||
+MOCHETA Y
+— 0—o
+
+Ipp 29
+
+SUBE PP.32_
+
+BAJA PP.32 /
+\|
+dN
+BAJAPP.32 || À
+SUBE PP.32 “J ª. \< f':
+É—q w J | LL,
+PROTCCION CON Jaa IQ R /
+MOCHETA //Á || |W /
+SUBE AF.32// | ||. | \< / o
+VIENE AT.32/ yo — 2> > A
+HI >
+—— 1 //
+\ / | |
+P V |
+\| JW
+M
+4 DORMITORIOS
+PLANTA ALTA
+ESCALA: 1/50
+COLECTOR SOLAR EN
+\| TECHO
+\|
+\|
+\|
+\|
+\|
+\|
+\|
+R | s
+S S
+e e
+a an
+A a
+\|
+\|
+\|
+\|
+\|
+\|
+\|
+\|
+\|
+N| N
+M NM
+e e
+A a
+\| a a
+\|
+CALEFON | !
+\| |
+Ç ; x LL.P
+\
+\|
+\|
+\|
+— PPOB2 —— — PP9S2
+AC AF
+
+DESCRIPCION DE CONEXIONADO
+
+BAJA AT.32
+VIENE AF.32 \
+
+PROTCCION CON /
+MOCHETA /
+
+PROTCCION CON
+MOCHETA
+
+VIENE AF.32/)
+BAJA AT.32 /
+
+\e=55
+
+w
+
+\=
+
+7
+"
+
+Dormitorio
+
+4]
+
+T
+
+'r T
+J
+— —
+
+\|
+cH
+\-d
+Dormi orioà'
+
+] PP.32
+
+4 DORMITORIOS
+PLANTA DE TECHOS
+
+CALEFON
+
+AC
+
+COLECTOR SOLAR EN
+
+TECHO
+
+LLAVE DE PASO
+
+FUNCIONAN
+
+AF
+
+Pq
+
+Moooo
+
+— 3 Living |
+
+NA
+
+pte
+
+4 DORMITORIOS
+ORTE
+
+ESCALA: 1/50
+
+CALEFON
+
+AC
+
+PP @32
+
+PPT
+(40X40) (40X40)
+
+COLECTOR SOLAR EN
+TECHO
+
+LA
+
+PP 9%”
+PPO%”
+
+PP@32
+PP$32
+
+LLAVE DE PASO
+
+AF
+
+FUNCIONA SOLO
+CALEFON
+
+ESQUEMA DE FUNCIONAMIENTO
+
+I__o
+PEAD 20
+
+SUBE A.F. À
+COLECTOR PP%"
+
+pn
+
+\
+
+REFERENCIAS INSTALACION DE ABASTECIMIENTO
+
+F TUBERIA DE AGUA FRIA
+\= TUBERIA DE AGUA CALIENTE
+
+TUBERIA DE AGUA TIBIA
+
+\>\< LLAVE DE PASO ESFERICA O COLISA
+Oo TERMOACUMULADOR ELECTRICO
+
+NOTACION
+
+VIENEAF.DE /
+/
+P.B. PP.32 /O- — ~\< yd
+
+BAJA A.F. À
+P.B. PP.32
+
+ESQUEMA DE
+
+CONEXIONADO
+
+ESCALA: S/E
+
+CALEFON
+
+FUNCIONA SO
+
+PP POLIPROPILENO
+AF AGUA FRIA
+AC AGUA CALIENTE
+AT AGUA TIBIA
+NOTA
+LAS CANERIAS DE POLIPROPILENTO QUE SE UBIQUEN
+EN EL EXTERIOR DEBEN ESTAR PROTEGIDAS POR
+MOCHETAS.
+VIENE A.T. DE
+COLECTOR PP%"
+AN
+LL.P
+LL.P í í LL.P
+LLAVE DE PASO
+LO
+COLECTOR SOLAR
+FECHA LÁMINA
+COVIPAPELEROS 2 FEB
+PANDO, CANELONES 2019 S 0 2
+
+Brenes Consultores
+
+SANITARIA. AMBIENTE. INCENDIO. ENERGIA SOLAR TERMICA.
+
+ARQ. EDUARDO BRENES
+
+coordinacion@brenesconsultores.com | www.brenesconsultores.com.uy
+
+Avda. Gral. Rivera 3095 / 203 | C.P. 11600 | telefax: (+598) 2628 2923 | Montevideo. Uruguay

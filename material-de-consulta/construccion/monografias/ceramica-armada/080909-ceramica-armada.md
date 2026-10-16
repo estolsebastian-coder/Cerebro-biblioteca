@@ -4,14 +4,14 @@ title: "080909_ceramica_armada"
 author: "Nombre"
 categoria: "CONSTRUCCIÓN"
 paginas: 42
-extraccion: "texto (OCR pendiente)"
+extraccion: "mixto: 14 páginas por OCR (spa)"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/MONOGRAFIAS/ceramica armada/080909_ceramica_armada.pdf"
 convertido: 2026-10-16
 ---
 
 # 080909_ceramica_armada
 
-> Texto extraído de `CONSTRUCCIÓN\MONOGRAFIAS\ceramica armada\080909_ceramica_armada.pdf` (42 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\MONOGRAFIAS\ceramica armada\080909_ceramica_armada.pdf` (42 páginas, mixto: 14 páginas por OCR (spa)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 
@@ -70,10 +70,7 @@ _
 
 <!-- p. 6 -->
 
-ARMADURA
-SIN
-CERÁMICA
-1.2_
+1.2 CERÁMICA SIN ARMADURA
 
 <!-- p. 7 -->
 
@@ -101,9 +98,18 @@ CERÁMICA
 
 <!-- p. 9 -->
 
-:
-FINAL
-RESULTADO
+RESULTADO FINAL
+
+VISTA, LATERAL
+
+VISTA POSTERIOR Y ARMADURA
+
+VISTA FRONTAL Y ARMADURA
+
+E
+\=
+\=
+E
 
 <!-- p. 10 -->
 
@@ -131,23 +137,16 @@ Viga Carpeta Admite2.1_ CERRAMIENTO _ _ _
 
 <!-- p. 13 -->
 
-arquitectura
-y
-producción
-DE
-FORMAS IEC CCU
-3.1_ 3.2_3_
+3_ FORMAS DE producción y arquitectura
+
+3.1_ 1EC
+3.2 CCU
 
 <!-- p. 14 -->
 
-Construcción.
-la
-de
-Enseñanza
-de
+3.1_ Instituto de Enseñanza de la Construcción.
 
-1955Instituto
-AÑO3.1_
+\- AÑO 1955
 
 <!-- p. 15 -->
 
@@ -176,7 +175,7 @@ hs. LOSETA Limpieza 24 Transporte Acopio3.1_
 
 <!-- p. 18 -->
 
-
+CERÁMICA ARMADA
 
 <!-- p. 19 -->
 
@@ -214,8 +213,20 @@ PROYECTO RACIONALIZACIONDELARQUITECTONICOGARCIA
 
 <!-- p. 23 -->
 
-PARDO
-GARCIA
+GARCIA PARDO
+
+E al tas hy An
+
+Te a a
+
+a
+\*
+
+1
+
+4
+
+a
 
 <!-- p. 24 -->
 
@@ -247,7 +258,7 @@ NEBEL TRIANGULOS LOSETAARMADATRIANGULAR 8RECTANGULOS
 
 <!-- p. 27 -->
 
-NEBEL
+
 
 <!-- p. 28 -->
 
@@ -294,10 +305,16 @@ N
 
 <!-- p. 31 -->
 
-DIMENSIONES
-PEQUEÑAS
-DE
-BÓVEDAS
+Sahel
+
+aris
+— ,
+
+oS
+T
+PT Ga l
+
+SINOISNIIWNIG SYNAND1d 30 SVGIAO"
 
 <!-- p. 32 -->
 
@@ -339,13 +356,7 @@ La
 
 <!-- p. 35 -->
 
-1957
-TEM
-fábrica
-
-_
-GAUSAS
-BÓVEDAS
+BOVEDAS GAUSAS _ fábrica TEM 1957
 
 <!-- p. 36 -->
 
@@ -353,11 +364,16 @@ CIMBRA
 
 <!-- p. 37 -->
 
-Palmira
-Nueva
-depósito
+Ira
 
-_
+to Nueva Palmi
+
+deposi
+
+oy
+
+ON E A g
+í
 
 <!-- p. 38 -->
 
@@ -376,31 +392,17 @@ __ __ __ __ __ __ __ __ __ __ __
 
 <!-- p. 39 -->
 
-refrescos
-cía.
-
-_
-AUTOPORTANTES
-BÓVEDAS
+BÓVEDAS AUTOPORTANTES _ cía. refrescos
 
 <!-- p. 40 -->
 
-Fátima
-iglesia
-
-_
-AUTOPORTANTES
-BÓVEDAS
+BOVEDAS AUTOPORTANTES _ iglesia Fatima
 
 <!-- p. 41 -->
 
-Atlántida
-iglesia
+1.3 CERAMICA ARMADA _ iglesia Atlantida
 
-_
-ARMADA
-_CERÁMICA
-1.3
+Ponte Ee AL
 
 <!-- p. 42 -->
 

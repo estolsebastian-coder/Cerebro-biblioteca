@@ -4,14 +4,14 @@ title: "HABITERRA"
 author: "Red XIV.A HABITERRA  CYTED"
 categoria: "CONSTRUCCIÓN"
 paginas: 230
-extraccion: "texto (OCR pendiente)"
+extraccion: "mixto: 25 páginas por OCR (spa)"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/CatalogoHabiterra.pdf"
 convertido: 2026-10-16
 ---
 
 # HABITERRA
 
-> Texto extraído de `CONSTRUCCIÓN\CatalogoHabiterra.pdf` (230 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\CatalogoHabiterra.pdf` (230 páginas, mixto: 25 páginas por OCR (spa)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 
@@ -402,7 +402,46 @@ HABITERRAHABITERRAHABITERRAHABITERRAHABITERRA • hábitat+tierra • 1111111111
 
 <!-- p. 12 -->
 
-1212121212
+\* dogo como Aevonfor las poredes
+Gan hr Gpebonida; ie fables
+St YO commando boo omiba por
+fos posles”. P. Florian Ponte 51
+
+\-—
+
+— A
+
+N
+
+12
+
+'.II-H_LLJ. | m o
+
+" i Full
+
+il
+I
+n ñ
+a á
+\-
+©
+rF
+ú
+\| "
+E
+r
+\=
+\=
+ñ
+— --
+ist
+
+eo
+
+ñ fl = | E PP r
+peer! aris ary A I"_'l'l-ll.fj..._¡,-""¡-"'r:.-'fl"i" -::'—'""" wr Aa: rt.
+
+—
 
 <!-- p. 13 -->
 
@@ -1184,7 +1223,7 @@ HABITERRAHABITERRAHABITERRAHABITERRAHABITERRA • hábitat+tierra • 2929292929
 
 <!-- p. 30 -->
 
-3030303030
+
 
 <!-- p. 31 -->
 
@@ -1935,7 +1974,13 @@ arquitectura.
 
 <!-- p. 51 -->
 
+PREHIS
 
+yg .
+
+i C , a —
+E Rd TE
+t"'¡f.:—_¿¿ N
 
 <!-- p. 52 -->
 
@@ -2191,7 +2236,7 @@ Secuencia descriptiva del proceso constructivo.
 
 <!-- p. 63 -->
 
-HABITERRA • hábitat + tierra • 63
+HABITERRA - habitat + tierra » 03
 
 <!-- p. 64 -->
 
@@ -2226,7 +2271,7 @@ Vista general
 
 <!-- p. 65 -->
 
-HABITERRA • hábitat + tierra • 65
+
 
 <!-- p. 66 -->
 
@@ -2363,7 +2408,7 @@ y ladrillo.
 
 <!-- p. 75 -->
 
-HABITERRA • hábitat + tierra • 75
+GJ * 241811 + yeuqey - VHYALIGVH
 
 <!-- p. 76 -->
 
@@ -2417,6 +2462,19 @@ HABITERRA • hábitat + tierra • 77
 
 Planos levantamiento
 Alzado y Sección.
+
+TA
+
+hE
+
+AE
+
+vr
+
+NEECy A
+T
+
+R
 
 78
 
@@ -2581,7 +2639,15 @@ ción.
 
 <!-- p. 87 -->
 
-HABITERRA • hábitat + tierra • 87
+I 7 Tm ME
+
+p
+
+H 1 |
+
+HABITERRA hábitat+tiera=87
+
+HABITERRA - habitat + tierra - 97
 
 <!-- p. 88 -->
 
@@ -2711,7 +2777,9 @@ Fachada lateral.
 
 <!-- p. 93 -->
 
-HABITERRA • hábitat + tierra • 93
+N AE A o
+
+HABITERRA - habitat + tierra » 93
 
 <!-- p. 94 -->
 
@@ -2856,7 +2924,7 @@ ciudad constantemente convulsionada..
 
 <!-- p. 101 -->
 
-HABITERRA • hábitat + tierra • 101
+HABITERRA - habitat + tierra» 101
 
 <!-- p. 102 -->
 
@@ -3001,7 +3069,7 @@ se abrían cinco portadas cuyos nombres correspondían a los pueblos y regiones 
 
 <!-- p. 109 -->
 
-HABITERRA • hábitat + tierra • 109
+HABITERRA - habitat + tierra - 109
 
 <!-- p. 110 -->
 
@@ -3087,7 +3155,7 @@ Vista Hacienda Santa Rosalía, Chihuahua.
 
 <!-- p. 113 -->
 
-HABITERRA • hábitat + tierra • 113
+HABITERRA - habitat + tierra » 113
 
 <!-- p. 114 -->
 
@@ -3273,7 +3341,13 @@ Redacción: Constanza Lira S, Chile
 
 <!-- p. 121 -->
 
+1
 
+‘bray ayes els fe " ,
+p PE loti ad ia m
+E TE fo =
+
+A!
 
 <!-- p. 122 -->
 
@@ -3428,7 +3502,38 @@ educativo en la provincia.
 
 <!-- p. 125 -->
 
-HABITERRA • hábitat + tierra • 125
+CEMENTS 5AA,
+STROUP EL MURS ACANÉ
+
+HESTABASE
+f To DE YENTANAS
+ea — INFERMIRES
+
+hasta EL
+DIVTE, DE
+Las VENTAHAS
+
+CILGOsR
+DINTE-ES
+
+FASTA El
+z AFGO DE
+LAS VENTANAS
+
+FASTAEL
+ACO DE
+Las VENTANAS
+
+COLOCAR VENTAMAS
+
+WURO HASTA
+
+VENT SIF
+
+COLOGACIÓN
+DEL wERITANAL
+
+HABITERRA - hábitat + tierra - 125
 
 <!-- p. 126 -->
 
@@ -4263,7 +4368,7 @@ interiores de viviendas
 
 <!-- p. 149 -->
 
-HABITERRA • hábitat + tierra • 149
+HABITERRA - hábitat + tierra - 149
 
 <!-- p. 150 -->
 
@@ -4314,7 +4419,18 @@ na y cemento.
 
 <!-- p. 151 -->
 
-HABITERRA • hábitat + tierra • 151
+«
+
+a ATT ] »
+
+E
+l | á
+— c
+c |
+
+E
+
+HABITERRA - habitat + tierra» 151
 
 <!-- p. 152 -->
 
@@ -4385,7 +4501,7 @@ lo cemento prensados con prensa Cinva-ram.
 
 <!-- p. 153 -->
 
-HABITERRA • hábitat + tierra • 153
+HABITERRA - habitat + tierra» 153
 
 <!-- p. 154 -->
 
@@ -4709,7 +4825,7 @@ salientes. El cerramiento de techos se realizó con
 
 <!-- p. 161 -->
 
-HABITERRA • hábitat + tierra • 161
+HABITERRA - habitat + tierra» 161
 
 <!-- p. 162 -->
 
@@ -5507,7 +5623,9 @@ HABITERRA • hábitat + tierra • 183
 
 <!-- p. 185 -->
 
+5 MIXTAS
 
+—
 
 <!-- p. 186 -->
 
@@ -5587,7 +5705,7 @@ cie promedio por unidad de vivienda de 100 m2.
 
 <!-- p. 187 -->
 
-HABITERRA • hábitat + tierra • 187
+HABITERRA - hábitat + tierra - 187
 
 <!-- p. 188 -->
 
@@ -6808,7 +6926,7 @@ sustancialmente el comportamiento frente al sis-
 
 <!-- p. 221 -->
 
-HABITERRA • hábitat + tierra • 221
+HABITERRA - hábitat + tierra 221
 
 <!-- p. 222 -->
 

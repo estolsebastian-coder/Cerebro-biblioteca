@@ -4,14 +4,14 @@ title: "arquitectura_y_sustentabilidad_sem0208"
 author: "Nombre"
 categoria: "CONSTRUCCIÓN"
 paginas: 50
-extraccion: "texto (OCR pendiente)"
+extraccion: "mixto: 7 páginas por OCR (spa)"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/MONOGRAFIAS/arquitectura y sustentabilidad/arquitectura_y_sustentabilidad_sem0208.pdf"
 convertido: 2026-10-16
 ---
 
 # arquitectura_y_sustentabilidad_sem0208
 
-> Texto extraído de `CONSTRUCCIÓN\MONOGRAFIAS\arquitectura y sustentabilidad\arquitectura_y_sustentabilidad_sem0208.pdf` (50 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\MONOGRAFIAS\arquitectura y sustentabilidad\arquitectura_y_sustentabilidad_sem0208.pdf` (50 páginas, mixto: 7 páginas por OCR (spa)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 
@@ -22,7 +22,48 @@ ARQUITECTURA
 
 <!-- p. 2 -->
 
+1
 
+LOBAT
+
+ARGUITECTURA SOSTENIBLE
+a" Y APROVECHAMIENTO SOLAR
+
+0e ==
+
+g'reen B
+
+CeCe ARCAC ÓBCO WT Ca,
+
+DIRECTIONS IN OE pases PRCENVACION DEL DIO AMBMNTE
+
+\~ house” =
+
+Bed, rt al Te
+
+ee Aili
+
+ERIC COREY FREE
+
+D
+
+A SUSTAINABLE
+
+“le ES
+
+1900 2000
+
+14.5
+
+14.3
+
+r 14.1
+
+13.9
+
+13.7
+
+13.5
 
 <!-- p. 3 -->
 
@@ -97,13 +138,48 @@ la mar Meteorológica emisiones sabe 2ºC XX del las (Panel NacionesGLOBAL-CAMBI
 
 <!-- p. 9 -->
 
+{ 14.5
 
+I 143
+
+Tr 14.1
+
+°C
+13.9
+
+13.7
+
+" y 13.5
+[O00 =1100 1200 1300 1400 1500 1600 1700 1800 1900 2000
 
 <!-- p. 10 -->
 
-2007
-Informe
-IPCC,
+(irom the 1990 value)
+
+Cbeervations, Northen Hemisphere, prory data
+
+Variations of the Earths sunace temperature:
+
+aa
+
+year 1000 to year 2100
+
+Bars shove thie
+range in year 2100
+produced bry
+several models
+
+Scenarios
+AE
+AIT
+AMFI
+AZ
+Bi
+[F
+
+1800 1900 2000 2100 — (Sta
+
+IPCC, Informe 2007
 
 <!-- p. 11 -->
 
@@ -272,19 +348,208 @@ Unido Haute (Bulding (Building StarReino USA (Leadership (CSTB)1990- BREEAM http
 
 <!-- p. 23 -->
 
+Nutrition = cts
 
+Total Fat
+
+¿—
+
+Fa
+¿n a
+1 a
+
+rN
+
+—
+
+ml a
+a 1 E
+\=
+
+E E . Y
+SUNS aurabed Fdl \
+
+Cholesterol 07
+Sodium 1 40má
+
+— e. a a
+a, a=" 3 N -
+ary PIDEer Les
 
 <!-- p. 24 -->
 
+Green Facts
 
+Project Title Adobe Systems Inc.
+Building Use Multi-Use
+Location San Jose, CA
+Size 325,421 SF
+Cosi
+
+LEED far Existing Buildings Rating out of
+
+Total Score
+
+Sustainable Sites
+
+Vater Efficiency
+
+Energy 6 Almosphere
+
+Materials & Resources
+
+Indoor Environmental Quality
+
+Innovation & Design Process
+
+Certification Level Platinum
+
+Energy Savings 15,575,599 kWvhvyr, S637 708A
+
+Carbon Emissions Avoided (toms) 3,582 410 toms
+
+Water Savings (gallons/yr, S/yr) 9287 Cou. feet, 525913/4yr
+
+Washe Drverbed (tons) 1433. 08tons/yr
+
+Project Team Profile
+
+Chaner Adobe Systems Incorporated
+
+Facility Migr. ! Property Mig (isn rete iet atte E "
+
+LEED Consultant Tia Heneghan, OTS Energetics, Inc.
+
+Mainienance Contractor Cushman & Wakefield
+
+Cleaning Contractor GCA Services Group
+
+a T
+La e E “Rice Poteet
+
+g
+
+III ICE
+A TE III
+
+U ee (O [O |O ( (. |
+
+"TT iol AE tol Ye X A7 XO
+
+BS 6N E E EE E
+
+2
+ia]
+u
+ou
+\=)
+s
+5
+&
+a
+
+AAl fa
+“lor 1i 1 1i 1 X X.
+m 1 Y I i
+
+ALICIEN I_ I ILE
 
 <!-- p. 25 -->
 
+CERTIFICAT CSTB n*NF380/05/004
+Décision du 22/02/2005
+PROFIL ENVIRONNEMENTAL
+Phase conception
+BÁTIMENTS TERTIAJRES Page 2/2
 
+Pour l'Opération : EMGP — Batimant 270
+
+Site de l'opération : 45, avanue Victor Hugo
+93300 Auberviliers
+
+Compagnie EMGP
+50 avenue du Président Wilson
+93214 SAINT DENIS LA PLAINE
+
+Maftre d'Ouvrage :
+Adresse :
+
+Profil établi par le demandeur et vérifié an cours d'audit
+Cible Niveau Niveau Niveau trés
+base performant performant
+Relation du baliment avec laur
+environnament immédiat
+
+Choix intégré des produits, syelémes et
+procédés de construction
+
+Chantier 4 faible impact anvironnamental
+Gestion de "'énergie
+Gestion de (eau
+
+Gestion das déchets d'activités
+
+Maintenance - Pérennité des
+performances environnamentales
+
+Confort hygrothermique
+Confort acoustique
+
+Confort visuel
+
+Confort olfactif
+
+Qualilé sanitaire des espaces
+Qualité sanitaire de |'air
+
+Qualité sanitaire de l'eau
+
+Emvaltária
+
+ASCOEF
+“Y ELeqal
+
+Energla (eiérrica)
+RT - name
+
+ABS Aner ios
+FORO
+
+Tensaa
+
+Mais eficiente
+
+Menas eficionte
+
+CONSUMO DE ENERGIA — kk rm? ane
+
+eo ne l l cies en
+
+Método adotado:
+Prescritivo, equacáo ou
+simulagaa
+
+Sree: Paces Para ua de Dea cena! oe CO i Cre
+Ted Oe eee ded A Pa ea
+
+Irabreciara de inl b de de i ra re r Cee ones, Bere a Plea!
+
+ip
+
+€ PROCEL cocrrciere mavia tice
 
 <!-- p. 26 -->
 
+This rating represents Australian Excellence
 
+Canberra International Airport
+
+Owner: Canberra International Airport
+
+Construction: Construction Control
+
+Design: Daryl Jackson Alastair Swayn (Architects), Rudds (Mechanical),
+Cardno Youngs (Civil).
 
 <!-- p. 27 -->
 

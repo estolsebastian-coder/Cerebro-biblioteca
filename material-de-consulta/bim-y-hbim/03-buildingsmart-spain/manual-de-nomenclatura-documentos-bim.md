@@ -4,20 +4,25 @@ title: "Manual de Nomenclatura Documentos BIM"
 author: ""
 categoria: "BIM Y HBIM"
 paginas: 29
-extraccion: "texto (OCR pendiente)"
+extraccion: "mixto: 2 páginas por OCR (spa)"
 fuente: "local:E:/MATERIAL DE CONSULTA/BIM Y HBIM/03. BuildingSmart Spain/Manual de Nomenclatura Documentos BIM.pdf"
 convertido: 2026-10-16
 ---
 
 # Manual de Nomenclatura Documentos BIM
 
-> Texto extraído de `BIM Y HBIM\03. BuildingSmart Spain\Manual de Nomenclatura Documentos BIM.pdf` (29 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `BIM Y HBIM\03. BuildingSmart Spain\Manual de Nomenclatura Documentos BIM.pdf` (29 páginas, mixto: 2 páginas por OCR (spa)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 
-MANUALDENOMENCLATURA
-DEDOCUMENTOSALUTILIZARBIM
-Junio2021
+A., ‘building
+
+1M
+
+MANUAL DE NOMENCLATURA
+
+DE DOCUMENTOS AL UTILIZAR BIM
+Junio 2021
 
 <!-- p. 2 -->
 
@@ -1126,5 +1131,9 @@ Manual de Nomenclatura de Documentos al utilizar BIM
 Junio 2021
 
 <!-- p. 29 -->
+
+duilding SMARI.
+
+Spain
 
 www.buildingsmart.es

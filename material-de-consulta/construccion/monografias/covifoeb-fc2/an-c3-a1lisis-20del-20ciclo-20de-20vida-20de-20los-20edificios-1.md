@@ -4,18 +4,40 @@ title: "Análisis del Ciclo de vida de los Edificios"
 author: "Pablo Mila"
 categoria: "CONSTRUCCIÓN"
 paginas: 25
-extraccion: "texto (OCR pendiente)"
+extraccion: "mixto: 1 páginas por OCR (spa)"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/MONOGRAFIAS/covifoeb-fc2/An%C3%A1lisis%20del%20Ciclo%20de%20vida%20de%20los%20Edificios[1].pdf"
 convertido: 2026-10-16
 ---
 
 # Análisis del Ciclo de vida de los Edificios
 
-> Texto extraído de `CONSTRUCCIÓN\MONOGRAFIAS\covifoeb-fc2\An%C3%A1lisis%20del%20Ciclo%20de%20vida%20de%20los%20Edificios[1].pdf` (25 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\MONOGRAFIAS\covifoeb-fc2\An%C3%A1lisis%20del%20Ciclo%20de%20vida%20de%20los%20Edificios[1].pdf` (25 páginas, mixto: 1 páginas por OCR (spa)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 
+g
 
+\=
+
+… Ta =
+Ww Wi yy
+
+a
+Zs
+\=>
+LAE, ? r-
+
+AE Dey ow í
+x.Ó.…., N de 1 5e
+
+te
+2
+
+;i-
+
+_ M TS
+
+i Olivier Fenichel Vanessa Fernandez Jimmy Lescano Pablo Mila Alejandra Sosa Ignacio Turcatti
 
 <!-- p. 2 -->
 
