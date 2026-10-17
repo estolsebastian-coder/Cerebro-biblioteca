@@ -2,11 +2,16 @@
 
 Texto completo, en markdown, de la biblioteca de PDF de Sebastián Estol: libros, artículos,
 ensayos, tesis, normas y manuales. Es el **punto único de consulta** de Claude para citas,
-consultas y lectura. Los PDF originales están en el disco E: de la máquina principal
+consultas y lectura. Los PDF originales están en los discos E: y D: de la máquina principal
 (`fuente:` en el frontmatter de cada `.md`); `<!-- p. N -->` marca el inicio de cada página,
 para citar. Scripts, registro y ajustes: `Cerebro/30-investigacion/biblioteca/scripts/`.
 
 **6,281 textos** de 7,407 PDF · 50.0 GB de PDF → 1,075 MB de texto · 960 pasaron (total o parcialmente) por OCR · 2094 con OCR pendiente · 1104 duplicados no convertidos · 22 con error.
+
+**Lo que no está en texto también es material de consulta.** Los PDF con «OCR pendiente» (escaneos
+de Material de consulta y del máster que no se pasaron por OCR) tienen acá solo la capa de texto que
+traían, o nada en sus páginas escaneadas, pero están tan disponibles como cualquier otro: se leen en
+el PDF que indica la `fuente:` del `.md`, en `E:\MATERIAL DE CONSULTA` o `D:\UPV\MCPA\Asignaturas`.
 
 | Fuente | Carpeta de PDF | Textos |
 |---|---|---:|
