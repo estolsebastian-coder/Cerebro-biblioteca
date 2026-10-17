@@ -4,14 +4,14 @@ title: "Autocad Arquitectura 2012 Guia del Usuario Español"
 author: "Unknown"
 categoria: "AYUDAS DE PROGRAMAS"
 paginas: 4482
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/AYUDAS DE PROGRAMAS/AUTOCAD/Autocad Arquitectura 2012 Guia del Usuario Español.pdf"
 convertido: 2026-10-16
 ---
 
 # Autocad Arquitectura 2012 Guia del Usuario Español (parte 2 de 2)
 
-> Texto extraído de `AYUDAS DE PROGRAMAS\AUTOCAD\Autocad Arquitectura 2012 Guia del Usuario Español.pdf` (4482 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `AYUDAS DE PROGRAMAS\AUTOCAD\Autocad Arquitectura 2012 Guia del Usuario Español.pdf` (4482 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 2840 -->
 

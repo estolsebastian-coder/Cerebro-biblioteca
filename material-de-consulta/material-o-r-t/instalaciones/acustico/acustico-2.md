@@ -4,14 +4,14 @@ title: "ACUSTICO clase2_2007"
 author: "amado"
 categoria: "MATERIAL O.R.T"
 paginas: 11
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/MATERIAL O.R.T/INSTALACIONES/acustico/ACUSTICO_2.pdf"
 convertido: 2026-10-16
 ---
 
 # ACUSTICO clase2_2007
 
-> Texto extraído de `MATERIAL O.R.T\INSTALACIONES\acustico\ACUSTICO_2.pdf` (11 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `MATERIAL O.R.T\INSTALACIONES\acustico\ACUSTICO_2.pdf` (11 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

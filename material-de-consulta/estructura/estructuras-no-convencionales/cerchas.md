@@ -4,14 +4,14 @@ title: "CERCHAS"
 author: "Usuario"
 categoria: "ESTRUCTURA"
 paginas: 20
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/ESTRUCTURA/ESTRUCTURAS NO CONVENCIONALES/CERCHAS.pdf"
 convertido: 2026-10-16
 ---
 
 # CERCHAS
 
-> Texto extraído de `ESTRUCTURA\ESTRUCTURAS NO CONVENCIONALES\CERCHAS.pdf` (20 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `ESTRUCTURA\ESTRUCTURAS NO CONVENCIONALES\CERCHAS.pdf` (20 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

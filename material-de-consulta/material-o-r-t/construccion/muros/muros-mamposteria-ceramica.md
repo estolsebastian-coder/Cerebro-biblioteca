@@ -4,14 +4,14 @@ title: "Sin título de diapositiva"
 author: ".."
 categoria: "MATERIAL O.R.T"
 paginas: 46
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/MATERIAL O.R.T/construccion/muros/MUROS MAMPOSTERIA CERAMICA.pdf"
 convertido: 2026-10-16
 ---
 
 # Sin título de diapositiva
 
-> Texto extraído de `MATERIAL O.R.T\construccion\muros\MUROS MAMPOSTERIA CERAMICA.pdf` (46 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `MATERIAL O.R.T\construccion\muros\MUROS MAMPOSTERIA CERAMICA.pdf` (46 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

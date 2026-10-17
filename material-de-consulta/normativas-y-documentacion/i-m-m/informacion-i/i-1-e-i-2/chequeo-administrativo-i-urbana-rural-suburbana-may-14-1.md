@@ -4,14 +4,14 @@ title: "chequeo_administrativo_-_i_urbana-rural-suburbana_-_may.14_1"
 author: ""
 categoria: "NORMATIVAS Y DOCUMENTACIÓN"
 paginas: 4
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/NORMATIVAS Y DOCUMENTACIÓN/I.M.M/INFORMACION I/i 1 e i 2/chequeo_administrativo_-_i_urbana-rural-suburbana_-_may.14_1.pdf"
 convertido: 2026-10-16
 ---
 
 # chequeo_administrativo_-_i_urbana-rural-suburbana_-_may.14_1
 
-> Texto extraído de `NORMATIVAS Y DOCUMENTACIÓN\I.M.M\INFORMACION I\i 1 e i 2\chequeo_administrativo_-_i_urbana-rural-suburbana_-_may.14_1.pdf` (4 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `NORMATIVAS Y DOCUMENTACIÓN\I.M.M\INFORMACION I\i 1 e i 2\chequeo_administrativo_-_i_urbana-rural-suburbana_-_may.14_1.pdf` (4 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

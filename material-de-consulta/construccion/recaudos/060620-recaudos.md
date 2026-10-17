@@ -4,14 +4,14 @@ title: "060620_recaudos"
 author: "Usuario"
 categoria: "CONSTRUCCIÓN"
 paginas: 18
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/recaudos/060620_recaudos.pdf"
 convertido: 2026-10-16
 ---
 
 # 060620_recaudos
 
-> Texto extraído de `CONSTRUCCIÓN\recaudos\060620_recaudos.pdf` (18 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\recaudos\060620_recaudos.pdf` (18 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

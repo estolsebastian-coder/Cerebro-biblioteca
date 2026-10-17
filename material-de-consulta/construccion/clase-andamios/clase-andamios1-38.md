@@ -4,14 +4,14 @@ title: "clase_andamios1-38"
 author: "Administrador"
 categoria: "CONSTRUCCIÓN"
 paginas: 85
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/clase andamios/clase_andamios1-38.pdf"
 convertido: 2026-10-16
 ---
 
 # clase_andamios1-38
 
-> Texto extraído de `CONSTRUCCIÓN\clase andamios\clase_andamios1-38.pdf` (85 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\clase andamios\clase_andamios1-38.pdf` (85 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

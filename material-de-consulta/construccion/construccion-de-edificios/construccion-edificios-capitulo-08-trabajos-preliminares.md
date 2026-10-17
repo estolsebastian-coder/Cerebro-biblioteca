@@ -4,14 +4,14 @@ title: "Capítulo 8. Trabajos preliminares"
 author: "IMCYC"
 categoria: "CONSTRUCCIÓN"
 paginas: 49
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/construccion de edificios/Construccion_Edificios_capitulo_08_trabajos_preliminares.pdf"
 convertido: 2026-10-16
 ---
 
 # Capítulo 8. Trabajos preliminares
 
-> Texto extraído de `CONSTRUCCIÓN\construccion de edificios\Construccion_Edificios_capitulo_08_trabajos_preliminares.pdf` (49 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\construccion de edificios\Construccion_Edificios_capitulo_08_trabajos_preliminares.pdf` (49 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

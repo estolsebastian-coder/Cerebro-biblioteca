@@ -4,14 +4,14 @@ title: "Informe técnico 3 mayo 2016"
 author: "Sebastián Estol"
 categoria: "ANEP CODICEN"
 paginas: 3
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/ANEP CODICEN/Escuelas 2016/Escuela 147 - Puntas del Pantanoso/Documentos/Informe técnico 3 mayo 2016.pdf"
 convertido: 2026-10-16
 ---
 
 # Informe técnico 3 mayo 2016
 
-> Texto extraído de `ANEP CODICEN\Escuelas 2016\Escuela 147 - Puntas del Pantanoso\Documentos\Informe técnico 3 mayo 2016.pdf` (3 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `ANEP CODICEN\Escuelas 2016\Escuela 147 - Puntas del Pantanoso\Documentos\Informe técnico 3 mayo 2016.pdf` (3 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -4,14 +4,14 @@ title: "CICLO BASICO 2009"
 author: "agraria"
 categoria: "MATERIAL O.R.T"
 paginas: 32
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/MATERIAL O.R.T/INSTALACIONES/CICLO BASICO 2009.pdf"
 convertido: 2026-10-16
 ---
 
 # CICLO BASICO 2009
 
-> Texto extraído de `MATERIAL O.R.T\INSTALACIONES\CICLO BASICO 2009.pdf` (32 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `MATERIAL O.R.T\INSTALACIONES\CICLO BASICO 2009.pdf` (32 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

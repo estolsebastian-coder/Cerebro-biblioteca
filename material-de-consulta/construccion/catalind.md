@@ -4,14 +4,14 @@ title: "Sin título-1"
 author: "silvio"
 categoria: "CONSTRUCCIÓN"
 paginas: 262
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/CATALIND.PDF"
 convertido: 2026-10-16
 ---
 
 # Sin título-1
 
-> Texto extraído de `CONSTRUCCIÓN\CATALIND.PDF` (262 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\CATALIND.PDF` (262 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

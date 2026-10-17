@@ -4,14 +4,14 @@ title: "formato_de_planillas"
 author: "webmaster"
 categoria: "ESTRUCTURA"
 paginas: 4
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/ESTRUCTURA/ESTABILIDADES FADU/ESTABILIDAD 1/tablas/formato_de_planillas.pdf"
 convertido: 2026-10-16
 ---
 
 # formato_de_planillas
 
-> Texto extraído de `ESTRUCTURA\ESTABILIDADES FADU\ESTABILIDAD 1\tablas\formato_de_planillas.pdf` (4 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `ESTRUCTURA\ESTABILIDADES FADU\ESTABILIDAD 1\tablas\formato_de_planillas.pdf` (4 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

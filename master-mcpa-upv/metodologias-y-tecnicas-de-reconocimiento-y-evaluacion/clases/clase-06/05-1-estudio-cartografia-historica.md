@@ -4,14 +4,14 @@ title: "Diapositiva 1"
 author: "Miguel"
 categoria: "Metodologías y técnicas de reconocimiento y evaluación"
 paginas: 32
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:D:/UPV/MCPA/Asignaturas/Metodologías y técnicas de reconocimiento y evaluación/Clases/Clase 06/05.1__ESTUDIO CARTOGRAFIA HISTORICA.pdf"
 convertido: 2026-10-16
 ---
 
 # Diapositiva 1
 
-> Texto extraído de `Metodologías y técnicas de reconocimiento y evaluación\Clases\Clase 06\05.1__ESTUDIO CARTOGRAFIA HISTORICA.pdf` (32 páginas, texto (OCR pendiente)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Metodologías y técnicas de reconocimiento y evaluación\Clases\Clase 06\05.1__ESTUDIO CARTOGRAFIA HISTORICA.pdf` (32 páginas, texto). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

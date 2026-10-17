@@ -4,14 +4,14 @@ title: "Geol_General_I_Precambrico_Uru2012"
 author: ""
 categoria: "Técnicas Constructivas y materiales para la conservación"
 paginas: 76
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:D:/UPV/MCPA/Asignaturas/Técnicas Constructivas y materiales para la conservación/Trabajos prácticos (enero 2022)/T.M.C. Ej.1/Material de apoyo/Geol_General_I_Precambrico_Uru2012.pdf"
 convertido: 2026-10-16
 ---
 
 # Geol_General_I_Precambrico_Uru2012
 
-> Texto extraído de `Técnicas Constructivas y materiales para la conservación\Trabajos prácticos (enero 2022)\T.M.C. Ej.1\Material de apoyo\Geol_General_I_Precambrico_Uru2012.pdf` (76 páginas, texto (OCR pendiente)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Técnicas Constructivas y materiales para la conservación\Trabajos prácticos (enero 2022)\T.M.C. Ej.1\Material de apoyo\Geol_General_I_Precambrico_Uru2012.pdf` (76 páginas, texto). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

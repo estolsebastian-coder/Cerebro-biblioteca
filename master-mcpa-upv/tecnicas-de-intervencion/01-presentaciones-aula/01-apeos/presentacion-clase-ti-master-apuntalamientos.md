@@ -4,14 +4,14 @@ title: "PRESENTACIÓN CLASE TI MASTER_apuntalamientos"
 author: "inolfau"
 categoria: "Técnicas de intervención"
 paginas: 71
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:D:/UPV/MCPA/Asignaturas/Técnicas de intervención/01_Presentaciones AULA/01_APEOS/PRESENTACIÓN CLASE TI MASTER_apuntalamientos.pdf"
 convertido: 2026-10-16
 ---
 
 # PRESENTACIÓN CLASE TI MASTER_apuntalamientos
 
-> Texto extraído de `Técnicas de intervención\01_Presentaciones AULA\01_APEOS\PRESENTACIÓN CLASE TI MASTER_apuntalamientos.pdf` (71 páginas, texto (OCR pendiente)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Técnicas de intervención\01_Presentaciones AULA\01_APEOS\PRESENTACIÓN CLASE TI MASTER_apuntalamientos.pdf` (71 páginas, texto). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

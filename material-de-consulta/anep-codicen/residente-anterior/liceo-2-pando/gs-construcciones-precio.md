@@ -4,14 +4,14 @@ title: "GS construcciones-precio"
 author: "Manuel Rodriguez"
 categoria: "ANEP CODICEN"
 paginas: 2
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/ANEP CODICEN/RESIDENTE ANTERIOR/LICEO 2-PANDO/GS construcciones-precio.pdf"
 convertido: 2026-10-16
 ---
 
 # GS construcciones-precio
 
-> Texto extraído de `ANEP CODICEN\RESIDENTE ANTERIOR\LICEO 2-PANDO\GS construcciones-precio.pdf` (2 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `ANEP CODICEN\RESIDENTE ANTERIOR\LICEO 2-PANDO\GS construcciones-precio.pdf` (2 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

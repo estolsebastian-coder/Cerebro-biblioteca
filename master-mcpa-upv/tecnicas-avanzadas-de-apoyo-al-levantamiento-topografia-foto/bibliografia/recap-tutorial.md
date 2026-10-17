@@ -4,14 +4,14 @@ title: "Recap tutorial"
 author: ""
 categoria: "Técnicas avanzadas de apoyo al levantamiento. Topografía, fotogrametría y escáner láser (optativa)"
 paginas: 15
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:D:/UPV/MCPA/Asignaturas/Técnicas avanzadas de apoyo al levantamiento. Topografía, fotogrametría y escáner láser (optativa)/Bibliografía/Recap tutorial.pdf"
 convertido: 2026-10-16
 ---
 
 # Recap tutorial
 
-> Texto extraído de `Técnicas avanzadas de apoyo al levantamiento. Topografía, fotogrametría y escáner láser (optativa)\Bibliografía\Recap tutorial.pdf` (15 páginas, texto (OCR pendiente)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Técnicas avanzadas de apoyo al levantamiento. Topografía, fotogrametría y escáner láser (optativa)\Bibliografía\Recap tutorial.pdf` (15 páginas, texto). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

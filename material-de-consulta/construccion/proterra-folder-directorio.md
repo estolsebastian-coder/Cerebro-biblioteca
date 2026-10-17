@@ -4,14 +4,14 @@ title: "PROTERRA Proyecto XIV.6 CYTED"
 author: "Coordinación PROTERRA"
 categoria: "CONSTRUCCIÓN"
 paginas: 10
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/Proterra_folder directorio.pdf"
 convertido: 2026-10-16
 ---
 
 # PROTERRA Proyecto XIV.6 CYTED
 
-> Texto extraído de `CONSTRUCCIÓN\Proterra_folder directorio.pdf` (10 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\Proterra_folder directorio.pdf` (10 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

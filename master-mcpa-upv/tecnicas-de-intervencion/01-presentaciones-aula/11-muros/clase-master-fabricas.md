@@ -4,14 +4,14 @@ title: "Clase máster_Fábricas"
 author: "Veronica"
 categoria: "Técnicas de intervención"
 paginas: 86
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:D:/UPV/MCPA/Asignaturas/Técnicas de intervención/01_Presentaciones AULA/11. MUROS/Clase máster_Fábricas.pdf"
 convertido: 2026-10-16
 ---
 
 # Clase máster_Fábricas
 
-> Texto extraído de `Técnicas de intervención\01_Presentaciones AULA\11. MUROS\Clase máster_Fábricas.pdf` (86 páginas, texto (OCR pendiente)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Técnicas de intervención\01_Presentaciones AULA\11. MUROS\Clase máster_Fábricas.pdf` (86 páginas, texto). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

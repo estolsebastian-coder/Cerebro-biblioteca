@@ -4,14 +4,14 @@ title: "Recomendacin CIRSOC 301-2"
 author: "USUARIO1"
 categoria: "LIBROS, REVISTAS Y FOTOS"
 paginas: 20
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/LIBROS, REVISTAS Y FOTOS/ESTRUCTURA/ACERO/recomendacion_cirsoc_301_2.pdf"
 convertido: 2026-10-16
 ---
 
 # Recomendacin CIRSOC 301-2
 
-> Texto extraído de `LIBROS, REVISTAS Y FOTOS\ESTRUCTURA\ACERO\recomendacion_cirsoc_301_2.pdf` (20 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `LIBROS, REVISTAS Y FOTOS\ESTRUCTURA\ACERO\recomendacion_cirsoc_301_2.pdf` (20 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

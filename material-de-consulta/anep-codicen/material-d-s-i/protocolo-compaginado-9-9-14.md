@@ -4,14 +4,14 @@ title: "protocolo compaginado 9.9.14"
 author: ""
 categoria: "ANEP CODICEN"
 paginas: 94
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/ANEP CODICEN/MATERIAL D.S.I/protocolo compaginado 9.9.14.pdf"
 convertido: 2026-10-16
 ---
 
 # protocolo compaginado 9.9.14
 
-> Texto extraído de `ANEP CODICEN\MATERIAL D.S.I\protocolo compaginado 9.9.14.pdf` (94 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `ANEP CODICEN\MATERIAL D.S.I\protocolo compaginado 9.9.14.pdf` (94 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

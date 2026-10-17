@@ -4,14 +4,14 @@ title: "Menú Define"
 author: "Eliud"
 categoria: "AYUDAS DE PROGRAMAS"
 paginas: 12
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/AYUDAS DE PROGRAMAS/COMPUTERS AND STRUCTURES/Menus Etabs/Menú Define.pdf"
 convertido: 2026-10-16
 ---
 
 # Menú Define
 
-> Texto extraído de `AYUDAS DE PROGRAMAS\COMPUTERS AND STRUCTURES\Menus Etabs\Menú Define.pdf` (12 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `AYUDAS DE PROGRAMAS\COMPUTERS AND STRUCTURES\Menus Etabs\Menú Define.pdf` (12 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

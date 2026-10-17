@@ -4,14 +4,14 @@ title: "Recomendación CIRSOC 302-1"
 author: "USUARIO1"
 categoria: "ESTRUCTURA"
 paginas: 41
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/ESTRUCTURA/NORMAS/recomendacion_cirsoc_302_1a.pdf"
 convertido: 2026-10-16
 ---
 
 # Recomendación CIRSOC 302-1
 
-> Texto extraído de `ESTRUCTURA\NORMAS\recomendacion_cirsoc_302_1a.pdf` (41 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `ESTRUCTURA\NORMAS\recomendacion_cirsoc_302_1a.pdf` (41 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

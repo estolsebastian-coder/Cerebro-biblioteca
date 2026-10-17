@@ -4,14 +4,14 @@ title: "CÁLCULO EN MADERA"
 author: "Luis-Alfonso Basterra Otero"
 categoria: "Técnicas Constructivas y materiales para la conservación"
 paginas: 10
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:D:/UPV/MCPA/Asignaturas/Técnicas Constructivas y materiales para la conservación/Trabajos prácticos (enero 2022)/T.M.C. Ej.2/Material patologías Dayana Rodríguez/Madera/Apuntes cálculos de madera.pdf"
 convertido: 2026-10-16
 ---
 
 # CÁLCULO EN MADERA
 
-> Texto extraído de `Técnicas Constructivas y materiales para la conservación\Trabajos prácticos (enero 2022)\T.M.C. Ej.2\Material patologías Dayana Rodríguez\Madera\Apuntes cálculos de madera.pdf` (10 páginas, texto (OCR pendiente)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Técnicas Constructivas y materiales para la conservación\Trabajos prácticos (enero 2022)\T.M.C. Ej.2\Material patologías Dayana Rodríguez\Madera\Apuntes cálculos de madera.pdf` (10 páginas, texto). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

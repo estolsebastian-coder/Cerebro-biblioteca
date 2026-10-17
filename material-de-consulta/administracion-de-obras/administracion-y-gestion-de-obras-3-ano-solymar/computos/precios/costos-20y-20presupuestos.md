@@ -4,14 +4,14 @@ title: "Costos%20y%20Presupuestos"
 author: "BERNNY HUERTA VALDEZ"
 categoria: "ADMINISTRACIÓN DE OBRAS"
 paginas: 33
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/ADMINISTRACIÓN DE OBRAS/administracion y gestion de obras  3 año SOLYMAR/computos/precios/Costos%20y%20Presupuestos.pdf"
 convertido: 2026-10-16
 ---
 
 # Costos%20y%20Presupuestos
 
-> Texto extraído de `ADMINISTRACIÓN DE OBRAS\administracion y gestion de obras  3 año SOLYMAR\computos\precios\Costos%20y%20Presupuestos.pdf` (33 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `ADMINISTRACIÓN DE OBRAS\administracion y gestion de obras  3 año SOLYMAR\computos\precios\Costos%20y%20Presupuestos.pdf` (33 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

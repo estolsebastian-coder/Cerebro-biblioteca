@@ -4,14 +4,14 @@ title: "Desagues en edificios"
 author: "lucia"
 categoria: "ACOND. SANITARIO"
 paginas: 11
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/ACOND. SANITARIO/Desagues en edificios.pdf"
 convertido: 2026-10-16
 ---
 
 # Desagues en edificios
 
-> Texto extraído de `ACOND. SANITARIO\Desagues en edificios.pdf` (11 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `ACOND. SANITARIO\Desagues en edificios.pdf` (11 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

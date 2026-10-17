@@ -4,14 +4,14 @@ title: "Desagues 2009"
 author: "Maria Estela"
 categoria: "MATERIAL O.R.T"
 paginas: 15
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/MATERIAL O.R.T/INSTALACIONES/sanitario/Desagues 2009.pdf"
 convertido: 2026-10-16
 ---
 
 # Desagues 2009
 
-> Texto extraído de `MATERIAL O.R.T\INSTALACIONES\sanitario\Desagues 2009.pdf` (15 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `MATERIAL O.R.T\INSTALACIONES\sanitario\Desagues 2009.pdf` (15 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

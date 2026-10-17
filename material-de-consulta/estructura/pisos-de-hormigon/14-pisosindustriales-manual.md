@@ -4,14 +4,14 @@ title: "14 PisosIndustriales_Manual"
 author: "Rosy"
 categoria: "ESTRUCTURA"
 paginas: 91
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/ESTRUCTURA/PISOS DE HORMIGÓN/14 PisosIndustriales_Manual.pdf"
 convertido: 2026-10-16
 ---
 
 # 14 PisosIndustriales_Manual
 
-> Texto extraído de `ESTRUCTURA\PISOS DE HORMIGÓN\14 PisosIndustriales_Manual.pdf` (91 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `ESTRUCTURA\PISOS DE HORMIGÓN\14 PisosIndustriales_Manual.pdf` (91 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

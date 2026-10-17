@@ -4,14 +4,14 @@ title: "conformados.ppt [Sólo lectura]"
 author: "Daniel Chamlian"
 categoria: "CONSTRUCCIÓN"
 paginas: 31
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/conformados/conformados.pdf"
 convertido: 2026-10-16
 ---
 
 # conformados.ppt [Sólo lectura]
 
-> Texto extraído de `CONSTRUCCIÓN\conformados\conformados.pdf` (31 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\conformados\conformados.pdf` (31 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

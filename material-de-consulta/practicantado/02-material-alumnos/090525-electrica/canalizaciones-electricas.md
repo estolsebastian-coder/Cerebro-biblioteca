@@ -4,14 +4,14 @@ title: "Canalizaciones_electricas"
 author: "pablosen"
 categoria: "PRACTICANTADO"
 paginas: 42
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/PRACTICANTADO/02_Material Alumnos/090525_Electrica/Canalizaciones_electricas.pdf"
 convertido: 2026-10-16
 ---
 
 # Canalizaciones_electricas
 
-> Texto extraído de `PRACTICANTADO\02_Material Alumnos\090525_Electrica\Canalizaciones_electricas.pdf` (42 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `PRACTICANTADO\02_Material Alumnos\090525_Electrica\Canalizaciones_electricas.pdf` (42 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

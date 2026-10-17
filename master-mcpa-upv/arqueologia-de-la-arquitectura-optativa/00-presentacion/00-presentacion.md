@@ -4,14 +4,14 @@ title: "00. PRESENTACIÓN"
 author: "Usuario"
 categoria: "Arqueología de la arquitectura (optativa)"
 paginas: 25
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:D:/UPV/MCPA/Asignaturas/Arqueología de la arquitectura (optativa)/00. Presentación/00. PRESENTACIÓN.pdf"
 convertido: 2026-10-16
 ---
 
 # \00. PRESENTACIÓN
 
-> Texto extraído de `Arqueología de la arquitectura (optativa)\00. Presentación\00. PRESENTACIÓN.pdf` (25 páginas, texto (OCR pendiente)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología de la arquitectura (optativa)\00. Presentación\00. PRESENTACIÓN.pdf` (25 páginas, texto). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

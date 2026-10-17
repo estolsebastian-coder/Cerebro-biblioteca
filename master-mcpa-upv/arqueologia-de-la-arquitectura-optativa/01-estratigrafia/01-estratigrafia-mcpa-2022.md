@@ -4,14 +4,14 @@ title: "01-Estratigrafía _MCPA 2022_"
 author: "Usuario"
 categoria: "Arqueología de la arquitectura (optativa)"
 paginas: 96
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:D:/UPV/MCPA/Asignaturas/Arqueología de la arquitectura (optativa)/01. Estratigrafía/01-Estratigrafía _MCPA 2022_.pdf"
 convertido: 2026-10-16
 ---
 
 # 01-Estratigrafía _MCPA 2022_
 
-> Texto extraído de `Arqueología de la arquitectura (optativa)\01. Estratigrafía\01-Estratigrafía _MCPA 2022_.pdf` (96 páginas, texto (OCR pendiente)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología de la arquitectura (optativa)\01. Estratigrafía\01-Estratigrafía _MCPA 2022_.pdf` (96 páginas, texto). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -4,14 +4,14 @@ title: "(Microsoft PowerPoint - Presentaci\\363n Ibis.ppt)"
 author: "Administrador"
 categoria: "MATERIAL O.R.T"
 paginas: 34
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/MATERIAL O.R.T/INSTALACIONES/Presentacion Ibis.pdf"
 convertido: 2026-10-16
 ---
 
 # (Microsoft PowerPoint - Presentaci\363n Ibis.ppt)
 
-> Texto extraído de `MATERIAL O.R.T\INSTALACIONES\Presentacion Ibis.pdf` (34 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `MATERIAL O.R.T\INSTALACIONES\Presentacion Ibis.pdf` (34 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

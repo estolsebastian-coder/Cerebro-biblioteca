@@ -4,14 +4,14 @@ title: "Capítulo 15. Puertas y ventanas"
 author: "IMCYC"
 categoria: "CONSTRUCCIÓN"
 paginas: 9
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/pintura/Construccion_Edificios_capitulo_15_puertas_y_ventanas.pdf"
 convertido: 2026-10-16
 ---
 
 # Capítulo 15. Puertas y ventanas
 
-> Texto extraído de `CONSTRUCCIÓN\pintura\Construccion_Edificios_capitulo_15_puertas_y_ventanas.pdf` (9 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\pintura\Construccion_Edificios_capitulo_15_puertas_y_ventanas.pdf` (9 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

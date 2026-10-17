@@ -4,14 +4,14 @@ title: "HIKMICRO B Series_Release Notes_en-US_V5.5.82"
 author: "高晓萌"
 categoria: "TERMOGRAFÍA"
 paginas: 11
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/TERMOGRAFÍA/Firmware_B10(S)_V5.5.82_250416/HIKMICRO B Series_Release Notes_en-US_V5.5.82.pdf"
 convertido: 2026-10-16
 ---
 
 # HIKMICRO B Series_Release Notes_en-US_V5.5.82
 
-> Texto extraído de `TERMOGRAFÍA\Firmware_B10(S)_V5.5.82_250416\HIKMICRO B Series_Release Notes_en-US_V5.5.82.pdf` (11 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `TERMOGRAFÍA\Firmware_B10(S)_V5.5.82_250416\HIKMICRO B Series_Release Notes_en-US_V5.5.82.pdf` (11 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

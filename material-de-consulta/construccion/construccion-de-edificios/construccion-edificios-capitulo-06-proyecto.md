@@ -4,14 +4,14 @@ title: "Capítulo 6. Proyecto"
 author: "IMCYC"
 categoria: "CONSTRUCCIÓN"
 paginas: 29
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/construccion de edificios/Construccion_Edificios_capitulo_06_proyecto.pdf"
 convertido: 2026-10-16
 ---
 
 # Capítulo 6. Proyecto
 
-> Texto extraído de `CONSTRUCCIÓN\construccion de edificios\Construccion_Edificios_capitulo_06_proyecto.pdf` (29 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\construccion de edificios\Construccion_Edificios_capitulo_06_proyecto.pdf` (29 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

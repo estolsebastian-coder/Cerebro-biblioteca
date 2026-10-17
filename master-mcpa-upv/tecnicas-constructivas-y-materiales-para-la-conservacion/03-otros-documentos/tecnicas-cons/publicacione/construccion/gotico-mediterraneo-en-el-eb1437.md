@@ -4,14 +4,14 @@ title: "Gotico_mediterraneo_en_el_siglo_XVII_Tec"
 author: ""
 categoria: "Técnicas Constructivas y materiales para la conservación"
 paginas: 23
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:D:/UPV/MCPA/Asignaturas/Técnicas Constructivas y materiales para la conservación/03. Otros documentos/Técnicas constructivas/Publicaciones/Construcción/Gotico_mediterraneo_en_el_siglo_XVII_Tec.pdf"
 convertido: 2026-10-16
 ---
 
 # Gotico_mediterraneo_en_el_siglo_XVII_Tec
 
-> Texto extraído de `Técnicas Constructivas y materiales para la conservación\03. Otros documentos\Técnicas constructivas\Publicaciones\Construcción\Gotico_mediterraneo_en_el_siglo_XVII_Tec.pdf` (23 páginas, texto (OCR pendiente)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Técnicas Constructivas y materiales para la conservación\03. Otros documentos\Técnicas constructivas\Publicaciones\Construcción\Gotico_mediterraneo_en_el_siglo_XVII_Tec.pdf` (23 páginas, texto). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

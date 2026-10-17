@@ -4,14 +4,14 @@ title: "3ds Max Design 2012 – para usuarios de AutoCAD"
 author: "Fernando Montaño La Cruz"
 categoria: "BIM Y HBIM"
 paginas: 38
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/BIM Y HBIM/01. Revit/CURSOS MONTAÑO/TUTORIALES 1 (REVIT BÁSICO)/Leccion 01 Introduccion a Revit/Literatura/Leccion01 Introduccion a Revit.pdf"
 convertido: 2026-10-16
 ---
 
 # 3ds Max Design 2012 – para usuarios de AutoCAD
 
-> Texto extraído de `BIM Y HBIM\01. Revit\CURSOS MONTAÑO\TUTORIALES 1 (REVIT BÁSICO)\Leccion 01 Introduccion a Revit\Literatura\Leccion01 Introduccion a Revit.pdf` (38 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `BIM Y HBIM\01. Revit\CURSOS MONTAÑO\TUTORIALES 1 (REVIT BÁSICO)\Leccion 01 Introduccion a Revit\Literatura\Leccion01 Introduccion a Revit.pdf` (38 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

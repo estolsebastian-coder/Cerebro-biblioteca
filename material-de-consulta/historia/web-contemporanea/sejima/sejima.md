@@ -4,14 +4,14 @@ title: "Seijima And Nishizawa: A Selective Bibliography"
 author: "ed"
 categoria: "HISTORIA"
 paginas: 14
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/HISTORIA/web contemporanea/sejima/sejima.pdf"
 convertido: 2026-10-16
 ---
 
 # Seijima And Nishizawa: A Selective Bibliography
 
-> Texto extraído de `HISTORIA\web contemporanea\sejima\sejima.pdf` (14 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `HISTORIA\web contemporanea\sejima\sejima.pdf` (14 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

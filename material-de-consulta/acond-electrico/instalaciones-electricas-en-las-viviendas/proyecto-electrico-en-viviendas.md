@@ -4,14 +4,14 @@ title: "Proyecto electrico"
 author: "Ing. Nestor Quadri"
 categoria: "ACOND. ELÉCTRICO"
 paginas: 14
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/ACOND. ELÉCTRICO/instalaciones electricas en las viviendas/Proyecto eléctrico en viviendas.pdf"
 convertido: 2026-10-16
 ---
 
 # Proyecto electrico
 
-> Texto extraído de `ACOND. ELÉCTRICO\instalaciones electricas en las viviendas\Proyecto eléctrico en viviendas.pdf` (14 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `ACOND. ELÉCTRICO\instalaciones electricas en las viviendas\Proyecto eléctrico en viviendas.pdf` (14 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -4,14 +4,14 @@ title: "02_a proposito de la Roqueta_opt"
 author: "Pablo"
 categoria: "Taller de conservación e intervención"
 paginas: 123
-extraccion: "texto (OCR pendiente); 20 páginas por OCR previo (Windows, corpus MCPA)"
+extraccion: "texto; 20 páginas por OCR previo (Windows, corpus MCPA)"
 fuente: "local:D:/UPV/MCPA/Asignaturas/Taller de conservación e intervención/02_a proposito de la Roqueta_opt.pdf"
 convertido: 2026-10-16
 ---
 
 # 02_a proposito de la Roqueta_opt
 
-> Texto extraído de `Taller de conservación e intervención\02_a proposito de la Roqueta_opt.pdf` (123 páginas, texto (OCR pendiente); 20 páginas por OCR previo (Windows, corpus MCPA)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Taller de conservación e intervención\02_a proposito de la Roqueta_opt.pdf` (123 páginas, texto; 20 páginas por OCR previo (Windows, corpus MCPA)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

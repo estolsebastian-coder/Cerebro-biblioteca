@@ -4,14 +4,14 @@ title: "03. Barbería"
 author: "Usuario"
 categoria: "Arqueología de la arquitectura (optativa)"
 paginas: 52
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:D:/UPV/MCPA/Asignaturas/Arqueología de la arquitectura (optativa)/01. Estratigrafía/03. Barbería.pdf"
 convertido: 2026-10-16
 ---
 
 # \03. Barbería
 
-> Texto extraído de `Arqueología de la arquitectura (optativa)\01. Estratigrafía\03. Barbería.pdf` (52 páginas, texto (OCR pendiente)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Arqueología de la arquitectura (optativa)\01. Estratigrafía\03. Barbería.pdf` (52 páginas, texto). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

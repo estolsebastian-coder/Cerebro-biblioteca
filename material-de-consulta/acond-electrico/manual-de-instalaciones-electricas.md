@@ -4,14 +4,14 @@ title: "Manual SICA - PIRELLI"
 author: ""
 categoria: "ACOND. ELÉCTRICO"
 paginas: 634
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/ACOND. ELÉCTRICO/Manual de Instalaciones Electricas.pdf"
 convertido: 2026-10-16
 ---
 
 # Manual SICA - PIRELLI
 
-> Texto extraído de `ACOND. ELÉCTRICO\Manual de Instalaciones Electricas.pdf` (634 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `ACOND. ELÉCTRICO\Manual de Instalaciones Electricas.pdf` (634 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

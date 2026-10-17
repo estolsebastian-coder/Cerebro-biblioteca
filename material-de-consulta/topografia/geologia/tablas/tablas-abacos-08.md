@@ -4,14 +4,14 @@ title: "tablas_abacos_08"
 author: "ellambi"
 categoria: "TOPOGRAFÍA"
 paginas: 32
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/TOPOGRAFÍA/GEOLOGÍA/tablas/tablas_abacos_08.pdf"
 convertido: 2026-10-16
 ---
 
 # tablas_abacos_08
 
-> Texto extraído de `TOPOGRAFÍA\GEOLOGÍA\tablas\tablas_abacos_08.pdf` (32 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `TOPOGRAFÍA\GEOLOGÍA\tablas\tablas_abacos_08.pdf` (32 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

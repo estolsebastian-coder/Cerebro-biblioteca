@@ -4,14 +4,14 @@ title: "Capítulo 7. Estructuración"
 author: "IMCYC"
 categoria: "CONSTRUCCIÓN"
 paginas: 13
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/construccion de edificios/Construccion_Edificios_capitulo_07_estructuracion.pdf"
 convertido: 2026-10-16
 ---
 
 # Capítulo 7. Estructuración
 
-> Texto extraído de `CONSTRUCCIÓN\construccion de edificios\Construccion_Edificios_capitulo_07_estructuracion.pdf` (13 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\construccion de edificios\Construccion_Edificios_capitulo_07_estructuracion.pdf` (13 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

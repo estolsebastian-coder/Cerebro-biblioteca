@@ -4,14 +4,14 @@ title: "Sesión 2-A Termografía"
 author: "Santiago"
 categoria: "Ensayos y técnicas no destructivas aplicadas en la diagnósis de las construcciones históricas (optativa)"
 paginas: 23
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:D:/UPV/MCPA/Asignaturas/Ensayos y técnicas no destructivas aplicadas en la diagnósis de las construcciones históricas (optativa)/Sesión 2-A Termografía.pdf"
 convertido: 2026-10-16
 ---
 
 # Sesión 2-A Termografía
 
-> Texto extraído de `Ensayos y técnicas no destructivas aplicadas en la diagnósis de las construcciones históricas (optativa)\Sesión 2-A Termografía.pdf` (23 páginas, texto (OCR pendiente)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Ensayos y técnicas no destructivas aplicadas en la diagnósis de las construcciones históricas (optativa)\Sesión 2-A Termografía.pdf` (23 páginas, texto). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

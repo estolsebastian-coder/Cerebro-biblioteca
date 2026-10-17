@@ -4,14 +4,14 @@ title: "Anexo 4_Mesa redonda_Los archivos valencianos"
 author: ""
 categoria: "Metodologías y técnicas de reconocimiento y evaluación"
 paginas: 19
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:D:/UPV/MCPA/Asignaturas/Metodologías y técnicas de reconocimiento y evaluación/Documentación UPV/03. Archivos y fuentes documentales/Archivos Valencianos/Anexo 4_Mesa redonda_Los archivos valencianos.pdf"
 convertido: 2026-10-16
 ---
 
 # Anexo 4_Mesa redonda_Los archivos valencianos
 
-> Texto extraído de `Metodologías y técnicas de reconocimiento y evaluación\Documentación UPV\03. Archivos y fuentes documentales\Archivos Valencianos\Anexo 4_Mesa redonda_Los archivos valencianos.pdf` (19 páginas, texto (OCR pendiente)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Metodologías y técnicas de reconocimiento y evaluación\Documentación UPV\03. Archivos y fuentes documentales\Archivos Valencianos\Anexo 4_Mesa redonda_Los archivos valencianos.pdf` (19 páginas, texto). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -4,14 +4,14 @@ title: "Zaragoza 2009_arte de corte piedras"
 author: ""
 categoria: "Técnicas Constructivas y materiales para la conservación"
 paginas: 64
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:D:/UPV/MCPA/Asignaturas/Técnicas Constructivas y materiales para la conservación/02. Recursos UPV/01. Técnicas constructivas/Material de lectura y estudio/02. Cantería medieval y moderna/05. Cortes piedras/Zaragoza 2009_arte de corte piedras.pdf"
 convertido: 2026-10-16
 ---
 
 # Zaragoza 2009_arte de corte piedras
 
-> Texto extraído de `Técnicas Constructivas y materiales para la conservación\02. Recursos UPV\01. Técnicas constructivas\Material de lectura y estudio\02. Cantería medieval y moderna\05. Cortes piedras\Zaragoza 2009_arte de corte piedras.pdf` (64 páginas, texto (OCR pendiente)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Técnicas Constructivas y materiales para la conservación\02. Recursos UPV\01. Técnicas constructivas\Material de lectura y estudio\02. Cantería medieval y moderna\05. Cortes piedras\Zaragoza 2009_arte de corte piedras.pdf` (64 páginas, texto). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

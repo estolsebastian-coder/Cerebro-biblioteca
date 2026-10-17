@@ -4,14 +4,14 @@ title: "Capítulo 10. Muros"
 author: "IMCYC"
 categoria: "CONSTRUCCIÓN"
 paginas: 17
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/construccion de edificios/Construccion_Edificios_capitulo_10_muros.pdf"
 convertido: 2026-10-16
 ---
 
 # Capítulo 10. Muros
 
-> Texto extraído de `CONSTRUCCIÓN\construccion de edificios\Construccion_Edificios_capitulo_10_muros.pdf` (17 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\construccion de edificios\Construccion_Edificios_capitulo_10_muros.pdf` (17 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

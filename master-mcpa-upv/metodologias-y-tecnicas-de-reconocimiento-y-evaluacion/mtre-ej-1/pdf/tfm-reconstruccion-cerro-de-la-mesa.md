@@ -4,14 +4,14 @@ title: "TFM-RECONSTRUCCION CERRO DE LA MESA"
 author: ""
 categoria: "Metodologías y técnicas de reconocimiento y evaluación"
 paginas: 74
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:D:/UPV/MCPA/Asignaturas/Metodologías y técnicas de reconocimiento y evaluación/MTRE. Ej. 1/PDF/TFM-RECONSTRUCCION CERRO DE LA MESA.pdf"
 convertido: 2026-10-16
 ---
 
 # TFM-RECONSTRUCCION CERRO DE LA MESA
 
-> Texto extraído de `Metodologías y técnicas de reconocimiento y evaluación\MTRE. Ej. 1\PDF\TFM-RECONSTRUCCION CERRO DE LA MESA.pdf` (74 páginas, texto (OCR pendiente)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Metodologías y técnicas de reconocimiento y evaluación\MTRE. Ej. 1\PDF\TFM-RECONSTRUCCION CERRO DE LA MESA.pdf` (74 páginas, texto). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

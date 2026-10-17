@@ -4,14 +4,14 @@ title: "Guia de Autocad 2000"
 author: "Israel"
 categoria: "AYUDAS DE PROGRAMAS"
 paginas: 210
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/AYUDAS DE PROGRAMAS/AUTOCAD/Manual de Autocad 2000.pdf"
 convertido: 2026-10-16
 ---
 
 # Guia de Autocad 2000
 
-> Texto extraído de `AYUDAS DE PROGRAMAS\AUTOCAD\Manual de Autocad 2000.pdf` (210 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `AYUDAS DE PROGRAMAS\AUTOCAD\Manual de Autocad 2000.pdf` (210 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

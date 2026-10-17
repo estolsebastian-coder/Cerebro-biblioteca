@@ -4,14 +4,14 @@ title: "Trabajo edificio rehabilitar 19_20"
 author: "ricardo"
 categoria: "Técnicas de intervención"
 paginas: 4
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:D:/UPV/MCPA/Asignaturas/Técnicas de intervención/01_Presentaciones AULA/Recalces_Patologia Cimentaciones/Trabajo edificio rehabilitar 19_20.pdf"
 convertido: 2026-10-16
 ---
 
 # Trabajo edificio rehabilitar 19_20
 
-> Texto extraído de `Técnicas de intervención\01_Presentaciones AULA\Recalces_Patologia Cimentaciones\Trabajo edificio rehabilitar 19_20.pdf` (4 páginas, texto (OCR pendiente)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Técnicas de intervención\01_Presentaciones AULA\Recalces_Patologia Cimentaciones\Trabajo edificio rehabilitar 19_20.pdf` (4 páginas, texto). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

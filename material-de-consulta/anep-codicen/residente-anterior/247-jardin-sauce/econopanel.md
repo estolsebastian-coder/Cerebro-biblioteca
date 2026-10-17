@@ -4,14 +4,14 @@ title: "econopanel"
 author: "Gianno"
 categoria: "ANEP CODICEN"
 paginas: 12
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/ANEP CODICEN/RESIDENTE ANTERIOR/247-JARDIN SAUCE/econopanel.pdf"
 convertido: 2026-10-16
 ---
 
 # econopanel
 
-> Texto extraído de `ANEP CODICEN\RESIDENTE ANTERIOR\247-JARDIN SAUCE\econopanel.pdf` (12 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `ANEP CODICEN\RESIDENTE ANTERIOR\247-JARDIN SAUCE\econopanel.pdf` (12 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

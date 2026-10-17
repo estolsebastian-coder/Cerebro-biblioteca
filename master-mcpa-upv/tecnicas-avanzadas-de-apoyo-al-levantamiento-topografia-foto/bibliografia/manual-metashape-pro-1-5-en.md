@@ -4,14 +4,14 @@ title: "Agisoft Metashape User Manual - Professional Edition, Version 1.5"
 author: ""
 categoria: "Técnicas avanzadas de apoyo al levantamiento. Topografía, fotogrametría y escáner láser (optativa)"
 paginas: 130
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:D:/UPV/MCPA/Asignaturas/Técnicas avanzadas de apoyo al levantamiento. Topografía, fotogrametría y escáner láser (optativa)/Bibliografía/manual metashape-pro_1_5_en.pdf"
 convertido: 2026-10-16
 ---
 
 # Agisoft Metashape User Manual - Professional Edition, Version 1.5
 
-> Texto extraído de `Técnicas avanzadas de apoyo al levantamiento. Topografía, fotogrametría y escáner láser (optativa)\Bibliografía\manual metashape-pro_1_5_en.pdf` (130 páginas, texto (OCR pendiente)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Técnicas avanzadas de apoyo al levantamiento. Topografía, fotogrametría y escáner láser (optativa)\Bibliografía\manual metashape-pro_1_5_en.pdf` (130 páginas, texto). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

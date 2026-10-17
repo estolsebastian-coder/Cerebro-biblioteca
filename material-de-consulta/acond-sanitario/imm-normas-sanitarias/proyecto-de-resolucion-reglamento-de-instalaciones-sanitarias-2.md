@@ -4,14 +4,14 @@ title: "De acuerdo a fs"
 author: "WinuE"
 categoria: "ACOND. SANITARIO"
 paginas: 44
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/ACOND. SANITARIO/imm normas sanitarias/Proyecto de resolución Reglamento de Instalaciones Sanitarias 2.pdf"
 convertido: 2026-10-16
 ---
 
 # De acuerdo a fs
 
-> Texto extraído de `ACOND. SANITARIO\imm normas sanitarias\Proyecto de resolución Reglamento de Instalaciones Sanitarias 2.pdf` (44 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `ACOND. SANITARIO\imm normas sanitarias\Proyecto de resolución Reglamento de Instalaciones Sanitarias 2.pdf` (44 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

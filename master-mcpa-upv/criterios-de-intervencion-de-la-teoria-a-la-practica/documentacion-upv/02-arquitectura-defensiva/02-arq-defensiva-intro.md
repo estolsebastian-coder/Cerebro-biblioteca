@@ -4,14 +4,14 @@ title: "Conservación de la arquitectura rural: algunos casos de buenas práctic
 author: "valentina"
 categoria: "Criterios de intervención. De la teoría a la práctica"
 paginas: 26
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:D:/UPV/MCPA/Asignaturas/Criterios de intervención. De la teoría a la práctica/Documentación UPV/02. Arquitectura defensiva/02. arq_defensiva_intro.pdf"
 convertido: 2026-10-16
 ---
 
 # Conservación de la arquitectura rural: algunos casos de buenas prácticas Valentina Cristini, UPV
 
-> Texto extraído de `Criterios de intervención. De la teoría a la práctica\Documentación UPV\02. Arquitectura defensiva\02. arq_defensiva_intro.pdf` (26 páginas, texto (OCR pendiente)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Criterios de intervención. De la teoría a la práctica\Documentación UPV\02. Arquitectura defensiva\02. arq_defensiva_intro.pdf` (26 páginas, texto). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

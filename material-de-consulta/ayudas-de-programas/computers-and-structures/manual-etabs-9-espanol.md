@@ -4,14 +4,14 @@ title: "Computers and Structures, Inc"
 author: "Morrison Ingenieros"
 categoria: "AYUDAS DE PROGRAMAS"
 paginas: 242
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/AYUDAS DE PROGRAMAS/COMPUTERS AND STRUCTURES/Manual ETABS 9 Español.pdf"
 convertido: 2026-10-16
 ---
 
 # Computers and Structures, Inc
 
-> Texto extraído de `AYUDAS DE PROGRAMAS\COMPUTERS AND STRUCTURES\Manual ETABS 9 Español.pdf` (242 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `AYUDAS DE PROGRAMAS\COMPUTERS AND STRUCTURES\Manual ETABS 9 Español.pdf` (242 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

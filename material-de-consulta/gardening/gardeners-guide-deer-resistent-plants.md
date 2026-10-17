@@ -4,14 +4,14 @@ title: "F:\\Gardener's Guide\\GardenersGuide.pmd"
 author: "LBernard"
 categoria: "GARDENING"
 paginas: 24
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/GARDENING/Gardeners Guide - Deer Resistent Plants.pdf"
 convertido: 2026-10-16
 ---
 
 # F:\Gardener's Guide\GardenersGuide.pmd
 
-> Texto extraído de `GARDENING\Gardeners Guide - Deer Resistent Plants.pdf` (24 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `GARDENING\Gardeners Guide - Deer Resistent Plants.pdf` (24 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

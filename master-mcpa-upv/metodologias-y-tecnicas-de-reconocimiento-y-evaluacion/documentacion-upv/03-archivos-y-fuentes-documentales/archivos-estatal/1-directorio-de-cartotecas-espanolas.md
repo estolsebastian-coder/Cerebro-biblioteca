@@ -4,14 +4,14 @@ title: "Directorio de cartotecas y de colecciones cartográficas en institucione
 author: "Biblioteca Nacional de España"
 categoria: "Metodologías y técnicas de reconocimiento y evaluación"
 paginas: 176
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:D:/UPV/MCPA/Asignaturas/Metodologías y técnicas de reconocimiento y evaluación/Documentación UPV/03. Archivos y fuentes documentales/Archivos estatales/1_Directorio de Cartotecas Españolas.pdf"
 convertido: 2026-10-16
 ---
 
 # Directorio de cartotecas y de colecciones cartográficas en instituciones españolas
 
-> Texto extraído de `Metodologías y técnicas de reconocimiento y evaluación\Documentación UPV\03. Archivos y fuentes documentales\Archivos estatales\1_Directorio de Cartotecas Españolas.pdf` (176 páginas, texto (OCR pendiente)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Metodologías y técnicas de reconocimiento y evaluación\Documentación UPV\03. Archivos y fuentes documentales\Archivos estatales\1_Directorio de Cartotecas Españolas.pdf` (176 páginas, texto). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

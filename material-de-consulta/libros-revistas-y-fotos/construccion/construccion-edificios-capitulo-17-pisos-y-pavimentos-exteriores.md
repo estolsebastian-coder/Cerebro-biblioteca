@@ -4,14 +4,14 @@ title: "Capítulo 17. Pisos y pavimentos exteriores"
 author: "IMCYC"
 categoria: "LIBROS, REVISTAS Y FOTOS"
 paginas: 8
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/LIBROS, REVISTAS Y FOTOS/CONSTRUCCIÓN/Construccion_Edificios_capitulo_17_pisos_y_pavimentos_exteriores.pdf"
 convertido: 2026-10-16
 ---
 
 # Capítulo 17. Pisos y pavimentos exteriores
 
-> Texto extraído de `LIBROS, REVISTAS Y FOTOS\CONSTRUCCIÓN\Construccion_Edificios_capitulo_17_pisos_y_pavimentos_exteriores.pdf` (8 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `LIBROS, REVISTAS Y FOTOS\CONSTRUCCIÓN\Construccion_Edificios_capitulo_17_pisos_y_pavimentos_exteriores.pdf` (8 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

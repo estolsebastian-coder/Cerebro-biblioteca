@@ -4,14 +4,14 @@ title: "2013_Las_escaleras_con_boveda_continua_d"
 author: "azaragoza"
 categoria: "Técnicas Constructivas y materiales para la conservación"
 paginas: 19
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:D:/UPV/MCPA/Asignaturas/Técnicas Constructivas y materiales para la conservación/03. Otros documentos/Técnicas constructivas/Publicaciones/Autores/Zaragozá. Marín/2013_Las_escaleras_con_boveda_continua_d.pdf"
 convertido: 2026-10-16
 ---
 
 # 2013_Las_escaleras_con_boveda_continua_d
 
-> Texto extraído de `Técnicas Constructivas y materiales para la conservación\03. Otros documentos\Técnicas constructivas\Publicaciones\Autores\Zaragozá. Marín\2013_Las_escaleras_con_boveda_continua_d.pdf` (19 páginas, texto (OCR pendiente)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Técnicas Constructivas y materiales para la conservación\03. Otros documentos\Técnicas constructivas\Publicaciones\Autores\Zaragozá. Marín\2013_Las_escaleras_con_boveda_continua_d.pdf` (19 páginas, texto). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

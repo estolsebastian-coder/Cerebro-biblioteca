@@ -4,14 +4,14 @@ title: "Hidrocarbonados y Polimeros [Sólo lectur"
 author: ""
 categoria: "CONSTRUCCIÓN"
 paginas: 23
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/hidrocarbonados/Hidrocarbonados_y_Polimeros.pdf"
 convertido: 2026-10-16
 ---
 
 # Hidrocarbonados y Polimeros [Sólo lectur
 
-> Texto extraído de `CONSTRUCCIÓN\hidrocarbonados\Hidrocarbonados_y_Polimeros.pdf` (23 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\hidrocarbonados\Hidrocarbonados_y_Polimeros.pdf` (23 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

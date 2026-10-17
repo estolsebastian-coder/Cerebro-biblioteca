@@ -4,14 +4,14 @@ title: "CRITERIOS  Y  TÉCNICAS DE INTERVENCIÓN"
 author: "valentina"
 categoria: "Criterios de intervención. De la teoría a la práctica"
 paginas: 8
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:D:/UPV/MCPA/Asignaturas/Criterios de intervención. De la teoría a la práctica/Documentación UPV/01. Introducción al curso/01. Criterios introduccion 1.pdf"
 convertido: 2026-10-16
 ---
 
 # CRITERIOS Y TÉCNICAS DE INTERVENCIÓN
 
-> Texto extraído de `Criterios de intervención. De la teoría a la práctica\Documentación UPV\01. Introducción al curso\01. Criterios introduccion 1.pdf` (8 páginas, texto (OCR pendiente)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Criterios de intervención. De la teoría a la práctica\Documentación UPV\01. Introducción al curso\01. Criterios introduccion 1.pdf` (8 páginas, texto). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

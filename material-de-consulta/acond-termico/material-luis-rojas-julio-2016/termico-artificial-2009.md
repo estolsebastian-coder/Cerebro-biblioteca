@@ -4,14 +4,14 @@ title: "TERMICO_ARTIFICIAL_2009"
 author: "Administrador"
 categoria: "ACOND. TÉRMICO"
 paginas: 45
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/ACOND. TÉRMICO/Material Luis Rojas (julio 2016)/TERMICO_ARTIFICIAL_2009.pdf"
 convertido: 2026-10-16
 ---
 
 # TERMICO_ARTIFICIAL_2009
 
-> Texto extraído de `ACOND. TÉRMICO\Material Luis Rojas (julio 2016)\TERMICO_ARTIFICIAL_2009.pdf` (45 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `ACOND. TÉRMICO\Material Luis Rojas (julio 2016)\TERMICO_ARTIFICIAL_2009.pdf` (45 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -4,14 +4,14 @@ title: "Capítulo 9. Cimentación"
 author: "IMCYC"
 categoria: "CONSTRUCCIÓN"
 paginas: 35
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/construccion de edificios/Construccion_Edificios_capitulo_09_cimentacion.pdf"
 convertido: 2026-10-16
 ---
 
 # Capítulo 9. Cimentación
 
-> Texto extraído de `CONSTRUCCIÓN\construccion de edificios\Construccion_Edificios_capitulo_09_cimentacion.pdf` (35 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\construccion de edificios\Construccion_Edificios_capitulo_09_cimentacion.pdf` (35 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

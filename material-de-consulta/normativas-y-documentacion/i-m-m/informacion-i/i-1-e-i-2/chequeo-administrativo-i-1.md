@@ -4,14 +4,14 @@ title: "chequeo administrativo I 1"
 author: ""
 categoria: "NORMATIVAS Y DOCUMENTACIÓN"
 paginas: 2
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/NORMATIVAS Y DOCUMENTACIÓN/I.M.M/INFORMACION I/i 1 e i 2/chequeo administrativo I 1.pdf"
 convertido: 2026-10-16
 ---
 
 # chequeo administrativo I 1
 
-> Texto extraído de `NORMATIVAS Y DOCUMENTACIÓN\I.M.M\INFORMACION I\i 1 e i 2\chequeo administrativo I 1.pdf` (2 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `NORMATIVAS Y DOCUMENTACIÓN\I.M.M\INFORMACION I\i 1 e i 2\chequeo administrativo I 1.pdf` (2 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

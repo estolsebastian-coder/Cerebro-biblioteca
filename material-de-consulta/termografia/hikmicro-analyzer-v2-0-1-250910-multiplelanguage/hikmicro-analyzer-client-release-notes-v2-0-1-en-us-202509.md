@@ -4,14 +4,14 @@ title: "HIKMICRO Analyzer Client_Release Notes_V2.0.1_en-US_202509"
 author: ""
 categoria: "TERMOGRAFÍA"
 paginas: 25
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/TERMOGRAFÍA/HIKMICRO Analyzer V2.0.1_250910_multiplelanguage/HIKMICRO Analyzer Client_Release Notes_V2.0.1_en-US_202509.pdf"
 convertido: 2026-10-16
 ---
 
 # HIKMICRO Analyzer Client_Release Notes_V2.0.1_en-US_202509
 
-> Texto extraído de `TERMOGRAFÍA\HIKMICRO Analyzer V2.0.1_250910_multiplelanguage\HIKMICRO Analyzer Client_Release Notes_V2.0.1_en-US_202509.pdf` (25 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `TERMOGRAFÍA\HIKMICRO Analyzer V2.0.1_250910_multiplelanguage\HIKMICRO Analyzer Client_Release Notes_V2.0.1_en-US_202509.pdf` (25 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

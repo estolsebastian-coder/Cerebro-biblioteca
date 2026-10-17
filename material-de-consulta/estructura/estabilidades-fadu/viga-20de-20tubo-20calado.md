@@ -4,14 +4,14 @@ title: "T I P O L O G I A S     E S T R U C T U R A L E S     D E     E D I F I 
 author: "Griselda Saposnik"
 categoria: "ESTRUCTURA"
 paginas: 19
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/ESTRUCTURA/ESTABILIDADES FADU/viga%20de%20tubo%20calado.pdf"
 convertido: 2026-10-16
 ---
 
 # T I P O L O G I A S E S T R U C T U R A L E S D E E D I F I C I O S E N A L T U R A
 
-> Texto extraído de `ESTRUCTURA\ESTABILIDADES FADU\viga%20de%20tubo%20calado.pdf` (19 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `ESTRUCTURA\ESTABILIDADES FADU\viga%20de%20tubo%20calado.pdf` (19 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

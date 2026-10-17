@@ -4,14 +4,14 @@ title: "albailera_1b"
 author: ""
 categoria: "CONSTRUCCIÓN"
 paginas: 46
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/revoques de muros/albailera_1b.pdf"
 convertido: 2026-10-16
 ---
 
 # albailera_1b
 
-> Texto extraído de `CONSTRUCCIÓN\revoques de muros\albailera_1b.pdf` (46 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\revoques de muros\albailera_1b.pdf` (46 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

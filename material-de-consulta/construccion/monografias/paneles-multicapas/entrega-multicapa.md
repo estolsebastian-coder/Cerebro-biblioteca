@@ -4,14 +4,14 @@ title: "ENTREGA MULTICAPA"
 author: "aalonzo"
 categoria: "CONSTRUCCIÓN"
 paginas: 27
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/MONOGRAFIAS/paneles multicapas/ENTREGA MULTICAPA.pdf"
 convertido: 2026-10-16
 ---
 
 # ENTREGA MULTICAPA
 
-> Texto extraído de `CONSTRUCCIÓN\MONOGRAFIAS\paneles multicapas\ENTREGA MULTICAPA.pdf` (27 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\MONOGRAFIAS\paneles multicapas\ENTREGA MULTICAPA.pdf` (27 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

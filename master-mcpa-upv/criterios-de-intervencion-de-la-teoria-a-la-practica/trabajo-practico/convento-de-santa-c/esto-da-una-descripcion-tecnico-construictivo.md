@@ -4,14 +4,14 @@ title: "esto da una descripcion tecnico -construictivo"
 author: "Katia"
 categoria: "Criterios de intervención. De la teoría a la práctica"
 paginas: 10
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:D:/UPV/MCPA/Asignaturas/Criterios de intervención. De la teoría a la práctica/Trabajo práctico/Convento de santa Clara de Asís/esto da una descripcion tecnico -construictivo.pdf"
 convertido: 2026-10-16
 ---
 
 # esto da una descripcion tecnico -construictivo
 
-> Texto extraído de `Criterios de intervención. De la teoría a la práctica\Trabajo práctico\Convento de santa Clara de Asís\esto da una descripcion tecnico -construictivo.pdf` (10 páginas, texto (OCR pendiente)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Criterios de intervención. De la teoría a la práctica\Trabajo práctico\Convento de santa Clara de Asís\esto da una descripcion tecnico -construictivo.pdf` (10 páginas, texto). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

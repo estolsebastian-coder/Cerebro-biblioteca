@@ -4,14 +4,14 @@ title: "LuminariaLT3"
 author: "Administrador"
 categoria: "ANEP CODICEN"
 paginas: 4
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/ANEP CODICEN/MATERIAL D.S.I/Para Residentes/Jardín de Infantes 374/6.8 ANEXO G PLANILLA LUMINARIAS/LuminariaLT3(1).pdf"
 convertido: 2026-10-16
 ---
 
 # LuminariaLT3
 
-> Texto extraído de `ANEP CODICEN\MATERIAL D.S.I\Para Residentes\Jardín de Infantes 374\6.8 ANEXO G PLANILLA LUMINARIAS\LuminariaLT3(1).pdf` (4 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `ANEP CODICEN\MATERIAL D.S.I\Para Residentes\Jardín de Infantes 374\6.8 ANEXO G PLANILLA LUMINARIAS\LuminariaLT3(1).pdf` (4 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -4,14 +4,14 @@ title: "Gráfico1"
 author: ""
 categoria: "CONSTRUCCIÓN"
 paginas: 38
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/Manual de Construcción/Construccion Tradicional Parte 1.pdf"
 convertido: 2026-10-16
 ---
 
 # Gráfico1
 
-> Texto extraído de `CONSTRUCCIÓN\Manual de Construcción\Construccion Tradicional Parte 1.pdf` (38 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\Manual de Construcción\Construccion Tradicional Parte 1.pdf` (38 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

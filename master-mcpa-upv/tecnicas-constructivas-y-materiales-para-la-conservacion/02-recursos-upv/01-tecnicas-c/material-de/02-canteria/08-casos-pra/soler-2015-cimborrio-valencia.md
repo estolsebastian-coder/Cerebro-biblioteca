@@ -4,14 +4,14 @@ title: "SOLER 2015_Cimborrio Valencia"
 author: ""
 categoria: "Técnicas Constructivas y materiales para la conservación"
 paginas: 18
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:D:/UPV/MCPA/Asignaturas/Técnicas Constructivas y materiales para la conservación/02. Recursos UPV/01. Técnicas constructivas/Material de lectura y estudio/02. Cantería medieval y moderna/08. Casos prácticos/SOLER 2015_Cimborrio Valencia.pdf"
 convertido: 2026-10-16
 ---
 
 # SOLER 2015_Cimborrio Valencia
 
-> Texto extraído de `Técnicas Constructivas y materiales para la conservación\02. Recursos UPV\01. Técnicas constructivas\Material de lectura y estudio\02. Cantería medieval y moderna\08. Casos prácticos\SOLER 2015_Cimborrio Valencia.pdf` (18 páginas, texto (OCR pendiente)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Técnicas Constructivas y materiales para la conservación\02. Recursos UPV\01. Técnicas constructivas\Material de lectura y estudio\02. Cantería medieval y moderna\08. Casos prácticos\SOLER 2015_Cimborrio Valencia.pdf` (18 páginas, texto). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

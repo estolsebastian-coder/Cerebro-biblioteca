@@ -4,14 +4,14 @@ title: "196-PRESUPUESTO GC`S"
 author: ""
 categoria: "ANEP CODICEN"
 paginas: 4
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/ANEP CODICEN/RESIDENTE ANTERIOR/196-ESCUELA/CONVENIO-2015/196-PRESUPUESTO GC`S.pdf"
 convertido: 2026-10-16
 ---
 
 # 196-PRESUPUESTO GC`S
 
-> Texto extraído de `ANEP CODICEN\RESIDENTE ANTERIOR\196-ESCUELA\CONVENIO-2015\196-PRESUPUESTO GC`S.pdf` (4 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `ANEP CODICEN\RESIDENTE ANTERIOR\196-ESCUELA\CONVENIO-2015\196-PRESUPUESTO GC`S.pdf` (4 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

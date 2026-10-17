@@ -4,14 +4,14 @@ title: "11-Cerramientos-transparentes"
 author: "Lorier"
 categoria: "ACOND. TÉRMICO"
 paginas: 9
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/ACOND. TÉRMICO/Material Luis Rojas (julio 2016)/11-Cerramientos-transparentes.pdf"
 convertido: 2026-10-16
 ---
 
 # 11-Cerramientos-transparentes
 
-> Texto extraído de `ACOND. TÉRMICO\Material Luis Rojas (julio 2016)\11-Cerramientos-transparentes.pdf` (9 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `ACOND. TÉRMICO\Material Luis Rojas (julio 2016)\11-Cerramientos-transparentes.pdf` (9 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

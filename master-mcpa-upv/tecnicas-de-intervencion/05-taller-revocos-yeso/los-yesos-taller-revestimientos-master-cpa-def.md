@@ -4,14 +4,14 @@ title: "Los Yesos. Taller Revestimientos .Master  CPA. def."
 author: "maria"
 categoria: "Técnicas de intervención"
 paginas: 21
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:D:/UPV/MCPA/Asignaturas/Técnicas de intervención/05 Taller REVOCOS YESO/Los Yesos. Taller Revestimientos .Master  CPA. def..pdf"
 convertido: 2026-10-16
 ---
 
 # Los Yesos. Taller Revestimientos .Master CPA. def.
 
-> Texto extraído de `Técnicas de intervención\05 Taller REVOCOS YESO\Los Yesos. Taller Revestimientos .Master  CPA. def..pdf` (21 páginas, texto (OCR pendiente)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Técnicas de intervención\05 Taller REVOCOS YESO\Los Yesos. Taller Revestimientos .Master  CPA. def..pdf` (21 páginas, texto). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -4,14 +4,14 @@ title: "presentacion_e01_sem0208"
 author: "Nombre"
 categoria: "CONSTRUCCIÓN"
 paginas: 14
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/ejercicio 1/presentacion_e01_sem0208.pdf"
 convertido: 2026-10-16
 ---
 
 # presentacion_e01_sem0208
 
-> Texto extraído de `CONSTRUCCIÓN\ejercicio 1\presentacion_e01_sem0208.pdf` (14 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\ejercicio 1\presentacion_e01_sem0208.pdf` (14 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -4,14 +4,14 @@ title: "resol_ej_losas_cont"
 author: "webmaster"
 categoria: "ESTRUCTURA"
 paginas: 12
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/ESTRUCTURA/ESTABILIDADES FADU/ESTABILIDAD 1/losas/resol_ej_losas_cont.pdf"
 convertido: 2026-10-16
 ---
 
 # resol_ej_losas_cont
 
-> Texto extraído de `ESTRUCTURA\ESTABILIDADES FADU\ESTABILIDAD 1\losas\resol_ej_losas_cont.pdf` (12 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `ESTRUCTURA\ESTABILIDADES FADU\ESTABILIDAD 1\losas\resol_ej_losas_cont.pdf` (12 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

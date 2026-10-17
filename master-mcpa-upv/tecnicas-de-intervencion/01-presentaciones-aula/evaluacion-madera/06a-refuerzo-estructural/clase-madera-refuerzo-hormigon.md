@@ -4,14 +4,14 @@ title: "CLASE MADERA REFUERZO HORMIGÓN"
 author: "Veronica"
 categoria: "Técnicas de intervención"
 paginas: 35
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:D:/UPV/MCPA/Asignaturas/Técnicas de intervención/01_Presentaciones AULA/EVALUACIÓN MADERA/06a_REFUERZO Estructural/CLASE MADERA REFUERZO HORMIGÓN.pdf"
 convertido: 2026-10-16
 ---
 
 # CLASE MADERA REFUERZO HORMIGÓN
 
-> Texto extraído de `Técnicas de intervención\01_Presentaciones AULA\EVALUACIÓN MADERA\06a_REFUERZO Estructural\CLASE MADERA REFUERZO HORMIGÓN.pdf` (35 páginas, texto (OCR pendiente)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Técnicas de intervención\01_Presentaciones AULA\EVALUACIÓN MADERA\06a_REFUERZO Estructural\CLASE MADERA REFUERZO HORMIGÓN.pdf` (35 páginas, texto). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

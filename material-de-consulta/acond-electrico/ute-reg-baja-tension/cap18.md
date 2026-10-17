@@ -4,14 +4,14 @@ title: "Cap18"
 author: "UT530808"
 categoria: "ACOND. ELÉCTRICO"
 paginas: 11
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/ACOND. ELÉCTRICO/UTE Reg. Baja  Tension/Cap18.pdf"
 convertido: 2026-10-16
 ---
 
 # Cap18
 
-> Texto extraído de `ACOND. ELÉCTRICO\UTE Reg. Baja  Tension\Cap18.pdf` (11 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `ACOND. ELÉCTRICO\UTE Reg. Baja  Tension\Cap18.pdf` (11 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

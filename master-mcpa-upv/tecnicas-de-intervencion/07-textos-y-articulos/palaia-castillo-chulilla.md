@@ -4,14 +4,14 @@ title: "Palaia_Castillo Chulilla"
 author: "mio"
 categoria: "Técnicas de intervención"
 paginas: 22
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:D:/UPV/MCPA/Asignaturas/Técnicas de intervención/07_Textos y Artículos/Palaia_Castillo Chulilla.pdf"
 convertido: 2026-10-16
 ---
 
 # Palaia_Castillo Chulilla
 
-> Texto extraído de `Técnicas de intervención\07_Textos y Artículos\Palaia_Castillo Chulilla.pdf` (22 páginas, texto (OCR pendiente)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Técnicas de intervención\07_Textos y Artículos\Palaia_Castillo Chulilla.pdf` (22 páginas, texto). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

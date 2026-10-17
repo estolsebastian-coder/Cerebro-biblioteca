@@ -4,14 +4,14 @@ title: "conformados sou eje recto.ppt [Sólo lect"
 author: "Daniel Chamlian"
 categoria: "CONSTRUCCIÓN"
 paginas: 21
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/conformados/conformados eje recto.pdf"
 convertido: 2026-10-16
 ---
 
 # conformados sou eje recto.ppt [Sólo lect
 
-> Texto extraído de `CONSTRUCCIÓN\conformados\conformados eje recto.pdf` (21 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\conformados\conformados eje recto.pdf` (21 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

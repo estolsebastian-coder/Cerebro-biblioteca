@@ -4,14 +4,14 @@ title: "Boletin2005"
 author: "Planeamiento - Estudios"
 categoria: "URBANISMO"
 paginas: 44
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/URBANISMO/talleres/schelotto2006/información/Boletin2005.pdf"
 convertido: 2026-10-16
 ---
 
 # Boletin2005
 
-> Texto extraído de `URBANISMO\talleres\schelotto2006\información\Boletin2005.pdf` (44 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `URBANISMO\talleres\schelotto2006\información\Boletin2005.pdf` (44 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

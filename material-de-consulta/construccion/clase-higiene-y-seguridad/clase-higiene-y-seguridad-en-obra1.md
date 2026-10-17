@@ -4,14 +4,14 @@ title: "clase_higiene_y_seguridad_en_obra1"
 author: "Administrador"
 categoria: "CONSTRUCCIÓN"
 paginas: 48
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/clase higiene y seguridad/clase_higiene_y_seguridad_en_obra1.pdf"
 convertido: 2026-10-16
 ---
 
 # clase_higiene_y_seguridad_en_obra1
 
-> Texto extraído de `CONSTRUCCIÓN\clase higiene y seguridad\clase_higiene_y_seguridad_en_obra1.pdf` (48 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\clase higiene y seguridad\clase_higiene_y_seguridad_en_obra1.pdf` (48 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

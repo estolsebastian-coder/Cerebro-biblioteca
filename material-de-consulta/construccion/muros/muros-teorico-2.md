@@ -4,14 +4,14 @@ title: "MUROS TEÓRICO 2  7 junio"
 author: ""
 categoria: "CONSTRUCCIÓN"
 paginas: 13
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/muros/MUROS TEoRICO 2.pdf"
 convertido: 2026-10-16
 ---
 
 # MUROS TEÓRICO 2 7 junio
 
-> Texto extraído de `CONSTRUCCIÓN\muros\MUROS TEoRICO 2.pdf` (13 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\muros\MUROS TEoRICO 2.pdf` (13 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

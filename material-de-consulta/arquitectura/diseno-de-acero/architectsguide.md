@@ -4,14 +4,14 @@ title: "ArchitectsGuide"
 author: "keith"
 categoria: "ARQUITECTURA"
 paginas: 374
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/ARQUITECTURA/Diseño de acero/ArchitectsGuide.pdf"
 convertido: 2026-10-16
 ---
 
 # ArchitectsGuide
 
-> Texto extraído de `ARQUITECTURA\Diseño de acero\ArchitectsGuide.pdf` (374 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `ARQUITECTURA\Diseño de acero\ArchitectsGuide.pdf` (374 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

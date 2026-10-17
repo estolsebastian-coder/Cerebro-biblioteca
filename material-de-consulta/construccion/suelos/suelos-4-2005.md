@@ -4,14 +4,14 @@ title: "suelos 4_2005 v5"
 author: ""
 categoria: "CONSTRUCCIÓN"
 paginas: 15
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/suelos/suelos 4_2005.pdf"
 convertido: 2026-10-16
 ---
 
 # suelos 4_2005 v5
 
-> Texto extraído de `CONSTRUCCIÓN\suelos\suelos 4_2005.pdf` (15 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\suelos\suelos 4_2005.pdf` (15 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

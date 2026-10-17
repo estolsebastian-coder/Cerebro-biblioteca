@@ -4,14 +4,14 @@ title: "Anexo I_Cuadros y Tablas"
 author: "Santiago Merlo"
 categoria: "ESTRUCTURA"
 paginas: 14
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/ESTRUCTURA/ESTABILIDADES FADU/ESTABILIDAD 3/madera/Anexo I_Cuadros y Tablas.pdf"
 convertido: 2026-10-16
 ---
 
 # Anexo I_Cuadros y Tablas
 
-> Texto extraído de `ESTRUCTURA\ESTABILIDADES FADU\ESTABILIDAD 3\madera\Anexo I_Cuadros y Tablas.pdf` (14 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `ESTRUCTURA\ESTABILIDADES FADU\ESTABILIDAD 3\madera\Anexo I_Cuadros y Tablas.pdf` (14 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

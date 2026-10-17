@@ -4,14 +4,14 @@ title: "CLASE MADERA REFUERZO ACERO"
 author: "Veronica"
 categoria: "Técnicas de intervención"
 paginas: 33
-extraccion: "texto (OCR pendiente); 5 páginas por OCR previo (Windows, corpus MCPA)"
+extraccion: "texto; 5 páginas por OCR previo (Windows, corpus MCPA)"
 fuente: "local:D:/UPV/MCPA/Asignaturas/Técnicas de intervención/01_Presentaciones AULA/04_Evaluación ESTRUCTURAL/EVALUACIÓN MADERA 2/CLASE MADERA REFUERZO ACERO.pdf"
 convertido: 2026-10-16
 ---
 
 # CLASE MADERA REFUERZO ACERO
 
-> Texto extraído de `Técnicas de intervención\01_Presentaciones AULA\04_Evaluación ESTRUCTURAL\EVALUACIÓN MADERA 2\CLASE MADERA REFUERZO ACERO.pdf` (33 páginas, texto (OCR pendiente); 5 páginas por OCR previo (Windows, corpus MCPA)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Técnicas de intervención\01_Presentaciones AULA\04_Evaluación ESTRUCTURAL\EVALUACIÓN MADERA 2\CLASE MADERA REFUERZO ACERO.pdf` (33 páginas, texto; 5 páginas por OCR previo (Windows, corpus MCPA)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

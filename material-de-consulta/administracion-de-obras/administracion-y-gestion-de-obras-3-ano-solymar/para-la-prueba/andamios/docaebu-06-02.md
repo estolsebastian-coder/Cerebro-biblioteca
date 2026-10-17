@@ -4,14 +4,14 @@ title: "MANUAL SALUD Y TRABAJO"
 author: "Caligraficos"
 categoria: "ADMINISTRACIÓN DE OBRAS"
 paginas: 92
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/ADMINISTRACIÓN DE OBRAS/administracion y gestion de obras  3 año SOLYMAR/para la prueba/andamios/DocAebu_06_02.pdf"
 convertido: 2026-10-16
 ---
 
 # MANUAL SALUD Y TRABAJO
 
-> Texto extraído de `ADMINISTRACIÓN DE OBRAS\administracion y gestion de obras  3 año SOLYMAR\para la prueba\andamios\DocAebu_06_02.pdf` (92 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `ADMINISTRACIÓN DE OBRAS\administracion y gestion de obras  3 año SOLYMAR\para la prueba\andamios\DocAebu_06_02.pdf` (92 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

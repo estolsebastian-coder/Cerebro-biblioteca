@@ -4,14 +4,14 @@ title: "Capítulo 13. Escaleras"
 author: "IMCYC"
 categoria: "CONSTRUCCIÓN"
 paginas: 11
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/Anon - Manual De Construccion De Escaleras.PDF"
 convertido: 2026-10-16
 ---
 
 # Capítulo 13. Escaleras
 
-> Texto extraído de `CONSTRUCCIÓN\Anon - Manual De Construccion De Escaleras.PDF` (11 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\Anon - Manual De Construccion De Escaleras.PDF` (11 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -4,14 +4,14 @@ title: "3ds Max Design 2012 – para usuarios de AutoCAD"
 author: "Fernando Montaño La Cruz"
 categoria: "BIM Y HBIM"
 paginas: 18
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/BIM Y HBIM/01. Revit/CURSOS MONTAÑO/TUTORIALES 1 (REVIT BÁSICO)/Leccion 06 Planos del proyecto/Literatura/Leccion06 Planos de Proyecto.pdf"
 convertido: 2026-10-16
 ---
 
 # 3ds Max Design 2012 – para usuarios de AutoCAD
 
-> Texto extraído de `BIM Y HBIM\01. Revit\CURSOS MONTAÑO\TUTORIALES 1 (REVIT BÁSICO)\Leccion 06 Planos del proyecto\Literatura\Leccion06 Planos de Proyecto.pdf` (18 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `BIM Y HBIM\01. Revit\CURSOS MONTAÑO\TUTORIALES 1 (REVIT BÁSICO)\Leccion 06 Planos del proyecto\Literatura\Leccion06 Planos de Proyecto.pdf` (18 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

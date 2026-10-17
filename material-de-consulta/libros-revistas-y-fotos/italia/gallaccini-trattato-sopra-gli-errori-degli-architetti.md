@@ -4,14 +4,14 @@ title: "Gallaccini - Trattato Sopra gli Errori degli Architetti"
 author: "Alessandro"
 categoria: "LIBROS, REVISTAS Y FOTOS"
 paginas: 68
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/LIBROS, REVISTAS Y FOTOS/Italia/Gallaccini - Trattato Sopra gli Errori degli Architetti.pdf"
 convertido: 2026-10-16
 ---
 
 # Gallaccini - Trattato Sopra gli Errori degli Architetti
 
-> Texto extraído de `LIBROS, REVISTAS Y FOTOS\Italia\Gallaccini - Trattato Sopra gli Errori degli Architetti.pdf` (68 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `LIBROS, REVISTAS Y FOTOS\Italia\Gallaccini - Trattato Sopra gli Errori degli Architetti.pdf` (68 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

@@ -4,14 +4,14 @@ title: "Inf Interna del Programa"
 author: "Ing. Eliud"
 categoria: "AYUDAS DE PROGRAMAS"
 paginas: 18
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/AYUDAS DE PROGRAMAS/COMPUTERS AND STRUCTURES/Inf Interna del Programa.pdf"
 convertido: 2026-10-16
 ---
 
 # Inf Interna del Programa
 
-> Texto extraído de `AYUDAS DE PROGRAMAS\COMPUTERS AND STRUCTURES\Inf Interna del Programa.pdf` (18 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `AYUDAS DE PROGRAMAS\COMPUTERS AND STRUCTURES\Inf Interna del Programa.pdf` (18 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

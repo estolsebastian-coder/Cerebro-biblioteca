@@ -4,14 +4,14 @@ title: "014_Instalaciones_Sanitaria_-Desagues_Cloacales-"
 author: "Administrador"
 categoria: "LIBROS, REVISTAS Y FOTOS"
 paginas: 30
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/LIBROS, REVISTAS Y FOTOS/SANITARIO/014_Instalaciones_Sanitaria_-Desagues_Cloacales-.pdf"
 convertido: 2026-10-16
 ---
 
 # 014_Instalaciones_Sanitaria_-Desagues_Cloacales-
 
-> Texto extraído de `LIBROS, REVISTAS Y FOTOS\SANITARIO\014_Instalaciones_Sanitaria_-Desagues_Cloacales-.pdf` (30 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `LIBROS, REVISTAS Y FOTOS\SANITARIO\014_Instalaciones_Sanitaria_-Desagues_Cloacales-.pdf` (30 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

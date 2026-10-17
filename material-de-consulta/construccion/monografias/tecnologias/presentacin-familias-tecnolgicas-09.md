@@ -4,14 +4,14 @@ title: "CONSTRUCCION III  SEM 02·07"
 author: "Nombre"
 categoria: "CONSTRUCCIÓN"
 paginas: 135
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/MONOGRAFIAS/tecnologias/presentacin_familias_tecnolgicas_09.pdf"
 convertido: 2026-10-16
 ---
 
 # CONSTRUCCION III SEM 02·07
 
-> Texto extraído de `CONSTRUCCIÓN\MONOGRAFIAS\tecnologias\presentacin_familias_tecnolgicas_09.pdf` (135 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\MONOGRAFIAS\tecnologias\presentacin_familias_tecnolgicas_09.pdf` (135 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

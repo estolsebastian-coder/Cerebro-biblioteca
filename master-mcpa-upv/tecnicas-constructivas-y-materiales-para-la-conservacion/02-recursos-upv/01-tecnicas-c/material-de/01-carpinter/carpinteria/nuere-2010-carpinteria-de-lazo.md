@@ -4,14 +4,14 @@ title: "NUERE 2010_CARPINTERIA DE LAZO"
 author: "Usuario"
 categoria: "Técnicas Constructivas y materiales para la conservación"
 paginas: 70
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:D:/UPV/MCPA/Asignaturas/Técnicas Constructivas y materiales para la conservación/02. Recursos UPV/01. Técnicas constructivas/Material de lectura y estudio/01. Carpinteria de Armar/Carpintería de Lazo/NUERE 2010_CARPINTERIA DE LAZO.pdf"
 convertido: 2026-10-16
 ---
 
 # NUERE 2010_CARPINTERIA DE LAZO
 
-> Texto extraído de `Técnicas Constructivas y materiales para la conservación\02. Recursos UPV\01. Técnicas constructivas\Material de lectura y estudio\01. Carpinteria de Armar\Carpintería de Lazo\NUERE 2010_CARPINTERIA DE LAZO.pdf` (70 páginas, texto (OCR pendiente)). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `Técnicas Constructivas y materiales para la conservación\02. Recursos UPV\01. Técnicas constructivas\Material de lectura y estudio\01. Carpinteria de Armar\Carpintería de Lazo\NUERE 2010_CARPINTERIA DE LAZO.pdf` (70 páginas, texto). El PDF original está en el disco D: (UPV\MCPA\Asignaturas); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

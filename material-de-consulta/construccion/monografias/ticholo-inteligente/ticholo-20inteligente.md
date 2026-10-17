@@ -4,14 +4,14 @@ title: "Ticholo%20Inteligente"
 author: "Nombre"
 categoria: "CONSTRUCCIÓN"
 paginas: 14
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/CONSTRUCCIÓN/MONOGRAFIAS/ticholo inteligente/Ticholo%20Inteligente.pdf"
 convertido: 2026-10-16
 ---
 
 # Ticholo%20Inteligente
 
-> Texto extraído de `CONSTRUCCIÓN\MONOGRAFIAS\ticholo inteligente\Ticholo%20Inteligente.pdf` (14 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `CONSTRUCCIÓN\MONOGRAFIAS\ticholo inteligente\Ticholo%20Inteligente.pdf` (14 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 

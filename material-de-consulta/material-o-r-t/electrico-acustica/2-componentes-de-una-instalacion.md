@@ -4,14 +4,14 @@ title: "2) Componentes de una Instalación"
 author: "arce"
 categoria: "MATERIAL O.R.T"
 paginas: 10
-extraccion: "texto (OCR pendiente)"
+extraccion: "texto"
 fuente: "local:E:/MATERIAL DE CONSULTA/MATERIAL O.R.T/electrico-acustica/2) Componentes de una Instalación.pdf"
 convertido: 2026-10-16
 ---
 
 # \2) Componentes de una Instalación
 
-> Texto extraído de `MATERIAL O.R.T\electrico-acustica\2) Componentes de una Instalación.pdf` (10 páginas, texto (OCR pendiente)). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
+> Texto extraído de `MATERIAL O.R.T\electrico-acustica\2) Componentes de una Instalación.pdf` (10 páginas, texto). El PDF original está en el disco E: (MATERIAL DE CONSULTA); `<!-- p. N -->` marca el inicio de cada página.
 
 <!-- p. 1 -->
 
