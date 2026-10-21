@@ -133251,5 +133251,56 @@
    "tesis-doctorales-y-analisis\\modelizacion-de-la-sedimentacion-de-un-canal-ysu-efecto-sobre-el-caudal.md"
   ],
   "md_bytes": 27311
+ },
+ "local:E:/Biblioteca digital/Tecnología láser, fotogrametría, otros/An Integrated HBIM Framework for the Sustainable Digital Documentation and Management of Nabataean Architectural Heritage.pdf": {
+  "pdf": "Tecnología láser, fotogrametría, otros\\An Integrated HBIM Framework for the Sustainable Digital Documentation and Management of Nabataean Architectural Heritage.pdf",
+  "fuente": "Biblioteca digital",
+  "md": "tecnologia-laser-fotogrametria-otros\\an-integrated-hbim-framework-for-the-sustainable-digital-documentation-and-management-of-n.md",
+  "bytes": 86094596,
+  "categoria": "Tecnología láser, fotogrametría, otros",
+  "ok": true,
+  "titulo": "An Integrated HBIM Framework for the Sustainable Digital Documentation and Management of Nabataean Architectural Heritage",
+  "autor": "Yahya Alshawabkeh y Ahmad Baik",
+  "paginas": 27,
+  "ocr": 0,
+  "idioma": null,
+  "metodo": "texto",
+  "vacias": 0,
+  "archivos": [
+   "tecnologia-laser-fotogrametria-otros\\an-integrated-hbim-framework-for-the-sustainable-digital-documentation-and-management-of-n.md"
+  ],
+  "md_bytes": 77952,
+  "titulo_pdf": "An Integrated HBIM Framework for the Sustainable Digital Documentation and Management of Nabataean Architectural Heritage",
+  "autor_pdf": "",
+  "ajustes": {
+   "autor": "Yahya Alshawabkeh y Ahmad Baik",
+   "nota": "Sustainability 18 (2026): 10533 (MDPI, acceso abierto). DOI 10.3390/su182010533."
+  }
+ },
+ "local:E:/Biblioteca digital/Tecnología láser, fotogrametría, otros/Collection of 3D data useful for surveying and digitizing.pdf": {
+  "pdf": "Tecnología láser, fotogrametría, otros\\Collection of 3D data useful for surveying and digitizing.pdf",
+  "fuente": "Biblioteca digital",
+  "md": "tecnologia-laser-fotogrametria-otros\\collection-of-3d-data-useful-for-surveying-and-digitizing.md",
+  "bytes": 6557250,
+  "categoria": "Tecnología láser, fotogrametría, otros",
+  "ok": true,
+  "titulo": "Collection of 3D data useful for surveying and digitizing cultural heritage using UAV photogrammetry and lidar sensors: Iuvanum 3D dataset",
+  "autor": "Massimiliano Pepe, Donato Palumbo y Ahmed Dewedar",
+  "paginas": 12,
+  "ocr": 0,
+  "idioma": null,
+  "metodo": "texto",
+  "vacias": 0,
+  "archivos": [
+   "tecnologia-laser-fotogrametria-otros\\collection-of-3d-data-useful-for-surveying-and-digitizing.md"
+  ],
+  "md_bytes": 34083,
+  "titulo_pdf": "Collection of 3D data useful for surveying and digitizing",
+  "autor_pdf": "MDM.Guest",
+  "ajustes": {
+   "titulo": "Collection of 3D data useful for surveying and digitizing cultural heritage using UAV photogrammetry and lidar sensors: Iuvanum 3D dataset",
+   "autor": "Massimiliano Pepe, Donato Palumbo y Ahmed Dewedar",
+   "nota": "VIPERC 2025 (CEUR Workshop Proceedings, 2026; CC BY 4.0). Datos en Zenodo, DOI 10.5281/zenodo.17431997."
+  }
  }
 }

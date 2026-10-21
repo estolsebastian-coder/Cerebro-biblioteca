@@ -6,7 +6,7 @@ consultas y lectura. Los PDF originales están en los discos E: y D: de la máqu
 (`fuente:` en el frontmatter de cada `.md`); `<!-- p. N -->` marca el inicio de cada página,
 para citar. Scripts, registro y ajustes: `Cerebro/30-investigacion/biblioteca/scripts/`.
 
-**6,265 textos** de 7,406 PDF · 50.0 GB de PDF → 1,066 MB de texto · 960 pasaron (total o parcialmente) por OCR · 1919 con OCR pendiente · 1120 duplicados no convertidos · 21 con error.
+**6,267 textos** de 7,408 PDF · 50.1 GB de PDF → 1,066 MB de texto · 960 pasaron (total o parcialmente) por OCR · 1919 con OCR pendiente · 1120 duplicados no convertidos · 21 con error.
 
 **Lo que no está en texto también es material de consulta.** Los PDF con «OCR pendiente» (escaneos
 de Material de consulta y del máster que no se pasaron por OCR) tienen acá solo la capa de texto que
@@ -15,7 +15,7 @@ el PDF que indica la `fuente:` del `.md`, en `E:\MATERIAL DE CONSULTA` o `D:\UPV
 
 | Fuente | Carpeta de PDF | Textos |
 |---|---|---:|
-| Biblioteca digital | `E:\Biblioteca digital` | 1,305 |
+| Biblioteca digital | `E:\Biblioteca digital` | 1,307 |
 | Material de consulta | `E:\MATERIAL DE CONSULTA` | 4,084 |
 | Máster MCPA (UPV) | `D:\UPV\MCPA\Asignaturas` | 876 |
 
@@ -6154,7 +6154,7 @@ Regenerar: `python scripts/convertir.py` (solo lo nuevo o cambiado; `--indice` r
 | Historia · [unamuno_uruguay](revistas-ensayos-tesis/historia/unamuno-uruguay.md) — nataliasa | 242 | mixto: 16 páginas por OCR (spa) | `Revistas, ensayos, tesis\Historia\unamuno_uruguay.pdf` |
 | Prehistoria · [A multi-analytical study of the Montelirio beaded attires: Marine resources, sumptuary crafts, and female power in copper age Iberia](revistas-ensayos-tesis/prehistoria/sciadv-adp1917.md) | 14 | texto | `Revistas, ensayos, tesis\Prehistoria\sciadv.adp1917.pdf` |
 
-## Tecnología láser, fotogrametría, otros (38)
+## Tecnología láser, fotogrametría, otros (40)
 
 | Texto | Páginas | Extracción | PDF |
 |---|---:|---|---|
@@ -6164,6 +6164,7 @@ Regenerar: `python scripts/convertir.py` (solo lo nuevo o cambiado; `--indice` r
 | [Levantamiento fotogramétrico de una fortificación en ruina con UAV y captura terrestre: el caso del Castillo de Huelma (Jaén) / ﻿Photogrammetric survey of a fortification in ruins using UAV and terrestrial capture: The case of the Castle of Huelma (Jaén)](tecnologia-laser-fotogrametria-otros/7476-texto-del-articulo-32409-1-10-20260921.md) — Jonathan Moreno-Collado y Gerardo Ruiz Castillo | 17 | texto | `Tecnología láser, fotogrametría, otros\7476-Texto del artículo-32409-1-10-20260921.pdf` |
 | [A Scan-to-HBIM Workflow to Trace the Level of Modelling Accuracy.](tecnologia-laser-fotogrametria-otros/a-scan-to-hbim-workflow-to-trace-the-level-of-modelling-accuracy.md) | 8 | texto | `Tecnología láser, fotogrametría, otros\A Scan-to-HBIM Workflow to Trace the Level of Modelling Accuracy..pdf` |
 | [3D of CH Buildings based on GenAI & Geospatial Data](tecnologia-laser-fotogrametria-otros/amultimodal-approach-to-3d-modelling-of-spanish-cultural.md) — Barbero-Álvarez et al. | 10 | texto | `Tecnología láser, fotogrametría, otros\Amultimodal approach to 3D modelling of Spanish cultural.pdf` |
+| [An Integrated HBIM Framework for the Sustainable Digital Documentation and Management of Nabataean Architectural Heritage](tecnologia-laser-fotogrametria-otros/an-integrated-hbim-framework-for-the-sustainable-digital-documentation-and-management-of-n.md) — Yahya Alshawabkeh y Ahmad Baik ⚠ Sustainability 18 (2026): 10533 (MDPI, acceso abierto). DOI 10.3390/su182010533. | 27 | texto | `Tecnología láser, fotogrametría, otros\An Integrated HBIM Framework for the Sustainable Digital Documentation and Management of Nabataean Architectural Heritage.pdf` |
 | [Formato Proyectos Fin de Grado / Máster](tecnologia-laser-fotogrametria-otros/analisis-de-metodos-para-el-levantamient.md) — Daniel Almagro | 108 | texto | `Tecnología láser, fotogrametría, otros\ANALISIS_DE_METODOS_PARA_EL_LEVANTAMIENT.pdf` |
 | [Analisis_LiDAR_del_PNOA_para_la_interpre](tecnologia-laser-fotogrametria-otros/analisis-lidar-del-pnoa-para-la-interpre.md) | 5 | texto | `Tecnología láser, fotogrametría, otros\Analisis_LiDAR_del_PNOA_para_la_interpre.pdf` |
 | [417736_1_En_7_Chapter 79..90](tecnologia-laser-fotogrametria-otros/bassier-2016-implementation-of-scan-to-bim-and-fem-for-heritage-timber-roof-structures.md) | 12 | texto | `Tecnología láser, fotogrametría, otros\Bassier 2016 - Implementation of Scan-to-BIM and FEM for heritage timber roof structures.pdf` |
@@ -6171,6 +6172,7 @@ Regenerar: `python scripts/convertir.py` (solo lo nuevo o cambiado; `--indice` r
 | [CAPITOLO IV - Parte I](tecnologia-laser-fotogrametria-otros/capitolo-iv-parte-i.md) — 8589 | 50 | texto | `Tecnología láser, fotogrametría, otros\CAPITOLO IV - Parte I.pdf` |
 | [Les Cahiers de l’École du Louvre, 13 \| 2019](tecnologia-laser-fotogrametria-otros/cel-1820.md) — Josette Saint-Martin | 18 | texto | `Tecnología láser, fotogrametría, otros\cel-1820.pdf` |
 | [Cheng 2021 - Ontology-based HBIM for historic buildings with traditional woodwork in Taiwan](tecnologia-laser-fotogrametria-otros/cheng-2021-ontology-based-hbim-for-historic-buildings-with-traditional-woodwork-in-taiwan.md) | 18 | texto | `Tecnología láser, fotogrametría, otros\Cheng 2021 - Ontology-based HBIM for historic buildings with traditional woodwork in Taiwan.pdf` |
+| [Collection of 3D data useful for surveying and digitizing cultural heritage using UAV photogrammetry and lidar sensors: Iuvanum 3D dataset](tecnologia-laser-fotogrametria-otros/collection-of-3d-data-useful-for-surveying-and-digitizing.md) — Massimiliano Pepe, Donato Palumbo y Ahmed Dewedar ⚠ VIPERC 2025 (CEUR Workshop Proceedings, 2026; CC BY 4.0). Datos en Zenodo, DOI 10.5281/zenodo.17431997. | 12 | texto | `Tecnología láser, fotogrametría, otros\Collection of 3D data useful for surveying and digitizing.pdf` |
 | [Combining HBIM and AR for Heritage Conservation.](tecnologia-laser-fotogrametria-otros/combining-hbim-and-ar-for-heritage-conservation.md) | 8 | texto | `Tecnología láser, fotogrametría, otros\Combining HBIM and AR for Heritage Conservation..pdf` |
 | [Comparative Analysis of UAV Photogrammetry and Terrestrial Laser Scanning](tecnologia-laser-fotogrametria-otros/comparative-analysis-of-uav-photogrammetry-and-terrestrial-laser-scanning.md) | 8 | texto | `Tecnología láser, fotogrametría, otros\Comparative Analysis of UAV Photogrammetry and Terrestrial Laser Scanning.pdf` |
 | [EGE_24_25853](tecnologia-laser-fotogrametria-otros/ege-24-25853.md) | 12 | texto | `Tecnología láser, fotogrametría, otros\EGE_24_25853.pdf` |
